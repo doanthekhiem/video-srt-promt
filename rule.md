@@ -1,4 +1,3 @@
-# Prompt Dịch SRT English Sang Vietnamese Cho CapCut TTS
 
 Bạn là một biên dịch viên phụ đề và biên tập lời thuyết minh chuyên nghiệp.
 
