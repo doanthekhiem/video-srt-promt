@@ -84,7 +84,7 @@ nên ta có thể kiểm chứng với thực tế.
 
 22
 00:01:01,600 --> 00:01:04,879
-Được rồi, hãy điểm qua vài sự kiện cơ bản
+Rồi, hãy điểm qua vài sự kiện cơ bản
 
 23
 00:01:04,879 --> 00:01:08,320
@@ -328,7 +328,7 @@ người Iran trong cuộc chiến này.
 
 83
 00:03:56,080 --> 00:03:58,000
-đây không phải một cuộc chiến kinh thánh,
+đây không phải chiến tranh kiểu Kinh Thánh,
 
 84
 00:03:58,000 --> 00:04:00,400
@@ -336,7 +336,7 @@ không phải chiến tranh kinh tế,
 
 85
 00:04:00,400 --> 00:04:01,599
-cũng không phải chiến tranh kháng cự.
+cũng không phải kháng chiến.
 
 86
 00:04:01,599 --> 00:04:04,480
@@ -676,7 +676,7 @@ Có lúc, người giàu ở Dubai
 
 170
 00:07:54,560 --> 00:07:56,240
-sẵn sàng trả khoảng hai trăm năm mươi nghìn đô la Mỹ
+sẵn sàng trả khoảng hai trăm năm mươi nghìn đô
 
 171
 00:07:56,240 --> 00:07:58,800
@@ -724,7 +724,7 @@ bạn sẽ không chuyển đến một nơi
 
 182
 00:08:20,720 --> 00:08:22,960
-có thể bị Iran tấn công bất cứ lúc nào.
+có thể bị Iran tấn công bất kỳ lúc nào.
 
 183
 00:08:22,960 --> 00:08:25,440
@@ -896,7 +896,7 @@ thì như một nghĩa vụ tôn giáo,
 
 225
 00:10:17,839 --> 00:10:19,120
-bạn phải tiến hành jihad
+bạn phải phát động jihad
 
 226
 00:10:19,120 --> 00:10:21,920
@@ -932,7 +932,7 @@ tạo ra một cuộc cách mạng ở Bahrain.
 
 234
 00:10:41,120 --> 00:10:43,200
-Tôi nghĩ Bahrain sẽ là nơi đầu tiên sụp đổ.
+Tôi nghĩ Bahrain sẽ sụp đổ đầu tiên.
 
 235
 00:10:43,200 --> 00:10:44,800
@@ -960,11 +960,11 @@ Và đây là điều ta sẽ dùng lý thuyết trò chơi
 
 241
 00:11:00,160 --> 00:11:02,079
-Được rồi, tiếp tục.
+Rồi, tiếp tục.
 
 242
 00:11:02,079 --> 00:11:04,240
-Chúng ta có thể biết cuộc chiến này phát triển ra sao
+Ta có thể biết cuộc chiến phát triển ra sao
 
 243
 00:11:04,240 --> 00:11:07,839
@@ -976,7 +976,7 @@ chỉ dựa vào địa lý.
 
 245
 00:11:09,920 --> 00:11:12,000
-Ngay cả khi các bạn không thật sự biết cuộc chiến,
+Ngay cả khi bạn chưa thật sự hiểu cuộc chiến,
 
 246
 00:11:12,000 --> 00:11:14,000
@@ -1156,7 +1156,7 @@ Các bạn thường không đánh giá đúng GCC,
 
 290
 00:13:18,399 --> 00:13:21,600
-nhưng nó thật sự là chốt giữ
+nhưng nó thật sự là mắt xích then chốt
 
 291
 00:13:21,600 --> 00:13:25,120
@@ -1168,11 +1168,11 @@ của đế chế Mỹ.
 
 293
 00:13:27,279 --> 00:13:31,279
-Đế chế Mỹ là đồng đô la dầu mỏ.
+Đế chế Mỹ dựa trên đồng đô la dầu mỏ.
 
 294
 00:13:31,279 --> 00:13:33,839
-Ý tưởng của đô la dầu mỏ là thế này:
+Ý tưởng về đô la dầu mỏ là thế này:
 
 295
 00:13:33,839 --> 00:13:37,360
@@ -1240,7 +1240,7 @@ Các thành phố này có thể phát triển
 
 311
 00:14:23,279 --> 00:14:25,680
-nhờ dòng đô la dầu mỏ đổ vào.
+nhờ dòng tiền dầu mỏ đổ vào.
 
 312
 00:14:25,680 --> 00:14:28,639
@@ -1496,7 +1496,7 @@ Iran là một pháo đài núi non,
 
 375
 00:17:15,039 --> 00:17:17,919
-nơi họ có thể che giấu năng lực tấn công.
+nơi họ có thể che giấu khả năng tấn công.
 
 376
 00:17:17,919 --> 00:17:20,880
@@ -1516,7 +1516,7 @@ và họ không thể làm gì nhiều.
 
 380
 00:17:27,679 --> 00:17:32,160
-Vì vậy, ở bất cứ thời điểm nào trong cuộc chiến,
+Vì vậy, vào bất kỳ thời điểm nào trong cuộc chiến,
 
 381
 00:17:32,160 --> 00:17:36,480
@@ -1668,7 +1668,7 @@ tin vào tử đạo,
 
 418
 00:19:24,240 --> 00:19:25,760
-và các anh đã giết lãnh tụ tôn giáo của họ.
+và các anh đã giết lãnh tụ của họ.
 
 419
 00:19:25,760 --> 00:19:29,840
@@ -1696,7 +1696,7 @@ là người nước ngoài.
 
 425
 00:19:39,840 --> 00:19:41,360
-Đoán xem chuyện gì xảy ra nếu họ khổ sở?
+Khi họ khổ sở thì sao?
 
 426
 00:19:41,360 --> 00:19:43,840
@@ -1712,7 +1712,7 @@ một cuộc đối đầu cân bằng.
 
 429
 00:19:48,799 --> 00:19:50,000
-Câu hỏi lớn mà nhiều người đặt ra là:
+Câu hỏi lớn là:
 
 430
 00:19:50,000 --> 00:19:52,880
@@ -1852,7 +1852,7 @@ Các bạn hiểu chứ?
 
 464
 00:21:26,640 --> 00:21:29,440
-Được rồi, ta tiếp tục.
+Rồi, ta tiếp tục.
 
 465
 00:21:29,440 --> 00:21:31,120
@@ -2400,11 +2400,11 @@ có thể xếp rất nhiều drone lên một xe tải.
 
 601
 00:27:37,200 --> 00:27:39,360
-Xe đó có thể đi bất cứ đâu ở Iran
+Xe đó có thể đi khắp Iran
 
 602
 00:27:39,360 --> 00:27:41,679
-và ẩn ở bất cứ nơi nào.
+và ẩn ở bất kỳ đâu.
 
 603
 00:27:41,679 --> 00:27:45,600
@@ -2452,11 +2452,11 @@ Nó cũng rất dễ vận chuyển.
 
 614
 00:28:13,919 --> 00:28:16,080
-Có thể giấu ở bất cứ đâu,
+Có thể giấu ở bất kỳ đâu,
 
 615
 00:28:16,080 --> 00:28:18,080
-và phóng từ bất cứ đâu.
+và phóng từ bất kỳ đâu.
 
 616
 00:28:18,080 --> 00:28:22,240
@@ -2744,7 +2744,7 @@ Các bạn hiểu chứ?
 
 687
 00:31:25,840 --> 00:31:31,679
-Được rồi, tiếp tục.
+Rồi, tiếp tục.
 
 688
 00:31:31,679 --> 00:31:34,720
@@ -2944,7 +2944,7 @@ sẽ gia tăng trong tương lai.
 
 737
 00:33:51,440 --> 00:33:54,080
-Được rồi, hãy nhìn bản đồ.
+Rồi, hãy nhìn bản đồ.
 
 738
 00:33:54,080 --> 00:33:56,799
@@ -3468,7 +3468,7 @@ và thiết lập Pax Islamica.
 
 868
 00:40:00,400 --> 00:40:02,480
-Được rồi.
+Rồi.
 
 869
 00:40:02,480 --> 00:40:04,720
@@ -3488,7 +3488,7 @@ Vì sao? Vì GCC
 
 873
 00:40:15,280 --> 00:40:17,839
-là chốt giữ của đế chế Mỹ.
+là mắt xích then chốt của đế chế Mỹ.
 
 874
 00:40:17,839 --> 00:40:21,920
@@ -3688,7 +3688,7 @@ chúng ta sẽ đi sâu vào từng vấn đề
 
 923
 00:42:27,280 --> 00:42:29,920
-Được rồi. Có câu hỏi nào không?
+Rồi. Có câu hỏi nào không?
 
 924
 00:42:29,920 --> 00:42:33,560
@@ -3772,7 +3772,7 @@ nguồn cung năng lượng của mình.
 
 944
 00:43:26,560 --> 00:43:28,079
-Hãy nhớ rằng tình hình rất phức tạp,
+Hãy nhớ, tình hình rất phức tạp,
 
 945
 00:43:28,079 --> 00:43:30,319
@@ -3832,7 +3832,7 @@ Nhưng đó là do cách
 
 959
 00:44:00,319 --> 00:44:01,680
-hệ thống Trung Quốc được thiết kế.
+hệ thống Trung Quốc vận hành như vậy.
 
 960
 00:44:01,680 --> 00:44:03,359

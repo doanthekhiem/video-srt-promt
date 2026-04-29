@@ -236,7 +236,7 @@ ba lợi thế lớn.
 
 60
 00:03:04,720 --> 00:03:06,879
-Lợi thế thứ nhất là khối lượng.
+Lợi thế thứ nhất là quy mô.
 
 61
 00:03:06,879 --> 00:03:09,040
@@ -308,7 +308,7 @@ dựa vào hàng tỷ người cho các cuộc chiến.
 
 78
 00:03:57,360 --> 00:04:00,640
-Đó là khối lượng. Thứ hai là tổ chức.
+Đó là quy mô. Thứ hai là tổ chức.
 
 79
 00:04:00,640 --> 00:04:02,640
@@ -500,7 +500,7 @@ về dài hạn sẽ trở thành bất lợi.
 
 126
 00:06:19,520 --> 00:06:22,080
-Khối lượng nghĩa là có rất nhiều người.
+Quy mô nghĩa là có rất nhiều người.
 
 127
 00:06:22,080 --> 00:06:25,280
@@ -508,7 +508,7 @@ Khi có rất nhiều người,
 
 128
 00:06:25,280 --> 00:06:26,720
-các bạn tạo ra rất nhiều bất bình đẳng.
+sẽ tạo ra nhiều bất bình đẳng.
 
 129
 00:06:26,720 --> 00:06:28,240
@@ -560,7 +560,7 @@ Vì vậy họ không có nhiều động lực
 
 141
 00:06:58,160 --> 00:07:00,319
-Khối lượng ban đầu trông như lợi thế,
+Quy mô ban đầu trông như lợi thế,
 
 142
 00:07:00,319 --> 00:07:03,840
@@ -680,7 +680,7 @@ Vì vậy xuất hiện khái niệm
 
 171
 00:08:18,560 --> 00:08:20,319
-sản xuất dư thừa tinh hoa.
+tình trạng dư thừa tinh hoa.
 
 172
 00:08:20,319 --> 00:08:24,080
@@ -712,7 +712,7 @@ hoặc sự sụp đổ của Cộng hòa La Mã,
 
 179
 00:08:37,680 --> 00:08:40,399
-vì có quá nhiều tinh hoa.
+vì có quá nhiều người trong giới tinh hoa.
 
 180
 00:08:40,399 --> 00:08:43,680
@@ -788,7 +788,7 @@ Và kết quả là
 
 198
 00:09:29,200 --> 00:09:30,720
-họ phạm rất nhiều sai lầm ngu ngốc.
+họ mắc rất nhiều sai lầm ngớ ngẩn.
 
 199
 00:09:30,720 --> 00:09:33,200
@@ -880,7 +880,7 @@ và cuối cùng dẫn nó
 
 221
 00:10:36,880 --> 00:10:38,640
-Khối lượng dẫn đến bất bình đẳng.
+Quy mô dẫn đến bất bình đẳng.
 
 222
 00:10:38,640 --> 00:10:40,720
@@ -888,7 +888,7 @@ Tổ chức dẫn đến
 
 223
 00:10:40,720 --> 00:10:45,480
-sản xuất dư thừa tinh hoa,
+dư thừa tinh hoa,
 
 224
 00:10:48,079 --> 00:10:50,240
@@ -920,7 +920,7 @@ buộc nó phải sụp đổ.
 
 231
 00:11:04,880 --> 00:11:06,240
-Vì vậy, một kẻ thù sẽ xuất hiện
+Vì vậy, kẻ thù sẽ xuất hiện
 
 232
 00:11:06,240 --> 00:11:08,240
@@ -1032,7 +1032,7 @@ có chín mươi hai triệu dân.
 
 259
 00:12:22,800 --> 00:12:25,920
-Nó vẫn chịu các vấn đề về khối lượng,
+Nó vẫn chịu các vấn đề về quy mô,
 
 260
 00:12:25,920 --> 00:12:29,040
@@ -1540,7 +1540,7 @@ và Mỹ không thể thắng.
 
 386
 00:18:10,480 --> 00:18:11,679
-Nếu không, các bạn sẽ bị loại bỏ.
+Nếu không, bạn sẽ bị gạt ra.
 
 387
 00:18:11,679 --> 00:18:14,400
@@ -1576,11 +1576,11 @@ Không ai chỉ ra điều đó,
 
 395
 00:18:30,960 --> 00:18:34,720
-vì họ quá sợ làm tổng thống
+vì họ quá sợ khiến tổng thống
 
 396
 00:18:34,720 --> 00:18:36,320
-và người của ông ấy tức giận.
+và người của ông ấy nổi giận.
 
 397
 00:18:36,320 --> 00:18:38,160
@@ -1596,7 +1596,7 @@ cùng những sai lầm hết lần này đến lần khác.
 
 400
 00:18:44,000 --> 00:18:46,960
-Ta gọi đó là uống chính nước tuyên truyền của mình.
+Ta gọi đó là tin vào chính tuyên truyền của mình.
 
 401
 00:18:46,960 --> 00:18:51,440
@@ -1604,7 +1604,7 @@ Hay nói cách khác,
 
 402
 00:18:51,440 --> 00:18:52,880
-họ tự say bằng hàng của chính mình.
+họ tự ru ngủ mình.
 
 403
 00:18:52,880 --> 00:18:54,799
@@ -3040,15 +3040,15 @@ Làm bằng cách nào?
 
 761
 00:35:30,720 --> 00:35:33,680
-Trước hết là chặt đầu.
+Trước hết là đánh vào lãnh đạo.
 
 762
 00:35:33,680 --> 00:35:35,520
-Chặt đầu nghĩa là
+Đánh vào lãnh đạo nghĩa là
 
 763
 00:35:35,520 --> 00:35:38,520
-loại bỏ tầng lớp tinh hoa,
+loại bỏ tầng lớp lãnh đạo,
 
 764
 00:35:39,254 --> 00:35:40,320
@@ -3100,7 +3100,7 @@ là phá hủy
 
 776
 00:36:15,440 --> 00:36:16,720
-càng nhiều cơ sở quân sự càng tốt,
+càng nhiều căn cứ quân sự,
 
 777
 00:36:16,720 --> 00:36:18,800
@@ -3216,7 +3216,7 @@ tạo ra càng nhiều sợ hãi
 
 805
 00:37:28,800 --> 00:37:29,839
-và lo âu trong dân chúng càng tốt,
+lo âu trong dân chúng,
 
 806
 00:37:29,839 --> 00:37:33,040
@@ -3312,7 +3312,7 @@ và gắn kết hơn.
 
 829
 00:38:30,720 --> 00:38:34,160
-Trước hết là chặt đầu.
+Trước hết là đánh vào lãnh đạo.
 
 830
 00:38:34,160 --> 00:38:36,560
@@ -3320,11 +3320,11 @@ Ta vừa nói một vấn đề lớn của Mỹ
 
 831
 00:38:36,560 --> 00:38:39,040
-là sản xuất dư thừa tinh hoa.
+là tình trạng dư thừa tinh hoa.
 
 832
 00:38:39,040 --> 00:38:40,960
-Với chiến lược chặt đầu,
+Với chiến lược đánh vào lãnh đạo,
 
 833
 00:38:40,960 --> 00:38:44,079
@@ -3360,11 +3360,11 @@ các bạn tạo ra
 
 841
 00:39:03,520 --> 00:39:07,440
-nhiều cơ động hơn,
+nhiều cơ hội thăng tiến hơn,
 
 842
 00:39:07,440 --> 00:39:10,880
-nhiều trọng dụng năng lực hơn.
+và dựa vào năng lực hơn.
 
 843
 00:39:10,880 --> 00:39:13,040
@@ -4164,7 +4164,7 @@ chiến tranh Iran là vì Armageddon
 
 1042
 00:47:30,319 --> 00:47:31,200
-và sự trở lại của Chúa Jesus.
+và Chúa Jesus tái lâm.
 
 1043
 00:47:31,200 --> 00:47:33,599
@@ -4180,7 +4180,7 @@ nghe vậy thì nói:
 
 1046
 00:47:39,680 --> 00:47:40,960
-khoan, chúng tôi không phải Kitô hữu.
+khoan, chúng tôi không theo đạo.
 
 1047
 00:47:40,960 --> 00:47:43,119
@@ -4260,7 +4260,7 @@ họ đang thua cuộc chiến.
 
 1066
 00:48:23,280 --> 00:48:25,920
-Được rồi, đọc tiếp.
+Rồi, đọc tiếp.
 
 1067
 00:48:25,920 --> 00:48:28,160
@@ -4724,4 +4724,4 @@ là nguồn của quyền lực và thực tại.
 
 1182
 00:53:30,800 --> 00:53:33,800
-Được rồi, hẹn gặp các bạn tuần sau.
+Rồi, hẹn gặp các bạn tuần sau.

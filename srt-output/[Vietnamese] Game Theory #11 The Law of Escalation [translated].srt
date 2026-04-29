@@ -28,7 +28,7 @@ thứ nhất,
 
 8
 00:00:18,720 --> 00:00:25,199
-liệu Mỹ có phát động một cuộc đổ bộ trên bộ hay không?
+liệu Mỹ có đưa quân trên bộ vào hay không?
 
 9
 00:00:25,199 --> 00:00:27,039
@@ -72,11 +72,11 @@ thất bại đó sẽ không phải là thảm họa.
 
 19
 00:00:52,960 --> 00:00:55,840
-Trong khi đó, nếu họ chọn phát động một
+Trong khi đó, nếu họ chọn đưa
 
 20
 00:00:55,840 --> 00:00:57,840
-cuộc đổ bộ trên bộ,
+quân trên bộ vào,
 
 21
 00:00:57,840 --> 00:01:00,559
@@ -124,15 +124,15 @@ Liệu Mỹ có đưa quân
 
 32
 00:01:29,920 --> 00:01:32,479
-trên bộ vào không? Hãy nhớ điều này. Có một khái niệm
+trên bộ vào không? Hãy nhớ điều này.
 
 33
 00:01:32,479 --> 00:01:34,560
-gọi là leo thang nhiệm vụ. Lúc đầu,
+Có một khái niệm gọi là mở rộng nhiệm vụ.
 
 34
 00:01:34,560 --> 00:01:35,600
-bạn nghĩ: tôi sẽ gửi
+Ban đầu: tôi gửi
 
 35
 00:01:35,600 --> 00:01:37,360
@@ -144,15 +144,15 @@ quân để làm một nhiệm vụ nhỏ, nhưng rồi
 
 37
 00:01:40,479 --> 00:01:42,240
-mọi chuyện không thuận lợi. Nên bạn gửi thêm
+mọi chuyện không ổn. Nên bạn gửi thêm
 
 38
 00:01:42,240 --> 00:01:45,119
-hai nghìn. Cứ thế nó từ từ tăng lên. Đó là
+hai nghìn. Cứ thế số quân tăng dần.
 
 39
 00:01:45,119 --> 00:01:47,040
-cái mà ta gọi là leo thang nhiệm vụ. Đó là cách
+Đó là mở rộng nhiệm vụ. Đó là cách
 
 40
 00:01:47,040 --> 00:01:49,360
@@ -368,7 +368,7 @@ của phân tích này. Tôi không có thông tin
 
 93
 00:04:24,240 --> 00:04:25,840
-nội bộ. Tôi không biết nhiều hơn các bạn
+nội bộ. Tôi cũng chỉ biết như các bạn
 
 94
 00:04:25,840 --> 00:04:28,160
@@ -468,7 +468,7 @@ cả thế giới. Nhưng đồng thời, lúc đó chúng ta
 
 118
 00:05:33,039 --> 00:05:37,199
-quan trọng nữa. Được rồi. Vậy
+quan trọng nữa. Vậy
 
 119
 00:05:37,199 --> 00:05:40,639
@@ -488,7 +488,7 @@ cho các bạn vì sao Israel sẽ không dùng vũ khí hạt nhân
 
 123
 00:05:46,880 --> 00:05:48,800
-và vì sao sẽ có cuộc đổ bộ trên bộ.
+và vì sao Mỹ sẽ đưa quân trên bộ vào.
 
 124
 00:05:48,800 --> 00:05:51,120
@@ -504,7 +504,7 @@ tuần này.
 
 127
 00:05:57,600 --> 00:06:00,479
-Được rồi. Để hiểu chuyện gì đang
+Rồi. Để hiểu chuyện gì đang
 
 128
 00:06:00,479 --> 00:06:03,680
@@ -520,7 +520,7 @@ các vấn đề quân sự, trong địa chính trị,
 
 131
 00:06:09,919 --> 00:06:11,600
-có một khái niệm gọi là thang
+có một khái niệm gọi là bậc thang
 
 132
 00:06:11,600 --> 00:06:13,680
@@ -528,11 +528,11 @@ leo thang.
 
 133
 00:06:13,680 --> 00:06:17,240
-Thang leo thang.
+Bậc thang leo thang.
 
 134
 00:06:18,880 --> 00:06:21,880
-Được rồi.
+Rồi.
 
 135
 00:06:24,960 --> 00:06:29,199
@@ -628,7 +628,7 @@ rất đơn giản. Giả sử có hai người
 
 158
 00:07:25,405 --> 00:07:29,440
-Và thang leo thang sẽ vận hành như sau:
+Và bậc thang leo thang vận hành như sau:
 
 159
 00:07:29,440 --> 00:07:32,560
@@ -808,7 +808,7 @@ Nói cách khác, trong
 
 203
 00:09:24,480 --> 00:09:27,360
-thang leo thang này, có ba yếu tố
+bậc thang leo thang này, có ba yếu tố
 
 204
 00:09:27,360 --> 00:09:29,519
@@ -844,7 +844,7 @@ Nói cách khác, không thể
 
 212
 00:09:54,000 --> 00:09:55,600
-bỏ qua các bậc của thang leo thang.
+bỏ qua các bậc leo thang.
 
 213
 00:09:55,600 --> 00:09:57,279
@@ -980,7 +980,7 @@ bạn cần kiểm soát bản thân khi
 
 246
 00:11:22,320 --> 00:11:24,160
-leo lên thang leo thang này. Vì
+leo lên bậc thang này. Vì
 
 247
 00:11:24,160 --> 00:11:26,000
@@ -1372,7 +1372,7 @@ cho đám bạn để giữ
 
 344
 00:16:06,480 --> 00:16:08,160
-nhiều tiền hơn cho mình, vì hắn muốn mua xe
+nhiều tiền hơn, vì hắn muốn mua xe
 
 345
 00:16:08,160 --> 00:16:09,839
@@ -1380,7 +1380,7 @@ hơi, hoặc đi Paris vào mùa
 
 346
 00:16:09,839 --> 00:16:12,399
-hè. Có hiểu không?
+hè. Hiểu chứ?
 
 347
 00:16:12,399 --> 00:16:16,160
@@ -1668,7 +1668,7 @@ Rồi gã bạn này về kể với
 
 418
 00:19:22,640 --> 00:19:23,679
-không sợ anh đâu. Anh tính
+không sợ anh đâu. Anh sẽ
 
 419
 00:19:23,679 --> 00:19:25,760
@@ -1720,7 +1720,7 @@ xin lỗi ngay đi. Cậu nhóc đáp:
 
 431
 00:19:52,080 --> 00:19:53,760
-phải xin lỗi vì cái gì? Việc này tiếp diễn
+phải xin lỗi vì gì? Việc này kéo dài
 
 432
 00:19:53,760 --> 00:19:55,840
@@ -1932,11 +1932,11 @@ tên bắt nạt tự hủy hoại chính mình.
 
 484
 00:22:23,919 --> 00:22:26,240
-Có hiểu không các bạn?
+Các bạn hiểu chứ?
 
 485
 00:22:26,240 --> 00:22:28,400
-Được rồi,
+Rồi,
 
 486
 00:22:28,400 --> 00:22:31,600
@@ -1964,7 +1964,7 @@ làm điều đó bằng cách xem xét các
 
 492
 00:22:44,320 --> 00:22:47,679
-thang leo thang của cả Iran và
+bậc thang leo thang của cả Iran và
 
 493
 00:22:47,679 --> 00:22:51,640
@@ -1972,7 +1972,7 @@ Mỹ.
 
 494
 00:22:52,480 --> 00:22:55,480
-Được rồi,
+Rồi,
 
 495
 00:22:58,000 --> 00:23:01,840
@@ -1980,7 +1980,7 @@ Mỹ.
 
 496
 00:23:01,840 --> 00:23:04,400
-Vậy hãy nhìn vào thang leo thang.
+Vậy hãy nhìn vào bậc thang leo thang.
 
 497
 00:23:04,400 --> 00:23:06,240
@@ -2008,7 +2008,7 @@ không còn lãnh đạo nào, do đó các anh
 
 503
 00:23:17,120 --> 00:23:18,240
-không biết phải làm gì và do đó
+không biết phải làm gì, nên
 
 504
 00:23:18,240 --> 00:23:20,000
@@ -2216,7 +2216,7 @@ chúng ta cần hiểu là bạn phải
 
 555
 00:25:42,559 --> 00:25:45,200
-đi theo thang leo thang này nếu muốn
+đi theo bậc thang này nếu muốn
 
 556
 00:25:45,200 --> 00:25:47,600
@@ -2324,7 +2324,7 @@ Bây giờ hãy nhìn vào
 
 582
 00:26:54,720 --> 00:26:59,679
-thang leo thang của Iran. Điều
+bậc thang leo thang của Iran. Điều
 
 583
 00:26:59,679 --> 00:27:02,559
@@ -2432,7 +2432,7 @@ họ buộc phải leo lên các bậc tiếp theo của
 
 609
 00:28:19,600 --> 00:28:22,240
-thang leo thang, điều sẽ xảy ra là: nếu bạn
+bậc thang leo thang, điều sẽ xảy ra là: nếu bạn
 
 610
 00:28:22,240 --> 00:28:24,720
@@ -2452,11 +2452,11 @@ mỏ dầu.
 
 614
 00:28:31,760 --> 00:28:32,880
-Nếu bạn tấn công cơ sở hạ tầng
+Nếu bạn tấn công hạ tầng
 
 615
 00:28:32,880 --> 00:28:34,080
-dân sự của họ, họ cũng sẽ tấn công
+họ cũng đánh vào
 
 616
 00:28:34,080 --> 00:28:36,159
@@ -2480,7 +2480,7 @@ Và đó là tất cả. Đó là phạm vi
 
 621
 00:28:48,480 --> 00:28:50,720
-của thang leo thang
+của bậc thang leo thang
 
 622
 00:28:50,720 --> 00:28:53,039
@@ -2516,7 +2516,7 @@ vì họ có thể leo cao hơn nhiều
 
 630
 00:29:11,919 --> 00:29:16,159
-trên thang leo thang so với Iran.
+trên bậc thang leo thang so với Iran.
 
 631
 00:29:16,159 --> 00:29:18,880
@@ -2580,7 +2580,7 @@ biết không, mặc kệ Mỹ,
 
 646
 00:29:53,520 --> 00:29:55,039
-tôi muốn làm bạn với Iran, tôi cũng cho
+tôi muốn làm bạn với Iran, tôi cho
 
 647
 00:29:55,039 --> 00:29:57,440
@@ -2684,7 +2684,7 @@ rồi sang bước tiếp. Đây là
 
 672
 00:31:07,360 --> 00:31:10,240
-thang leo thang cổ điển. Iran không
+bậc thang leo thang cổ điển. Iran không
 
 673
 00:31:10,240 --> 00:31:12,399
@@ -2744,7 +2744,7 @@ Tel Aviv. Tôi
 
 687
 00:31:52,080 --> 00:31:53,120
-không muốn dành quá nhiều thời gian cho
+không muốn nói quá lâu về
 
 688
 00:31:53,120 --> 00:31:55,840
@@ -2892,7 +2892,7 @@ các đòn tấn công theo cách nhất định để đạt được
 
 724
 00:33:41,440 --> 00:33:43,279
-mục tiêu cuối cùng, và mọi thứ đang diễn ra rất tốt
+mục tiêu cuối cùng, và việc đó đang rất có lợi
 
 725
 00:33:43,279 --> 00:33:45,519
@@ -3000,7 +3000,7 @@ sự rõ ràng, và quyết tâm.
 
 751
 00:35:07,680 --> 00:35:09,680
-Được rồi.
+Rồi.
 
 752
 00:35:09,680 --> 00:35:11,440
@@ -3124,7 +3124,7 @@ muốn nói là, điều ta cần hiểu
 
 782
 00:36:33,920 --> 00:36:36,320
-về thang leo thang là khi
+về bậc thang leo thang là khi
 
 783
 00:36:36,320 --> 00:36:38,960
@@ -3152,7 +3152,7 @@ có bốn chiều chính. Còn
 
 789
 00:36:51,280 --> 00:36:52,480
-những chiều khác nữa, nhưng hãy tập trung
+còn chiều khác, nhưng tập trung
 
 790
 00:36:52,480 --> 00:36:54,800
@@ -3228,7 +3228,7 @@ cách Mỹ và Iran leo lên
 
 808
 00:37:37,119 --> 00:37:40,560
-thang leo thang. Vì
+bậc thang leo thang. Vì
 
 809
 00:37:40,560 --> 00:37:42,960
@@ -3292,7 +3292,7 @@ quân sự được tiến hành. Có
 
 824
 00:38:19,760 --> 00:38:21,040
-hiểu không? Tôi biết điều này rất
+hiểu không? Tôi biết chuyện này
 
 825
 00:38:21,040 --> 00:38:22,720
@@ -3308,7 +3308,7 @@ không đơn giản như kiểu, biết không,
 
 828
 00:38:26,640 --> 00:38:28,400
-hãy ném bom hạt nhân thằng đó. Không phải vậy.
+cứ ném bom hạt nhân là xong. Không phải vậy.
 
 829
 00:38:28,400 --> 00:38:29,760
@@ -3364,7 +3364,7 @@ bạn phải có một kim tự tháp chi phí đúng đắn.
 
 842
 00:39:04,400 --> 00:39:06,640
-Được rồi.
+Rồi.
 
 843
 00:39:06,640 --> 00:39:10,880
@@ -3472,7 +3472,7 @@ của một kim tự tháp chi phí cho một
 
 869
 00:40:19,920 --> 00:40:21,440
-cuộc chiến quân sự. Có hiểu không các bạn?
+cuộc chiến tranh. Các bạn hiểu chứ?
 
 870
 00:40:21,440 --> 00:40:25,119
@@ -3620,7 +3620,7 @@ với bạn.
 
 906
 00:42:04,880 --> 00:42:06,960
-Có hiểu không các bạn? Vậy nếu Mỹ muốn
+Các bạn hiểu chứ? Vậy nếu Mỹ muốn
 
 907
 00:42:06,960 --> 00:42:08,319
@@ -3640,7 +3640,7 @@ lực lượng chính của quân đội. Có
 
 911
 00:42:19,760 --> 00:42:23,520
-câu hỏi nào không? Được rồi. Bây giờ
+câu hỏi nào không? Rồi. Bây giờ
 
 912
 00:42:23,520 --> 00:42:25,920
@@ -3840,7 +3840,7 @@ khi đánh bại Mỹ,
 
 961
 00:44:43,839 --> 00:44:45,119
-bạn vẫn phải đối phó với Israel,
+bạn vẫn phải xử lý Israel,
 
 962
 00:44:45,119 --> 00:44:46,880
@@ -3940,7 +3940,7 @@ mọi tài nguyên của họ thuộc về bạn.
 
 986
 00:45:48,000 --> 00:45:49,040
-Và điều này tạo ra một thứ gọi là
+Từ đó có cái gọi là
 
 987
 00:45:49,040 --> 00:45:50,720
@@ -4004,7 +4004,7 @@ Mỹ, và bạn muốn làm Israel mất uy.
 
 1002
 00:46:27,440 --> 00:46:29,520
-Có hiểu không?
+Hiểu chứ?
 
 1003
 00:46:29,520 --> 00:46:32,480
@@ -4084,7 +4084,7 @@ Mỹ không dùng vũ khí hạt nhân? Và
 
 1022
 00:47:18,160 --> 00:47:20,000
-câu trả lời tôi đã nói: thang leo thang.
+câu trả lời tôi đã nói: bậc thang leo thang.
 
 1023
 00:47:20,000 --> 00:47:21,920
@@ -4152,7 +4152,7 @@ của kẻ thù.
 
 1039
 00:48:03,680 --> 00:48:05,040
-Bạn không muốn chọc giận đối phương,
+Đừng chọc giận kẻ thù
 
 1040
 00:48:05,040 --> 00:48:08,160
@@ -4160,7 +4160,7 @@ kẻ thù của mình quá đến mức họ trở nên
 
 1041
 00:48:08,160 --> 00:48:10,640
-cực đoan, nhảy vọt trên thang leo thang
+cực đoan, nhảy vọt trên bậc thang leo thang
 
 1042
 00:48:10,640 --> 00:48:12,400
@@ -4208,7 +4208,7 @@ phù hợp, có lợi về mặt chiến lược.
 
 1053
 00:48:37,760 --> 00:48:40,640
-Có hiểu không các bạn? Vậy
+Các bạn hiểu chứ? Vậy
 
 1054
 00:48:40,640 --> 00:48:45,040
@@ -4228,7 +4228,7 @@ Saudi, và Israel sẽ phối hợp để
 
 1058
 00:48:53,839 --> 00:48:55,760
-buộc một cuộc đổ bộ trên bộ, ngay cả khi
+buộc Mỹ đưa quân trên bộ vào, ngay cả khi
 
 1059
 00:48:55,760 --> 00:48:58,160
@@ -4320,7 +4320,7 @@ như họ bắt giữ tổng thống của họ không?
 
 1081
 00:50:03,680 --> 00:50:07,359
-Được rồi, hãy xem. Chiến lược ban
+Rồi, hãy xem. Chiến lược ban
 
 1082
 00:50:07,359 --> 00:50:10,400
@@ -4468,7 +4468,7 @@ hệ thống sụp đổ chỉ để kiểm soát
 
 1118
 00:51:43,920 --> 00:51:47,760
-dầu của Iran? Được rồi,
+dầu của Iran? Rồi,
 
 1119
 00:51:47,760 --> 00:51:50,960
@@ -4480,7 +4480,7 @@ mọi người đang tranh cãi. Thẳng
 
 1121
 00:51:52,800 --> 00:51:54,400
-thắn mà nói, chúng ta sẽ tranh cãi điều này
+thật mà nói, ta sẽ còn tranh cãi
 
 1122
 00:51:54,400 --> 00:51:56,800
@@ -4648,7 +4648,7 @@ chinh phục thế giới, hoặc Châu Âu và Châu Á,
 
 1163
 00:53:43,440 --> 00:53:45,040
-và tạo ra khu vực lục địa thống nhất. Do đó,
+và tạo ra một vùng lục địa thống nhất.
 
 1164
 00:53:45,040 --> 00:53:49,480
@@ -4732,7 +4732,7 @@ ngăn khu vực lục địa thống nhất.
 
 1184
 00:54:38,079 --> 00:54:40,559
-Có hiểu không? Vì
+Hiểu chứ? Vì
 
 1185
 00:54:40,559 --> 00:54:44,319
@@ -4772,7 +4772,7 @@ thương mại thế giới, người đó kiểm soát
 
 1194
 00:55:03,040 --> 00:55:04,559
-thế giới. Ai kiểm soát khu vực lục địa,
+thế giới. Ai kiểm soát vùng lõi,
 
 1195
 00:55:04,559 --> 00:55:07,440
@@ -4780,7 +4780,7 @@ người đó kiểm soát thương mại thế giới.
 
 1196
 00:55:07,440 --> 00:55:09,760
-Có hiểu không? Nhưng đây chỉ là
+Hiểu chứ? Nhưng đây chỉ là
 
 1197
 00:55:09,760 --> 00:55:11,200
@@ -4840,7 +4840,7 @@ hoặc nó có thể như thế nào với Ả Rập Saudi?
 
 1211
 00:55:49,040 --> 00:55:53,040
-Được rồi. Mọi người thường rất bối rối
+Rồi. Mọi người thường rất bối rối
 
 1212
 00:55:53,040 --> 00:55:55,599
@@ -4932,7 +4932,7 @@ Saudi là quê hương của Mecca, Medina,
 
 1234
 00:56:55,920 --> 00:56:58,079
-hai thánh địa thiêng liêng nhất của thế giới Hồi giáo.
+hai thánh địa lớn nhất của Hồi giáo.
 
 1235
 00:56:58,079 --> 00:57:01,359
@@ -5004,7 +5004,7 @@ bạn không được phép đến Mecca.
 
 1252
 00:57:47,839 --> 00:57:49,359
-Được rồi.
+Rồi.
 
 1253
 00:57:49,359 --> 00:57:52,480
@@ -5140,7 +5140,7 @@ vũ khí hạt nhân. Nhưng mục tiêu là
 
 1286
 00:59:15,680 --> 00:59:19,280
-cuộc chiến kết thúc. Có hiểu không?
+cuộc chiến kết thúc. Hiểu chứ?
 
 1287
 00:59:19,280 --> 00:59:21,200
@@ -5196,7 +5196,7 @@ các bạn?
 
 1300
 00:59:46,960 --> 00:59:49,200
-Được rồi. Câu hỏi rất hay. Vậy
+Rồi. Câu hỏi rất hay. Vậy
 
 1301
 00:59:49,200 --> 00:59:51,359
@@ -5248,7 +5248,7 @@ hay không: Mỹ sẽ đưa quân
 
 1313
 01:00:13,680 --> 01:00:15,040
-trên bộ vào. Họ không có lựa chọn nào khác
+trên bộ vào. Họ không còn lựa chọn
 
 1314
 01:00:15,040 --> 01:00:17,520
@@ -5276,7 +5276,7 @@ là nhà thờ Al-Aqsa sẽ bị phá hủy
 
 1320
 01:00:28,480 --> 01:00:29,920
-vào một thời điểm nào đó, và đó là điều tôi
+vào một lúc nào đó. Đó là điều tôi
 
 1321
 01:00:29,920 --> 01:00:32,799
