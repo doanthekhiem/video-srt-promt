@@ -1,0 +1,1373 @@
+﻿1
+00:00:00,800 --> 00:00:11,599
+Hôm nay tôi muốn xem xét cách nền kinh tế toàn cầu sẽ sụp đổ, cụ thể là cách kinh tế Mỹ sẽ sụp đổ vì cuộc chiến này.
+
+2
+00:00:11,599 --> 00:00:21,680
+Luận điểm tôi muốn đưa ra hôm nay là sụp đổ tài chính không xảy ra ngẫu nhiên hay tự nhiên. Nó phải được thiết kế.
+
+3
+00:00:21,680 --> 00:00:33,880
+Đây là một khái niệm rất khó hiểu. Trong kinh tế học có một thứ gọi là chu kỳ bùng nổ và sụp đổ.
+
+4
+00:00:36,000 --> 00:00:51,079
+Về cơ bản, lý thuyết này nói rằng trong chủ nghĩa tư bản, kinh tế bùng nổ rồi đột ngột sụp đổ vì một lý do nào đó.
+
+5
+00:00:51,200 --> 00:01:05,680
+Nếu học kinh tế, người ta dạy rằng đây chỉ là một phần tự nhiên của chủ nghĩa tư bản, vì trong thời kỳ tốt đẹp, con người tiêu quá nhiều tiền và trở nên quá tự tin.
+
+6
+00:01:05,680 --> 00:01:13,145
+Vì thế họ lãng phí nhiều tiền, rồi nền kinh tế chuyển xấu.
+
+7
+00:01:13,145 --> 00:01:21,759
+Khi đó mọi người phải tinh gọn hơn, hiệu quả hơn và bền bỉ hơn.
+
+8
+00:01:21,759 --> 00:01:32,479
+Hãy tưởng tượng việc tăng cân. Bạn tăng cân quá nhiều, rồi thấy không ổn, nên bạn giảm cân. Đó là ý tưởng của chu kỳ bùng nổ và sụp đổ.
+
+9
+00:01:32,479 --> 00:01:44,118
+Vấn đề là không ai giải thích được một cách thỏa đáng vì sao bong bóng đột nhiên vỡ.
+
+10
+00:01:44,118 --> 00:01:50,520
+Cơ chế hay ngòi nổ nào gây ra sự sụp đổ?
+
+11
+00:01:50,799 --> 00:01:57,313
+Nếu học kinh tế, bạn sẽ không bao giờ biết câu trả lời.
+
+12
+00:01:57,313 --> 00:02:03,326
+Vì vậy hôm nay chúng ta sẽ tập trung vào suy đoán.
+
+13
+00:02:03,326 --> 00:02:09,840
+Tôi chưa từng học kinh tế và không biết nhiều về kinh tế.
+
+14
+00:02:09,840 --> 00:02:16,240
+Nhưng tôi tò mò vì sao chuyện này xảy ra.
+
+15
+00:02:16,240 --> 00:02:27,120
+Vì sao bong bóng vỡ? Các nền kinh tế trỗi dậy và suy tàn như thế nào?
+
+16
+00:02:27,120 --> 00:02:32,344
+Tôi không phải chuyên gia, thậm chí không phải giáo sư kinh tế.
+
+17
+00:02:32,344 --> 00:02:36,363
+Tôi chỉ suy đoán cho vui và để giải trí.
+
+18
+00:02:36,363 --> 00:02:44,400
+Hãy xem đây là một buổi học vui về vài chủ đề thú vị, không có nền tảng học thuật.
+
+19
+00:02:44,400 --> 00:02:58,960
+Bây giờ hãy nhìn nhanh vào cách giải thích chính về bùng nổ và sụp đổ.
+
+20
+00:02:58,960 --> 00:03:13,519
+Andrew Ross Sorkin, một trong những nhà báo tài chính có ảnh hưởng nhất ở Mỹ, viết cuốn 1929 về cú sụp thị trường chứng khoán năm 1929.
+
+21
+00:03:13,519 --> 00:03:16,102
+Emma, em đọc giúp tôi nhé.
+
+22
+00:03:16,102 --> 00:03:25,572
+Những thời kỳ bùng nổ dài và không bị gián đoạn như thập niên 1920 tạo ra một ảo tưởng tập thể.
+
+23
+00:03:25,572 --> 00:03:31,599
+Lạc quan trở thành một loại ma túy, một tôn giáo, hoặc cả hai.
+
+24
+00:03:31,599 --> 00:03:43,879
+Con người mất khả năng tính toán rủi ro và phân biệt ý tưởng tốt với ý tưởng xấu.
+
+25
+00:03:43,879 --> 00:03:56,159
+Đây là cách giải thích phổ biến: bong bóng vỡ vì nó là ảo tưởng, giống như bay quá cao rồi cuối cùng rơi xuống đất.
+
+26
+00:03:56,159 --> 00:04:07,040
+Nhưng hôm nay tôi muốn cho các bạn thấy một cách giải thích khác: tất cả chuyện này thực ra được thiết kế.
+
+27
+00:04:07,040 --> 00:04:19,520
+Có những người đứng sau hậu trường có quyền lực làm cho các nền kinh tế trỗi dậy và sụp đổ.
+
+28
+00:04:19,520 --> 00:04:23,680
+Tôi sẽ đưa ra một ví dụ.
+
+29
+00:04:23,680 --> 00:04:26,934
+Giả sử bạn là một ngân hàng.
+
+30
+00:04:26,934 --> 00:04:36,231
+Công việc của bạn là nhận tiền, giữ tiền, rồi dùng nó đúng cách để thúc đẩy nền kinh tế.
+
+31
+00:04:36,231 --> 00:04:40,880
+Chúng ta gửi một triệu đô la vào ngân hàng.
+
+32
+00:04:40,880 --> 00:04:55,680
+Ngân hàng làm gì với số tiền đó? Ngân hàng cho doanh nhân vay. Giả sử tôi muốn mở nhà hàng, nên tôi vay một triệu đô la từ ngân hàng.
+
+33
+00:04:55,680 --> 00:05:03,479
+Câu hỏi là ngân hàng hiện có bao nhiêu tiền? Theo toán học cơ bản, đáng lẽ là bằng không.
+
+34
+00:05:05,040 --> 00:05:18,080
+Nếu tôi nhận vào một triệu đô la rồi cho vay một triệu đô la, tôi phải còn bằng không. Nhưng đáp án thực tế là hai triệu đô la.
+
+35
+00:05:18,080 --> 00:05:37,440
+Điều các bạn cần hiểu là mỗi ngân hàng có khả năng tạo tiền riêng, và ngân hàng là một cơ chế tạo thanh khoản trong nền kinh tế.
+
+36
+00:05:37,440 --> 00:05:52,560
+Đây là một ảo tưởng lớn. Đằng sau nền kinh tế, tiền chỉ là một ý tưởng, một khái niệm, một ảo giác tập thể.
+
+37
+00:05:52,560 --> 00:06:04,039
+Nhưng vấn đề là có hàng nghìn, thậm chí hàng chục nghìn ngân hàng ở khắp nơi. Làm sao chúng biết phối hợp với nhau?
+
+38
+00:06:04,080 --> 00:06:09,608
+Có một thứ gọi là cơ chế tín hiệu.
+
+39
+00:06:09,608 --> 00:06:23,120
+Tất cả ngân hàng này tách biệt nhau, nhưng được liên kết trong một hệ thống gọi là ngân hàng trung ương.
+
+40
+00:06:23,120 --> 00:06:38,080
+Ngân hàng trung ương làm gì? Nó phát tín hiệu về việc có nên cho vay hay không. Cơ chế đó được gọi là lãi suất.
+
+41
+00:06:38,080 --> 00:06:48,836
+Nếu học kinh tế, người ta sẽ dạy rằng lãi suất thấp hay cao quyết định hành vi của người tiêu dùng.
+
+42
+00:06:48,836 --> 00:06:55,680
+Nếu lãi suất là một phần trăm, tôi có thể vay tiền mua nhà.
+
+43
+00:06:55,680 --> 00:07:10,240
+Nếu lãi suất quá cao, chẳng hạn năm phần trăm, tôi không muốn vay ngân hàng để mua nhà. Đó là điều bạn được dạy trong lớp kinh tế.
+
+44
+00:07:10,240 --> 00:07:24,319
+Nhưng có một cách giải thích khác: lãi suất không chủ yếu để ra tín hiệu cho người tiêu dùng hay chủ nhà mua, mà để ra tín hiệu cho ngân hàng nên cho vay hay không.
+
+45
+00:07:24,319 --> 00:07:38,080
+Tùy vào lãi suất, ngân hàng biết rằng nhiệm vụ của mình là bơm thêm thanh khoản, bơm thêm tiền vào hệ thống, nên sẽ làm cho việc vay tiền dễ hơn.
+
+46
+00:07:38,080 --> 00:07:51,680
+Nếu lãi suất cao, ngân hàng hiểu rằng không nên bơm quá nhiều thanh khoản vào hệ thống, nên sẽ làm hồ sơ vay khó hơn.
+
+47
+00:07:51,680 --> 00:08:00,160
+Nói cách khác, lãi suất không được đặt ra để hướng dẫn hành vi tiêu dùng, mà để điều phối thanh khoản trên thị trường.
+
+48
+00:08:00,160 --> 00:08:09,213
+Đây là hai khía cạnh rất đáng chú ý của hệ thống mà nhiều người không thật sự hiểu.
+
+49
+00:08:09,213 --> 00:08:16,360
+Để hiểu hệ thống này, tôi sẽ giải thích thế giới vận hành ra sao.
+
+50
+00:08:16,479 --> 00:08:21,119
+Chúng ta sống trong hang động của Plato.
+
+51
+00:08:21,119 --> 00:08:32,719
+Nghĩa là tất cả bị xích xuống sàn, nhìn vào một màn hình, còn phía sau là ngọn lửa lớn.
+
+52
+00:08:32,719 --> 00:08:48,080
+Giới tinh hoa tạo ra những con rối để chúng ta cùng nhau ảo tưởng về thực tại của mình. Cơ chế cho phép phối hợp trí tưởng tượng đó dĩ nhiên là tiền.
+
+53
+00:08:48,080 --> 00:08:52,406
+Hãy nghĩ về tiền như Thượng đế.
+
+54
+00:08:52,406 --> 00:09:06,000
+Tiền tập trung tâm trí chúng ta theo một cách nhất định, và cách đó tạo ra thực tại của chúng ta.
+
+55
+00:09:06,000 --> 00:09:21,680
+Hãy nhớ ý tưởng này. Nhờ khái niệm đó, chúng ta tạo ra thế giới đang sống hôm nay. Cấu trúc của thế giới gồm đế chế, rồi những người điều khiển trò chơi.
+
+56
+00:09:21,680 --> 00:09:36,720
+Những người điều khiển trò chơi là ai? Họ là giới tài chính: Ngân hàng Thanh toán Quốc tế, Ngân hàng Thế giới, Quỹ Tiền tệ Quốc tế, Phố Wall và City of London.
+
+57
+00:09:36,720 --> 00:09:41,070
+Các tổ chức tài chính này phối hợp với nhau.
+
+58
+00:09:41,070 --> 00:09:54,120
+Họ kiểm soát cách đồng đô la Mỹ, tức đồng tiền của trò chơi này, di chuyển trong hệ thống, và điều đó tạo ra nền kinh tế toàn cầu.
+
+59
+00:09:54,240 --> 00:10:10,959
+Nhưng bạn không thể để mọi người nghĩ rằng có một nhóm người thật sự đang thao túng trò chơi, vì người ta sẽ thấy nó bất công, thiếu minh bạch và không sạch sẽ.
+
+60
+00:10:10,959 --> 00:10:21,119
+Vì vậy, bạn tạo ra các tổ chức đa phương gọi là trật tự quốc tế dựa trên luật lệ, như W T O và Liên Hợp Quốc.
+
+61
+00:10:21,119 --> 00:10:31,279
+Bạn khiến mọi người tin rằng chính những tổ chức vô tư đó kiểm soát trò chơi.
+
+62
+00:10:31,279 --> 00:10:38,837
+Sau đó bạn củng cố niềm tin này bằng truyền thông, giáo dục và văn hóa.
+
+63
+00:10:38,837 --> 00:10:51,120
+Ba thứ này tạo ra giá trị và chuẩn mực khiến chúng ta tin rằng đây là một trò chơi công bằng, cởi mở, minh bạch.
+
+64
+00:10:51,120 --> 00:11:08,320
+Nhờ vậy, khi sụp đổ xảy ra, nó không bị xem là có người thiết kế phía sau, mà bị xem như quy luật hấp dẫn: chuyện tự nhiên của trò chơi, không phải lỗi của ai.
+
+65
+00:11:08,320 --> 00:11:27,959
+Hãy nhớ rằng hệ thống này không sạch như bạn tưởng, vì có các lực đối kháng với nó, như chủ nghĩa dân tộc, bản sắc sắc tộc, dân chủ xã hội, quyền cá nhân và tôn giáo.
+
+66
+00:11:28,000 --> 00:11:33,791
+Đây là những lực chống đỡ và phá vỡ hệ thống.
+
+67
+00:11:33,791 --> 00:11:44,320
+Vì thế có các hệ thống khác giữ nó tại chỗ và phản ứng với những lực đối kháng ấy.
+
+68
+00:11:44,320 --> 00:11:54,720
+Những hệ thống đó là tình báo, về cơ bản là gián điệp, tội phạm và khoa học.
+
+69
+00:11:54,720 --> 00:12:05,120
+Đằng sau ba lực này là ba nhóm định chế quyền lực.
+
+70
+00:12:05,120 --> 00:12:17,240
+Ba nhóm đó là tư bản xuyên quốc gia, các hội kín, và các gia tộc tinh hoa.
+
+71
+00:12:17,240 --> 00:12:29,360
+Một số người gọi họ là Illuminati, nhưng tên gọi không quan trọng.
+
+72
+00:12:29,360 --> 00:12:32,901
+Đây là cách thế giới vận hành.
+
+73
+00:12:32,901 --> 00:12:42,007
+Bên dưới tầng tinh hoa này còn có thứ gọi là huyền học, chúng ta sẽ học sau.
+
+74
+00:12:42,007 --> 00:12:46,560
+Có một điểm nổi bật trong hệ thống này.
+
+75
+00:12:46,560 --> 00:12:56,994
+Tư bản xuyên quốc gia vừa là những người điều khiển trò chơi, vừa là chính nền kinh tế toàn cầu.
+
+76
+00:12:56,994 --> 00:13:05,440
+Điều này quan trọng vì hệ thống này vừa là vật ký sinh, vừa là vật chủ.
+
+77
+00:13:05,440 --> 00:13:17,269
+Tư bản xuyên quốc gia vừa là kẻ ký sinh vừa là vật chủ, vừa là người điều khiển trò chơi vừa là người chơi.
+
+78
+00:13:17,269 --> 00:13:22,000
+Điều đó tất nhiên dẫn tới rất nhiều tham nhũng.
+
+79
+00:13:22,000 --> 00:13:27,490
+Câu hỏi là hệ thống này đến từ đâu.
+
+80
+00:13:27,490 --> 00:13:32,370
+Tôi sẽ đi vào một chút lịch sử.
+
+81
+00:13:32,370 --> 00:13:39,079
+Năm 1688, ở Anh xảy ra cuộc Cách mạng Vinh quang.
+
+82
+00:13:41,839 --> 00:13:53,228
+Hãy xem Cách mạng Vinh quang như một cuộc hôn phối giữa hai đế chế: Đế quốc Anh và Cộng hòa Hà Lan.
+
+83
+00:13:53,228 --> 00:14:00,160
+Vào năm 1688, Cộng hòa Hà Lan là khu vực giàu nhất thế giới.
+
+84
+00:14:00,160 --> 00:14:09,286
+Hà Lan kiểm soát thương mại gia vị, mà ở thời điểm đó gia vị là hàng hóa giá trị nhất.
+
+85
+00:14:09,286 --> 00:14:16,240
+Vấn đề là Cộng hòa Hà Lan không thể tự bảo vệ mình ở châu Âu.
+
+86
+00:14:16,240 --> 00:14:34,560
+Họ dễ bị xâm lược, lại theo Tin Lành, nên bị Pháp Công giáo, Giáo hội Công giáo và nhà Habsburg của Đế chế La Mã Thần thánh tấn công.
+
+87
+00:14:34,560 --> 00:14:49,199
+Vì vậy, hai bên đồng ý kết hợp lực lượng. Sự giàu có của Cộng hòa Hà Lan chuyển sang Anh.
+
+88
+00:14:49,199 --> 00:15:01,500
+Năm 1694, Ngân hàng Anh được tạo ra. Đây là một ngân hàng tư nhân không chịu trách nhiệm trước công chúng.
+
+89
+00:15:01,500 --> 00:15:13,800
+Nó in tiền, và Nghị viện mua số tiền đó.
+
+90
+00:15:15,680 --> 00:15:24,291
+Đây là một đổi mới khổng lồ, cho phép Đế quốc Anh chinh phục thế giới.
+
+91
+00:15:24,291 --> 00:15:33,440
+Trước đó, nếu người giàu cho vua vay tiền để đánh trận, việc đó rất nguy hiểm.
+
+92
+00:15:33,440 --> 00:15:38,465
+Nhà vua có thể chết, thua trận hoặc không trả tiền.
+
+93
+00:15:38,465 --> 00:15:50,800
+Nhưng nếu cho Nghị viện, tức nhà nước dân tộc, vay tiền, bạn gần như được bảo đảm hoàn vốn chừng nào quốc gia còn tồn tại.
+
+94
+00:15:50,800 --> 00:16:01,400
+Vào thời điểm đó, Anh là nơi an toàn nhất châu Âu, vì là đảo quốc được Hải quân Hoàng gia bảo vệ.
+
+95
+00:16:01,400 --> 00:16:12,000
+Đây là một đổi mới làm thay đổi lịch sử nhân loại mãi mãi.
+
+96
+00:16:12,000 --> 00:16:27,120
+Hệ thống này có ba đặc điểm lớn. Thứ nhất là lợi nhuận được tư nhân hóa, còn thua lỗ được xã hội hóa.
+
+97
+00:16:27,120 --> 00:16:38,394
+Nếu là người giàu, bạn muốn gửi tiền vào Ngân hàng Anh, vì gần như không có cách nào để nó lỗ.
+
+98
+00:16:38,394 --> 00:16:43,519
+Nếu Anh đánh trận và thua, nước Anh trả giá.
+
+99
+00:16:43,519 --> 00:16:55,279
+Nhưng nếu Anh thắng trận, bạn nhận tiền. Đó là khái niệm đầu tiên: mọi lợi nhuận được tư nhân hưởng, mọi thua lỗ do nhà nước dân tộc và người dân gánh.
+
+100
+00:16:55,279 --> 00:17:06,951
+Đặc điểm thứ hai là trong hệ thống này, cách tạo ra của cải là thông qua hoạt động.
+
+101
+00:17:06,951 --> 00:17:12,480
+Hoạt động ở đây có nghĩa là chiến tranh.
+
+102
+00:17:12,480 --> 00:17:21,120
+Nếu tôi đưa tiền cho bạn, bạn phải dùng nó để làm gì đó và tạo thêm lợi nhuận.
+
+103
+00:17:21,120 --> 00:17:23,394
+Cách làm là đánh trận.
+
+104
+00:17:23,394 --> 00:17:29,760
+Vì thế Đế quốc Anh bắt đầu mở rộng rất nhanh trên thế giới.
+
+105
+00:17:29,760 --> 00:17:34,255
+Anh cần tạo lợi nhuận cho các chủ ngân hàng.
+
+106
+00:17:34,255 --> 00:17:48,640
+Điều này bao gồm các cuộc chiến Napoleon, Great Game giữa Nga và Anh ở Trung Á, việc chinh phục Ấn Độ và Trung Quốc, gồm các cuộc Chiến tranh Nha phiến.
+
+107
+00:17:48,640 --> 00:17:59,560
+Đặc điểm thứ hai là hệ thống luôn tạo thêm hoạt động.
+
+108
+00:17:59,560 --> 00:18:10,480
+Đặc điểm thứ ba là chủ nghĩa xuyên quốc gia, tức biên giới mở cho dòng vốn.
+
+109
+00:18:10,480 --> 00:18:29,600
+Hệ thống tin rằng vốn phải có thể di chuyển từ nơi này sang nơi khác, nên phải xây các cơ chế cho phép dòng vốn luân chuyển.
+
+110
+00:18:29,600 --> 00:18:43,349
+Điều này rất tuyệt cho các chủ ngân hàng, nhưng người dân sẽ nhìn vào và thấy đây là một hệ thống bất công.
+
+111
+00:18:43,349 --> 00:18:45,640
+Và đúng là vậy.
+
+112
+00:18:47,120 --> 00:19:02,960
+Vì thế, bạn phải tẩy não người dân để họ tin rằng đây là một hệ thống công bằng. Đó là lý do một ý tưởng mới được tạo ra: chủ nghĩa duy vật, hay tiền là Thượng đế.
+
+113
+00:19:02,960 --> 00:19:13,640
+Tư bản xuyên quốc gia và Ngân hàng Anh tài trợ cho các trí thức lớn xây dựng những hệ tư tưởng ủng hộ ý tưởng rằng tiền là Thượng đế.
+
+114
+00:19:13,640 --> 00:19:24,320
+Một trong số đó là John Locke.
+
+115
+00:19:24,320 --> 00:19:37,812
+John Locke lập luận rằng tài sản tư hữu là quyền do Thượng đế ban, là quyền vốn có giống như tự do và hạnh phúc.
+
+116
+00:19:37,812 --> 00:19:43,520
+Ông cũng là người đặt nền cho chủ nghĩa kinh nghiệm.
+
+117
+00:19:43,520 --> 00:19:51,823
+Chủ nghĩa kinh nghiệm nói rằng ta chỉ có thể biết điều chính mình trải nghiệm.
+
+118
+00:19:51,823 --> 00:20:02,720
+Việc xây dựng lý thuyết về một thế giới vượt ngoài kinh nghiệm là không khả thi và không thực tế.
+
+119
+00:20:02,720 --> 00:20:13,760
+Vì vậy, đừng nghĩ về Thượng đế, vì Thượng đế vượt ngoài kinh nghiệm của chúng ta.
+
+120
+00:20:13,760 --> 00:20:24,799
+Sau đó có David Hume, người lập luận cho chủ nghĩa hoài nghi.
+
+121
+00:20:24,799 --> 00:20:34,743
+Chủ nghĩa hoài nghi nói rằng mọi điều bạn biết thật ra không vững chắc, vì nó dựa trên niềm tin.
+
+122
+00:20:34,743 --> 00:20:42,320
+Bạn biết Rome là thủ đô của Ý, nhưng có lẽ bạn chưa từng đến Rome.
+
+123
+00:20:42,320 --> 00:20:52,920
+Bạn học điều đó ở trường bằng cách ghi nhớ.
+
+124
+00:20:52,920 --> 00:21:03,520
+Vì thế ta nên hoài nghi mọi điều mình biết, vì phần lớn tri thức chỉ là tập quán hoặc thói quen.
+
+125
+00:21:03,520 --> 00:21:18,240
+Bây giờ vấn đề là chủ nghĩa hoài nghi và chủ nghĩa kinh nghiệm khiến ta không thật sự biết gì, còn Thượng đế dường như không tồn tại. Vậy thiết kế xã hội bằng cách nào?
+
+126
+00:21:18,240 --> 00:21:26,114
+Điều đó tạo ra một ý tưởng mới gọi là chủ nghĩa vị lợi.
+
+127
+00:21:26,114 --> 00:21:36,799
+Nó nói rằng nếu một thứ hữu ích, nếu nó đem lại khoái cảm, thì nó phải là tốt.
+
+128
+00:21:36,799 --> 00:21:43,437
+Nếu bạn dùng ma túy và thấy hạnh phúc, nó phải là tốt.
+
+129
+00:21:43,437 --> 00:21:48,032
+Nếu bạn thích tiêu tiền, nó phải là tốt.
+
+130
+00:21:48,032 --> 00:21:54,159
+Đây là từ Jeremy Bentham, rồi John Stuart Mill điều chỉnh thêm.
+
+131
+00:21:54,159 --> 00:21:58,845
+Điều này trở thành chính khái niệm về tự do.
+
+132
+00:21:58,845 --> 00:22:13,840
+Tự do nghĩa là bạn được tự do theo đuổi việc kiếm tiền càng nhiều càng tốt, vì đó là cái thiện tối hậu, là thứ đem lại khoái cảm lớn nhất.
+
+133
+00:22:13,840 --> 00:22:24,480
+Tự do là tiêu tiền. Nếu một quốc gia ngăn bạn kiếm tiền và tiêu tiền, nó là một chế độ độc tài xấu xa.
+
+134
+00:22:24,480 --> 00:22:35,120
+Một quốc gia tốt cho phép bạn tận hưởng khoái cảm của việc kiếm tiền.
+
+135
+00:22:35,120 --> 00:22:46,240
+Đó là ba triết gia lớn của chủ nghĩa duy vật và tự do kiểu Anh.
+
+136
+00:22:46,240 --> 00:22:57,360
+Sau đó, Marx xuất hiện và đưa vào ý tưởng chủ nghĩa duy vật biện chứng.
+
+137
+00:22:57,360 --> 00:23:08,240
+Chủ nghĩa duy vật biện chứng nói thế giới là đấu tranh giai cấp.
+
+138
+00:23:08,240 --> 00:23:19,120
+Không phải giữa Thượng đế và con người, không phải giữa thần thánh và vật chất, mà chỉ giữa người nghèo và người giàu.
+
+139
+00:23:19,120 --> 00:23:29,640
+Marx loại bỏ yếu tố thần thánh khỏi phương trình.
+
+140
+00:23:29,640 --> 00:23:40,159
+Rồi có Darwin với thuyết tiến hóa, nói rằng chúng ta chỉ là động vật, không phải hữu thể thần thánh.
+
+141
+00:23:40,159 --> 00:23:46,736
+Sau đó có Freud, với ý tưởng rằng tình dục là trung tâm.
+
+142
+00:23:46,736 --> 00:23:57,360
+Theo cách nhìn này, ta nên kiếm thật nhiều tiền và theo đuổi khoái cảm, vì ta chỉ là vượn người.
+
+143
+00:23:57,360 --> 00:24:07,640
+Đây trở thành nền tảng cho ý tưởng rằng tiền là Thượng đế.
+
+144
+00:24:07,640 --> 00:24:17,919
+Sau đó, tư bản xuyên quốc gia đã chinh phục Đế quốc Anh và bắt đầu tìm cơ hội đầu tư mới.
+
+145
+00:24:17,919 --> 00:24:21,252
+Nơi tiếp theo dĩ nhiên là Mỹ.
+
+146
+00:24:21,252 --> 00:24:37,919
+Vấn đề là người Mỹ vừa làm cách mạng để thoát khỏi Đế quốc Anh, nên họ không muốn tư bản xuyên quốc gia, Ngân hàng Anh hay City of London vào chinh phục mình.
+
+147
+00:24:37,919 --> 00:24:46,113
+Vì vậy, City of London và Ngân hàng Anh dùng các đại lý ở Mỹ.
+
+148
+00:24:46,113 --> 00:24:55,400
+Có nhiều người, nhưng các đại lý này gồm John Rockefeller, Andrew Carnegie, JP Morgan và Vanderbilt.
+
+149
+00:24:55,400 --> 00:25:08,576
+Với nguồn lực và vốn của City of London cùng Ngân hàng Anh, họ tự mình độc quyền hóa các ngành khác nhau.
+
+150
+00:25:08,576 --> 00:25:11,440
+Rockefeller độc quyền dầu mỏ.
+
+151
+00:25:11,440 --> 00:25:24,159
+Những đại lý quyền lực này của City of London tập hợp lại và tạo ra một hệ thống mô phỏng Ngân hàng Anh. Đó là Hệ thống Dự trữ Liên bang.
+
+152
+00:25:24,159 --> 00:25:34,539
+Sau khi Hệ thống Dự trữ Liên bang được tạo ra vào năm 1914, ba chuyện xảy ra.
+
+153
+00:25:34,539 --> 00:25:44,919
+Mỹ tham gia Thế chiến thứ nhất, thị trường chứng khoán sụp đổ năm 1929 rồi đến Đại Suy thoái, và năm 1941 Mỹ tham gia Thế chiến thứ hai.
+
+154
+00:25:44,919 --> 00:25:54,885
+Hệ thống Dự trữ Liên bang nghĩa là giống như Anh, Mỹ giờ đây bị tư bản xuyên quốc gia kiểm soát.
+
+155
+00:25:54,885 --> 00:26:03,039
+Cùng hệ thống đó vận hành: lợi nhuận được tư nhân hóa, thua lỗ được xã hội hóa.
+
+156
+00:26:03,039 --> 00:26:16,799
+Điều quan trọng nữa là mở quốc gia ra cho dòng vốn di chuyển. Như ta biết, Mỹ thắng Thế chiến thứ hai.
+
+157
+00:26:16,799 --> 00:26:32,919
+Sau đó Mỹ cố đưa hệ thống này ra khắp thế giới, nhất là Nhật Bản và châu Âu, nơi Mỹ có thể kiểm soát lãnh thổ.
+
+158
+00:26:34,559 --> 00:26:48,159
+Cuối cùng Mỹ đánh Chiến tranh Lạnh với Liên Xô và thắng. Sau khi Liên Xô sụp đổ, trong hai mươi đến ba mươi năm Mỹ gần như kiểm soát hoàn toàn thế giới.
+
+159
+00:26:48,159 --> 00:26:50,842
+Đó là khoảnh khắc đơn cực.
+
+160
+00:26:50,842 --> 00:27:00,233
+Trong thời kỳ này, sản xuất của Mỹ chuyển sang Trung Quốc, còn Mỹ tập trung hoàn toàn vào tài chính.
+
+161
+00:27:00,233 --> 00:27:05,600
+Điều đó dẫn tới cuộc khủng hoảng tài chính lớn năm 2008.
+
+162
+00:27:05,600 --> 00:27:20,760
+Tôi sẽ cung cấp một ít bối cảnh về khủng hoảng tài chính. Các bạn không cần biết mọi chi tiết, chỉ cần hiểu cấu trúc cơ bản.
+
+163
+00:27:21,200 --> 00:27:35,679
+Thứ cho phép khủng hoảng tài chính lớn xảy ra là subprime, tức cho vay dưới chuẩn. Nó nghĩa là cho vay tiền cho những người không thể trả lại.
+
+164
+00:27:35,679 --> 00:27:51,520
+Trong bối cảnh này, đó là cho người nghèo vay tiền mua nhà. Trước đây ngân hàng không muốn làm như vậy, nhưng có vài điều đã xảy ra khiến cho vay dưới chuẩn bùng lên.
+
+165
+00:27:51,520 --> 00:28:04,640
+Điều đầu tiên là Bill Clinton rất muốn tăng tỷ lệ sở hữu nhà của các nhóm thiểu số. Ông muốn người da đen mua nhiều nhà hơn.
+
+166
+00:28:04,640 --> 00:28:19,279
+Nhưng người da đen trong lịch sử thường nghèo, nên ngân hàng không thật sự cho họ vay. Vì thế Bill Clinton khuyến khích chính phủ giúp các nhóm thiểu số mua nhà.
+
+167
+00:28:19,279 --> 00:28:23,969
+Đây là một mục tiêu cao đẹp.
+
+168
+00:28:23,969 --> 00:28:35,360
+Điều thứ hai quan trọng hơn là năm 1999, Bill Clinton bãi bỏ Đạo luật Glass-Steagall.
+
+169
+00:28:35,360 --> 00:28:52,080
+Đạo luật Glass-Steagall nói rằng nếu bạn là ngân hàng nhận tiền của người gửi, bạn không được tham gia các khoản cho vay rủi ro.
+
+170
+00:28:52,080 --> 00:28:57,627
+Nếu là ngân hàng bán lẻ, bạn không được cho vay rủi ro.
+
+171
+00:28:57,627 --> 00:29:04,454
+Nếu là ngân hàng đầu tư, ngân hàng tư nhân, bạn có thể làm điều đó.
+
+172
+00:29:04,454 --> 00:29:08,720
+Đạo luật này cố giảm rủi ro trong hệ thống.
+
+173
+00:29:08,720 --> 00:29:16,701
+Khi bãi bỏ Glass-Steagall, ngân hàng bán lẻ và ngân hàng đầu tư bị trộn lại.
+
+174
+00:29:16,701 --> 00:29:26,559
+Các ngân hàng trở nên rất lớn, rồi cần tạo ra các công cụ tài chính để sinh thêm lợi nhuận.
+
+175
+00:29:26,559 --> 00:29:36,000
+Cùng lúc đó, vì Mỹ đang ở khoảnh khắc đơn cực, mọi người đều muốn đầu tư vào Mỹ, vì họ nghĩ Mỹ là nơi an toàn nhất để cất tiền.
+
+176
+00:29:36,000 --> 00:29:44,000
+Dòng tiền này đến từ G C C, Trung Quốc, châu Âu, các quỹ hưu trí và Nhật Bản.
+
+177
+00:29:44,000 --> 00:29:49,000
+Nhật đầu tư vào Mỹ qua giao dịch chênh lệch lãi suất đồng yên.
+
+178
+00:29:49,000 --> 00:29:56,000
+Khi đó Nhật bị giảm phát, không ai tiêu tiền.
+
+179
+00:29:56,000 --> 00:30:03,000
+Chính phủ Nhật cho các định chế vay tiền với lãi suất không phần trăm.
+
+180
+00:30:03,000 --> 00:30:14,000
+Lẽ ra các định chế phải dùng tiền đó để tăng thanh khoản trong hệ thống. Nhưng thay vào đó, họ dùng nó để mua trái phiếu Kho bạc Mỹ trả năm phần trăm.
+
+181
+00:30:14,000 --> 00:30:20,000
+Họ vay với lãi suất không phần trăm rồi cho vay lại ở mức năm phần trăm.
+
+182
+00:30:20,000 --> 00:30:24,000
+Đó là giao dịch chênh lệch lãi suất đồng yên.
+
+183
+00:30:24,000 --> 00:30:29,000
+Dù thế nào, lượng tiền khổng lồ chảy vào thị trường tài chính Mỹ.
+
+184
+00:30:29,000 --> 00:30:34,000
+Các ngân hàng cần tạo thêm công cụ đầu tư cho nhà đầu tư.
+
+185
+00:30:34,000 --> 00:30:41,000
+Họ tạo ra C D O, tức các gói thế chấp nhà ở, về cơ bản là nợ dưới chuẩn.
+
+186
+00:30:41,000 --> 00:30:43,799
+Vấn đề là nợ dưới chuẩn có thể vỡ nợ.
+
+187
+00:30:45,679 --> 00:30:58,080
+Nhưng ở thời điểm đó, không ai lo về vỡ nợ vì ý tưởng quá lớn để sụp đổ.
+
+188
+00:30:58,080 --> 00:31:10,080
+Nghĩa là hệ thống được cấu trúc sao cho mọi người đều dính vào. Nếu chủ nhà vỡ nợ, ngân hàng vỡ nợ, thì toàn bộ nền kinh tế sụp đổ.
+
+189
+00:31:10,080 --> 00:31:23,179
+Vì vậy hệ thống được cho là sẽ tiếp tục chạy, vì nếu một tỷ lệ chủ nhà nào đó vỡ nợ, toàn bộ thị trường nhà ở sẽ sụp đổ.
+
+190
+00:31:23,179 --> 00:31:26,559
+Đây là một mô hình Ponzi khổng lồ.
+
+191
+00:31:26,559 --> 00:31:34,181
+Nhưng chúng ta biết chắc rằng năm 2008, hệ thống này đã sụp đổ.
+
+192
+00:31:34,181 --> 00:31:46,159
+Trong thời gian dài, chúng ta tin rằng nguyên nhân là có quá nhiều vụ vỡ nợ, nên hệ thống phải sụp.
+
+193
+00:31:46,159 --> 00:31:51,546
+Nhưng nếu nhìn vào chuyện đã xảy ra, bạn sẽ thấy điều đó không đúng.
+
+194
+00:31:51,546 --> 00:31:55,137
+Các ngân hàng có thể chọn gia hạn vỡ nợ.
+
+195
+00:31:55,137 --> 00:32:03,039
+Nếu bạn nợ tôi một nghìn đô la tiền thế chấp nhưng không trả được, tôi có thể bảo trả tháng sau.
+
+196
+00:32:03,039 --> 00:32:10,098
+Tháng sau bạn vẫn không trả được, tôi lại bảo trả tháng kế tiếp.
+
+197
+00:32:10,098 --> 00:32:19,679
+Tôi có thể giữ hệ thống tiếp tục chạy, vì hãy nhớ, số tiền này dựa trên ảo tưởng.
+
+198
+00:32:19,679 --> 00:32:27,679
+Nhưng hệ thống vẫn sụp đổ. Đó là điều chúng ta xem xét hôm nay.
+
+199
+00:32:27,679 --> 00:32:44,320
+Trên biểu đồ này, ban đầu chính phủ là bên phát hành các khoản vay.
+
+200
+00:32:44,320 --> 00:32:56,880
+Nhưng vì ngành này quá có lời, các ngân hàng tư nhân bắt đầu tham gia và phát hành các khoản vay rất rủi ro.
+
+201
+00:32:56,880 --> 00:33:07,679
+Điều đó dẫn tới năm 2008, khi toàn bộ hệ thống sụp đổ. Câu hỏi lớn là vì sao thị trường tài chính sụp đổ.
+
+202
+00:33:07,679 --> 00:33:11,277
+Đây là lượng phát hành C D O.
+
+203
+00:33:11,277 --> 00:33:24,320
+Nó tạo ra rất nhiều tiền cho các ngân hàng tư nhân, rồi đột nhiên năm 2008 xuất hiện làn sóng vỡ nợ khổng lồ và hệ thống sụp.
+
+204
+00:33:24,320 --> 00:33:37,434
+Trong lớp học thông thường, người ta nói đây chỉ là quy luật hấp dẫn: bay quá cao thì sẽ rơi.
+
+205
+00:33:37,434 --> 00:33:43,679
+Nhưng có một điều người ta không nói với bạn.
+
+206
+00:33:43,679 --> 00:33:57,200
+Thực ra có những người kiếm được rất nhiều tiền nhờ sự sụp đổ. John Paulson kiếm được bao nhiêu trong cú sụp này? Hai mươi tỷ đô la.
+
+207
+00:33:57,200 --> 00:34:08,399
+Ông ta kiếm tiền bằng cách đặt cược rằng thị trường nhà ở sẽ sụp đổ. Hãy nghĩ về ví dụ này.
+
+208
+00:34:08,399 --> 00:34:21,456
+Tôi cho Amber vay một triệu đô la, và em phải trả lại mười nghìn đô la định kỳ.
+
+209
+00:34:21,456 --> 00:34:35,200
+Nếu em không trả được, tôi có thể lấy nhà, nhưng khi đó tôi mất khoản đầu tư vào em.
+
+210
+00:34:35,200 --> 00:34:47,520
+Vì vậy, tôi cứ để em sống trong nhà và giả vờ rằng em có thể trả, dù em không thể. Rồi Vincent nói với tôi rằng cậu ấy cá Amber sẽ không vỡ nợ.
+
+211
+00:34:47,520 --> 00:35:01,440
+Vincent rất tự tin vì Amber không vỡ nợ trong mười năm qua. Cậu ấy muốn cá nửa triệu đô la. Tôi nhận kèo, rồi tôi làm cho Amber vỡ nợ.
+
+212
+00:35:01,440 --> 00:35:16,160
+Bây giờ tôi có thể kiếm tiền từ Vincent. Cách vận hành chỉ như vậy. Nó trông phức tạp, nhưng thực chất là một trò lừa khổng lồ vì chỉ vài người kiểm soát cả hệ thống.
+
+213
+00:35:16,160 --> 00:35:28,480
+Đây là cách bạn kiếm hai mươi tỷ đô la trong trò chơi này. Có những người mua thế chấp từ bạn, rồi có những người còn ngốc hơn đặt cược rằng các thế chấp đó sẽ không vỡ nợ.
+
+214
+00:35:28,480 --> 00:35:44,480
+Bạn lấy tiền từ nhóm ngốc nhất. Hệ thống sụp đổ vì bạn kiếm được nhiều tiền hơn bằng cách làm nó sụp, thay vì để nó tiếp tục chạy.
+
+215
+00:35:44,480 --> 00:35:58,240
+Jamie Dimon cũng hưởng lợi từ sự sụp đổ ngân hàng. Khi các ngân hàng sụp, ngành ngân hàng có thể được hợp nhất.
+
+216
+00:35:58,240 --> 00:36:10,079
+JP Morgan bắt đầu mua các ngân hàng đang thua lỗ. Sau đó JP Morgan trở thành ngân hàng lớn nhất nước Mỹ.
+
+217
+00:36:10,079 --> 00:36:24,560
+Hãy nhìn thêm điểm này. Trước năm 2008, phần lớn nhà ở thực ra thuộc sở hữu cá nhân. Màu xám trên biểu đồ là các cá nhân.
+
+218
+00:36:24,560 --> 00:36:36,224
+Họ có thể sở hữu một căn hoặc mười căn, nhưng về cơ bản vẫn là cá nhân.
+
+219
+00:36:36,224 --> 00:36:44,000
+Màu xanh là những chủ sở hữu hơn một nghìn căn nhà.
+
+220
+00:36:44,000 --> 00:36:55,599
+Màu xanh đậm là các ngân hàng lớn sở hữu khoảng một trăm nghìn căn. Trước năm 2008, phần lớn nằm trong màu xám.
+
+221
+00:36:55,599 --> 00:37:04,439
+Nhưng sau khi sụp đổ, phần màu xanh và xanh đậm tăng mạnh.
+
+222
+00:37:04,439 --> 00:37:16,000
+Vì các chủ nhà mất nhà, nên ngân hàng và công ty có thể vào mua rẻ.
+
+223
+00:37:16,000 --> 00:37:30,800
+Khủng hoảng tài chính năm 2008 phá hủy hàng triệu cuộc đời, nhưng lại tạo lợi nhuận cho một số cá nhân và định chế quyền lực.
+
+224
+00:37:30,800 --> 00:37:41,839
+Bạn có thể nói rằng bong bóng cuối cùng vẫn phải sụp vì quy luật hấp dẫn. Nhưng hôm nay chúng ta có hai bong bóng khác.
+
+225
+00:37:41,839 --> 00:37:56,240
+Một là bong bóng vốn tư nhân và tín dụng tư nhân, nơi các ngân hàng tư nhân cho công ty tư nhân vay. Người ta nói nó trị giá hai nghìn tỷ đô la, nhưng nó vẫn chưa sụp.
+
+226
+00:37:56,240 --> 00:38:07,141
+Vì sao? Vì các ngân hàng tư nhân cho phép các công ty đang thua lỗ tiếp tục sống.
+
+227
+00:38:07,141 --> 00:38:16,320
+Họ không ép phá sản ngay, vì làm vậy chính họ sẽ mất rất nhiều tiền.
+
+228
+00:38:16,320 --> 00:38:25,040
+Các bong bóng này có thể tiếp tục mãi. Chúng không nhất thiết phải sụp. Một bong bóng lớn khác ngày nay là bong bóng A I.
+
+229
+00:38:25,040 --> 00:38:35,557
+Nvidia, OpenAI và các công ty A I có sản phẩm chưa thật sự kiếm được tiền.
+
+230
+00:38:35,557 --> 00:38:43,599
+ChatGPT tốn chi phí vận hành nhiều hơn doanh thu nó tạo ra.
+
+231
+00:38:43,599 --> 00:38:53,520
+Nhưng bong bóng đó chưa sụp, vì chỉ có vài công ty cho nhau vay tiền. Đây là một mô hình Ponzi khổng lồ, một trò chơi nội bộ.
+
+232
+00:38:53,520 --> 00:39:05,359
+Bong bóng không phải tự nhiên phải sụp. Chúng sụp khi việc làm chúng sụp trở nên có lợi cho một số cá nhân.
+
+233
+00:39:05,359 --> 00:39:17,235
+Một ý nữa các bạn cần hiểu là sau khủng hoảng tài chính năm 2008, nền kinh tế toàn cầu gặp vấn đề.
+
+234
+00:39:17,235 --> 00:39:28,079
+Vì vậy tư bản xuyên quốc gia quyết định cứu kinh tế toàn cầu bằng cách cho Trung Quốc trỗi dậy.
+
+235
+00:39:28,079 --> 00:39:41,092
+Một hệ quả lớn ít người biết của khủng hoảng tài chính là tư bản xuyên quốc gia khuyến khích Trung Quốc in tiền.
+
+236
+00:39:41,092 --> 00:39:47,599
+Tôi sẽ chỉ cho các bạn cơ chế chính cho việc đó.
+
+237
+00:39:47,599 --> 00:40:02,960
+Cơ chế đó là Ngân hàng Thanh toán Quốc tế, viết tắt là B I S. Nó đặt ở Basel, Thụy Sĩ, và được xem là ngân hàng trung ương của các ngân hàng trung ương.
+
+238
+00:40:02,960 --> 00:40:18,800
+Mỗi quốc gia có ngân hàng trung ương quyết định lãi suất, nhưng B I S điều phối các ngân hàng trung ương đó. Nó là ngân hàng quyền lực nhất thế giới.
+
+239
+00:40:18,800 --> 00:40:26,414
+Bạn có thể nghĩ nó phải là tổ chức công khai, nhưng không.
+
+240
+00:40:26,414 --> 00:40:35,200
+Nó được vận hành vì lợi ích của những người quyền lực trên thế giới.
+
+241
+00:40:35,200 --> 00:40:39,042
+Đoạn này từ cuốn Tower of Basel.
+
+242
+00:40:39,042 --> 00:40:45,080
+Nước Đức Quốc xã chưa đạt được tự cung tự cấp.
+
+243
+00:40:45,080 --> 00:40:54,960
+Nó cần mua lượng lớn nguyên liệu thô để sản xuất vũ khí và nuôi sống dân chúng.
+
+244
+00:40:54,960 --> 00:41:06,560
+Thép Thụy Điển, dầu Romania, vonfram Bồ Đào Nha, thậm chí thịt bò Nam Mỹ, đều phải được mua bằng ngoại tệ mạnh.
+
+245
+00:41:06,560 --> 00:41:18,640
+Đức Quốc xã cần một kênh tài chính tới các nước trung lập, và kênh đó chạy qua Basel. Đây là lý do chính Đức không xâm lược Thụy Sĩ hay Thụy Điển.
+
+246
+00:41:18,640 --> 00:41:36,000
+Các nước trung lập đó hữu ích hơn cho Đệ Tam Đế chế với vai trò trung tâm tiền tệ trong mạng tài chính xuyên quốc gia, hơn là vài vùng lãnh thổ do Đức kiểm soát.
+
+247
+00:41:36,000 --> 00:41:51,599
+Điều này nghĩa là Hitler hứa giành độc lập khỏi trật tự tài chính toàn cầu do Anh kiểm soát, nhưng ông ta không thể thật sự làm vậy, vì vẫn phải mua hàng từ nơi khác.
+
+248
+00:41:51,599 --> 00:42:01,119
+Ông ta vẫn cần một ngân hàng cho vay tiền, giúp mua hàng và tạo điều kiện cho giao dịch. Đó là ý tưởng của tư bản xuyên quốc gia.
+
+249
+00:42:01,119 --> 00:42:08,355
+Tư bản xuyên quốc gia không thật sự quan tâm bạn có xấu xa hay không.
+
+250
+00:42:08,355 --> 00:42:12,425
+Họ chỉ quan tâm kiếm tiền bằng cách nào.
+
+251
+00:42:12,425 --> 00:42:23,280
+B I S và tư bản xuyên quốc gia đã giúp tài trợ bộ máy chiến tranh Quốc xã vì việc đó có lời.
+
+252
+00:42:23,280 --> 00:42:34,560
+Bạn có thể nghĩ sau khi Hitler thua, người Mỹ sẽ thấy B I S là xấu vì đã giúp Quốc xã, rồi phá hủy nó. Nhưng điều đó không xảy ra.
+
+253
+00:42:34,560 --> 00:42:46,079
+Sau Thế chiến thứ hai, B I S trở nên còn quyền lực hơn. Viện trợ Marshall đi kèm một cái giá: tái cấu trúc xã hội châu Âu theo mô hình tiêu dùng kiểu Mỹ.
+
+254
+00:42:46,079 --> 00:43:01,520
+Bộ máy tuyên truyền của Hoffman tạo ra sách mỏng, áp phích, truyền đơn, chương trình radio và cả các buổi diễn rối lưu động để ca ngợi lối sống Mỹ.
+
+255
+00:43:01,520 --> 00:43:11,359
+Giấc mơ Mỹ gồm nhà ngoại ô, xe hơi và nhiều thiết bị gia dụng được trình bày như lợi ích gần như chắc chắn của tự do kiểu Mỹ.
+
+256
+00:43:11,359 --> 00:43:26,400
+Chìa khóa là tăng năng suất trên dây chuyền sản xuất kiểu Mỹ trong một thị trường tự do xuyên quốc gia. Để tiền chảy tự do, phải xây các cơ chế thanh toán quốc tế mới với B I S ở trung tâm.
+
+257
+00:43:26,400 --> 00:43:29,968
+Thế giới được vận hành vì tiền.
+
+258
+00:43:29,968 --> 00:43:44,240
+Các tổ chức này tồn tại để tạo điều kiện cho tiền di chuyển dễ dàng và linh hoạt khắp thế giới, rồi biến tiền thành Thượng đế.
+
+259
+00:43:44,240 --> 00:43:52,987
+Sau năm 2008, B I S gặp vấn đề vì kinh tế toàn cầu chậm lại.
+
+260
+00:43:52,987 --> 00:43:59,547
+Châu Âu mất rất nhiều tiền, Mỹ cũng mất rất nhiều tiền.
+
+261
+00:43:59,547 --> 00:44:07,200
+Giải pháp là chuyển trọng tâm từ Mỹ và châu Âu sang Trung Quốc.
+
+262
+00:44:07,200 --> 00:44:15,200
+Cách làm là thông qua tỷ giá hối đoái, cụ thể là nhân dân tệ so với đô la Mỹ.
+
+263
+00:44:15,200 --> 00:44:25,200
+Nếu lãi suất là tín hiệu thanh khoản trong nền kinh tế quốc gia, thì tỷ giá là tín hiệu trong thị trường quốc tế.
+
+264
+00:44:25,200 --> 00:44:33,655
+Tỷ giá cho các quốc gia khác biết có nên giao thương với một quốc gia hay không.
+
+265
+00:44:33,655 --> 00:44:43,520
+Trong thời gian dài, đồng tiền Trung Quốc giao dịch trên mức tám nhân dân tệ đổi một đô la Mỹ.
+
+266
+00:44:43,520 --> 00:44:57,431
+Hãy nhớ rằng đô la Mỹ là cơ chế chính của thương mại toàn cầu.
+
+267
+00:44:57,431 --> 00:45:08,560
+Từ khoảng năm 2008, nhân dân tệ bắt đầu tăng giá trị.
+
+268
+00:45:08,560 --> 00:45:16,537
+Thế giới hiểu rằng mình nên giao thương với Trung Quốc.
+
+269
+00:45:16,537 --> 00:45:31,040
+Trung Quốc cũng hiểu rằng tỷ giá cao hơn cho phép họ mua nhiều hàng hóa hơn từ thế giới.
+
+270
+00:45:31,040 --> 00:45:41,359
+Khi tiếp cận được hàng hóa và nguyên liệu toàn cầu, Trung Quốc phải thúc đẩy kinh tế để sử dụng chúng: chi nhiều hơn cho hạ tầng, xây đường sắt cao tốc và sân bay.
+
+271
+00:45:41,359 --> 00:45:46,716
+Đó là điều Trung Quốc đã làm.
+
+272
+00:45:46,716 --> 00:46:04,319
+Khi kinh tế Mỹ và châu Âu đau đớn sau năm 2008, Trung Quốc có tỷ giá mạnh hơn và tiếp tục tăng.
+
+273
+00:46:04,319 --> 00:46:20,240
+Trung Quốc dùng điều đó để mua hàng hóa từ khắp thế giới. Đây là cơ chế tín hiệu: B I S nói với thế giới rằng bây giờ có thể bán hàng cho Trung Quốc, và hệ thống sẽ bảo đảm cho Trung Quốc.
+
+274
+00:46:20,240 --> 00:46:31,040
+B I S cần Trung Quốc mua nhiều hàng hơn từ thế giới. Từ khoảng năm 2008, nhập khẩu của Trung Quốc tăng vọt.
+
+275
+00:46:31,040 --> 00:46:43,839
+Khi hàng hóa và nguyên liệu đổ vào Trung Quốc, Trung Quốc phải tiêu thụ chúng, nên bắt đầu xây hạ tầng. Việc xây hạ tầng đó được tài trợ bằng các khoản vay ngân hàng.
+
+276
+00:46:43,839 --> 00:46:54,160
+Hãy nhìn Trung Quốc.
+
+277
+00:46:54,160 --> 00:47:02,240
+Năm 2008, Trung Quốc, Mỹ, Nhật Bản và châu Âu có hệ thống ngân hàng khá tương đồng.
+
+278
+00:47:02,240 --> 00:47:11,520
+Quy mô kinh tế của họ khi đó cũng khá gần nhau.
+
+279
+00:47:11,520 --> 00:47:18,895
+Nhưng từ khoảng năm 2008, hệ thống ngân hàng Trung Quốc tăng vọt.
+
+280
+00:47:18,895 --> 00:47:30,240
+Theo lập luận này, tất cả được B I S và một số người phía sau hậu trường dàn dựng.
+
+281
+00:47:30,240 --> 00:47:41,414
+Điều đó nghĩa là ngày nay Trung Quốc có các ngân hàng lớn nhất thế giới.
+
+282
+00:47:41,414 --> 00:47:56,079
+JP Morgan là ngân hàng lớn nhất của Mỹ, nhưng bốn ngân hàng hàng đầu thế giới là của Trung Quốc.
+
+283
+00:47:56,079 --> 00:48:05,435
+Vì sao? Vì trong hệ thống ngân hàng, nợ và nghĩa vụ nợ cũng là tài sản.
+
+284
+00:48:05,435 --> 00:48:14,240
+Tất cả số tiền các ngân hàng Trung Quốc có chỉ là các nghĩa vụ nợ.
+
+285
+00:48:14,240 --> 00:48:18,253
+Đây là cách hệ thống vận hành.
+
+286
+00:48:18,253 --> 00:48:22,266
+Tất cả chỉ là một ảo tưởng.
+
+287
+00:48:22,266 --> 00:48:34,880
+Điều ngăn hệ thống Trung Quốc nổ tung là nợ ở Trung Quốc được địa phương hóa thay vì quốc gia hóa.
+
+288
+00:48:34,880 --> 00:48:43,768
+Dù các ngân hàng Trung Quốc nợ rất nhiều, nợ nằm ở cấp địa phương chứ không nằm ở cấp quốc gia.
+
+289
+00:48:43,768 --> 00:48:51,040
+Ngân hàng Trung ương Trung Quốc không mang mức nợ tương đối lớn như Ngân hàng Nhật Bản.
+
+290
+00:48:51,040 --> 00:49:02,400
+Nợ ở Nhật Bản được quốc gia hóa. Nợ ở Trung Quốc được địa phương hóa. Đó là một khác biệt quan trọng.
+
+291
+00:49:02,400 --> 00:49:18,000
+Một hệ quả lớn khác của sự tăng trưởng trong hệ thống ngân hàng Trung Quốc là Trung Quốc bắt đầu xuất khẩu hàng hóa ra thế giới nhiều hơn.
+
+292
+00:49:18,000 --> 00:49:25,688
+Năm 2000, Mỹ thống trị thế giới về xuất khẩu hàng chế tạo.
+
+293
+00:49:25,688 --> 00:49:34,559
+Nhưng đến năm 2024, gần như cả thế giới mua hàng xuất khẩu Trung Quốc.
+
+294
+00:49:34,559 --> 00:49:49,119
+Đây là một chiến lược có chủ đích của tư bản quốc gia Trung Quốc nhằm chuyển trọng tâm kinh tế từ Hoa Kỳ sang Trung Quốc.
+
+295
+00:49:49,119 --> 00:50:06,240
+Vấn đề là Trung Quốc chưa trở thành bá quyền vì Trung Quốc không quan tâm tới vai trò bá quyền, tức quyền lực quân sự.
+
+296
+00:50:06,240 --> 00:50:22,483
+Khi Trung Quốc mở rộng năng lực sản xuất ra thế giới, ai khó chịu? Hoa Kỳ.
+
+297
+00:50:22,483 --> 00:50:28,800
+Vì thế Hoa Kỳ áp thuế quan.
+
+298
+00:50:28,800 --> 00:50:39,504
+Về lý thuyết, mục tiêu của các chủ ngân hàng là duy trì trò chơi.
+
+299
+00:50:39,504 --> 00:50:46,640
+Họ muốn chuyển trọng tâm từ Mỹ sang Trung Quốc.
+
+300
+00:50:46,640 --> 00:50:58,800
+Nhưng việc đó không thật sự thành công, vì Trung Quốc không muốn gánh trách nhiệm làm đồng tiền dự trữ toàn cầu, cũng không muốn có căn cứ quân sự ở nước ngoài.
+
+301
+00:50:58,800 --> 00:51:07,680
+Trung Quốc không muốn làm điều đó, và Mỹ cũng không để Trung Quốc làm điều đó. Vì vậy lựa chọn duy nhất còn lại là Israel.
+
+302
+00:51:07,680 --> 00:51:21,920
+Đó là lý do tôi tin rằng cuộc chiến Iran này sẽ chuyển trọng tâm từ Mỹ sang Israel, vì Israel muốn trở thành trung tâm của thế giới, còn Trung Quốc thì không.
+
+303
+00:51:21,920 --> 00:51:32,800
+Để điều này xảy ra, tư bản xuyên quốc gia trước hết cần làm kinh tế Mỹ sụp đổ. Có nhiều cách để làm điều đó.
+
+304
+00:51:32,800 --> 00:51:46,240
+Họ có thể làm sụp bong bóng tín dụng tư nhân, bong bóng A I, hoặc cả hai cùng lúc. Vì sao họ muốn làm vậy? Vì tư bản xuyên quốc gia kiếm tiền thông qua hoạt động.
+
+305
+00:51:46,240 --> 00:51:59,520
+Khi con người đi làm việc, dù là khởi nghiệp hay gây chiến, tiền mới được tạo ra. Hiện nay Mỹ có nhiều vấn đề.
+
+306
+00:51:59,520 --> 00:52:08,640
+Vấn đề thứ nhất là già hóa. Giới tinh hoa ngày càng già, ít năng động hơn, ít năng lượng hơn và ít tinh thần khởi nghiệp hơn.
+
+307
+00:52:08,640 --> 00:52:21,440
+Vấn đề thứ hai là nới lỏng định lượng, tức có quá nhiều tiền trong hệ thống. Khi có quá nhiều tiền, người ta làm những việc ngu ngốc như cờ bạc.
+
+308
+00:52:21,440 --> 00:52:36,720
+Vấn đề cuối cùng là Mỹ không thể thắng chiến tranh. Tình hình Iran đang cho thấy quân đội Mỹ không mạnh như nhiều người tưởng.
+
+309
+00:52:36,720 --> 00:52:52,000
+Nếu bạn là tư bản xuyên quốc gia, bạn thấy dân số Mỹ quá già, có quá nhiều tiền khiến người ta đánh bạc, và quân đội Mỹ không còn xuất sắc, thì bạn sẽ chuyển vốn ra nước ngoài.
+
+310
+00:52:52,000 --> 00:53:06,400
+Nhưng trước khi làm vậy, bạn muốn thiết kế một cuộc khủng hoảng tài chính để kiếm càng nhiều tiền càng tốt, giống khủng hoảng năm 2008. Ta không biết khi nào nó xảy ra, nhưng nó sẽ đến rất đột ngột.
+
+311
+00:53:06,400 --> 00:53:20,640
+Bạn có thể hỏi vì sao Trump và người Mỹ lại cho phép chuyện này xảy ra. Họ biết chứ. Họ phải biết điều này đang đến.
+
+312
+00:53:20,640 --> 00:53:36,640
+Câu trả lời là về dài hạn, việc kinh tế sụp đổ và tư bản xuyên quốc gia rời đi có thể nằm trong lợi ích tốt nhất của nước Mỹ. Điều đó chúng ta sẽ bàn ở buổi sau.
+
+313
+00:53:36,640 --> 00:53:48,720
+Tư bản xuyên quốc gia đang rời Mỹ. Người Mỹ có thể nhìn Ngân hàng Anh, City of London và các dòng vốn này rời đi rồi nói: cảm ơn, hãy đi khỏi đây.
+
+314
+00:53:48,720 --> 00:53:55,200
+Khi chúng rời đi, nước Mỹ có lẽ sẽ có tương lai sáng hơn nhiều.
+
+315
+00:53:55,200 --> 00:54:01,760
+Đó là chuyện chúng ta sẽ bàn ở buổi sau. Có câu hỏi nào không?
+
+316
+00:54:01,760 --> 00:54:08,906
+Có vẻ như Mỹ đang ở thế bất lợi, nhưng họ biết mình đang làm gì.
+
+317
+00:54:08,906 --> 00:54:16,499
+Họ đang đẩy lực ký sinh ra khỏi đất nước để có lợi ích dài hạn hơn.
+
+318
+00:54:16,499 --> 00:54:17,839
+Có đúng không?
+
+319
+00:54:17,839 --> 00:54:22,499
+Đây là điều chúng ta sẽ bàn buổi sau.
+
+320
+00:54:22,499 --> 00:54:36,480
+Nhưng đây không phải một chiến lược cố ý theo nghĩa đơn giản, vì sụp đổ kinh tế sẽ phá hủy rất nhiều của cải ở Mỹ.
+
+321
+00:54:36,480 --> 00:54:45,599
+Nó có thể dẫn tới nội chiến ở Mỹ và gây nhiều đau đớn. Nhưng Donald Trump tin rằng nỗi đau này là cần thiết.
+
+322
+00:54:45,599 --> 00:54:53,280
+Theo họ, nỗi đau đó cần thiết để làm nước Mỹ vĩ đại trở lại. Muốn vậy, phải loại bỏ các lực ký sinh này.
+
+323
+00:54:53,280 --> 00:54:58,955
+Nhưng loại bỏ lực ký sinh là một quá trình đau đớn.
+
+324
+00:54:58,955 --> 00:55:05,576
+Nó giống điều trị ung thư: hóa trị, phẫu thuật, ăn uống khắc nghiệt.
+
+325
+00:55:05,576 --> 00:55:09,359
+Đó là một quá trình rất khó chịu.
+
+326
+00:55:09,359 --> 00:55:24,640
+Tư bản xuyên quốc gia là một lực ký sinh, như khối ung thư trên vật chủ Mỹ. Mỹ phải loại bỏ nó, nhưng quá trình này sẽ rất đau và kéo dài nhiều năm, có thể nhiều thập kỷ.
+
+327
+00:55:24,640 --> 00:55:38,400
+Nếu tư bản xuyên quốc gia rời Mỹ, sự dịch chuyển đó sẽ tác động thế nào tới kinh tế toàn cầu?
+
+328
+00:55:38,400 --> 00:55:52,160
+Đây là điều chúng ta sẽ bàn sau, nhưng tôi sẽ chỉ ra cách dịch chuyển xảy ra.
+
+329
+00:55:52,160 --> 00:56:05,119
+Hiện tại bạn đang ở Mỹ, và nơi tốt nhất để chuyển vốn sang là Israel. Vì sao? Vì bạn quan tâm tới hoạt động, tức đặt tiền ở nơi nó sẽ tăng trưởng.
+
+330
+00:56:05,119 --> 00:56:11,280
+Nó tăng trưởng vì dự án Đại Israel.
+
+331
+00:56:11,280 --> 00:56:21,040
+Israel muốn chinh phục Trung Đông, rồi phải tái thiết sau chiến tranh.
+
+332
+00:56:21,040 --> 00:56:33,760
+Sau đó Israel sẽ trở thành trung tâm thương mại toàn cầu, vì Israel kiểm soát châu Phi. Đây là điều chúng ta sẽ bàn ở buổi sau.
+
+333
+00:56:33,760 --> 00:56:45,359
+Đó là lý do bạn muốn đầu tư vào Israel. Thứ nhất, họ sẽ tiếp tục đánh trận để đạt dự án lớn hơn, mà chiến tranh là hoạt động kinh doanh có lời nhất thế giới.
+
+334
+00:56:45,359 --> 00:56:56,480
+Thứ hai, họ phải tái thiết sau mọi sự phá hủy, nên cần vốn. Thứ ba, họ sẽ kiểm soát thương mại toàn cầu nhờ vị trí địa lý.
+
+335
+00:56:56,480 --> 00:56:59,440
+Vì vậy Israel hút vốn xuyên quốc gia.
+
+336
+00:56:59,440 --> 00:57:06,720
+Tôi không nói về một nghìn đô la của cá nhân, mà là hàng nghìn tỷ đô la có thể đổ vào Israel.
+
+337
+00:57:06,720 --> 00:57:18,175
+Để rời Mỹ, thứ bạn muốn là thị trường chứng khoán sụp đổ, tức sụp đổ kinh tế.
+
+338
+00:57:18,175 --> 00:57:27,720
+Vì sao? Vì nó cho phép bạn rời đi với càng nhiều tiền càng tốt.
+
+339
+00:57:27,720 --> 00:57:41,440
+Sụp đổ kinh tế cũng cho phép bạn mua các tài sản bị bán tháo, tức tài nguyên như nước và dầu mỏ.
+
+340
+00:57:41,440 --> 00:57:52,960
+Bạn muốn tạo ra càng nhiều thiệt hại càng tốt, vì khi đó việc mua các tài nguyên này sẽ dễ hơn. Những người này lập kế hoạch trước hàng thập kỷ.
+
+341
+00:57:52,960 --> 00:58:04,960
+Tư bản xuyên quốc gia cố tạo ra càng nhiều hỗn loạn càng tốt, vì trong hỗn loạn có lợi nhuận. Nếu mọi người ngồi yên không làm gì, bạn không kiếm được tiền.
+
+342
+00:58:04,960 --> 00:58:13,280
+Nhưng nếu con người đánh nhau, nếu máu đổ trên đường phố, bạn có thể kiếm rất nhiều tiền. Điều đó có rõ không?
+
+343
+00:58:13,280 --> 00:58:24,160
+Còn câu hỏi nào nữa không? Buổi sau chúng ta sẽ nói về điều xảy ra sau sự dịch chuyển tài chính này.
+
+
