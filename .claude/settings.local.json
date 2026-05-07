@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(grep -c \"^[0-9]\\\\+$\" \"srt-output/[Vietnamese] Game Theory #19  The Hollywood-Pentagon Complex.srt\")"
+      "Bash(grep -c \"^[0-9]\\\\+$\" \"srt-output/[Vietnamese] Game Theory #19  The Hollywood-Pentagon Complex.srt\")",
+      "Bash(awk 'BEGIN{n=0} /^[0-9]+$/ && prev_blank{n++; print n; prev_blank=0; next} /^$/{print; prev_blank=1; next} {print; prev_blank=0} BEGIN{prev_blank=1}' \"[Vietnamese] Game Theory #21  World War Trump.srt\")",
+      "Bash(mv tmp_out.srt \"[Vietnamese] Game Theory #21  World War Trump.srt\")",
+      "Bash(grep -c \"^[0-9]\\\\+$\" \"[Vietnamese] Game Theory #21  World War Trump.srt\")"
     ]
   }
 }
