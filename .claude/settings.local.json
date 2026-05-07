@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -c \"^[0-9]\\\\+$\" \"srt-output/[Vietnamese] Game Theory #19  The Hollywood-Pentagon Complex.srt\")"
+    ]
+  }
+}
