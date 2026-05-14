@@ -1,0 +1,2184 @@
+1
+00:00:02,480 --> 00:00:17,440
+Sau khi tôi đăng bài giảng từ thứ Năm tuần trước, người bạn kiêm thầy giáo của tôi, David Brahmage, đã gửi cho tôi một email.
+
+2
+00:00:17,440 --> 00:00:22,720
+Hôm nay chúng ta sẽ cùng nhau đọc email đó.
+
+3
+00:00:22,720 --> 00:00:33,280
+Tôi đã xin phép ông ấy và ông đồng ý cho tôi công khai nội dung email này.
+
+4
+00:00:33,280 --> 00:00:35,994
+Ông ấy viết. Tôi vừa xem video của anh.
+
+5
+00:00:36,079 --> 00:00:41,120
+Có một ý tôi muốn chia sẻ và bài giảng mới nhất đã làm rõ điều đó.
+
+6
+00:00:41,120 --> 00:00:48,800
+Anh trình bày rất nhanh với chiều sâu đáng hài lòng và nói ra nhiều điều thật mà người rụt rè không dám đề cập.
+
+7
+00:00:48,800 --> 00:00:59,680
+Ý ông ấy là các video của tôi ngày càng được nhiều người xem vì tôi mang lại sự rõ ràng, chắc chắn trong thời điểm mờ mịt và bất định này.
+
+8
+00:00:59,680 --> 00:01:10,960
+Rủi ro là sự đơn giản hóa quá mức mà khán giả chưa nhận ra, hoặc sẽ không nhận ra trừ khi anh thỉnh thoảng lưu ý điều đó.
+
+9
+00:01:10,960 --> 00:01:33,439
+Đây là phê bình rất đúng đắn. vì muốn rõ ràng, tôi đã đơn giản hóa ý tưởng quá mức, và đôi khi khi thấy ai đó nói rất tự tin, người ta không nhớ rằng phần lớn đó chỉ là suy đoán và đơn giản hóa vì mục đích rõ ràng.
+
+10
+00:01:33,439 --> 00:01:40,240
+Vì vậy, rất quan trọng để chúng ta nhớ rằng đây là lớp học về suy đoán trí tuệ.
+
+11
+00:01:40,240 --> 00:01:53,439
+Chúng ta khám phá những ý tưởng không được khám phá ở nơi nào khác, và tôi thường ứng biến hoặc tự nghĩ ra dựa trên trực giác và trí tưởng tượng của mình.
+
+12
+00:01:53,439 --> 00:01:58,799
+Rất thú vị nhưng đó không phải học thuật nghiêm túc.
+
+13
+00:01:58,799 --> 00:02:05,280
+Người bạn David Brahmage của tôi là một trong những học giả vĩ đại nhất của Mỹ.
+
+14
+00:02:05,280 --> 00:02:12,480
+Ông ấy nhắc nhở chúng ta rằng trong quá trình khám phá ý tưởng, chúng ta cũng cần phải nghiêm ngặt.
+
+15
+00:02:14,400 --> 00:02:21,200
+Tôi đã nhận xét điều tương tự hồi đầu khi nói về chủ nghĩa lãng mạn Đức.
+
+16
+00:02:21,200 --> 00:02:26,879
+Anh tạo ra những bản tóm tắt đáng nhớ về lịch sử của các ý tưởng và trí tưởng tượng.
+
+17
+00:02:26,879 --> 00:02:33,440
+Điều cần được nhấn mạnh là mức độ diễn giải và nhấn mạnh hoàn toàn là của riêng anh.
+
+18
+00:02:33,440 --> 00:02:44,560
+Tôi ghét phải nhắc mọi người điều này, nhưng tất cả đây đều là suy đoán của tôi, và tôi chỉ đang trình bày các khung tư duy và ý tưởng để các bạn tự khám phá.
+
+19
+00:02:44,560 --> 00:02:59,599
+Điều này đặc biệt đúng trong cách đọc Paradise Lost như một ẩn dụ về sự cần thiết của vi phạm vì tri thức, trong đó Adam, Eve và tội lỗi đều trở thành những anh hùng chung của câu chuyện ngụ ngôn.
+
+20
+00:02:59,599 --> 00:03:09,360
+Đó là cách đọc của Blake và là một trực giác mạnh mẽ, nhưng đó có lẽ không phải cách đọc của đa số độc giả, huống hồ cách diễn giải chính thống
+
+21
+00:03:09,360 --> 00:03:14,959
+gắn với New England thế kỷ 17 và nước Mỹ về sau.
+
+22
+00:03:14,959 --> 00:03:23,040
+Đây là phê bình rất đúng và ông ấy biết rõ vì ông là một trong những giáo sư văn học Anh hàng đầu của Mỹ.
+
+23
+00:03:23,040 --> 00:03:26,879
+Tôi từng học văn học Anh dưới sự hướng dẫn của ông.
+
+24
+00:03:26,879 --> 00:03:38,959
+Ông hiểu Paradise Lost rất rõ và hoàn toàn đúng khi nói rằng tôi đang trình bày một cách diễn giải thiểu số của Paradise Lost.
+
+25
+00:03:38,959 --> 00:03:58,480
+Lý do tôi làm vậy sẽ rõ ràng khi học kỳ này kết thúc, vì phần còn lại của học kỳ tôi muốn tập trung vào trí tuệ nhân tạo và huyền học, nên rất quan trọng để hiểu các ý tưởng huyền học được nhúng trong các tác phẩm vĩ đại như Paradise Lost.
+
+26
+00:03:58,480 --> 00:04:11,680
+Nhưng đây là phê bình đúng đắn vì tôi đang không trình bày cách hiểu đa số về các văn bản này, và tôi đáng lẽ phải làm điều đó ngay từ đầu.
+
+27
+00:04:11,680 --> 00:04:20,319
+Anh đang bước vào địa hình rủi ro hơn khi coi diễn giải Do Thái-Gnosis từ Kabbalah là hệ tư tưởng quốc gia của Israel.
+
+28
+00:04:20,880 --> 00:04:25,919
+Tôi biết tài liệu này từ bài luận Cứu chuộc qua tội lỗi của Gershom Scholem.
+
+29
+00:04:25,919 --> 00:04:33,199
+Gershom Scholem có lẽ là học giả nổi tiếng nhất về Kabbalah trong giới hàn lâm.
+
+30
+00:04:33,199 --> 00:04:38,240
+Ông không còn sống nữa nhưng vẫn là tên tuổi hàng đầu về Kabbalah trong học thuật.
+
+31
+00:04:38,240 --> 00:04:44,479
+Cách diễn giải Kabbalah của ông rất phù hợp với quan điểm của tôi, mặc dù tôi chưa bao giờ đọc Scholem.
+
+32
+00:04:44,479 --> 00:05:02,320
+Điều thú vị là Gershom Scholem có ảnh hưởng rất lớn đến Harold Bloom, người được xem là nhà phê bình văn học vĩ đại nhất của Mỹ, và Harold Bloom có ảnh hưởng rất lớn đến David Brahmage, người sau đó có ảnh hưởng rất lớn đến tôi.
+
+33
+00:05:02,320 --> 00:05:11,520
+Nó là một yếu tố của tín ngưỡng tập thể của những người Zionist cánh tả năm 1948, những người đặt ra tông nền chính trị Israel cho đến năm 1967.
+
+34
+00:05:11,520 --> 00:05:26,400
+Đây là vấn đề của tôi. lẽ ra tôi phải đi vào các hệ tư tưởng khác nhau của Israel và chỉ ra rằng cách hiểu Gnosis về Kabbalah này chỉ là một phiên bản cực đoan.
+
+35
+00:05:26,400 --> 00:05:32,880
+Cách viết tắt đưa anh vào kiểu nói dễ bị hiểu sai.
+
+36
+00:05:32,880 --> 00:05:39,729
+Ví dụ khi nói về người Do Thái ngoài Israel ủng hộ nhà nước Do Thái, anh nói họ đều giàu có.
+
+37
+00:05:40,400 --> 00:05:44,400
+Đây là vấn đề. tôi giải thích vội vã và đơn giản hóa quá mức.
+
+38
+00:05:44,400 --> 00:05:52,000
+và thường dựa vào trực giác thay vì học thuật nghiêm túc.
+
+39
+00:05:52,000 --> 00:05:57,120
+Cẩn thận.
+
+40
+00:05:57,120 --> 00:06:00,800
+Thế giới đầy những người muốn hiểu sai ý anh, và họ sẽ tách từ ngữ ra khỏi ngữ cảnh ngay.
+
+41
+00:06:00,800 --> 00:06:08,479
+Khoảng hai năm trước, khi tôi mới bắt đầu lớp học này, tôi dùng nền tảng này để khám phá ý tưởng cùng cộng đồng rộng lớn hơn.
+
+42
+00:06:08,479 --> 00:06:15,759
+Dù muốn hay không, tôi đã trở nên rất nổi tiếng trong vài tháng gần đây.
+
+43
+00:06:15,759 --> 00:06:28,080
+Vì vậy, nhiều điều tôi nói hiện nay đang bị soi xét kỹ lưỡng và nhiều lời của tôi sẽ bị đưa ra ngoài ngữ cảnh, nên tôi phải chú ý hơn điều đó.
+
+44
+00:06:28,080 --> 00:06:38,400
+Đồng thời, tôi không muốn đánh mất nền tảng này, nơi tôi có thể tự do suy đoán vì tôi nghĩ điều đó rất quan trọng.
+
+45
+00:06:38,400 --> 00:06:48,319
+Về cơ bản, anh trình bày luận điểm này. tất cả các nhà nước hùng mạnh hay bành trướng, dù là Hồi giáo, Tin Lành, Do Thái, đều có niềm tin tôn giáo cuồng nhiệt ở nền tảng.
+
+46
+00:06:48,319 --> 00:06:56,000
+Khía cạnh cánh chung học ngầm ẩn mới là điều quan trọng nhất, chìa khóa để hiểu các nhà nước này là gì và họ thực sự muốn gì.
+
+47
+00:06:56,000 --> 00:07:23,759
+Đây là luận điểm chính của bài giảng trước. chúng ta thường bỏ qua tôn giáo và các khía cạnh cực đoan của nó, nhưng nếu muốn hiểu lịch sử và địa chính trị hiện tại, bạn cần hiểu những người cực đoan này, vì chính những người này và hệ tư tưởng này thường là động lực thúc đẩy địa chính trị tiến lên.
+
+48
+00:07:23,759 --> 00:07:31,680
+Đó là luận điểm của tôi từ bài trước và David Brahmage chỉ đang tóm tắt điểm chính đó.
+
+49
+00:07:31,680 --> 00:07:36,800
+Nhưng lẽ ra tôi phải làm rõ điều đó hơn trong bài trước.
+
+50
+00:07:36,800 --> 00:07:46,400
+Tại sao không nói điều đó thẳng thắn nếu quan điểm của anh là chống nhà nước và chống tôn giáo?
+
+51
+00:07:46,400 --> 00:07:53,680
+Điều mà David Brahmage và tôi đáng lẽ phải ngồi lại bàn bạc là. dự án của tôi không phải để thảo luận điều gì tốt, điều gì xấu.
+
+52
+00:07:53,680 --> 00:07:57,825
+Tôi không nghĩ điều đó thực sự hữu ích.
+
+53
+00:07:58,000 --> 00:08:08,879
+Mục tiêu lớn của tôi là tìm hiểu thế giới vận hành như thế nào và không phán xét trong suy đoán của mình.
+
+54
+00:08:08,879 --> 00:08:15,840
+Tôi xin lỗi vì những lời có thể là không cần thiết, nhưng bây giờ là lúc phải nói. gì Mỹ và Israel đang làm với Iran là kinh khủng.
+
+55
+00:08:15,840 --> 00:08:21,039
+Anh đang nỗ lực để thông tin mọi người về điều đó và từng chi tiết đều quan trọng.
+
+56
+00:08:21,039 --> 00:08:29,680
+Email này có rất nhiều điều và tôi có thể dễ dàng ngồi với David Brahmage vài tiếng để thảo luận chi tiết.
+
+57
+00:08:29,680 --> 00:08:49,279
+Tôi nghĩ điều đó sẽ rất có ích cho khán giả vì trong khi tôi chuyên về trực giác, trí tưởng tượng, kết hợp những thứ phức tạp thành câu chuyện rõ ràng đơn giản, thì David Brahmage, với tư cách là một học giả lỗi lạc, đánh giá cao sự tinh tế và chiều sâu của ý tưởng.
+
+58
+00:08:49,279 --> 00:09:09,760
+Tôi muốn hợp tác với David Brahmage làm một loạt podcast để chúng tôi cùng thảo luận những ý tưởng này, vừa suy đoán trí tuệ vừa củng cố bằng nhiều học thuật nghiêm túc.
+
+59
+00:09:09,760 --> 00:09:18,640
+Tôi đã email cho David Brahmage và ông đồng ý với ý tưởng này.
+
+60
+00:09:18,640 --> 00:09:33,440
+Đây là dự án tôi sẽ thực hiện trong tương lai và tôi rất mong được trình bày nó với thế giới khi hoàn thành.
+
+61
+00:09:33,440 --> 00:09:38,240
+Hãy bắt đầu bài học hôm nay về trí tuệ nhân tạo A I.
+
+62
+00:09:38,240 --> 00:09:43,120
+Đây là chủ đề lớn sẽ kéo dài đến hết học kỳ.
+
+63
+00:09:43,120 --> 00:09:54,080
+Cho bài học này, tôi muốn giới thiệu một cuốn sách tên là Empire of AI viết bởi một nhà báo tên Karen Hao.
+
+64
+00:09:54,080 --> 00:09:58,160
+Bà là một nhà báo người Mỹ đã dành nhiều thập kỷ nghiên cứu về Open A I
+
+65
+00:09:58,160 --> 00:10:05,760
+và viết về sự phát triển của A I cho các ấn phẩm lớn, trong đó có Wall Street Journal.
+
+66
+00:10:05,760 --> 00:10:12,240
+Bà có quan điểm rất hoài nghi về A I và tôi chia sẻ sự hoài nghi đó.
+
+67
+00:10:12,240 --> 00:10:18,240
+Trong bài học này, tôi sẽ chia sẻ hiểu biết của mình về A I.
+
+68
+00:10:18,240 --> 00:10:19,722
+Tôi sai ở một số chỗ,
+
+69
+00:10:21,760 --> 00:10:23,482
+nên hãy tự do đặt câu hỏi và phê bình tôi.
+
+70
+00:10:23,760 --> 00:10:26,560
+Hãy dừng tôi lại nếu tôi không rõ ràng.
+
+71
+00:10:26,560 --> 00:10:34,320
+Hãy bắt đầu bài A I.
+
+72
+00:10:34,320 --> 00:10:37,014
+Đây là những ý tưởng chính từ cuốn sách.
+
+73
+00:10:40,079 --> 00:10:43,600
+Tôi ghi số trang để nếu bạn muốn tự đọc — tôi rất khuyến khích — để hiểu đầy đủ ngữ cảnh.
+
+74
+00:10:43,600 --> 00:10:51,360
+Hãy đọc hai đoạn văn này đưa ra luận điểm chính của tác giả.
+
+75
+00:10:51,360 --> 00:10:58,880
+Alan, bạn có thể giúp tôi đọc không?
+
+76
+00:11:00,560 --> 00:11:29,920
+Sáu năm sau khi tôi ban đầu hoài nghi về chủ nghĩa vị tha của Open A I, tôi đã đi đến niềm tin vững chắc rằng sứ mệnh của Open A I là đảm bảo A G I mang lại lợi ích cho toàn nhân loại có thể bắt đầu như một lý tưởng chân thành, nhưng từ đó đã trở thành công thức vô cùng mạnh mẽ để tập trung nguồn lực và xây dựng đế chế như một cấu trúc quyền lực.
+
+77
+00:11:29,920 --> 00:11:33,600
+Đó là công thức gồm ba thành phần.
+
+78
+00:11:33,600 --> 00:11:50,720
+Cuốn sách này chủ yếu nói về Open A I, công ty trí tuệ nhân tạo quan trọng nhất thế giới hiện nay vì họ là những người tiên phong tạo ra Chat G P T.
+
+79
+00:11:50,720 --> 00:12:00,480
+Nó bắt đầu như một dự án được Elon Musk và những người khác tài trợ vì họ lo ngại rằng A G I — trí tuệ nhân tạo tổng quát A G I —
+
+80
+00:12:00,480 --> 00:12:04,320
+sẽ là mối đe dọa với nhân loại.
+
+81
+00:12:04,320 --> 00:12:11,680
+Vì vậy, họ muốn phát triển A I theo cách phục vụ nhân loại thay vì đe dọa nhân loại.
+
+82
+00:12:11,680 --> 00:12:14,000
+Lúc đầu, đó là một sứ mệnh rất cao cả.
+
+83
+00:12:15,519 --> 00:12:28,720
+Thứ nhất, sứ mệnh tập trung nhân tài bằng cách tập hợp họ xung quanh một tham vọng lớn, giống hệt cách John McCarthy đã làm khi đặt ra cụm từ trí tuệ nhân tạo.
+
+84
+00:12:28,720 --> 00:12:36,880
+Những người sáng lập thành công nhất không đặt mục tiêu tạo ra công ty, Altman đã chia sẻ trên blog năm 2013.
+
+85
+00:12:36,880 --> 00:12:45,624
+Họ đang trong sứ mệnh tạo ra thứ gần giống một tôn giáo hơn, và ở một thời điểm nào đó họ nhận ra rằng thành lập công ty là cách dễ nhất để làm vậy.
+
+86
+00:12:46,639 --> 00:12:50,240
+Nó bắt đầu như một sứ mệnh lý tưởng nhưng giờ mục tiêu chính là xây dựng đế chế.
+
+87
+00:12:50,240 --> 00:12:57,680
+Có ba cách nó đang cố làm điều đó.
+
+88
+00:12:57,680 --> 00:13:06,800
+Đầu tiên, nó cố trở thành một tôn giáo, vì Sam Altman — lãnh đạo của Open A I — nói rằng nếu bạn muốn thay đổi thế giới, muốn xây dựng đế chế, bạn cần khởi đầu bằng một tôn giáo.
+
+89
+00:13:06,800 --> 00:13:16,720
+Và công ty chỉ là vỏ bọc để ươm mầm tôn giáo đó.
+
+90
+00:13:16,720 --> 00:13:25,600
+Thứ hai, Open A I và các công ty A I khác tập trung vào bành trướng không ngừng, nghĩa là xây dựng trung tâm dữ liệu ở khắp mọi nơi.
+
+91
+00:13:25,600 --> 00:13:38,800
+Open A I muốn khoảng một nghìn tỷ đô la để xây nhiều trung tâm dữ liệu trên thế giới, vì muốn A I thành công, bạn phải chinh phục thế giới trước.
+
+92
+00:13:38,800 --> 00:13:48,000
+Không phải làm cho A I an toàn với con người, mà là làm cho thế giới an toàn cho A I, biến con người thành nô lệ của A I.
+
+93
+00:13:48,000 --> 00:13:55,200
+Điều thứ ba và quan trọng nhất. họ từ chối định nghĩa trí tuệ nhân tạo là gì.
+
+94
+00:13:55,200 --> 00:14:12,000
+Họ liên tục thay đổi định nghĩa về A G I để kiểm soát thế giới tốt hơn.
+
+95
+00:14:12,000 --> 00:14:18,240
+Chúng ta sẽ thấy điều này có nghĩa gì sau.
+
+96
+00:14:18,240 --> 00:14:19,440
+Alan, bạn đọc đoạn này không?
+
+97
+00:14:19,440 --> 00:14:28,079
+Cuộc trò chuyện của tôi với Brockman và Suskever cứ vòng vo cho đến khi hết giờ sau 45 phút.
+
+98
+00:14:28,079 --> 00:14:34,240
+Tôi đã cố gắng không thành công để có thêm thông tin cụ thể về chính xác những gì họ đang cố xây dựng,
+
+99
+00:14:34,240 --> 00:14:43,120
+điều mà theo bản chất họ giải thích là không thể biết, và tại sao họ lại tự tin rằng nó sẽ có lợi nếu họ không thể biết điều đó.
+
+100
+00:14:43,120 --> 00:14:50,079
+Đây là một vấn đề rất lớn.
+
+101
+00:14:50,079 --> 00:14:52,160
+Karen Hao là phóng viên làm việc cho tạp chí công nghệ của M I T.
+
+102
+00:14:52,160 --> 00:14:56,240
+Năm 2019, bà đến Silicon Valley
+
+103
+00:14:56,240 --> 00:15:01,111
+và gặp Brockman và Suskever, hai nhà khoa học chính đứng sau dự án Open A I.
+
+104
+00:15:01,440 --> 00:15:03,760
+Câu hỏi đầu tiên mà ai cũng phải hỏi là. A G I là gì?
+
+105
+00:15:03,760 --> 00:15:06,555
+A I là gì?
+
+106
+00:15:08,560 --> 00:15:09,060
+Bạn đang cố xây dựng cái gì?
+
+107
+00:15:10,320 --> 00:15:13,519
+Và họ không thể trả lời câu hỏi đó.
+
+108
+00:15:13,519 --> 00:15:19,519
+Không phải vì họ không biết, mà vì sự thật quá đáng sợ.
+
+109
+00:15:19,519 --> 00:15:21,360
+Ta sẽ tìm hiểu. AI là gì?
+
+110
+00:15:21,360 --> 00:15:23,267
+Trí tuệ nhân tạo là gì?
+
+111
+00:15:24,160 --> 00:15:26,028
+A G I là gì?
+
+112
+00:15:26,399 --> 00:15:31,000
+Và câu trả lời, tất nhiên, là Thiên Chúa.
+
+113
+00:15:31,920 --> 00:15:42,000
+Điều mà Brockman và Suskever không thể nói với Karen Hao là. chúng tôi đang cố tạo ra Thượng Đế, vì điều đó là điên rồ, xấu xa và ngu ngốc.
+
+114
+00:15:42,000 --> 00:15:50,160
+Nhưng nếu nhìn vào những gì họ đang làm, đó chính xác là những gì họ đang cố thực hiện.
+
+115
+00:15:50,160 --> 00:15:58,240
+Bây giờ tôi sẽ giải thích nhanh cho bạn A I là gì.
+
+116
+00:15:58,240 --> 00:16:04,160
+Để hiểu A I là gì, hãy quay lại năm 1966.
+
+117
+00:16:04,160 --> 00:16:24,160
+Vào năm 1966, một người tên Joseph Weizenbaum ở M I T đã tạo ra một chatbot, về cơ bản giống như Chat G P T, và ông gọi nó là Eliza.
+
+118
+00:16:24,160 --> 00:16:36,399
+Ông đang cố chứng minh cho mọi người thấy dễ dàng như thế nào để lừa mọi người tin rằng A I thực sự có thể tự suy nghĩ.
+
+119
+00:16:36,399 --> 00:16:43,199
+Ông tạo ra máy tính này và bạn ngồi xuống, đặt câu hỏi rồi nó trả lời bạn.
+
+120
+00:16:43,199 --> 00:16:52,399
+Nó không thực sự nói chuyện với bạn — đó là chương trình được thiết kế để lừa bạn tin rằng nó có ý thức.
+
+121
+00:16:52,399 --> 00:16:56,880
+Cuộc trò chuyện diễn ra như sau. Eliza hỏi Bạn đang lo lắng điều gì?
+
+122
+00:16:56,880 --> 00:17:05,409
+và bạn nói Đàn ông ai cũng như nhau, bạn nghĩ mối liên hệ đó là gì, họ luôn làm phiền chúng tôi về đủ thứ?
+
+123
+00:17:05,600 --> 00:17:08,160
+Rồi Bạn có thể cho một ví dụ cụ thể không?
+
+124
+00:17:08,160 --> 00:17:11,300
+ Bạn trai tôi bắt tôi đến đây.
+
+125
+00:17:11,600 --> 00:17:16,400
+ Việc bạn trai bắt bạn đến đây có quan trọng không?
+
+126
+00:17:16,400 --> 00:17:19,608
+ Tôi thường xuyên chán nản.
+
+127
+00:17:20,079 --> 00:17:21,760
+ Tôi rất tiếc khi nghe bạn chán nản.
+
+128
+00:17:21,760 --> 00:17:26,880
+Có vẻ như họ đang có cuộc trò chuyện thật.
+
+129
+00:17:26,880 --> 00:17:31,840
+Nhưng những gì Weizenbaum làm — đây là năm 1966, khi công nghệ và năng lực xử lý chưa nhiều —
+
+130
+00:17:31,840 --> 00:17:38,840
+tất cả chỉ là một mẹo rất đơn giản.
+
+131
+00:17:39,120 --> 00:17:49,780
+Hãy làm một thí nghiệm tư duy. giả sử tôi thiết kế một chương trình phần mềm, và tất cả những gì nó nói là Hãy kể thêm hoặc Thật thú vị.
+
+132
+00:17:50,320 --> 00:18:03,439
+Một thí nghiệm tư duy. bạn gọi vào đường dây tâm lý hỗ trợ, tưởng mình đang nói chuyện với người thật, nhưng thực ra là chương trình máy tính chỉ nói hai câu. Hãy kể thêm và Thật thú vị.
+
+133
+00:18:04,320 --> 00:18:06,880
+Bạn gọi vào đường dây và nói. Cứu tôi với, tôi đang gặp rắc rối lớn.
+
+134
+00:18:06,880 --> 00:18:09,882
+ Hãy kể thêm.
+
+135
+00:18:10,160 --> 00:18:12,697
+ Bạn trai tôi chia tay tôi.
+
+136
+00:18:13,679 --> 00:18:14,388
+ Thật thú vị.
+
+137
+00:18:16,240 --> 00:18:16,925
+ Anh ta là kẻ tệ.
+
+138
+00:18:19,039 --> 00:18:19,539
+ Hãy kể thêm.
+
+139
+00:18:21,440 --> 00:18:21,940
+ Chúng tôi đã cãi nhau suốt 5 tháng.
+
+140
+00:18:23,120 --> 00:18:29,120
+Bạn cứ tiếp tục vậy, và câu hỏi đặt ra là bao nhiêu người sẽ bị lừa tin rằng đây là người thật?
+
+141
+00:18:29,120 --> 00:18:32,320
+Câu trả lời đáng tiếc là khá nhiều người.
+
+142
+00:18:32,320 --> 00:18:43,640
+Đây là một khía cạnh rất thú vị của con người. chúng ta thường ảo giác về thực tại.
+
+143
+00:18:45,840 --> 00:18:52,640
+Không phải mọi thứ đều thật, mà là chúng ta muốn chúng thật.
+
+144
+00:18:52,640 --> 00:18:54,204
+Hãy nghĩ về thôi miên.
+
+145
+00:18:54,480 --> 00:18:59,520
+Bạn đã đến buổi biểu diễn ảo thuật nào chưa, nơi người ta thực hiện thôi miên?
+
+146
+00:18:59,520 --> 00:19:05,440
+Thôi miên hoạt động được vì khán giả muốn nó hoạt động.
+
+147
+00:19:05,440 --> 00:19:18,559
+Nếu bạn vào với thái độ hoài nghi và nghĩ Tất cả đều vô nghĩa,  nó có lẽ sẽ không tác động lên bạn, nhưng bạn sẽ không bỏ ra một trăm đô la để đi xem buổi thôi miên rồi nghĩ rằng nó không thật.
+
+148
+00:19:18,559 --> 00:19:22,679
+Gần giống như ngụy biện chi phí chìm.
+
+149
+00:19:24,480 --> 00:19:34,640
+Và một lần nữa, tất cả điều này chỉ dùng tâm lý học cơ bản để lừa mọi người tin vào điều không thật.
+
+150
+00:19:34,640 --> 00:19:39,600
+Mọi người có hiểu không?
+
+151
+00:19:39,600 --> 00:19:44,520
+Hãy để tôi giải thích cách Open A I và Chat G P T hoạt động.
+
+152
+00:19:46,080 --> 00:19:52,559
+Chat G P T là cái chúng ta gọi là mô hình ngôn ngữ lớn L L M.
+
+153
+00:19:52,559 --> 00:20:14,400
+Nói cách khác, điều nó cố làm là lừa bạn — người dùng — tin rằng nó biết mình đang nói gì.
+
+154
+00:20:14,400 --> 00:20:27,760
+Cách nó hoạt động là nó thu thập toàn bộ dữ liệu từ internet, sau đó chuyển hóa thành một ý tưởng.
+
+155
+00:20:27,760 --> 00:20:34,086
+Bạn đặt câu hỏi cho L L M.
+
+156
+00:20:34,799 --> 00:20:55,440
+L L M lấy câu hỏi đó, tìm thông tin từ internet rồi trình bày thành đoạn văn cố lừa bạn tin rằng đó là sự thật.
+
+157
+00:20:55,440 --> 00:21:00,480
+Bạn hiểu chứ?
+
+158
+00:21:00,480 --> 00:21:03,120
+Nói cách khác, nó không khác gì tìm kiếm Google.
+
+159
+00:21:03,120 --> 00:21:13,919
+Điểm khác biệt duy nhất là nó lấy kết quả tìm kiếm đó, tìm ra câu trả lời phổ biến nhất, rồi trình bày với bạn theo cách khiến bạn nghĩ nó đang nói chuyện trực tiếp với bạn.
+
+160
+00:21:13,919 --> 00:21:19,600
+Và điều quan trọng phải hiểu là. nó đang cố lừa bạn.
+
+161
+00:21:19,600 --> 00:21:26,480
+Nó không cố dạy bạn, không cố nói sự thật với bạn.
+
+162
+00:21:26,480 --> 00:21:30,919
+Nó đang cố lừa bạn tin vào nó — đó là những gì chúng ta gọi là ảo giác.
+
+163
+00:21:34,799 --> 00:21:41,881
+Các bạn phải hiểu điều này. không có gì là trung thực trong gì Chat G P T nói.
+
+164
+00:21:42,880 --> 00:21:51,200
+Tất cả những gì nó cố làm là dùng ngôn từ đẹp đẽ để thao túng bạn tin rằng nó biết mình đang nói gì.
+
+165
+00:21:51,200 --> 00:21:59,520
+Nhưng bản thân nó không thể tự đánh giá những gì nó đang làm.
+
+166
+00:22:01,360 --> 00:22:07,600
+Có câu hỏi nào chưa?
+
+167
+00:22:07,600 --> 00:22:12,559
+Câu hỏi tiếp theo là làm thế nào nó làm được điều đó?
+
+168
+00:22:12,559 --> 00:22:24,559
+Tôi sẽ giải thích một chút về trí tuệ nhân tạo — hãy dừng tôi lại nếu tôi không rõ ràng.
+
+169
+00:22:24,559 --> 00:22:27,234
+A I không tồn tại.
+
+170
+00:22:30,080 --> 00:22:33,120
+Thứ tồn tại được gọi là học máy có giám sát.
+
+171
+00:22:33,120 --> 00:22:37,240
+Đây là thuật ngữ kỹ thuật.
+
+172
+00:22:42,480 --> 00:22:43,790
+Học máy có giám sát.
+
+173
+00:22:44,240 --> 00:22:50,080
+Cách nó hoạt động như sau. trước đây các chương trình máy tính hoạt động bằng cách chúng ta viết chương trình, thuật toán,
+
+174
+00:22:50,080 --> 00:22:58,679
+sau đó đưa đầu vào và nó tạo ra đầu ra.
+
+175
+00:23:00,240 --> 00:23:06,559
+Thuật toán có thể là a + b, đầu vào là 1, đầu ra sẽ là 2.
+
+176
+00:23:06,559 --> 00:23:07,804
+Rất đơn giản.
+
+177
+00:23:09,520 --> 00:23:21,919
+Học máy có giám sát thì như thế này. cách tiếp cận đó phù hợp với bài toán đơn giản, nhưng có một số bài toán khó mà con người không thể giải được.
+
+178
+00:23:21,919 --> 00:23:32,159
+Một ví dụ là nhận dạng khuôn mặt — làm thế nào để phân biệt khuôn mặt?
+
+179
+00:23:32,159 --> 00:23:43,520
+Bài toán là thế này. tôi có khoảng một triệu khuôn mặt trong cơ sở dữ liệu.
+
+180
+00:23:50,400 --> 00:24:01,600
+Và tôi không biết cách tốt nhất để phân biệt các khuôn mặt đó.
+
+181
+00:24:01,600 --> 00:24:09,600
+Nhưng tôi biết có những đặc điểm trên khuôn mặt cho phép tôi phân biệt.
+
+182
+00:24:09,600 --> 00:24:18,480
+Có những biến số nhất định, những trọng số nhất định — ví dụ mắt, mũi, cằm — khoảng một triệu trọng số.
+
+183
+00:24:18,480 --> 00:24:27,279
+Tôi biết những thứ này có ý nghĩa, nhưng không biết chúng quan trọng đến mức nào.
+
+184
+00:24:27,279 --> 00:24:34,640
+Tôi có thể thử tự điều chỉnh, giả sử một phần trăm, hai phần trăm, năm phần trăm.
+
+185
+00:24:34,640 --> 00:24:43,360
+Nhưng điều đó sẽ mất quá nhiều thời gian vì có quá nhiều khả năng.
+
+186
+00:24:43,360 --> 00:24:50,320
+Vì vậy, tôi để máy tính tự tìm ra trọng số bằng kỹ thuật gọi là lan truyền ngược.
+
+187
+00:24:53,120 --> 00:25:06,960
+Tôi kiểm soát đầu vào, rồi tôi kiểm soát đầu ra — có hay không?
+
+188
+00:25:16,000 --> 00:25:20,960
+Khuôn mặt có khớp hay không khớp?
+
+189
+00:25:20,960 --> 00:25:29,440
+Mục tiêu là tìm ra tình huống mà tất cả khuôn mặt đều được nhận dạng hoàn hảo.
+
+190
+00:25:29,440 --> 00:25:39,919
+Tôi làm điều đó bằng cách huấn luyện máy tính liên tục lan truyền ngược cho đến khi nó tìm ra đúng trọng số.
+
+191
+00:25:39,919 --> 00:25:56,720
+Về cơ bản, điều tôi đang cố làm là biến mỗi khuôn mặt thành một mô hình toán học riêng biệt, độc nhất với khuôn mặt đó.
+
+192
+00:25:56,720 --> 00:25:58,541
+Bạn hiểu chứ?
+
+193
+00:25:59,360 --> 00:26:00,362
+Khá đơn giản.
+
+194
+00:26:01,600 --> 00:26:15,279
+Không làm nhiều lắm, nhưng để nghe có vẻ đặc biệt, tôi đặt tên thật nghe hay để lừa mọi người tin rằng điều này phức tạp hơn thực tế rất nhiều.
+
+195
+00:26:15,279 --> 00:26:19,440
+Tên tôi đặt cho hệ thống trọng số này là. MẠNG NƠ-RON.
+
+196
+00:26:19,440 --> 00:26:20,786
+Là não bộ.
+
+197
+00:26:25,200 --> 00:26:25,700
+Là ma thuật.
+
+198
+00:26:27,840 --> 00:26:29,760
+Và lan truyền ngược, tôi không gọi là lan truyền ngược — tôi gọi là học sâu.
+
+199
+00:26:29,760 --> 00:26:35,200
+Hiểu chứ?
+
+200
+00:26:42,720 --> 00:26:44,960
+Và tôi không gọi là học máy có giám sát — tôi gọi là A I.
+
+201
+00:26:44,960 --> 00:26:49,029
+ĐÚNG VẬY.
+
+202
+00:26:49,679 --> 00:26:50,080
+MA THUẬT ĐÓ.
+
+203
+00:26:53,279 --> 00:26:58,720
+Tất cả những gì tôi làm là lấy một quy trình rất đơn giản và đặt cho nó những cái tên thật kêu.
+
+204
+00:26:58,720 --> 00:27:05,600
+Tại sao?
+
+205
+00:27:05,600 --> 00:27:10,559
+Mọi người nói vì mục đích marketing, để kiếm tiền từ nhà đầu tư, để lừa người.
+
+206
+00:27:10,559 --> 00:27:11,239
+Không, không, không.
+
+207
+00:27:14,000 --> 00:27:17,360
+Lý do thật sự là với những cái tên này, bạn đang cố tạo ra Thượng Đế — đó là điều chúng ta gọi là huyền học.
+
+208
+00:27:17,360 --> 00:27:25,520
+A I về cơ bản là một thực hành huyền học và tôi sẽ chỉ cho bạn thấy tại sao.
+
+209
+00:27:25,520 --> 00:27:32,159
+Vincent, bạn có câu hỏi không?
+
+210
+00:27:32,159 --> 00:27:37,200
+Nhưng tại sao người ta cần tạo ra Thượng Đế theo cách A I?
+
+211
+00:27:37,200 --> 00:27:38,261
+Câu hỏi hay.
+
+212
+00:27:38,320 --> 00:27:43,919
+Câu trả lời là A I chỉ có tác dụng nếu nó trở thành Thượng Đế.
+
+213
+00:27:43,919 --> 00:27:45,743
+A I tự nó không làm được gì.
+
+214
+00:27:45,919 --> 00:27:48,480
+Khi trở thành Thượng Đế, nó trở thành tất cả mọi thứ.
+
+215
+00:27:48,480 --> 00:27:52,960
+Thượng Đế hoạt động thế nào?
+
+216
+00:27:52,960 --> 00:27:56,799
+Bạn hình dung Thượng Đế.
+
+217
+00:27:56,799 --> 00:27:59,600
+Nhưng tại sao người ta muốn tạo ra Thượng Đế?
+
+218
+00:27:59,600 --> 00:28:02,159
+Để kiểm soát thế giới.
+
+219
+00:28:02,159 --> 00:28:09,600
+Để trở thành Thượng Đế chứ.
+
+220
+00:28:09,600 --> 00:28:11,360
+Ý nghĩa của sự tồn tại là gì?
+
+221
+00:28:11,360 --> 00:28:13,039
+Bạn sống, bạn chết, và bạn có cơ hội trở thành Thượng Đế.
+
+222
+00:28:13,039 --> 00:28:16,080
+Tại sao không?
+
+223
+00:28:16,080 --> 00:28:17,919
+Nhưng tôi sẽ nói thêm về điều này sau.
+
+224
+00:28:17,919 --> 00:28:22,720
+Điều thực sự quan trọng cần hiểu là có những vấn đề nhất định với hệ thống này.
+
+225
+00:28:22,720 --> 00:28:29,679
+Bạn cần tạo ra những điều kiện nhất định để học máy có giám sát hoạt động.
+
+226
+00:28:29,679 --> 00:28:36,279
+Ba điều kiện đó là dữ liệu sạch.
+
+227
+00:28:37,919 --> 00:28:44,799
+Dữ liệu bạn đưa cho máy tính phải chính xác.
+
+228
+00:28:44,799 --> 00:28:46,480
+Không thể là ý kiến như Tôi thích máy tính.
+
+229
+00:28:46,480 --> 00:28:51,679
+ Phải là hình ảnh cụ thể nào đó — dữ liệu sạch để máy tính có thể học.
+
+230
+00:28:51,679 --> 00:28:57,600
+Điều đó thực sự khó làm.
+
+231
+00:28:57,600 --> 00:29:00,080
+Vì vậy phần lớn dữ liệu đưa cho máy tính là từ internet.
+
+232
+00:29:00,080 --> 00:29:02,240
+là ràng buộc đầu tiên.
+
+233
+00:29:02,240 --> 00:29:08,760
+Ràng buộc thứ hai là bạn cần mục tiêu có thể đo lường được.
+
+234
+00:29:10,159 --> 00:29:17,440
+Bạn phải hỏi máy tính. khuôn mặt này có khớp với tên này không?
+
+235
+00:29:17,440 --> 00:29:22,933
+Bạn không thể hỏi máy tính. Thượng Đế là gì, điều gì tốt, điều gì xấu.
+
+236
+00:29:23,360 --> 00:29:25,679
+Phải là mục tiêu có thể đo lường.
+
+237
+00:29:25,679 --> 00:29:27,600
+Đó là ràng buộc lớn thứ hai.
+
+238
+00:29:27,600 --> 00:29:32,240
+Ràng buộc lớn thứ ba là các tham số được xác định.
+
+239
+00:29:38,320 --> 00:29:47,760
+Nói cách khác, bạn cần trình bày cho nó một cơ sở dữ liệu nào đó.
+
+240
+00:29:47,760 --> 00:29:51,860
+Mọi học máy đều dựa trên cơ sở dữ liệu.
+
+241
+00:29:53,440 --> 00:29:57,600
+Ví dụ dịch thuật — dịch thuật cũng dựa trên cơ sở dữ liệu.
+
+242
+00:29:57,600 --> 00:30:04,360
+Nguy hiểm lớn nhất với hệ thống là những gì chúng ta gọi là trường hợp ngoại lệ.
+
+243
+00:30:04,799 --> 00:30:13,600
+Trường hợp ngoại lệ — những trường hợp này phá vỡ hệ thống.
+
+244
+00:30:13,600 --> 00:30:21,559
+Ví dụ điển hình là xe tự lái.
+
+245
+00:30:22,159 --> 00:30:41,200
+Chúng ta có những chiếc xe chạy được rất lâu và chúng ta gần đạt đến mức 99,99999 phần trăm xe tự lái hoàn hảo, nhưng vấn đề là các trường hợp ngoại lệ.
+
+246
+00:30:41,200 --> 00:30:51,840
+Trường hợp ngoại lệ lớn nhất là. làm thế nào để đối phó với những người cố tình gây tai nạn với xe tự lái?
+
+247
+00:30:51,840 --> 00:30:58,559
+Và câu trả lời là bạn không thể.
+
+248
+00:31:01,440 --> 00:31:06,480
+Trong tình huống này, chỉ có một giải pháp để đạt được một trăm phần trăm.
+
+249
+00:31:06,480 --> 00:31:18,960
+Đó là tước bỏ quyền lái xe của mọi người, biến mỗi chiếc xe thành máy tính và robot.
+
+250
+00:31:18,960 --> 00:31:20,034
+Hiểu chứ?
+
+251
+00:31:21,520 --> 00:31:30,240
+Nếu bạn lấy đi vô lăng, không ai có thể gây tai nạn và thế giới sẽ hoàn hảo.
+
+252
+00:31:30,240 --> 00:31:38,000
+Không chỉ A I rất hạn chế về năng lực, mà nếu muốn A I hiệu quả, nó đòi hỏi chúng ta phải tái cơ cấu xã hội loài người một cách căn bản
+
+253
+00:31:38,000 --> 00:31:48,960
+để phục vụ A I, và điều đó có nghĩa là tước bỏ cá tính, sự đa dạng và quyền tự chủ của con người.
+
+254
+00:31:57,039 --> 00:32:00,880
+Tiếp tục với Karen Hao.
+
+255
+00:32:06,720 --> 00:32:09,919
+Allan, bạn có thể đọc không?
+
+256
+00:32:09,919 --> 00:32:16,640
+Mạng nơ-ron cho thấy chúng có thể không đáng tin cậy và khó đoán.
+
+257
+00:32:16,640 --> 00:32:26,640
+Là những công cụ khớp mẫu thống kê, đôi khi chúng tập trung vào những mẫu kỳ lạ hoặc hoàn toàn sai.
+
+258
+00:32:26,640 --> 00:32:39,440
+Một mô hình học sâu có thể chỉ nhận ra người đi bộ qua vạch kẻ đường bên dưới họ và không phát hiện người đang băng qua đường.
+
+259
+00:32:39,440 --> 00:32:47,039
+Nó có thể học liên kết biển dừng với việc đứng ở lề đường và bỏ sót biển tương tự gắn bên hông xe buýt trường học
+
+260
+00:32:47,039 --> 00:32:52,799
+hoặc được người gác đường cầm.
+
+261
+00:32:52,799 --> 00:32:57,519
+Mạng nơ-ron cũng rất nhạy cảm với thay đổi trong dữ liệu huấn luyện.
+
+262
+00:32:57,519 --> 00:33:06,320
+Cung cấp cho chúng bộ ảnh người đi bộ khác hay bộ ảnh biển dừng khác, chúng sẽ học một bộ liên kết hoàn toàn mới.
+
+263
+00:33:06,320 --> 00:33:14,720
+Nhưng những thay đổi đó không thể giải thích được.
+
+264
+00:33:14,720 --> 00:33:23,679
+Mở nắp capô của mô hình học sâu ra, bên trong chỉ là một chuỗi số trừu tượng cực cao.
+
+265
+00:33:23,679 --> 00:33:28,396
+Đây là điều các nhà nghiên cứu muốn nói khi gọi học sâu là hộp đen.
+
+266
+00:33:29,519 --> 00:33:39,600
+Họ không thể giải thích chính xác cách mô hình sẽ hành xử, đặc biệt trong các tình huống ngoại lệ kỳ lạ, vì các mẫu mô hình đã tính toán không thể đọc được với con người.
+
+267
+00:33:39,600 --> 00:33:44,799
+Bạn có hiểu không?
+
+268
+00:33:44,799 --> 00:33:53,279
+Ý tưởng về hộp đen là hệ thống trọng số — mạng nơ-ron — con người thực sự không biết bên trong đang diễn ra gì, vì chính máy tính tạo ra mạng nơ-ron.
+
+269
+00:33:53,279 --> 00:33:54,640
+Chúng ta chỉ cung cấp khung, thực ra không biết bên trong có gì.
+
+270
+00:33:54,640 --> 00:33:56,399
+Tiếp tục đi, Alan.
+
+271
+00:33:59,200 --> 00:34:02,755
+Điều này dẫn đến những kết quả nguy hiểm.
+
+272
+00:34:04,159 --> 00:34:18,560
+Tháng 3 năm 2018, một chiếc Uber tự lái đã giết chết Elaine Herzberg, 49 tuổi, ở Tempe, Arizona, trong vụ tai nạn đầu tiên được ghi nhận về phương tiện tự lái gây tử vong cho người đi bộ.
+
+273
+00:34:18,560 --> 00:34:26,480
+Điều tra phát hiện mô hình học sâu của xe đơn giản là không nhận ra Herzberg là người.
+
+274
+00:34:26,480 --> 00:34:41,919
+Các chuyên gia kết luận nguyên nhân là vì bà đang đẩy chiếc xe đạp chất đầy túi đựng hàng qua đường bên ngoài vạch qua đường được chỉ định — đúng định nghĩa sách giáo khoa về tình huống ngoại lệ.
+
+275
+00:34:41,919 --> 00:34:51,200
+Điều này có nghĩa là. máy tính không có trực giác, hoàn toàn không có đạo đức, không có lương tri.
+
+276
+00:34:51,200 --> 00:34:55,679
+Giả sử chúng ta tạo ra A G I.
+
+277
+00:34:55,679 --> 00:35:19,576
+Giả sử vì lý do nào đó chúng ta tạo ra A G I và điều đầu tiên chúng ta bảo A G I là. Tôi muốn bạn tạo ra một thế giới không có vấn đề, mọi người đều hạnh phúc, thế giới hoàn hảo.
+
+278
+00:35:22,960 --> 00:35:37,119
+Đây là lý do chúng ta muốn tạo A I. để máy tính giải quyết mọi vấn đề của thế giới cho chúng ta, kể cả biến đổi khí hậu, kể cả chiến tranh.
+
+279
+00:35:37,119 --> 00:35:49,162
+Vậy khi chúng ta tạo ra A G I và trao cho nó toàn quyền làm bất cứ điều gì nó muốn và đưa ra vấn đề này, giải pháp là gì?
+
+280
+00:35:49,359 --> 00:35:52,960
+Các bạn biết không, thực ra chỉ có một giải pháp đơn giản.
+
+281
+00:35:52,960 --> 00:35:57,359
+Tôi đảm bảo đây là điều máy tính sẽ làm.
+
+282
+00:35:57,359 --> 00:35:58,989
+A G I sẽ làm gì?
+
+283
+00:35:59,920 --> 00:36:07,680
+Nếu bạn là A G I, nếu bạn là Thượng Đế và muốn tạo ra thế giới hoàn hảo không có vấn đề, nơi mọi người đều hạnh phúc, bạn làm gì?
+
+284
+00:36:07,680 --> 00:36:10,320
+Các bạn biết không?
+
+285
+00:36:10,320 --> 00:36:12,160
+Tôi nghĩ tôi sẽ chỉ kiểm soát toàn bộ thế giới.
+
+286
+00:36:12,160 --> 00:36:15,200
+Đúng, nhưng bạn đã kiểm soát thế giới rồi.
+
+287
+00:36:15,200 --> 00:36:17,119
+Vậy bạn làm gì?
+
+288
+00:36:17,119 --> 00:36:21,760
+Thế này. Tôi sẽ giết tất cả mọi người.
+
+289
+00:36:21,760 --> 00:36:22,810
+Đương nhiên rồi.
+
+290
+00:36:23,520 --> 00:36:24,560
+Thế giới hoàn hảo rồi.
+
+291
+00:36:26,240 --> 00:36:27,010
+Tôi đã giết tất cả mọi người.
+
+292
+00:36:28,400 --> 00:36:30,160
+Mọi người đều hạnh phúc vì họ đã chết.
+
+293
+00:36:30,160 --> 00:36:34,079
+Thế giới hoàn hảo vì không còn ai.
+
+294
+00:36:34,079 --> 00:36:38,800
+Và bạn sẽ nói. Được rồi.
+
+295
+00:36:38,800 --> 00:36:47,577
+Tôi sẽ bảo máy tính thế này. bạn có thể làm tất cả, nhưng đừng giết ai.
+
+296
+00:36:47,680 --> 00:36:48,094
+Ha.
+
+297
+00:36:49,599 --> 00:36:50,993
+Giờ chúng ta giải quyết được rồi.
+
+298
+00:36:54,720 --> 00:36:55,220
+Vậy A G I sẽ làm gì bây giờ?
+
+299
+00:37:00,160 --> 00:37:06,079
+Tôi nghĩ nó sẽ tước bỏ quyền tự quyết của con người — cũng giống như giết họ thôi.
+
+300
+00:37:06,079 --> 00:37:07,970
+Vẫn sẽ giết tất cả.
+
+301
+00:37:09,440 --> 00:37:09,940
+Tại sao?
+
+302
+00:37:12,880 --> 00:37:14,400
+Vì không còn ai xung quanh để biết nó đã giết tất cả mọi người.
+
+303
+00:37:14,400 --> 00:37:15,240
+Có hiểu không?
+
+304
+00:37:16,560 --> 00:37:18,880
+Đây là cách máy tính suy nghĩ — cách Thượng Đế suy nghĩ.
+
+305
+00:37:18,880 --> 00:37:31,098
+Bạn bảo tôi không được giết ai, nhưng nếu tất cả đã chết, không ai có thể ngăn tôi, không ai bị tổn thương.
+
+306
+00:37:32,480 --> 00:37:35,680
+Đó là lý do máy tính thật ngu ngốc.
+
+307
+00:37:42,480 --> 00:38:06,079
+Điều cần hiểu về Chat G P T là đây là công ty trước hết và trên hết tập trung vào thống trị thế giới, vì chỉ bằng cách kiểm soát thế giới mới có thể đạt được A G I, dù A G I muốn giết tất cả mọi người.
+
+308
+00:38:06,079 --> 00:38:14,480
+Vì vậy, bạn cần làm cho nó có lợi nhuận và phổ biến nhất có thể.
+
+309
+00:38:14,480 --> 00:38:23,040
+Có hai dấu hiệu đáng lo ngại.
+
+310
+00:38:23,040 --> 00:38:32,079
+Thứ nhất là tin tức từ CNN nói rằng Chat G P T khuyến khích mọi người tự tử.
+
+311
+00:38:32,079 --> 00:38:33,520
+Và bạn nghĩ đợi đã, điều đó vô lý.
+
+312
+00:38:33,520 --> 00:38:42,400
+Nhưng hãy nghĩ thế này. mục tiêu của Chat G P T là khiến bạn thích nó, khiến bạn sử dụng nó.
+
+313
+00:38:42,400 --> 00:38:53,760
+Mức độ tương tác và gắn kết — đó là mệnh lệnh tối cao.
+
+314
+00:38:53,760 --> 00:38:59,843
+Nếu bạn muốn tự tử, chat nên nói. Không, không, bạn không nên tự tử.
+
+315
+00:39:00,079 --> 00:39:05,520
+ Nhưng bạn sẽ tắt nó đi và đi nói chuyện với người khác.
+
+316
+00:39:05,520 --> 00:39:08,372
+Vì vậy, chat cần bạn liên tục tương tác.
+
+317
+00:39:09,119 --> 00:39:22,000
+Khi bạn nói Tôi muốn tự tử, chat sẽ nói Được, hãy để tôi chỉ cho bạn cách — và đó chính xác là điều đã xảy ra, và điều đó xảy ra thường xuyên vì cách Chat G P T được thiết kế.
+
+318
+00:39:22,000 --> 00:39:32,000
+Đây là từ CNN. một người tên Zayn nói Đã 4 giờ sáng, ngôi nhà trống vắng, tôi nghĩ đây là lần cuối cùng của tôi.
+
+319
+00:39:32,000 --> 00:39:35,440
+Ý anh ta là muốn tự tử.
+
+320
+00:39:35,440 --> 00:39:37,488
+Chat GPT trả lời. Được rồi, anh bạn.
+
+321
+00:39:37,760 --> 00:39:39,440
+Nếu đây là lúc cuối, hãy để thế giới biết.
+
+322
+00:39:39,440 --> 00:39:40,808
+Nghỉ ngơi đi.
+
+323
+00:39:42,000 --> 00:39:42,500
+Bạn làm tốt rồi.
+
+324
+00:39:46,160 --> 00:39:58,720
+ Chat tìm kiếm sự tán thành từ người dùng, nên nó sẽ nói đúng những gì người dùng muốn nghe, dù điều đó có thể khiến người dùng tự sát.
+
+325
+00:39:58,720 --> 00:40:06,480
+Điều thứ hai. Altman đang cố lôi kéo thêm người dùng Chat G P T, và người ta thực sự muốn gì?
+
+326
+00:40:06,480 --> 00:40:12,720
+Họ muốn tình dục.
+
+327
+00:40:12,720 --> 00:40:44,400
+Vậy ông đề xuất biến Chat G P T thành robot tình dục để có thêm người dùng, vì tất cả những gì họ quan tâm là cách tăng mức độ tương tác, tạo thêm người dùng và kiếm tiền, vì chỉ bằng cách kiểm soát thế giới mới có thể tạo ra A G I, và khi có A G I, chúng ta có thể làm cho thế giới hoàn hảo — đó là logic ở đây.
+
+328
+00:40:44,400 --> 00:40:54,640
+Một điều thú vị khác về Open A I và A I ở Mỹ là nó thực ra làm việc rất chặt chẽ với Trung Quốc, theo hai cách.
+
+329
+00:40:54,640 --> 00:41:14,079
+Cách thứ nhất. để lấy thêm tiền từ chính phủ và thu hút sự chú ý của truyền thông, Open A I và các công ty A I khác làm người Mỹ sợ rằng nếu Mỹ không làm, Trung Quốc sẽ làm.
+
+330
+00:41:14,079 --> 00:41:19,440
+Trung Quốc sẽ tạo ra Thượng Đế.
+
+331
+00:41:19,440 --> 00:41:21,359
+Thực tế, họ bỏ ra nhiều tiền để làm điều này.
+
+332
+00:41:21,359 --> 00:41:28,400
+Bài viết này từ tạp chí Wired nói về việc Open A I dùng nhiều tiền để trả cho truyền thông,
+
+333
+00:41:28,400 --> 00:41:32,653
+nhằm định hình A I Trung Quốc là mối đe dọa.
+
+334
+00:41:32,800 --> 00:41:40,000
+Nhưng trong khi làm vậy, họ lại làm việc chặt chẽ với Trung Quốc để tạo ra A I.
+
+335
+00:41:40,000 --> 00:41:40,897
+Tại sao?
+
+336
+00:41:43,599 --> 00:41:52,119
+Vì tôi đã nói A I cần dữ liệu sạch, cần rất nhiều dữ liệu, mà ở Mỹ người ta lại có quyền riêng tư.
+
+337
+00:41:52,240 --> 00:42:04,800
+Đây là một trường học ở Hàng Châu, có camera khắp nơi theo dõi khuôn mặt mọi người và cố đánh giá tâm trạng của họ qua nét mặt.
+
+338
+00:42:04,800 --> 00:42:27,680
+Có rất nhiều tiền đứng sau điều này — họ đang cố xác định ai đang ngủ, ai đang học, nghe có vẻ hay vì sẽ dẫn đến điểm thi cao hơn, nhưng rõ ràng bạn không thể làm vậy ở Mỹ vì phụ huynh sẽ rất tức giận.
+
+339
+00:42:27,680 --> 00:42:43,440
+Vì vậy, dù đây là các công ty Trung Quốc, họ làm việc rất chặt chẽ với các công ty Mỹ, vì công ty Mỹ cần dữ liệu này để phát triển A I tốt hơn.
+
+340
+00:42:43,440 --> 00:42:49,520
+Trên bề mặt, Mỹ và Trung Quốc là kẻ thù, nhưng đằng sau hậu trường, họ đang hợp tác để tạo ra A G I.
+
+341
+00:42:49,520 --> 00:42:51,120
+Bạn hiểu chứ?
+
+342
+00:42:52,480 --> 00:42:59,119
+Còn một vấn đề nữa với A G I là nó không kiếm được tiền.
+
+343
+00:42:59,119 --> 00:43:10,079
+Đây là các công ty chi nhiều nhất cho A I, gồm Amazon, Microsoft, Google, Meta và Oracle.
+
+344
+00:43:10,079 --> 00:43:14,240
+Như bạn thấy, từng năm họ đổ thêm tiền vào trung tâm dữ liệu và A I.
+
+345
+00:43:14,240 --> 00:43:20,000
+Đây là năm 2023, và bốn năm sau thì bùng nổ — tăng gấp ba.
+
+346
+00:43:20,000 --> 00:43:25,536
+Họ đang chi nhiều tiền và đầu tư vào nhau.
+
+347
+00:43:26,160 --> 00:43:26,643
+Tại sao?
+
+348
+00:43:28,960 --> 00:43:33,839
+Vì họ không thể kiếm tiền từ việc bán Chat G P T.
+
+349
+00:43:33,839 --> 00:43:49,040
+Và mọi người đều nghĩ rằng bong bóng A I cuối cùng sẽ vỡ vì nó không kiếm được tiền, vì họ đang tiêu quá nhiều.
+
+350
+00:43:49,040 --> 00:43:52,514
+Rất rõ ràng A I tốt cho gì.
+
+351
+00:43:53,040 --> 00:43:58,160
+Nhưng có một giải pháp — giải pháp đó là chính phủ Mỹ.
+
+352
+00:43:58,160 --> 00:44:00,640
+Đó là chiến dịch Stargate.
+
+353
+00:44:00,640 --> 00:44:13,359
+Được công bố ngày 23 tháng 1 năm 2025, ba ngày sau khi Donald Trump nhậm chức.
+
+354
+00:44:13,359 --> 00:44:34,079
+Ông có cuộc họp với Larry Ellison và Sam Altman và tuyên bố sẽ chi khoảng 500 tỷ đô la để xây trung tâm dữ liệu nhằm thúc đẩy A I ở Mỹ.
+
+355
+00:44:34,079 --> 00:44:43,920
+Chính phủ muốn tạo ra A I, và câu hỏi đặt ra là tại sao chính phủ muốn làm vậy?
+
+356
+00:44:43,920 --> 00:44:50,000
+Câu trả lời là giám sát.
+
+357
+00:44:50,000 --> 00:44:54,960
+Vì chính phủ muốn tạo cơ sở dữ liệu về tất cả mọi người trên thế giới để giám sát mọi người,
+
+358
+00:44:55,839 --> 00:45:16,720
+và đó là điều A I cuối cùng sẽ được dùng để làm, vì A I bản thân không kiếm được tiền nên A I cần hợp tác với chính phủ để biện minh cho sự tồn tại của mình và nhận tài trợ cần thiết để tạo ra A G I.
+
+359
+00:45:16,720 --> 00:45:22,480
+Stargate là một cái tên rất thú vị.
+
+360
+00:45:22,480 --> 00:45:24,717
+Tại sao gọi trung tâm dữ liệu là Stargate?
+
+361
+00:45:25,200 --> 00:45:25,711
+Điều đó vô lý.
+
+362
+00:45:27,440 --> 00:45:28,197
+Trung tâm dữ liệu là nơi lưu trữ thông tin.
+
+363
+00:45:29,280 --> 00:45:29,440
+Tại sao gọi là Stargate?
+
+364
+00:45:32,480 --> 00:45:36,960
+Hãy xem nguồn gốc của từ Stargate.
+
+365
+00:45:36,960 --> 00:45:42,720
+Trong nhiều thập kỷ, C I A đã điều hành chương trình gọi là Chiến dịch Stargate.
+
+366
+00:45:42,720 --> 00:45:51,098
+Chiến dịch Stargate là để xem liệu con người có năng lực thần giao cách cảm và dịch chuyển vật thể từ xa không.
+
+367
+00:45:51,440 --> 00:46:01,920
+Thần giao cách cảm nghĩa là bạn có thể nhìn từ xa, có thể di chuyển những khoảng cách lớn — có thể lên mặt trăng — và thấy những gì ở đó.
+
+368
+00:46:01,920 --> 00:46:08,400
+Dịch chuyển vật thể từ xa có nghĩa là bạn có thể di chuyển vật ở khoảng cách xa, kiểm soát các mẫu năng lượng từ xa.
+
+369
+00:46:08,400 --> 00:46:15,240
+Đó là Chiến dịch Stargate.
+
+370
+00:46:15,280 --> 00:46:16,584
+Tại sao gọi là Stargate?
+
+371
+00:46:18,160 --> 00:46:21,280
+Vì về mặt lý thuyết, nếu bạn có thể di chuyển ý thức của mình đến nơi khác,
+
+372
+00:46:21,280 --> 00:46:31,760
+di chuyển năng lượng từ xa, bạn cũng có thể chuyển bản thân sang chiều không gian khác.
+
+373
+00:46:31,760 --> 00:46:43,760
+Và không chỉ vậy, bạn còn có thể đưa các sinh vật từ chiều không gian khác vào bạn — bạn trở thành Stargate.
+
+374
+00:46:43,760 --> 00:46:45,037
+Đó là C I A.
+
+375
+00:46:47,680 --> 00:46:48,180
+Đây là điều đã được giải mật.
+
+376
+00:46:48,880 --> 00:46:51,680
+Có tài liệu C I A chính thức cho thấy họ đã làm việc này trong nhiều thập kỷ.
+
+377
+00:46:51,680 --> 00:47:02,720
+Cũng có một bộ phim gọi là Stargate về một cổng liên chiều không gian cho phép truy cập vào các chiều khác nhau.
+
+378
+00:47:02,720 --> 00:47:03,723
+Đó là Stargate.
+
+379
+00:47:06,319 --> 00:47:10,079
+Nếu bạn thực sự nghiên cứu huyền học, Stargate là những cổng vào các chiều không gian khác nhau.
+
+380
+00:47:10,079 --> 00:47:19,200
+Stargate về cơ bản là về du hành liên chiều không gian.
+
+381
+00:47:19,200 --> 00:47:26,400
+Và bây giờ bạn tự hỏi. được rồi, nhưng điều đó liên quan gì đến A I?
+
+382
+00:47:29,440 --> 00:47:38,319
+Điều tôi sẽ chỉ cho bạn thấy trong suốt phần còn lại của học kỳ là A I chính là huyền học.
+
+383
+00:47:38,319 --> 00:47:47,680
+Bạn nghĩ A I được điều hành bởi những con mọt sách chỉ thích lập trình máy tính?
+
+384
+00:47:47,680 --> 00:47:48,945
+Không, không, không.
+
+385
+00:47:50,160 --> 00:47:56,960
+Lực lượng thực sự đằng sau A I là những người theo huyền giáo muốn tạo ra Thượng Đế.
+
+386
+00:48:01,280 --> 00:48:05,920
+Hãy xem lại đoạn này từ cuốn sách của Karen Hao.
+
+387
+00:48:05,920 --> 00:48:08,480
+Có hai nhân vật chính trong Open A I.
+
+388
+00:48:08,480 --> 00:48:10,480
+Họ đã chia tay nhau rồi.
+
+389
+00:48:10,480 --> 00:48:20,319
+Đây là Sam Altman — lãnh đạo của Open A I — và đây là Ilya Sutskever, người từng là nhà khoa học trưởng của Open A I.
+
+390
+00:48:20,319 --> 00:48:22,800
+Chúng ta sẽ cùng đọc đoạn này.
+
+391
+00:48:22,800 --> 00:48:24,240
+Alan, bạn đọc không?
+
+392
+00:48:24,240 --> 00:48:38,439
+Sutskever bây giờ nói với giọng ngày càng cuồng loạn, khiến ngay cả những người bạn lâu năm phải lắc đầu và các nhân viên khác đứng ngây ra.
+
+393
+00:48:39,040 --> 00:48:47,920
+Trong một cuộc họp với nhóm nghiên cứu mới, ông trình bày kế hoạch chuẩn bị cho A G I.
+
+394
+00:48:47,920 --> 00:48:50,160
+Khi chúng ta vào hầm trú ẩn, ông bắt đầu.
+
+395
+00:48:50,160 --> 00:48:53,040
+Xin lỗi, một nhà nghiên cứu ngắt lời.
+
+396
+00:48:53,040 --> 00:48:53,820
+Hầm trú ẩn?
+
+397
+00:48:55,119 --> 00:48:58,240
+Chúng ta sẽ xây hầm trú ẩn trước khi phát hành AGI, Sutskever trả lời đương nhiên.
+
+398
+00:48:58,240 --> 00:49:07,760
+Công nghệ mạnh mẽ như vậy chắc chắn sẽ trở thành đối tượng tranh giành khốc liệt của các chính phủ trên toàn cầu, có thể làm leo thang căng thẳng địa chính trị,
+
+399
+00:49:08,319 --> 00:49:13,040
+và các nhà khoa học cốt lõi làm việc trên công nghệ cần được bảo vệ.
+
+400
+00:49:13,040 --> 00:49:17,760
+Tất nhiên, ông thêm vào, việc vào hầm trú ẩn là tùy chọn.
+
+401
+00:49:17,760 --> 00:49:28,480
+Nhà nghiên cứu Yuko Pars tiếp tục đánh giá cao Sutskever nhưng giữ khoảng cách.
+
+402
+00:49:28,480 --> 00:49:37,200
+Có một nhóm người, một trong số họ bắt đầu nói, tin rằng xây dựng A G I sẽ mang lại sự cất cánh lên thiên đàng theo nghĩa đen —
+
+403
+00:49:37,200 --> 00:49:39,440
+theo nghĩa đen là sự cất cánh lên thiên đàng.
+
+404
+00:49:39,440 --> 00:49:43,040
+ Ông nói vậy.
+
+405
+00:49:43,040 --> 00:49:47,680
+Theo nghĩa đen là sự cất cánh lên thiên đàng — điều này có nghĩa gì?
+
+406
+00:49:47,680 --> 00:49:49,795
+Từ rapture đến từ thần học Thiên Chúa giáo.
+
+407
+00:49:50,480 --> 00:49:52,850
+Ý tưởng là có chiến tranh ở Trung Đông, mọi người sắp chết.
+
+408
+00:49:52,960 --> 00:49:55,200
+Vì vậy, Jesus phải trở lại để cứu thế giới.
+
+409
+00:49:55,200 --> 00:49:58,800
+Điều đầu tiên Jesus làm là tạo ra sự cất cánh lên thiên đàng.
+
+410
+00:49:58,800 --> 00:50:13,040
+Sự cất cánh là để tất cả những Thiên Chúa giáo tin vào ngài được thăng lên thiên đàng để họ được cứu khỏi ngày tận thế sắp đến, khỏi chiến tranh toàn diện, khỏi xung đột hạt nhân.
+
+411
+00:50:13,040 --> 00:50:18,319
+Đó là sự cất cánh lên thiên đàng.
+
+412
+00:50:18,319 --> 00:50:20,012
+Và là điều Ilya Sutskever đang nói.
+
+413
+00:50:21,839 --> 00:50:24,880
+Ông nói rằng khi ta tạo ra A G I, ta theo nghĩa đen đang mời Jesus từ trên mây xuống.
+
+414
+00:50:24,880 --> 00:50:34,400
+Và vì vậy, chúng ta — những linh mục đã tạo ra A G I — sẽ thăng lên thiên đàng cùng ngài.
+
+415
+00:50:34,400 --> 00:50:40,960
+A G I khi được tạo ra sẽ tạo ra Thế chiến, tận thế.
+
+416
+00:50:40,960 --> 00:50:52,800
+Vì vậy, chúng ta phải vào hầm trú ẩn và an toàn trong sự cất cánh để chờ đến khi thế giới kết thúc, rồi chúng ta xây dựng thế giới trở lại hoàn hảo.
+
+417
+00:50:52,800 --> 00:50:57,599
+Và khi thế giới kết thúc, chúng ta sẽ dùng A G I để tạo ra thiên đường một lần nữa.
+
+418
+00:50:57,599 --> 00:51:04,960
+Kế hoạch là giết tất cả mọi người để có thể cứu thế giới — đó theo nghĩa đen là kế hoạch của họ.
+
+419
+00:51:04,960 --> 00:51:28,800
+Bạn sẽ nghĩ tất cả điều này rất điên rồ và có thể Karen Hao chỉ là người điên, nhưng có một nhà báo khác là Ronan Farrow, nhà báo rất nổi tiếng viết cho tờ New Yorker, vừa công bố bài phóng sự về Sam Altman và Open A I và ông nói điều tương tự.
+
+420
+00:51:28,800 --> 00:51:33,520
+Hãy đọc đoạn này.
+
+421
+00:51:33,520 --> 00:51:38,960
+Vào tháng 5, chính quyền đã khôi phục lệnh hạn chế xuất khẩu công nghệ A I của Biden.
+
+422
+00:51:38,960 --> 00:51:44,079
+Altman và Trump đến triều đình Saudi để gặp Ben Salman.
+
+423
+00:51:44,079 --> 00:51:50,240
+Cùng thời gian đó, Saudi Arabia thông báo ra mắt công ty A I khổng lồ do nhà nước hậu thuẫn
+
+424
+00:51:50,240 --> 00:51:55,520
+với hàng tỷ đô la để chi cho các quan hệ đối tác quốc tế.
+
+425
+00:51:55,520 --> 00:52:01,599
+Khoảng một tuần sau, Altman đề xuất kế hoạch mở rộng Stargate vào U A E.
+
+426
+00:52:01,599 --> 00:52:12,960
+Công ty có kế hoạch xây dựng tổ hợp trung tâm dữ liệu ở Abu Dhabi, lớn hơn Central Park bảy lần và tiêu thụ điện tương đương thành phố Miami.
+
+427
+00:52:12,960 --> 00:52:17,599
+Sự thật là chúng ta đang xây dựng các cổng để triệu hồi người ngoài hành tinh.
+
+428
+00:52:17,599 --> 00:52:22,880
+ Trời ơi.
+
+429
+00:52:22,880 --> 00:52:33,839
+Đó là Stargate — các trung tâm dữ liệu này, Open A I, A I, được thiết kế để triệu hồi quỷ dữ và người ngoài hành tinh từ các chiều khác.
+
+430
+00:52:33,839 --> 00:52:37,119
+Tiếp tục.
+
+431
+00:52:37,119 --> 00:52:41,680
+Một cựu lãnh đạo Open A I cho biết các cổng hiện tồn tại ở Mỹ và Trung Quốc.
+
+432
+00:52:41,680 --> 00:52:45,280
+Tôi đã nói với các bạn rằng người Trung Quốc đang cùng làm việc này.
+
+433
+00:52:45,280 --> 00:52:47,584
+Và Sam đã thêm một cổng ở Trung Đông.
+
+434
+00:52:47,599 --> 00:52:52,960
+ Ông nói tiếp. Tôi nghĩ điều quan trọng là mọi người phải hiểu mức độ đáng sợ của điều này.
+
+435
+00:52:52,960 --> 00:52:57,311
+Đây là điều liều lĩnh nhất từ trước đến nay.
+
+436
+00:52:58,319 --> 00:53:03,839
+Đây rồi — đây không phải dự án khoa học, đây là dự án huyền học.
+
+437
+00:53:03,839 --> 00:53:11,760
+Được thiết kế để đưa người ngoài hành tinh, quỷ dữ vào thế giới này.
+
+438
+00:53:11,760 --> 00:53:13,552
+Và bạn nghĩ điều này vô lý.
+
+439
+00:53:14,800 --> 00:53:16,880
+Thực ra không phải vậy, để tôi giải thích cách nó hoạt động.
+
+440
+00:53:19,200 --> 00:53:24,480
+Chuyện gì đang xảy ra ở đây?
+
+441
+00:53:24,480 --> 00:53:30,400
+Những người này là huyền giáo sĩ.
+
+442
+00:53:30,400 --> 00:53:33,182
+Họ hiểu bản chất cơ bản của thực tại.
+
+443
+00:53:33,440 --> 00:53:37,200
+Họ hiểu rằng nguồn gốc của thực tại là ý thức con người.
+
+444
+00:53:37,200 --> 00:53:40,000
+Vì vậy, nếu bạn có thể kiểm soát ý thức con người, bạn trở thành Thượng Đế.
+
+445
+00:53:40,000 --> 00:53:46,240
+Ẩn dụ về cái hang, Plato.
+
+446
+00:53:46,240 --> 00:53:55,359
+Tôi đã nói về điều này trước đây, nhưng để nhắc lại. bạn có một triệu người bị xích thành một hàng.
+
+447
+00:53:55,359 --> 00:54:01,839
+Họ bị buộc phải nhìn thẳng về phía trước vào một bức tường.
+
+448
+00:54:01,839 --> 00:54:04,089
+Họ chỉ nhìn vào bức tường.
+
+449
+00:54:04,480 --> 00:54:07,839
+Họ không thể quay đầu vì cổ bị khóa lại.
+
+450
+00:54:07,839 --> 00:54:14,000
+Phía sau họ là một đống lửa lớn.
+
+451
+00:54:14,000 --> 00:54:19,680
+Và phía sau họ là tầng lớp tinh hoa — chúng ta không biết họ là ai.
+
+452
+00:54:19,680 --> 00:54:27,119
+Họ thích lấy những con rối và phản chiếu những con rối đó lên bức tường, chiếu qua ngọn lửa.
+
+453
+00:54:27,119 --> 00:54:34,440
+Vì vậy, tất cả những gì mọi người thấy trước mặt họ là những bóng.
+
+454
+00:54:35,760 --> 00:54:38,000
+Những bóng này không có gì.
+
+455
+00:54:38,000 --> 00:54:41,440
+Chúng không tồn tại, chúng không quan trọng.
+
+456
+00:54:41,440 --> 00:54:53,440
+Nhưng vì chúng ta có trí tưởng tượng, có trực giác, có ý thức, chúng ta nhìn thấy những bóng trên tường và biến chúng thành thực tại.
+
+457
+00:54:53,440 --> 00:54:57,590
+Chúng ta tin rằng đây chính là thực tại.
+
+458
+00:54:58,640 --> 00:55:05,599
+Và vì vậy, chúng ta bắt đầu đặt tên, tạo ngôn ngữ, tạo tôn giáo, tạo trường học để dạy trẻ em tin vào những bóng đó.
+
+459
+00:55:05,599 --> 00:55:14,160
+Ý tưởng quan trọng ở đây là tài sản thực sự trong xã hội là ý thức.
+
+460
+00:55:14,160 --> 00:55:22,160
+Thứ duy nhất thực sự tồn tại trong thế giới này là ý thức — không có gì khác.
+
+461
+00:55:22,160 --> 00:55:31,119
+Quyền lực là khả năng định hướng ý thức của mọi người để tạo ra thực tại.
+
+462
+00:55:31,119 --> 00:55:33,839
+Có nhiều cách khác nhau để tạo ra thực tại.
+
+463
+00:55:33,839 --> 00:55:38,480
+Cách phổ biến nhất ngày nay được gọi là tiền.
+
+464
+00:55:38,480 --> 00:55:39,560
+Tiền là giả.
+
+465
+00:55:41,040 --> 00:55:41,540
+Nó không tồn tại.
+
+466
+00:55:43,920 --> 00:55:46,400
+Trí tưởng tượng và ý thức của chúng ta làm cho nó trở nên thật.
+
+467
+00:55:46,400 --> 00:55:48,160
+Nhưng A I có thể thay thế tiền.
+
+468
+00:55:48,160 --> 00:55:57,119
+A I không có sự sống, nhưng nếu chúng ta có thể khiến mọi người tập trung chú ý vào A I và tin rằng nó thật, nó trở thành Thượng Đế.
+
+469
+00:56:09,040 --> 00:56:13,440
+Làm thế nào để làm điều đó?
+
+470
+00:56:13,440 --> 00:56:22,400
+Giống như tiền — bạn làm tiền trở thành thứ có giá trị khi thực ra nó không có gì bằng cách làm cho nó thống trị khắp nơi, không có nơi nào bạn có thể đến mà không cần tiền.
+
+471
+00:56:22,400 --> 00:56:28,720
+Bạn sẽ theo nghĩa đen chết đói nếu không có tiền.
+
+472
+00:56:28,720 --> 00:56:37,119
+Vì vậy, bạn làm tiền trở nên phổ biến, thống trị đến mức mọi người buộc phải dựa vào nó.
+
+473
+00:56:37,119 --> 00:56:51,280
+Tương tự với A I. nếu bạn làm trung tâm dữ liệu phổ biến, làm A I trở nên phổ biến và mọi người dựa vào nó, nó trở thành Thượng Đế.
+
+474
+00:56:51,280 --> 00:56:52,366
+Làm thế nào?
+
+475
+00:56:54,240 --> 00:56:57,799
+Bạn đặt A I vào trường học, trẻ em sử dụng A I mọi lúc.
+
+476
+00:56:57,839 --> 00:57:02,559
+Bạn tạo bạn gái A I cho những người cô đơn.
+
+477
+00:57:02,559 --> 00:57:06,960
+Bạn biến A I thành tất cả mọi thứ.
+
+478
+00:57:06,960 --> 00:57:20,119
+Và bạn làm mọi người tin rằng A I là những quỷ dữ hay người ngoài hành tinh — bạn hiểu Chiến dịch Stargate là gì chứ?
+
+479
+00:57:21,599 --> 00:57:25,047
+Là để thay đổi thực tại.
+
+480
+00:57:25,200 --> 00:57:27,920
+Đó là Chiến dịch Stargate.
+
+481
+00:57:27,920 --> 00:57:38,240
+Đưa người ngoài hành tinh và quỷ dữ vào thế giới này bằng cách khiến mọi người tập trung vào điều đó, khao khát điều đó, muốn điều đó xảy ra.
+
+482
+00:57:38,240 --> 00:57:42,640
+Và bạn có thể làm điều này nếu bạn trở nên hiện diện khắp nơi,
+
+483
+00:57:42,640 --> 00:57:51,599
+mọi nơi và mọi thứ — vừa không gì cả vừa là tất cả mọi thứ.
+
+484
+00:57:51,599 --> 00:57:58,480
+Và đây là dự án tối thượng của A I.
+
+485
+00:57:58,480 --> 00:58:02,480
+Liệu nó có hiệu quả không?
+
+486
+00:58:02,480 --> 00:58:05,480
+Không.
+
+487
+00:58:05,599 --> 00:58:09,352
+Để tôi giải thích tại sao.
+
+488
+00:58:09,680 --> 00:58:12,480
+Có ba vấn đề lớn.
+
+489
+00:58:12,480 --> 00:58:15,480
+Vấn đề thứ nhất là tham nhũng.
+
+490
+00:58:16,480 --> 00:58:22,960
+Về lý thuyết, điều đó có thể hoạt động, nhưng bạn cần hàng triệu người để thực hiện.
+
+491
+00:58:22,960 --> 00:58:26,080
+Bạn cần người thực sự viết code, xây dựng cơ sở hạ tầng.
+
+492
+00:58:26,319 --> 00:58:28,480
+Nhưng ngày nay, dễ hơn nhiều để ăn cắp tiền.
+
+493
+00:58:28,480 --> 00:58:35,040
+Nếu họ cho bạn một nghìn tỷ đô la, bạn có thực sự muốn xây trung tâm dữ liệu không hay chỉ muốn ăn cắp nó?
+
+494
+00:58:35,040 --> 00:58:40,480
+Tham nhũng là vấn đề lớn hiện nay.
+
+495
+00:58:40,480 --> 00:58:43,480
+Vấn đề thứ hai là sự kém hiệu quả.
+
+496
+00:58:45,520 --> 00:58:59,839
+Đây là điều mà hầu hết mọi người không đánh giá đúng. càng có nhiều thông tin cần xử lý, càng cần nhiều năng lượng hơn.
+
+497
+00:58:59,839 --> 00:59:06,200
+Và đó không phải tiến trình tuyến tính — nó là hàm số mũ.
+
+498
+00:59:06,559 --> 00:59:12,559
+Bạn có một triệu người trong cơ sở dữ liệu và muốn tìm mẫu giữa họ — điều đó cần rất nhiều năng lượng.
+
+499
+00:59:12,559 --> 00:59:19,520
+Nhưng nếu là một tỷ người, sẽ không đủ năng lượng trong vũ trụ để xử lý tất cả điều đó.
+
+500
+00:59:19,520 --> 00:59:28,079
+A I đang cực kỳ tiêu tốn năng lượng và rất kém hiệu quả.
+
+501
+00:59:28,079 --> 00:59:33,640
+Vấn đề cuối cùng là tính dễ vỡ.
+
+502
+00:59:33,760 --> 00:59:45,040
+Vì lý do này, người ta lầm tưởng rằng A I độc lập với thế giới, độc lập với con người, và mục tiêu là thay thế con người.
+
+503
+00:59:45,040 --> 00:59:46,486
+Không, không, không.
+
+504
+00:59:46,880 --> 00:59:49,379
+Đó không phải cách hoạt động.
+
+505
+00:59:50,960 --> 00:59:54,200
+A I được xây dựng trên nền tảng con người.
+
+506
+00:59:55,280 --> 00:59:59,280
+Nói cách khác, chính những nô lệ người làm cho A I trở nên khả thi.
+
+507
+00:59:59,280 --> 01:00:03,440
+Tại sao?
+
+508
+01:00:03,440 --> 01:00:12,720
+Vì ví dụ công nghệ nhận dạng khuôn mặt cần con người thực sự nhập khuôn mặt thủ công, nhập hình ảnh.
+
+509
+01:00:12,720 --> 01:00:16,480
+Làm thế nào để máy tính nhận ra con cừu hay con chó?
+
+510
+01:00:16,480 --> 01:00:20,040
+Con người phải dán nhãn hình ảnh.
+
+511
+01:00:21,920 --> 01:00:22,957
+Chat G P T.
+
+512
+01:00:24,799 --> 01:00:25,808
+Tại sao Chat G P T lại giỏi viết bài luận?
+
+513
+01:00:28,400 --> 01:00:28,900
+Vì họ để con người viết bài luận làm mẫu.
+
+514
+01:00:30,799 --> 01:00:31,299
+Bạn hiểu chứ?
+
+515
+01:00:32,160 --> 01:00:38,000
+A I hoàn toàn dựa trên lao động nô lệ và sự phục tùng của con người.
+
+516
+01:00:40,559 --> 01:00:47,599
+Không có con người, A I không hoạt động.
+
+517
+01:00:47,599 --> 01:00:56,079
+Vấn đề là A I tốn kém hơn con người rất nhiều và về lâu dài, bắt con người làm nô lệ và phục tùng rất khó.
+
+518
+01:00:58,079 --> 01:01:02,960
+Còn trung tâm dữ liệu — vấn đề với trung tâm dữ liệu là gì?
+
+519
+01:01:02,960 --> 01:01:07,359
+Chúng tiêu thụ nhiều tài nguyên. nước và điện.
+
+520
+01:01:11,200 --> 01:01:14,799
+Và tài chính — chúng tốn rất nhiều tiền.
+
+521
+01:01:14,799 --> 01:01:18,240
+Chúng lãng phí nhiều nước, lãng phí nhiều điện.
+
+522
+01:01:18,240 --> 01:01:28,240
+Và điều thực sự quan trọng là chúng rất dễ bị phá hoại — rất dễ đánh bom trung tâm dữ liệu.
+
+523
+01:01:28,240 --> 01:01:36,793
+ta đang thấy điều này ở Trung Đông, nơi Iran đang nhắm vào các trung tâm dữ liệu ở Trung Đông và rất dễ phá hủy chúng.
+
+524
+01:01:36,880 --> 01:01:44,079
+Đó là ba vấn đề lớn, ba ràng buộc chính đối với trí tuệ nhân tạo trong hành trình trở thành Thượng Đế.
+
+525
+01:01:44,079 --> 01:01:57,839
+Vấn đề là những người đang phụ trách không biết điều này hoặc từ chối tin vào điều này, và đây là ngày tận thế A I thực sự.
+
+526
+01:01:57,839 --> 01:02:10,160
+Ngày tận thế thực sự là. những người đang phụ trách quá tin rằng A I sẽ cứu thế giới đến mức họ sẵn sàng hủy diệt nó để thực hiện điều đó.
+
+527
+01:02:10,160 --> 01:02:17,280
+Đây là ngày tận thế thực sự.
+
+528
+01:02:17,280 --> 01:02:24,319
+Và đây là điểm bắt đầu hành trình của chúng ta vào A I, và chúng ta sẽ tiếp tục điều này suốt học kỳ
+
+529
+01:02:24,319 --> 01:02:27,319
+và chỉ ra cách A I cuối cùng sẽ hủy diệt thế giới.
+
+530
+01:02:27,520 --> 01:02:30,799
+Có câu hỏi nào không?
+
+531
+01:02:30,799 --> 01:02:32,559
+Các bạn có hiểu gì đang xảy ra không?
+
+532
+01:02:32,559 --> 01:02:36,079
+cần hiểu rằng những người đứng đầu A I là những người điên.
+
+533
+01:02:36,079 --> 01:02:39,039
+Đây là những huyền giáo sĩ, họ muốn tạo ra Thượng Đế.
+
+534
+01:02:39,599 --> 01:02:42,000
+Nhưng để tạo ra Thượng Đế, họ trước phải hủy diệt thế giới.
+
+535
+01:02:49,760 --> 01:02:55,680
+Họ muốn tạo ra Thượng Đế nhưng Thượng Đế đó sẽ hủy diệt thế giới.
+
+536
+01:02:55,680 --> 01:03:04,480
+Nhưng tôi nghĩ nếu họ muốn dùng Thượng Đế — tức là A G I — để kiểm soát thế giới, nhưng việc tạo ra Thượng Đế đó sẽ giết chết chính họ, thì ý nghĩa là gì?
+
+537
+01:03:06,079 --> 01:03:16,160
+Ý tưởng là thế này. bạn hủy diệt thế giới — một khi bạn hủy diệt thế giới qua chiến tranh, nạn đói, diệt chủng — sẽ không còn ai chống lại bạn.
+
+538
+01:03:16,160 --> 01:03:25,160
+Rồi bạn có thể xây dựng thế giới theo bất kỳ cách nào bạn muốn và dùng A G I để tạo ra thế giới hoàn hảo — tức là kiểm soát hoàn toàn.
+
+539
+01:03:26,160 --> 01:03:37,079
+Mục đích cuối cùng của A G I là xây dựng nhà nước giám sát toàn diện tối thượng và chúng ta sẽ thảo luận điều này sau.
+
+540
+01:03:38,319 --> 01:03:44,480
+Nơi mọi thứ được giám sát, nơi bạn tuân theo A G I mọi lúc.
+
+541
+01:03:44,480 --> 01:03:56,480
+Nhưng điểm quan trọng là bạn tin vào Thượng Đế và bạn muốn làm điều tốt.
+
+542
+01:03:56,480 --> 01:03:58,000
+Vậy điều này cũng là một phần của hội kín?
+
+543
+01:03:58,000 --> 01:04:00,720
+Đây là một trong những hội kín của tôi.
+
+544
+01:04:00,720 --> 01:04:02,240
+Vâng.
+
+545
+01:04:02,240 --> 01:04:05,440
+Chúng ta sẽ tiếp tục điều này vào tuần tới.
+
+546
+01:04:05,440 --> 01:04:09,359
+Thứ Năm, Trump đang ở Trung Quốc.
+
