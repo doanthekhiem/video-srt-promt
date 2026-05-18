@@ -1,0 +1,3 @@
+- [Lỗi pattern Secret History series](feedback_secret_history_patterns.md) — Pattern lỗi thường gặp khi đối chiếu series Secret History đã merge block
+- [Auto-sub sun/son confusion](project_sun_son_nous.md) — Nous/Monad = "spiritual SUN" không phải "son", auto-sub thường nhầm
+- [Sources of truth cho tên riêng](reference_glossary_authority.md) — File .glossary-*.md là nguồn chuẩn cho tên riêng/thuật ngữ trong series này

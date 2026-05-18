@@ -26,7 +26,10 @@
       "Bash(awk -F' --> ' '/-->/ {print $1}' \"/home/edu_admin/projects/Khiemdt/video-srt-promt/srt-output/game-theory/[Vietnamese] Game Theory #24 The AI Apocalypse.srt\")",
       "Bash(echo \"Exit code: $?\")",
       "Bash(echo \"EXIT CODE: $?\")",
-      "Bash(echo \"EXIT: $?\")"
+      "Bash(echo \"EXIT: $?\")",
+      "Skill(translate-srt)",
+      "Bash(awk '/^[0-9]+$/{n=$0; getline t; print n\"|\"t}' \"/home/edu_admin/projects/Khiemdt/video-srt-promt/srt/game-theory/[English] Game Theory #5 The World Game.srt\")",
+      "Bash(awk '/^[0-9]+$/{n=$0; getline t; print n\"|\"t}' \"/home/edu_admin/projects/Khiemdt/video-srt-promt/srt-output/game-theory/[Vietnamese] Game Theory #5 The World Game [translated].srt\")"
     ]
   }
 }
