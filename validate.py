@@ -17,6 +17,7 @@ Metric kiểm tra (xem speaker-profile.md để biết ngưỡng):
 """
 from __future__ import annotations
 import argparse
+import bisect
 import json
 import os
 import re
@@ -124,7 +125,18 @@ def is_filler_only(text: str) -> bool:
 # ============================================================
 # Lấy nội dung EN trong window thời gian của block VN
 # ============================================================
-def en_in_window(en_blocks: list[Block], start: float, end: float) -> str:
+def en_in_window(en_blocks: list[Block], start: float, end: float,
+                 en_starts: list[float] | None = None,
+                 en_ends: list[float] | None = None) -> str:
+    # Nếu có sẵn mảng starts/ends đã sort → bisect O(log N).
+    # Giả định EN blocks không overlap (chuẩn SRT).
+    if en_starts is not None and en_ends is not None:
+        lo = bisect.bisect_left(en_ends, start)
+        hi = bisect.bisect_right(en_starts, end)
+        if lo >= hi:
+            return ""
+        return " ".join(en_blocks[i].text for i in range(lo, hi))
+    # Fallback: quét tuyến tính
     out = []
     for eb in en_blocks:
         if eb.end >= start and eb.start <= end:
@@ -156,10 +168,13 @@ class BlockReport:
 
 def analyze(vn: list[Block], en: list[Block]) -> list[BlockReport]:
     reports = []
+    # Pre-compute mảng sort cho bisect — giảm en_in_window từ O(N) xuống O(log N).
+    en_starts = [eb.start for eb in en]
+    en_ends = [eb.end for eb in en]
     for i, b in enumerate(vn):
         dur = b.dur
         syl = vn_syllables(b.text)
-        win_text = en_in_window(en, b.start, b.end)
+        win_text = en_in_window(en, b.start, b.end, en_starts, en_ends)
         en_w = en_words(win_text, drop_filler=False)
         en_w_clean = en_words(win_text, drop_filler=True)
 
@@ -195,7 +210,7 @@ def analyze(vn: list[Block], en: list[Block]) -> list[BlockReport]:
         if gap is not None and gap > GAP_LIMIT_SEC:
             # Có thể chấp nhận nếu EN giữa gap là filler-only
             if i+1 < len(vn):
-                gap_en = en_in_window(en, b.end, vn[i+1].start)
+                gap_en = en_in_window(en, b.end, vn[i+1].start, en_starts, en_ends)
                 if not is_filler_only(gap_en):
                     issues.append(f"HARD: gap {gap:.1f}s > {GAP_LIMIT_SEC}s và EN window không chỉ chứa filler")
                 else:

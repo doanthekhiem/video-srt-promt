@@ -29,7 +29,11 @@
       "Bash(echo \"EXIT: $?\")",
       "Skill(translate-srt)",
       "Bash(awk '/^[0-9]+$/{n=$0; getline t; print n\"|\"t}' \"/home/edu_admin/projects/Khiemdt/video-srt-promt/srt/game-theory/[English] Game Theory #5 The World Game.srt\")",
-      "Bash(awk '/^[0-9]+$/{n=$0; getline t; print n\"|\"t}' \"/home/edu_admin/projects/Khiemdt/video-srt-promt/srt-output/game-theory/[Vietnamese] Game Theory #5 The World Game [translated].srt\")"
+      "Bash(awk '/^[0-9]+$/{n=$0; getline t; print n\"|\"t}' \"/home/edu_admin/projects/Khiemdt/video-srt-promt/srt-output/game-theory/[Vietnamese] Game Theory #5 The World Game [translated].srt\")",
+      "Bash(time python3 validate.py './srt/game-theory/[English] Game Theory #13  Epstein'\\\\''s World.srt' './srt/game-theory/[English] Game Theory #13  Epstein'\\\\''s World.srt' --max-issues 0)",
+      "Bash(echo \"exit=$?\")",
+      "Bash(sort -k5 -n)",
+      "Bash(echo \"---EXIT: $?\")"
     ]
   }
 }
