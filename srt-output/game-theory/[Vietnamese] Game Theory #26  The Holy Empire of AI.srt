@@ -1,2607 +1,2608 @@
 1
-00:00:00,960 --> 00:00:07,292
+00:00:00,960 --> 00:00:09,200
 Học kỳ trước chúng ta đã tìm hiểu về các hội kín và thuyết cánh chung, tức là lịch sử bí mật.
 
 2
-00:00:07,292 --> 00:00:11,292
+00:00:09,200 --> 00:00:12,240
 Học kỳ này chúng ta sẽ học lý thuyết trò chơi các bạn ạ.
 
 3
-00:00:11,292 --> 00:00:17,577
+00:00:12,240 --> 00:00:16,320
 Trong lớp này tôi muốn kết nối hai chủ đề và cho các bạn thấy thế giới này vận hành ra sao.
 
 4
-00:00:17,577 --> 00:00:25,965
+00:00:16,320 --> 00:00:23,760
 Việc đầu tiên tôi muốn làm là điểm qua một vài thuyết âm mưu phổ biến về cách thế giới này vận hành.
 
 5
-00:00:25,965 --> 00:00:30,013
+00:00:23,760 --> 00:00:26,160
 Có rất nhiều biến thể khác nhau của thuyết âm mưu này.
 
 6
-00:00:30,533 --> 00:00:38,392
+00:00:26,160 --> 00:00:31,920
 Tôi sẽ chỉ trình bày một phiên bản đơn giản và rõ ràng nhất để các bạn dễ nắm bắt.
 
 7
-00:00:38,783 --> 00:00:43,480
+00:00:31,920 --> 00:00:38,000
 Các bạn nhớ là nếu có chỗ nào không hiểu thì cứ hỏi để mọi thứ thật rõ ràng nhé.
 
 8
-00:00:43,480 --> 00:00:56,338
+00:00:38,000 --> 00:00:43,480
 Chúng ta bắt đầu với Hiệp sĩ dòng Đền các bạn ạ.
 
 9
-00:00:56,438 --> 00:01:01,009
+00:00:43,680 --> 00:00:50,640
 Hiệp sĩ dòng Đền có lẽ là hội kín thành công nhất trên thế giới này.
 
 10
-00:01:01,009 --> 00:01:05,580
+00:00:50,640 --> 00:00:57,440
 Hội được thành lập vào năm 1118, như một phần của các cuộc Thập tự chinh.
 
 11
-00:01:05,580 --> 00:01:26,453
+00:00:57,440 --> 00:01:01,440
 Khi đó có các tín đồ Kitô giáo hành hương đến thành Jerusalem.
 
 12
-00:01:26,463 --> 00:01:49,563
+00:01:01,440 --> 00:01:03,600
 Trên đường đi họ thường xuyên bị cướp.
 
 13
-00:01:49,573 --> 00:02:02,140
+00:01:03,600 --> 00:01:10,159
 Nên Hiệp sĩ dòng Đền là một tổ chức tình nguyện được Vatican giao bảo vệ các tín đồ hành hương này.
 
 14
-00:02:02,240 --> 00:02:07,693
+00:01:10,159 --> 00:01:20,320
 Theo thời gian, Hiệp sĩ dòng Đền cũng trở thành một ngân hàng, nơi các bạn có thể gửi vàng cho họ,
 
 15
-00:02:07,693 --> 00:02:23,693
+00:01:20,320 --> 00:01:22,960
 và họ sẽ đưa cho các bạn một biên lai,
 
 16
-00:02:24,000 --> 00:02:40,000
+00:01:22,960 --> 00:01:27,759
 rồi khi tới Jerusalem họ sẽ trả lại số vàng đó cho các bạn.
 
 17
-00:03:04,879 --> 00:03:10,593
+00:01:27,759 --> 00:01:33,360
 Họ trở thành một ngân hàng, và theo thời gian họ trở thành một tổ chức cực kỳ quyền lực,
 
 18
-00:03:10,593 --> 00:03:32,839
+00:01:33,360 --> 00:01:42,720
 vì là điểm hội tụ của chính trị, quân sự, tôn giáo và tài chính, và đó là lý do tại sao vào năm 1314,
 
 19
-00:03:32,849 --> 00:03:41,959
+00:01:42,720 --> 00:01:50,560
 Giáo hội Công giáo và vua nước Pháp đã đặt họ ra ngoài vòng pháp luật.
 
 20
-00:03:42,059 --> 00:03:50,062
+00:01:50,560 --> 00:01:54,640
 Họ thiêu sống thủ lĩnh Jacques de Molay trên giàn lửa,
 
 21
-00:03:50,162 --> 00:04:06,162
+00:01:54,640 --> 00:02:02,240
 và buộc tội ông tội báng bổ vì thờ một tà thần mang tên Baphomet.
 
 22
-00:04:06,560 --> 00:04:26,270
+00:02:02,240 --> 00:02:11,360
 Hiệp sĩ dòng Đền đóng tại Jerusalem, mà Jerusalem là nơi hội tụ của tất cả các tôn giáo.
 
 23
-00:04:26,280 --> 00:04:33,931
+00:02:11,360 --> 00:02:18,480
 Nên họ bắt đầu tò mò về các tôn giáo khác và dấn vào triết học Hermes, chủ nghĩa Tân Plato, triết học Ngộ giáo,
 
 24
-00:04:33,931 --> 00:04:39,562
+00:02:18,480 --> 00:02:24,000
 tất cả những thứ này đều bị Giáo hội Công giáo coi là dị giáo các bạn ạ.
 
 25
-00:04:39,562 --> 00:05:00,910
+00:02:24,000 --> 00:02:26,879
 Cho nên đây là một tổ chức bị cấm các bạn ạ.
 
 26
-00:05:00,920 --> 00:05:14,132
+00:02:26,879 --> 00:02:32,640
 Rồi sau đó người ta đồn rằng thay vì biến mất, Hiệp sĩ dòng Đền đã tái xuất hiện,
 
 27
-00:05:14,232 --> 00:05:23,340
+00:02:32,640 --> 00:02:36,840
 dưới hình thức là Hội Tam Điểm Scotland các bạn ạ.
 
 28
-00:05:23,440 --> 00:05:31,425
+00:02:38,879 --> 00:02:42,080
 Và lý do họ quan trọng là vì sau này họ sẽ tiếp tục,
 
 29
-00:05:31,525 --> 00:05:43,819
+00:02:42,080 --> 00:02:50,959
 tạo ra phong trào Phục Hưng, phong trào Cải Cách Tin Lành,
 
 30
-00:05:43,919 --> 00:05:46,493
+00:02:50,959 --> 00:02:55,360
 cũng như các cuộc cách mạng nữa.
 
 31
-00:05:46,493 --> 00:05:54,160
+00:02:57,680 --> 00:03:04,879
 Họ âm mưu tạo ra cách mạng Mỹ cũng như cả cách mạng Pháp.
 
 32
-00:05:54,941 --> 00:06:12,406
+00:03:04,879 --> 00:03:08,080
 Về cơ bản là chính họ đã tạo ra thời hiện đại.
 
 33
-00:06:12,416 --> 00:06:21,731
+00:03:08,080 --> 00:03:13,040
 Họ kiểm soát nước Anh và lập ra Ngân hàng Anh.
 
 34
-00:06:21,831 --> 00:06:27,040
+00:03:13,040 --> 00:03:18,239
 Cái đã tạo ra hệ thống tài chính hiện đại của ngày hôm nay các bạn ạ.
 
 35
-00:06:27,040 --> 00:06:41,925
+00:03:18,239 --> 00:03:23,280
 Rồi họ tiếp tục tạo ra Thế chiến thứ nhất.
 
 36
-00:06:42,025 --> 00:06:51,157
+00:03:23,280 --> 00:03:26,959
 Cuộc chiến này dẫn tới Thế chiến thứ hai, và hiện giờ họ đang âm mưu tạo ra Thế chiến thứ ba.
 
 37
-00:06:51,157 --> 00:06:59,039
+00:03:26,959 --> 00:03:38,879
 Mà cuộc chiến này sẽ khai sinh ra một chính phủ thế giới mới, một chính phủ toàn cầu duy nhất đặt tại Jerusalem.
 
 38
-00:06:59,039 --> 00:07:05,902
+00:03:38,879 --> 00:03:43,599
 Và nó sẽ được điều khiển bởi một nhà nước AI giám sát công dân các bạn ạ.
 
 39
-00:07:05,902 --> 00:07:15,360
+00:03:43,599 --> 00:03:52,000
 Đó là lý do hiện nay các bạn thấy các trung tâm dữ liệu đang được xây dựng khắp nơi trên thế giới.
 
 40
-00:07:15,360 --> 00:07:21,133
+00:03:52,000 --> 00:04:01,799
 Người ta cũng đồn rằng các Hiệp sĩ dòng Đền đã tìm ra cách giao tiếp được với quỷ.
 
 41
-00:07:21,133 --> 00:07:24,921
+00:04:02,480 --> 00:04:16,360
 Đó là những con quỷ liên chiều không gian, hoặc giao tiếp được với Lucifer.
 
 42
-00:07:24,921 --> 00:07:29,207
+00:04:17,680 --> 00:04:20,639
 Và để giao tiếp với quỷ thì các bạn phải lập khế ước với chúng,
 
 43
-00:07:29,207 --> 00:07:40,751
+00:04:20,639 --> 00:04:26,280
 thông qua các nghi lễ hiến tế các bạn ạ.
 
 44
-00:07:40,851 --> 00:07:43,592
+00:04:26,720 --> 00:04:28,479
 Rồi sau đó chúng có thể nhập vào người các bạn,
 
 45
-00:07:43,592 --> 00:07:53,080
+00:04:28,479 --> 00:04:37,199
 rồi tiết lộ cho các bạn những bí mật, ví dụ cách sống mãi mãi, cách trẻ mãi không già, hay cách tạo ra công nghệ vĩ đại.
 
 46
-00:07:53,080 --> 00:08:16,150
+00:04:37,199 --> 00:04:41,360
 Chúng cũng có thể chỉ cho các bạn cách chế tạo vũ khí hạt nhân các bạn ạ.
 
 47
-00:08:16,160 --> 00:08:23,303
+00:04:41,360 --> 00:04:48,240
 Nên người ta đồn rằng toàn bộ mục đích của chính phủ toàn cầu duy nhất và nhà nước giám sát AI là để đưa,
 
 48
-00:08:23,303 --> 00:08:29,017
+00:04:48,240 --> 00:04:56,960
 những sinh thể liên chiều này vào thế giới chúng ta, để giới tinh hoa có thể sống mãi mãi,
 
 49
-00:08:29,017 --> 00:08:31,874
+00:04:56,960 --> 00:05:00,560
 bằng cách họ hợp nhất với chính giới tinh hoa.
 
 50
-00:08:31,874 --> 00:08:42,357
+00:05:00,560 --> 00:05:05,680
 Cũng có người đồn rằng các Hiệp sĩ dòng Đền có gốc rễ truy ngược tới tận La Mã,
 
 51
-00:08:42,357 --> 00:08:49,279
+00:05:05,680 --> 00:05:13,759
 và mười ba gia tộc, mà sau này trở thành một phần của Venice.
 
 52
-00:08:49,279 --> 00:08:56,708
+00:05:13,759 --> 00:05:25,520
 Vậy là có rất nhiều các biến thể hoán vị khác nhau cho thuyết âm mưu này về cách thế giới vận hành các bạn ạ.
 
 53
-00:08:56,708 --> 00:09:12,708
+00:05:25,520 --> 00:05:31,919
 Bây giờ thì có rất rất nhiều vấn đề với thuyết âm mưu này về cách thế giới vận hành.
 
 54
-00:09:30,843 --> 00:09:37,414
+00:05:31,919 --> 00:05:40,560
 Trước hết, thực ra không có một bằng chứng nào cho thấy bất kỳ điều gì trong số này là sự thật cả.
 
 55
-00:09:37,414 --> 00:09:53,414
+00:05:40,560 --> 00:05:43,919
 Chúng ta không biết quỷ có thật sự tồn tại hay không.
 
 56
-00:09:54,320 --> 00:09:57,922
+00:05:43,919 --> 00:05:47,840
 Thực ra cũng không hề có bằng chứng nào cho thấy quỷ tồn tại.
 
 57
-00:09:57,922 --> 00:10:07,635
+00:05:47,840 --> 00:05:54,160
 Không có bằng chứng nào cho thấy đây là một âm mưu khổng lồ kéo dài cả ngàn năm như thế.
 
 58
-00:10:07,889 --> 00:10:12,747
+00:05:54,160 --> 00:06:02,000
 Điều thứ hai là chính giới tinh hoa cũng không hề biết rằng chuyện này là thật.
 
 59
-00:10:12,747 --> 00:10:21,889
+00:06:02,000 --> 00:06:13,600
 Dân chúng tin chuyện này là thật, nhưng nếu các bạn đi nói chuyện với người thực sự có quyền lực, họ sẽ nói rằng đây là chuyện hoàn toàn nhảm nhí.
 
 60
-00:10:21,889 --> 00:10:30,175
+00:06:13,600 --> 00:06:22,479
 Điều thứ ba về thuyết này là nó phản lịch sử, nghĩa là nó là một phiên bản đơn giản hóa quá đà về cách mọi thứ vận hành.
 
 61
-00:10:30,175 --> 00:10:33,604
+00:06:22,479 --> 00:06:28,240
 Nó không tính đến các yếu tố khác nữa các bạn ạ.
 
 62
-00:10:33,604 --> 00:10:41,032
+00:06:28,240 --> 00:06:35,440
 Hơn nữa, cái chúng ta học trong lớp này là lý thuyết trò chơi, và thuyết kia cũng đi ngược lại lý thuyết trò chơi luôn.
 
 63
-00:10:41,032 --> 00:10:48,461
+00:06:35,440 --> 00:06:43,440
 Vì điều chúng ta học trong lớp này là khi người ta nắm quyền thì họ trở nên ngạo mạn, kiêu căng và ngu ngốc đi.
 
 64
-00:10:48,461 --> 00:10:54,747
+00:06:43,440 --> 00:06:47,759
 Cho nên rất phổ biến chuyện những kẻ quyền lực trồi lên rồi cũng có một cú ngã đặc trưng của họ.
 
 65
-00:10:54,747 --> 00:10:58,461
+00:06:47,759 --> 00:06:51,440
 Đó chỉ là quy luật sắt của lịch sử thôi các bạn ạ.
 
 66
-00:10:58,461 --> 00:11:03,032
+00:06:51,440 --> 00:07:01,840
 Vậy nên vì những lý do đó, chúng ta biết thuyết này không phải sự thật.
 
 67
-00:11:03,032 --> 00:11:11,456
+00:07:01,840 --> 00:07:06,319
 Nhưng đồng thời, có một số điểm về thuyết âm mưu này lại rất hấp dẫn các bạn ạ.
 
 68
-00:11:11,456 --> 00:11:16,842
+00:07:06,319 --> 00:07:08,080
 Hãy điểm qua vài điểm trong số đó.
 
 69
-00:11:16,842 --> 00:11:30,389
+00:07:08,080 --> 00:07:15,360
 Điểm đầu tiên hấp dẫn về thuyết này là nó rất trực quan các bạn ạ.
 
 70
-00:11:30,439 --> 00:11:35,868
+00:07:15,360 --> 00:07:20,400
 Trực quan có nghĩa là nếu tôi kể nó cho ai đó thì người đó thấy có lý ngay.
 
 71
-00:11:35,868 --> 00:11:43,010
+00:07:20,400 --> 00:07:26,880
 Nó có lý hơn rất nhiều so với lịch sử mà chúng ta được dạy ở trường, kể cũng hơi lạ phải không các bạn.
 
 72
-00:11:43,010 --> 00:11:58,780
+00:07:26,880 --> 00:07:32,080
 Không chỗ nào trong đó là đúng, nhưng nó lại rất trực quan các bạn ạ.
 
 73
-00:11:58,790 --> 00:12:04,627
+00:07:32,080 --> 00:07:42,080
 Thứ hai là nó mang tính giải thích, và dù không phải sự thật, nó vẫn giúp chúng ta hiểu được cách thế giới vận hành.
 
 74
-00:12:04,637 --> 00:12:06,467
+00:07:42,080 --> 00:07:47,120
 Đó là một lời giải thích rất rõ ràng.
 
 75
-00:12:06,477 --> 00:12:09,800
+00:07:47,120 --> 00:07:57,680
 Điểm thứ ba và nghịch lý nhất là nó có tính dự đoán nữa các bạn ạ.
 
 76
-00:12:09,800 --> 00:12:20,195
+00:07:57,680 --> 00:08:05,120
 Nghĩa là nó còn giúp chúng ta dự đoán mọi chuyện sẽ diễn ra như thế nào trong tương lai.
 
 77
-00:12:20,295 --> 00:12:31,725
+00:08:05,120 --> 00:08:16,160
 Dù giới tinh hoa nghĩ tất cả là điên rồ, không đời nào họ đang âm mưu tạo ra Thế chiến thứ ba, không đời nào họ đang cố dựng nhà nước AI giám sát và chính phủ toàn cầu duy nhất,
 
 78
-00:12:32,560 --> 00:12:46,620
+00:08:16,160 --> 00:08:20,879
 thì khả năng cao là những chuyện đó vẫn sẽ xảy ra các bạn ạ.
 
 79
-00:12:46,720 --> 00:12:58,454
+00:08:20,879 --> 00:08:24,720
 Vậy nên điều này tạo ra một nghịch lý cực lớn các bạn ạ.
 
 80
-00:12:58,554 --> 00:13:12,856
+00:08:24,720 --> 00:08:28,319
 Làm sao chuyện này lại không phải sự thật được cơ chứ?
 
 81
-00:13:12,956 --> 00:13:18,872
+00:08:28,319 --> 00:08:35,080
 Chuyện này không phải sự thật chút nào nhưng nó lại đúng đắn,
 
 82
-00:13:18,972 --> 00:13:28,467
+00:08:35,120 --> 00:08:40,880
 nghĩa là nó cho ta sự thấu hiểu lớn lao về cách thế giới này vận hành các bạn ạ.
 
 83
-00:13:29,200 --> 00:13:45,200
+00:08:40,880 --> 00:08:49,279
 Vậy đây là một nghịch lý, chuyện toàn nhảm nhí nhưng nó lại giúp chúng ta dự đoán tương lai.
 
 84
-00:13:59,880 --> 00:14:01,870
+00:08:49,279 --> 00:08:51,760
 Nên nó đúng đắn.
 
 85
-00:14:01,870 --> 00:14:12,440
+00:08:51,760 --> 00:08:58,640
 Cái tôi sẽ làm bây giờ là giải thích cho các bạn cách hệ thống này thực sự vận hành.
 
 86
-00:14:12,440 --> 00:14:24,262
+00:08:58,640 --> 00:09:13,839
 Điều chủ chốt các bạn cần hiểu là chuyện đó mang tính ẩn dụ, ẩn dụ thôi các bạn ạ., nó không nên hiểu theo nghĩa đen.
 
 87
-00:14:25,040 --> 00:14:40,676
+00:09:13,839 --> 00:09:22,720
 Cái tôi sẽ cố làm là dùng dữ kiện thực tế để giải thích cho các bạn cách thế giới này vận hành.
 
 88
-00:14:40,776 --> 00:15:03,812
+00:09:22,720 --> 00:09:29,680
 Cái các bạn sẽ thấy là thuyết kia là một cách giải thích ẩn dụ về cách thế giới vận hành, là một câu chuyện mọi người có thể hiểu được,
 
 89
-00:15:03,822 --> 00:15:06,750
+00:09:29,680 --> 00:09:31,839
 giúp họ cảm nhận được sự tinh tế của thế giới này.
 
 90
-00:15:06,750 --> 00:15:11,026
+00:09:31,839 --> 00:09:34,480
 Nhưng giờ tôi sẽ kể cho các bạn nghe nó vận hành thế nào theo nghĩa đen.
 
 91
-00:15:11,026 --> 00:15:19,883
+00:09:34,480 --> 00:09:48,480
 Điều đầu tiên tôi sẽ giải thích cho các bạn là trên đời này có những người gọi là nhà huyền học, có những người theo các giáo phái bí truyền.
 
 92
-00:15:19,883 --> 00:15:35,883
+00:09:48,480 --> 00:09:54,320
 Họ dành toàn bộ thời gian của mình để cố tìm hiểu xem vũ trụ này vận hành như thế nào.
 
 93
-00:15:50,959 --> 00:15:55,438
+00:09:54,320 --> 00:09:58,959
 Họ đang cố khám phá ra các bí mật của vũ trụ.
 
 94
-00:15:55,438 --> 00:16:01,409
+00:09:58,959 --> 00:10:03,080
 Và có nhiều loại bí mật khác nhau, ví dụ là chiêm tinh học.
 
 95
-00:16:02,399 --> 00:16:22,906
+00:10:03,519 --> 00:10:12,399
 Sự dịch chuyển của các vì sao có thể định đoạt số phận con người, đó là ý tưởng của chiêm tinh học các bạn ạ.
 
 96
-00:16:22,916 --> 00:16:38,916
+00:10:12,399 --> 00:10:19,839
 Rồi các bạn có thuật giả kim, là cách biến không thành vàng, biến chì thành vàng.
 
 97
-00:16:57,983 --> 00:17:01,210
+00:10:19,839 --> 00:10:23,519
 Rồi các bạn có thuyết cánh chung.
 
 98
-00:17:01,210 --> 00:17:10,990
+00:10:23,519 --> 00:10:25,519
 Thuyết cánh chung là nghiên cứu về việc thế giới sẽ kết thúc như thế nào, vũ trụ này có ý nghĩa gì.
 
 99
-00:17:11,000 --> 00:17:12,310
+00:10:25,519 --> 00:10:27,600
 Khi nào Chúa sẽ giáng trần.
 
 100
-00:17:12,320 --> 00:17:14,364
+00:10:27,600 --> 00:10:30,399
 Rồi các bạn có hình học thiêng liêng nữa.
 
 101
-00:17:14,364 --> 00:17:20,936
+00:10:30,399 --> 00:10:39,760
 Hãy nghĩ về hình học thiêng liêng giống như ngành vật lý hạt, đó là bản chất nền tảng của vũ trụ này.
 
 102
-00:17:20,936 --> 00:17:28,329
+00:10:39,760 --> 00:10:46,079
 Một nhà huyền học có thể là nhà thơ, là triết gia, hay nhà tu hành.
 
 103
-00:17:28,329 --> 00:17:36,936
+00:10:46,079 --> 00:10:50,640
 Họ dành toàn bộ thời gian suy ngẫm xem chân lý nền tảng của vũ trụ này là gì.
 
 104
-00:17:48,800 --> 00:18:04,460
+00:10:50,640 --> 00:11:06,000
 Và rồi lại có những người khác, đó là những người tìm kiếm quyền lực, sự giàu sang, và danh vọng các bạn ạ.
 
 105
-00:18:04,560 --> 00:18:12,560
+00:11:06,000 --> 00:11:13,760
 Cái họ nhận ra là nếu muốn thực sự tìm kiếm quyền lực, giàu sang và danh vọng, họ cũng cần phải biết các bí mật kia luôn.
 
 106
-00:18:12,560 --> 00:18:19,131
+00:11:13,760 --> 00:11:23,040
 Cho nên cái xảy ra là họ lập ra các hội kín, để tiếp cận được các bí mật của chiêm tinh học,
 
 107
-00:18:19,131 --> 00:18:27,703
+00:11:23,040 --> 00:11:31,760
 thuật giả kim, thuyết cánh chung và hình học thiêng liêng, rồi áp dụng vào thực tế để tạo ra quyền lực, của cải và ảnh hưởng cho bản thân.
 
 108
-00:18:27,703 --> 00:18:40,080
+00:11:31,760 --> 00:11:39,040
 Phải hiểu là có rất nhiều nhà huyền học khác nhau, rất nhiều hội kín khác nhau, và tất cả tạo ra rất nhiều tổ hợp khác nhau.
 
 109
-00:18:40,080 --> 00:18:45,255
+00:11:39,040 --> 00:11:45,279
 Nhưng tất cả họ đều cố làm cùng một việc, đó là đạt được một viễn cảnh cánh chung.
 
 110
-00:18:45,587 --> 00:18:55,587
+00:11:45,279 --> 00:11:58,240
 Yếu tố thứ ba là các bạn cần một số cá nhân nhất định để đẩy xã hội tiến về phía trước, để hiện thực hóa viễn cảnh cánh chung của các hội kín đó.
 
 111
-00:18:55,587 --> 00:18:59,873
+00:11:58,240 --> 00:12:04,880
 Những người này giống như các điệp viên được các hội kín bảo trợ vậy.
 
 112
-00:18:59,873 --> 00:19:03,587
+00:12:04,880 --> 00:12:15,360
 Trong lịch sử, những người này gồm có Julius Caesar, Napoleon, Hitler, Stalin.
 
 113
-00:19:03,587 --> 00:19:06,158
+00:12:15,360 --> 00:12:18,720
 Ngày nay thì chúng ta có Trump và Putin.
 
 114
-00:19:06,158 --> 00:19:22,158
+00:12:18,720 --> 00:12:26,959
 Đây là các điệp viên, có thể là các biểu tượng cứu thế, hoặc thậm chí là vật tế thần,
 
 115
-00:19:23,040 --> 00:19:28,469
+00:12:26,959 --> 00:12:32,560
 mà các xã hội đề bạt lên để thúc đẩy một chương trình nghị sự cụ thể nào đó.
 
 116
-00:19:28,469 --> 00:19:38,183
+00:12:32,560 --> 00:12:41,760
 Hãy nhớ là tuy trông đơn giản nhưng thực ra không phải, vì có rất nhiều nhà huyền học với rất nhiều ý tưởng khác nhau, có nhiều hội kín đang cạnh tranh nhau,
 
 117
-00:19:38,183 --> 00:19:43,040
+00:12:41,760 --> 00:12:45,200
 và họ đề bạt các cá nhân khác nhau để đạt được tầm nhìn riêng của mình.
 
 118
-00:19:43,040 --> 00:19:51,611
+00:12:45,200 --> 00:12:58,240
 Cái thúc đẩy những cá nhân như Julius Caesar, Napoleon, Hitler, Stalin, Trump và Putin là chính bản thân họ tin rằng họ mới là những đứa con đích thực của Chúa.
 
 119
-00:19:51,611 --> 00:20:00,469
+00:12:58,240 --> 00:13:03,680
 Họ là đấng mê-si-a đích thực sẽ dẫn dắt thế giới đi lên, còn các hội kín thì gọi họ là những kẻ ngốc hữu dụng các bạn ạ.
 
 120
-00:20:00,469 --> 00:20:05,635
+00:13:03,680 --> 00:13:12,240
 Vậy đây là một khung phân tích để hiểu sự vận động của lịch sử các bạn ạ.
 
 121
-00:20:05,635 --> 00:20:08,183
+00:13:12,240 --> 00:13:14,959
 Giờ tôi sẽ đi vào cụ thể hơn nhiều.
 
 122
-00:20:08,183 --> 00:20:13,897
+00:13:14,959 --> 00:13:24,800
 Có một cách khác để diễn đạt chuyện này, đó là trong xã hội có rất nhiều nhóm khác nhau.
 
 123
-00:20:13,897 --> 00:20:16,754
+00:13:24,800 --> 00:13:32,560
 Hãy nghĩ về chính trị, hãy nghĩ về tài chính,
 
 124
-00:20:16,754 --> 00:20:19,897
+00:13:32,560 --> 00:13:43,240
 khoa học, tôn giáo, và quân sự nữa các bạn ạ.
 
 125
-00:20:19,897 --> 00:20:29,040
+00:13:43,920 --> 00:13:59,880
 Bây giờ, điểm chung của mỗi lĩnh vực hay mỗi ngành này là các bạn sẽ có sự đa dạng, một dải hành vi, với những hệ thống tín ngưỡng khác nhau.
 
 126
-00:20:29,040 --> 00:20:33,326
+00:14:00,800 --> 00:14:12,440
 Mỗi ngành đều có dải tín ngưỡng đa dạng của riêng nó các bạn ạ.
 
 127
-00:20:33,336 --> 00:20:37,672
+00:14:13,600 --> 00:14:25,040
 Đến một thời điểm nhất định, sẽ có sự hội tụ, một sự hội tụ giữa các ngành khác nhau này.
 
 128
-00:20:37,682 --> 00:20:46,322
+00:14:25,040 --> 00:14:40,399
 Cái khiến chúng hội tụ là vì trong mỗi ngành lại có một số cá nhân nhất định, một thiểu số cực nhỏ, đó là những kẻ tìm kiếm quyền lực, trật tự và sự kiểm soát.
 
 129
-00:20:46,322 --> 00:20:58,587
+00:14:40,399 --> 00:14:52,399
 Một lần nữa, trong mỗi ngành các bạn sẽ có một dải trải dài, một cực là những người ghét quyền lực, còn cực kia là những kẻ yêu quyền lực các bạn ạ.
 
 130
-00:20:58,597 --> 00:21:05,840
+00:14:52,399 --> 00:15:00,160
 Những kẻ yêu quyền lực, trật tự và kiểm soát ở tất cả các ngành khác nhau này sẽ tụ lại với nhau, và bắt tay nhau để đạt được quyền lực,
 
 131
-00:21:05,850 --> 00:21:06,932
+00:15:00,160 --> 00:15:02,959
 trật tự và kiểm soát.
 
 132
-00:21:06,942 --> 00:21:09,947
+00:15:02,959 --> 00:15:08,760
 Và chúng ta gọi những người này là các hội kín các bạn ạ.
 
 133
-00:21:09,947 --> 00:21:14,051
+00:15:10,720 --> 00:15:16,240
 Lý do là vì họ được gắn kết với nhau bởi một lợi ích chung.
 
 134
-00:21:14,051 --> 00:21:17,947
+00:15:16,240 --> 00:15:21,120
 Còn cái thực sự thú vị là theo thời gian, khi tri thức,
 
 135
-00:21:17,947 --> 00:21:38,057
+00:15:21,120 --> 00:15:29,600
 ngày càng mở rộng ra, các ngành khác nhau này phình to ra về quy mô, tạo ra sự đa dạng lớn hơn nhiều,
 
 136
-00:21:38,067 --> 00:21:44,325
+00:15:29,600 --> 00:15:35,120
 và cái xảy ra là sự hội tụ kia trở nên mạnh mẽ hơn rất nhiều trong xã hội.
 
 137
-00:21:44,325 --> 00:21:47,116
+00:15:35,120 --> 00:15:37,760
 Lý do là vì các ngành khác nhau,
 
 138
-00:21:47,520 --> 00:21:55,520
+00:15:37,760 --> 00:15:46,000
 không có khả năng phối hợp với nhau, nhưng những người bên trong sự hội tụ này thì lại biết phối hợp với nhau, điều đó cho họ,
 
 139
-00:21:55,520 --> 00:22:01,151
+00:15:46,000 --> 00:15:50,959
 một lợi thế khổng lồ trong xã hội các bạn ạ.
 
 140
-00:22:01,151 --> 00:22:11,516
+00:15:50,959 --> 00:15:58,000
 Điều đó có nghĩa là họ có thể đạt được quyền lực, trật tự và kiểm soát một cách,
 
 141
-00:22:11,516 --> 00:22:16,600
+00:15:58,000 --> 00:16:02,399
 dễ dàng hơn rất nhiều các bạn ạ.
 
 142
-00:22:16,700 --> 00:22:32,129
+00:16:02,399 --> 00:16:21,360
 Cái thú vị là khi xã hội đi xuống, khi xã hội đi xuống vì nó trở nên quá quan liêu, quá lớn, quá tham nhũng, thì các hội đó thực ra lại trở nên quyền lực hơn rất nhiều theo thời gian, vì họ giữ được sự cố kết chặt chẽ hơn nhiều.
 
 143
-00:22:32,129 --> 00:22:38,414
+00:16:21,360 --> 00:16:30,720
 Khi các hội kín đó được hình thành, cái các bạn sẽ phát hiện ra là có một số lượng rất lớn,
 
 144
-00:22:38,414 --> 00:22:46,986
+00:16:30,720 --> 00:16:42,079
 các hội kín khác nhau, và một cá nhân có thể tham gia nhiều hội cùng lúc, các hội kín này có thể xuất phát từ việc các bạn học,
 
 145
-00:22:46,986 --> 00:22:52,373
+00:16:42,079 --> 00:16:47,519
 ở một ngôi trường nào đó, hay lớn lên trong một tôn giáo nào đó, hay từ gia đình.
 
 146
-00:22:52,373 --> 00:22:54,700
+00:16:47,519 --> 00:16:49,199
 Có rất nhiều các tổ hợp khác nhau,
 
 147
-00:22:54,700 --> 00:22:59,156
+00:16:49,199 --> 00:16:55,040
 và các hội kín này, ở các tổ hợp khác nhau, đều cạnh tranh với nhau.
 
 148
-00:22:59,156 --> 00:23:01,843
+00:16:55,040 --> 00:17:01,839
 Cho nên tiêu chí cho cuộc cạnh tranh đó,
 
 149
-00:23:01,853 --> 00:23:03,218
+00:17:01,839 --> 00:17:06,720
 gồm ba thứ các bạn ạ.
 
 150
-00:23:03,218 --> 00:23:04,986
+00:17:06,720 --> 00:17:10,000
 Tính chính danh, quyền uy,
 
 151
-00:23:04,986 --> 00:23:08,129
+00:17:10,000 --> 00:17:11,679
 và sự đoàn kết, tức tính cố kết các bạn ạ.
 
 152
-00:23:08,129 --> 00:23:18,129
+00:17:11,679 --> 00:17:19,839
 Tại sao bạn chính danh hơn các hội kín khác, tại sao bạn có nhiều quyền uy hơn, chuyên môn hơn các hội kín khác, tại sao bạn đoàn kết hơn các hội kín khác.
 
 153
-00:23:18,129 --> 00:23:21,458
+00:17:19,839 --> 00:17:23,520
 Để giải quyết bài toán này, các hội kín sẽ làm gì?
 
 154
-00:23:21,458 --> 00:23:24,986
+00:17:23,520 --> 00:17:28,480
 Họ sẽ quay ngược lại thời gian, và viết lại lịch sử,
 
 155
-00:23:24,986 --> 00:23:30,414
+00:17:28,480 --> 00:17:36,960
 để chứng tỏ rằng họ được kết nối với toàn bộ chiều dài của lịch sử các bạn ạ.
 
 156
-00:23:30,414 --> 00:23:42,414
+00:17:36,960 --> 00:17:50,480
 Cái họ sẽ nói là chúng tôi không bắt đầu từ hôm nay tại trường của chúng tôi, mà vì chúng tôi được nối liền với Hội Tam Điểm, mà Hội Tam Điểm lại nối liền với các Hiệp sĩ dòng Đền.
 
 157
-00:23:42,414 --> 00:23:48,986
+00:17:50,480 --> 00:18:00,720
 Vậy là họ quay ngược lại và tạo ra một vũ trụ luận giải thích về nguồn gốc của mình, và rõ ràng,
 
 158
-00:23:48,986 --> 00:23:55,557
+00:18:00,720 --> 00:18:07,039
 các bạn truy ngược về quá khứ càng xa, thì lại càng chính danh, càng có nhiều quyền uy hơn các bạn ạ.
 
 159
-00:23:55,557 --> 00:24:00,042
+00:18:07,039 --> 00:18:11,280
 Vậy là họ quay ngược lại và tạo dựng nên lịch sử của riêng mình.
 
 160
-00:24:00,042 --> 00:24:02,986
+00:18:11,280 --> 00:18:14,960
 Và đó là lý do mà mọi người nghĩ rằng họ,
 
 161
-00:24:02,986 --> 00:24:05,272
+00:18:14,960 --> 00:18:18,960
 trải dài về tận La Mã các bạn ạ.
 
 162
-00:24:05,272 --> 00:24:07,557
+00:18:18,960 --> 00:18:22,880
 Hoặc có thể là tận Babylon nữa.
 
 163
-00:24:07,557 --> 00:24:16,700
+00:18:22,880 --> 00:18:35,440
 Và cái cho phép mọi người tin rằng chuyện này là liên tục, là vì giới tinh hoa ở mỗi thời kỳ đều hành xử y như nhau, đó là họ đều,
 
 164
-00:24:16,700 --> 00:24:19,557
+00:18:35,440 --> 00:18:40,080
 đang tìm kiếm quyền lực, trật tự và kiểm soát.
 
 165
-00:24:19,557 --> 00:24:23,445
+00:18:40,080 --> 00:18:45,919
 Và những kẻ chiến thắng đều có ba đặc điểm cụ thể các bạn ạ.
 
 166
-00:24:23,445 --> 00:24:25,843
+00:18:45,919 --> 00:18:47,760
 Thứ nhất, đây là những người nghiện,
 
 167
-00:24:25,843 --> 00:24:26,569
+00:18:47,760 --> 00:18:49,679
 quyền lực.
 
 168
-00:24:26,569 --> 00:24:30,414
+00:18:49,679 --> 00:18:55,520
 Họ ám ảnh về quyền lực, họ rất rất ám ảnh các bạn ạ.
 
 169
-00:24:30,414 --> 00:24:33,701
+00:18:55,520 --> 00:19:02,160
 Họ sẽ làm mọi cách có thể để giành thêm quyền lực.
 
 170
-00:24:33,701 --> 00:24:37,843
+00:19:02,160 --> 00:19:05,280
 Và quyền lực có tính bành trướng và nuốt chửng tất cả mọi thứ.
 
 171
-00:24:37,843 --> 00:24:43,843
+00:19:05,280 --> 00:19:12,640
 Nghĩa là họ không thể nào dừng lại được mà phải liên tục cố giành thêm quyền lực các bạn ạ.
 
 172
-00:24:43,843 --> 00:24:48,129
+00:19:12,640 --> 00:19:18,360
 Họ hành xử theo một cách trông như thể họ đang bị quỷ ám vậy.
 
 173
-00:24:48,129 --> 00:24:50,331
+00:19:22,640 --> 00:19:25,360
 Và thực ra họ có thờ quỷ thật.
 
 174
-00:24:50,331 --> 00:24:56,129
+00:19:25,360 --> 00:19:32,480
 Lý do là vì họ nghĩ rằng họ thờ tất cả các vị thần trong cuộc tìm kiếm lý trí.
 
 175
-00:24:56,129 --> 00:25:00,831
+00:19:32,480 --> 00:19:37,919
 Họ đang tìm những bí mật vĩ đại nhất của vũ trụ, nên họ rất cởi mở.
 
 176
-00:25:00,831 --> 00:25:04,129
+00:19:37,919 --> 00:19:39,760
 Họ tìm tất cả các khả năng, họ sẽ thờ Lucifer.
 
 177
-00:25:04,129 --> 00:25:08,129
+00:19:39,760 --> 00:19:45,679
 Nhưng họ cũng thờ Baphomet, họ thờ Osiris, họ thờ Isis các bạn ạ.
 
 178
-00:25:08,129 --> 00:25:13,557
+00:19:45,679 --> 00:19:56,880
 Vậy là giờ chúng ta hiểu cách thế giới này vận hành theo nghĩa đen xuyên suốt lịch sử.
 
 179
-00:25:13,557 --> 00:25:17,271
+00:19:56,880 --> 00:20:01,120
 Giới tinh hoa luôn hành xử y hệt như nhau các bạn ạ.
 
 180
-00:25:17,271 --> 00:25:25,843
+00:20:01,120 --> 00:20:12,400
 Và dù những giới tinh hoa này đang đấu đá nhau, họ vẫn đang thúc đẩy một chương trình nghị sự dồn quyền lực vào tay một số ít người,
 
 181
-00:25:25,843 --> 00:25:32,414
+00:20:12,400 --> 00:20:20,880
 khiến cho có cảm giác đây là một chương trình liên tục được kiểm soát bởi một số ít người các bạn ạ.
 
 182
-00:25:32,414 --> 00:25:33,811
+00:20:20,880 --> 00:20:24,880
 Có hiểu chứ các bạn?
 
 183
-00:25:33,811 --> 00:25:38,700
+00:20:24,880 --> 00:20:31,600
 Hãy nhớ đây là cách hiểu mang tính ẩn dụ về sự vận hành của thế giới.
 
 184
-00:25:38,700 --> 00:25:45,843
+00:20:31,600 --> 00:20:34,960
 Một thế giới do một hội kín đặc biệt nắm giữ, đó là Hiệp sĩ dòng Đền, mà sau này trở thành Hội Tam Điểm,
 
 185
-00:25:45,843 --> 00:25:49,872
+00:20:34,960 --> 00:20:42,559
 rồi sau đó trở thành Illuminati hiện đang nắm thế giới ngày nay.
 
 186
-00:25:49,872 --> 00:25:53,271
+00:20:42,559 --> 00:20:44,080
 Và họ đang cố tạo ra một chính phủ toàn cầu duy nhất,
 
 187
-00:25:53,271 --> 00:25:58,414
+00:20:44,080 --> 00:20:48,080
 một nhà nước giám sát AI, và triệu hồi quỷ vào thế giới này để sống mãi mãi.
 
 188
-00:25:58,424 --> 00:25:59,964
+00:20:48,080 --> 00:20:50,799
 Đây là một âm mưu vĩ mô.
 
 189
-00:25:59,964 --> 00:26:11,843
+00:20:50,799 --> 00:20:57,520
 Nhưng một lần nữa, nó không giải thích được vì sao chúng ta không có bằng chứng nào, vì sao giới tinh hoa không nghĩ là họ đang dính vào chuyện này, và vì sao chuyện này phản lịch sử.
 
 190
-00:26:11,843 --> 00:26:20,700
+00:20:57,520 --> 00:21:05,840
 Nhưng khi chúng ta chuyển nó sang một lời giải thích theo nghĩa đen, và đây là lời giải thích theo nghĩa đen, thì nó giải thích được hết mọi thứ.
 
 191
-00:26:20,700 --> 00:26:26,986
+00:21:05,840 --> 00:21:08,880
 Họ không nghĩ đây là âm mưu vì họ quá bận đấu đá nhau, họ không nhìn thấy bức tranh tổng thể.
 
 192
-00:26:26,986 --> 00:26:38,986
+00:21:08,880 --> 00:21:19,200
 Trong khi đó, những người không tham gia trò chơi này lại có thể nhìn vào sự chuyển động của lịch sử và hiểu một cách trực quan rằng thứ này đang dịch chuyển ra sao, nó đang dịch chuyển về phía,
 
 193
-00:26:38,986 --> 00:26:43,557
+00:21:19,200 --> 00:21:25,679
 nhiều kiểm soát hơn, nhiều trật tự hơn, và nhiều quyền lực hơn các bạn ạ.
 
 194
-00:26:43,557 --> 00:26:54,414
+00:21:25,679 --> 00:21:36,159
 Điều này cũng giúp giải thích vì sao hệ thống vẫn tồn tại dù giới tinh hoa sẽ trồi lên rồi cũng sẽ ngã xuống, vì những giới tinh hoa này đã đang cạnh tranh với nhau rồi.
 
 195
-00:26:54,414 --> 00:27:06,986
+00:21:36,159 --> 00:21:47,520
 Nên cái đang xảy ra là một số giới tinh hoa thay thế các giới tinh hoa khác, nhưng tất cả họ đều có cùng một chương trình nghị sự, đó là thêm quyền lực, thêm trật tự, thêm kiểm soát các bạn ạ.
 
 196
-00:27:06,986 --> 00:27:08,359
+00:21:47,520 --> 00:21:49,600
 Có hiểu chứ các bạn?
 
 197
-00:27:08,359 --> 00:27:19,271
+00:21:49,600 --> 00:22:01,919
 Đó là lý do tại sao khi chúng ta thực sự đọc các văn bản của các hội kín, tất cả những nhà tư tưởng này, họ trông giống như đang xây dựng dựa trên ý của nhau,
 
 198
-00:27:19,271 --> 00:27:23,271
+00:22:01,919 --> 00:22:04,559
 dù họ có lẽ chưa hề đọc tác phẩm của nhau các bạn ạ.
 
 199
-00:27:23,271 --> 00:27:26,700
+00:22:04,559 --> 00:22:13,600
 Những người tìm kiếm quyền lực rất giống nhau các bạn ạ.
 
 200
-00:27:26,700 --> 00:27:30,448
+00:22:13,600 --> 00:22:17,280
 Họ khác chúng ta ở chỗ họ có lẽ là những kẻ tâm thần.
 
 201
-00:27:30,448 --> 00:27:33,843
+00:22:17,280 --> 00:22:19,440
 Tất cả những gì họ quan tâm chính là quyền lực.
 
 202
-00:27:33,843 --> 00:27:39,317
+00:22:19,440 --> 00:22:23,440
 Cho nên những kẻ quyền lực gắn kết với nhau để tạo ra thêm quyền lực cho bản thân.
 
 203
-00:27:39,317 --> 00:27:40,986
+00:22:23,440 --> 00:22:25,840
 Có hợp lý không các bạn?
 
 204
-00:27:40,986 --> 00:27:44,425
+00:22:25,840 --> 00:22:26,799
 Giờ điều chúng ta sẽ làm là điểm qua các bằng chứng.
 
 205
-00:27:44,425 --> 00:27:48,129
+00:22:26,799 --> 00:22:30,640
 Cái tôi muốn làm trước hết là bàn về người đàn ông này.
 
 206
-00:27:48,129 --> 00:27:51,557
+00:22:30,640 --> 00:22:36,480
 Tên ông ấy là Albert Pike, sinh năm 1809, mất năm 1891.
 
 207
-00:27:51,557 --> 00:27:56,986
+00:22:36,480 --> 00:22:43,039
 Lý do ông quan trọng là ông được coi là kiến trúc sư trưởng của Hội Tam Điểm Mỹ.
 
 208
-00:27:56,986 --> 00:28:02,129
+00:22:43,039 --> 00:22:48,320
 Hội Tam Điểm Mỹ quan trọng vì những người này là những người kiểm soát chính phủ Mỹ.
 
 209
-00:28:02,129 --> 00:28:06,700
+00:22:48,320 --> 00:22:54,320
 Một phần ba các tổng thống Mỹ đã từng là thành viên của Hội Tam Điểm.
 
 210
-00:28:06,700 --> 00:28:13,843
+00:22:54,320 --> 00:23:02,559
 Và những người này ngày nay kiểm soát cả quân đội Mỹ, bộ máy an ninh quốc gia, kiểm soát cả CIA và FBI nữa.
 
 211
-00:28:13,843 --> 00:28:22,414
+00:23:02,559 --> 00:23:09,919
 Họ không gọi mình là thành viên Tam Điểm, nhưng họ truy ngược về Hội Tam Điểm, nên họ chia sẻ các tư tưởng tương tự của Hội Tam Điểm.
 
 212
-00:28:22,414 --> 00:28:34,986
+00:23:09,919 --> 00:23:23,039
 Albert Pike là một trong những lãnh đạo lớn của Hội Tam Điểm Mỹ, ông được coi là kiến trúc sư vĩ đại, nghĩa là ông đã dựng nên hệ thống và các tư tưởng làm nền cho Hội Tam Điểm Mỹ hiện đại.
 
 213
-00:28:34,986 --> 00:28:43,271
+00:23:23,039 --> 00:23:32,720
 Tác phẩm quan trọng nhất của ông gọi là Morals and Dogma, về cơ bản đó là cuốn giáo trình chuẩn của Hội Tam Điểm Mỹ các bạn ạ.
 
 214
-00:28:43,271 --> 00:28:47,221
+00:23:32,720 --> 00:23:38,480
 Cho nên chúng ta sẽ xem qua vài đoạn từ cuốn Morals and Dogma.
 
 215
-00:28:47,221 --> 00:28:52,700
+00:23:38,480 --> 00:23:43,919
 Tôi biết là chúng hơi dài, nhưng rất quan trọng để chúng ta hiểu được cách họ tư duy.
 
 216
-00:28:52,700 --> 00:28:56,687
+00:23:43,919 --> 00:23:46,240
 Tôi sẽ đọc phần đầu, còn Alan, em đọc đoạn này phụ thầy nhé.
 
 217
-00:28:56,687 --> 00:28:58,414
+00:23:46,240 --> 00:23:47,679
 Thầy sẽ đọc phần đầu nhé.
 
 218
-00:28:58,414 --> 00:28:59,945
+00:23:47,679 --> 00:23:50,720
 Viên ashlar nguyên thủy.
 
 219
-00:28:59,945 --> 00:29:05,557
+00:23:50,720 --> 00:23:55,120
 Đây là viên ashlar các bạn ạ., viên đá đại diện cho con người ở dạng thô và vô tổ chức.
 
 220
-00:29:05,557 --> 00:29:07,693
+00:23:55,120 --> 00:23:57,600
 Xã hội thì đa dạng và hỗn loạn.
 
 221
-00:29:07,693 --> 00:29:15,271
+00:23:57,600 --> 00:24:08,000
 Và chúng ta, các thành viên Tam Điểm, mục tiêu cuộc đời của chúng ta là tạo ra trật tự từ hỗn loạn các bạn ạ.
 
 222
-00:29:15,271 --> 00:29:21,118
+00:24:08,000 --> 00:24:13,840
 Viên ashlar hoàn hảo, hay viên đá tiêu biểu, là biểu tượng của sự hoàn hảo, chính là nhà nước.
 
 223
-00:29:21,118 --> 00:29:24,414
+00:24:13,840 --> 00:24:15,840
 Mục đích của chính quyền là tạo trật tự từ hỗn loạn,
 
 224
-00:29:24,414 --> 00:29:25,960
+00:24:15,840 --> 00:24:18,640
 để hoàn thiện loài người.
 
 225
-00:29:25,960 --> 00:29:30,414
+00:24:18,640 --> 00:24:23,600
 Các nhà cai trị nhận quyền lực từ sự đồng thuận của người được cai trị.
 
 226
-00:29:30,414 --> 00:29:33,545
+00:24:23,600 --> 00:24:25,120
 Hiến pháp và luật pháp nói lên ý chí của nhân dân.
 
 227
-00:29:33,545 --> 00:29:39,557
+00:24:25,120 --> 00:24:30,400
 Chính quyền hài hòa, đối xứng, hiệu quả, quyền lực được phân chia hợp lý và hoàn toàn cân bằng.
 
 228
-00:29:39,557 --> 00:29:42,348
+00:24:30,400 --> 00:24:33,039
 Vậy hãy hình dung xã hội như một khu rừng.
 
 229
-00:29:42,348 --> 00:29:45,271
+00:24:33,039 --> 00:24:37,520
 Không, một khu rừng thì hỗn loạn các bạn ạ.
 
 230
-00:29:45,271 --> 00:29:48,414
+00:24:37,520 --> 00:24:40,640
 Trong rừng có bệnh tật, nó có thể bị cháy rụi.
 
 231
-00:29:48,414 --> 00:29:54,414
+00:24:40,640 --> 00:24:48,559
 Cái chúng ta thật sự muốn làm là dựng nên một ngôi đền bằng đá, hoàn hảo, vĩnh cửu, thiêng liêng.
 
 232
-00:29:54,414 --> 00:29:59,843
+00:24:48,559 --> 00:24:53,360
 Chúng ta muốn đốt rừng đi và dựng đền bằng đôi tay trần của chính mình các bạn ạ.
 
 233
-00:29:59,843 --> 00:30:05,843
+00:24:53,360 --> 00:25:04,360
 Tôi biết Chúa là người đã tạo ra khu rừng, nhưng Chúa muốn chúng ta hoàn thiện công trình của Ngài.
 
 234
-00:30:05,843 --> 00:30:13,271
+00:25:04,799 --> 00:25:11,919
 Nếu chúng ta đặt một khối lập phương lên một mặt phẳng, chúng ta thấy ba mặt và chín đường ngoài được vẽ giữa bảy điểm.
 
 235
-00:30:13,271 --> 00:30:20,700
+00:25:11,919 --> 00:25:19,760
 Khối lập phương hoàn chỉnh có thêm ba mặt nữa thành sáu, thêm ba đường nữa thành mười hai, và thêm một điểm nữa thành tám.
 
 236
-00:30:20,700 --> 00:30:32,986
+00:25:19,760 --> 00:25:30,559
 Vì số mười hai bao gồm các số bí ẩn 3, 5, 7, và 3 nhân 3 bằng 9 được tạo ra bằng cách cộng số bí ẩn 3 vào 9, trong khi hai chữ số riêng của nó là một và hai,
 
 237
-00:30:32,986 --> 00:30:38,986
+00:25:30,559 --> 00:25:35,200
 hợp đơn nguyên với nhị nguyên cộng lại với nhau, ra chính số bí ẩn là số ba các bạn ạ.
 
 238
-00:30:38,986 --> 00:30:44,414
+00:25:35,200 --> 00:25:38,720
 Nó được gọi là số hoàn hảo, và khối lập phương trở thành biểu tượng của sự hoàn hảo.
 
 239
-00:30:44,414 --> 00:30:46,319
+00:25:38,720 --> 00:25:41,360
 Đây chính là Chúa các bạn ạ.
 
 240
-00:30:46,319 --> 00:30:50,129
+00:25:41,360 --> 00:25:44,400
 Cái chúng ta đang cố làm là tạo ra Chúa trên trần gian.
 
 241
-00:30:50,129 --> 00:30:52,200
+00:25:44,400 --> 00:25:46,240
 Làm sao biết được đó là Chúa?
 
 242
-00:30:52,200 --> 00:30:54,414
+00:25:46,240 --> 00:25:47,919
 Là vì nó chính là sự hoàn hảo.
 
 243
-00:30:54,414 --> 00:30:56,890
+00:25:47,919 --> 00:25:49,600
 Làm sao biết được đó là sự hoàn hảo?
 
 244
-00:30:56,890 --> 00:31:01,843
+00:25:49,600 --> 00:25:55,679
 Là nhờ toán học, nhờ hình học các bạn ạ. Hình học là ngôn ngữ của Chúa.
 
 245
-00:31:01,843 --> 00:31:05,679
+00:25:55,679 --> 00:25:59,039
 Một khi các bạn hiểu hình học, các bạn hiểu cách Chúa tư duy.
 
 246
-00:31:05,679 --> 00:31:11,843
+00:25:59,039 --> 00:26:04,080
 Vậy nên khối lập phương là hoàn hảo. Cho nên chúng ta muốn biến xã hội thành một khối lập phương.
 
 247
-00:31:11,843 --> 00:31:16,343
+00:26:04,080 --> 00:26:09,840
 Thực ra chúng ta muốn biến tất cả mọi người thành một khối lập phương.
 
 248
-00:31:16,343 --> 00:31:19,557
+00:26:09,840 --> 00:26:13,120
 Và làm cách nào? Bằng trí tuệ nhân tạo các bạn ạ.
 
 249
-00:31:19,557 --> 00:31:35,557
+00:26:13,120 --> 00:26:16,159
 Trí tuệ nhân tạo các bạn ạ.
 
 250
-00:31:35,623 --> 00:31:43,679
+00:26:16,159 --> 00:26:23,760
 Vậy, một lần nữa, ý tưởng là chúng ta đọc các văn bản này để hiểu được tinh thần cốt lõi trong tư duy của họ các bạn ạ.
 
 251
-00:31:43,679 --> 00:31:45,016
+00:26:23,760 --> 00:26:27,200
 Giờ chúng ta tiếp tục.
 
 252
-00:31:45,016 --> 00:31:52,250
+00:26:27,200 --> 00:26:35,039
 Em đọc tiếp được không Alan? Tuy nhiên, Tam Điểm, tức là đạo đức và triết học, không được ngừng làm nhiệm vụ của mình.
 
 253
-00:31:52,250 --> 00:32:03,200
+00:26:35,039 --> 00:26:37,760
 Chúng ta không bao giờ biết được khoảnh khắc nào thành công đang chờ đón nỗ lực của ta, thường thì là vào lúc không ngờ tới nhất,
 
 254
-00:32:03,453 --> 00:32:12,409
+00:26:37,760 --> 00:26:43,679
 và cũng không biết các nỗ lực dự kiến hay không dự kiến có thành công hay thất bại không.
 
 255
-00:32:12,409 --> 00:32:20,762
+00:26:43,679 --> 00:26:49,919
 Tam Điểm không được khuất phục trước sai lầm, hay đầu hàng trước sự nản chí.
 
 256
-00:32:21,229 --> 00:32:30,814
+00:26:49,919 --> 00:26:58,960
 Từng có ở La Mã vài binh sĩ Carthage bị bắt làm tù binh, họ từ chối cúi đầu trước Flamininus và có một chút khí khái của Hannibal.
 
 257
-00:32:30,814 --> 00:32:35,957
+00:26:58,960 --> 00:27:05,840
 Một thành viên Tam Điểm cần phải có một sự cao thượng tâm hồn tương đương như vậy.
 
 258
-00:32:35,957 --> 00:32:48,767
+00:27:05,840 --> 00:27:11,679
 Tam Điểm phải là một năng lượng, lấy mục đích và hiệu quả nằm ở việc khai sáng loài người.
 
 259
-00:32:48,867 --> 00:33:04,867
+00:27:11,679 --> 00:27:22,080
 Cho nên Socrates phải nhập vào con người Adam, để sản sinh ra Marcus Aurelius các bạn ạ.
 
 260
-00:33:04,891 --> 00:33:10,724
+00:27:22,080 --> 00:27:27,200
 Nói cách khác là phải mang ra từ con người hưởng lạc, một con người của trí tuệ các bạn ạ.
 
 261
-00:33:10,724 --> 00:33:22,166
+00:27:27,200 --> 00:27:39,919
 Tam Điểm không nên chỉ là một tháp canh đơn thuần được dựng trên bí ẩn, để từ đó thong thả ngắm thế giới, mà không có kết quả nào khác ngoài việc làm chỗ tiện lợi cho kẻ tò mò.
 
 262
-00:33:22,529 --> 00:33:33,300
+00:27:39,919 --> 00:27:52,799
 Đặt chén tư tưởng đầy ắp lên đôi môi khát khao của loài người, trao tất cả các tư tưởng đúng đắn về thần linh, hài hòa lương tâm và khoa học, đó là địa hạt của triết học.
 
 263
-00:33:33,705 --> 00:33:37,133
+00:27:52,799 --> 00:27:55,760
 Đạo đức là đức tin nở rộ trọn vẹn các bạn ạ.
 
 264
-00:33:37,133 --> 00:33:46,562
+00:27:55,760 --> 00:28:04,399
 Sự chiêm nghiệm phải dẫn tới hành động, cái tuyệt đối phải thực dụng, lý tưởng phải trở thành không khí, đồ ăn, thức uống cho tâm trí con người các bạn ạ.
 
 265
-00:33:46,562 --> 00:33:50,792
+00:28:04,399 --> 00:28:08,320
 Trí tuệ là một sự hiệp thông thiêng liêng.
 
 266
-00:33:50,792 --> 00:33:58,588
+00:28:08,320 --> 00:28:15,120
 Chỉ với điều kiện đó nó mới không còn là tình yêu khô cứng dành cho khoa học,
 
 267
-00:33:58,588 --> 00:34:09,523
+00:28:15,120 --> 00:28:23,120
 mà trở thành phương pháp duy nhất và tối thượng để hợp nhất loài người, đưa loài người vào hành động chung.
 
 268
-00:34:09,523 --> 00:34:12,666
+00:28:23,120 --> 00:28:25,600
 Khi đó triết học trở thành tôn giáo các bạn ạ.
 
 269
-00:34:12,666 --> 00:34:15,481
+00:28:25,600 --> 00:28:27,679
 Hội Tam Điểm là tôn giáo tối hậu, vì sao?
 
 270
-00:34:15,481 --> 00:34:21,523
+00:28:27,679 --> 00:28:37,200
 Vì nó bao trùm tất cả các tôn giáo trước đó, gồm cả thuyết Hermes của Ai Cập các bạn ạ.
 
 271
-00:34:21,523 --> 00:34:33,891
+00:28:37,200 --> 00:28:45,279
 Bao gồm cả các giáo phái bí truyền của Hy Lạp, của Pythagoras, bao gồm cả Kabbalah nữa.
 
 272
-00:34:33,991 --> 00:34:43,440
+00:28:45,279 --> 00:28:56,960
 Nó đã sục sạo toàn bộ chiều dài lịch sử và tìm ra những ý tưởng hay nhất của nhân loại, rồi ghép tất cả lại với nhau để tạo ra Hội Tam Điểm.
 
 273
-00:34:43,440 --> 00:34:52,133
+00:28:56,960 --> 00:29:01,600
 Và mục tiêu cuối cùng là để cho mỗi người trong chúng ta trở thành một viên đá, một con người khắc kỷ kiên định,
 
 274
-00:34:52,133 --> 00:34:53,597
+00:29:01,600 --> 00:29:03,520
 với đức tin hoàn hảo.
 
 275
-00:34:53,597 --> 00:35:03,848
+00:29:03,520 --> 00:29:12,640
 Và nếu chúng ta đặt tất cả mọi người lại với nhau và tất cả chúng ta đều là đá, thì chúng ta có thể dựng nên ngôi đền hoàn hảo của Chúa các bạn ạ.
 
 276
-00:35:03,848 --> 00:35:07,511
+00:29:12,640 --> 00:29:15,279
 Chúng ta có thể tạo ra Chúa trên trần gian.
 
 277
-00:35:07,511 --> 00:35:14,580
+00:29:15,279 --> 00:29:19,760
 Vậy hãy hình dung một kim tự tháp. Tất cả chúng ta đều là đá trong kim tự tháp đó.
 
 278
-00:35:14,580 --> 00:35:30,580
+00:29:19,760 --> 00:29:26,320
 Và tất cả chúng ta đều có trách nhiệm trở thành viên đá đó qua đức tin, qua thực hành, qua sự chiêm nghiệm.
 
 279
-00:35:31,075 --> 00:35:34,819
+00:29:26,320 --> 00:29:31,360
 Vậy Socrates phải nhập vào Adam và sản sinh ra Marcus Aurelius.
 
 280
-00:35:34,819 --> 00:35:38,503
+00:29:31,360 --> 00:29:37,039
 Cho nên đỉnh cao của loài người là sự chiêm nghiệm và lý trí,
 
 281
-00:35:38,513 --> 00:35:41,490
+00:29:37,039 --> 00:29:42,399
 nơi chúng ta dâng cảm xúc của mình cho hình học các bạn ạ.
 
 282
-00:35:41,490 --> 00:35:42,663
+00:29:42,399 --> 00:29:43,840
 Chúng ta tiếp tục đi.
 
 283
-00:35:42,673 --> 00:35:45,011
+00:29:43,840 --> 00:29:45,679
 Em đọc tiếp đi Alan.
 
 284
-00:35:45,011 --> 00:35:50,272
+00:29:45,679 --> 00:29:50,559
 Con người tự nợ chính mình quyền được tự do.
 
 285
-00:35:50,272 --> 00:35:57,415
+00:29:50,559 --> 00:29:55,679
 Con người nợ đất nước mình bổn phận đem lại tự do cho nó, hoặc giữ gìn đất nước trong trạng thái tự do ấy.
 
 286
-00:35:57,415 --> 00:36:06,558
+00:29:55,679 --> 00:30:07,520
 Nó tạo ra một làn sóng phẫn nộ chung và làm cho các kẻ thù chung của loài người trở thành kẻ thù, nó tạo ra một làn sóng oán hờn chung,
 
 287
-00:36:06,558 --> 00:36:10,641
+00:30:07,520 --> 00:30:13,919
 chống lại các bạo chúa và bạo quyền, cả thế quyền lẫn thần quyền.
 
 288
-00:36:10,641 --> 00:36:13,987
+00:30:13,919 --> 00:30:17,919
 Phạm vi của bổn phận được mở rộng vô cùng to lớn.
 
 289
-00:36:13,987 --> 00:36:18,143
+00:30:17,919 --> 00:30:22,240
 Lòng yêu nước từ đó có một ý nghĩa mới và rộng lớn hơn nhiều.
 
 290
-00:36:18,143 --> 00:36:22,844
+00:30:22,240 --> 00:30:27,600
 Chính quyền tự do, tư tưởng tự do, lương tâm tự do, ngôn luận tự do.
 
 291
-00:36:22,844 --> 00:36:35,130
+00:30:27,600 --> 00:30:41,679
 Tất cả những điều này trở thành các quyền bất khả xâm phạm, mà những ai đã đánh mất hoặc bị tước đoạt, hay tổ tiên của họ đã đánh mất, thì có quyền lấy lại một cách rốt ráo các bạn ạ.
 
 292
-00:36:35,130 --> 00:36:47,701
+00:30:41,679 --> 00:30:56,399
 Đáng tiếc là chân lý luôn bị bóp méo thành sự dối trá, và dối trá khi vận dụng sai có thể biến chân lý này thành tin mừng của hỗn loạn vô chính phủ, ngay sau khi nó được rao giảng lần đầu.
 
 293
-00:36:47,701 --> 00:36:53,130
+00:30:56,399 --> 00:31:01,520
 Tam Điểm đã sớm hiểu được chân lý này và nhận ra bổn phận mở rộng của chính mình.
 
 294
-00:36:53,130 --> 00:37:05,701
+00:31:01,520 --> 00:31:13,039
 Các biểu tượng của Tam Điểm khi đó mới có ý nghĩa sống còn, nhưng họ cũng khoác lên lớp vỏ thợ nề, mượn các dụng cụ làm việc của thợ nề và nhờ vậy được trao thêm các biểu tượng mới phù hợp.
 
 295
-00:37:05,701 --> 00:37:09,987
+00:31:13,039 --> 00:31:18,960
 Tam Điểm góp phần đem lại cách mạng Pháp, biến mất cùng với phái Girondin.
 
 296
-00:37:09,987 --> 00:37:24,558
+00:31:18,960 --> 00:31:36,080
 Phái Girondin được phục sinh cùng với việc khôi phục trật tự, và họ ủng hộ Napoleon, vì dù là hoàng đế, ông vẫn thừa nhận quyền của nhân dân được chọn người cai trị, và ông đứng đầu một dân tộc từ chối đón nhận lại các vị vua cũ.
 
 297
-00:37:24,558 --> 00:37:33,945
+00:31:36,080 --> 00:31:43,679
 Cái mà Albert Pike đang cố làm là cố giải thích thuyết cánh chung của Hội Tam Điểm các bạn ạ.
 
 298
-00:37:34,351 --> 00:37:36,484
+00:31:43,679 --> 00:31:45,519
 Thuyết cánh chung đó là thế này.
 
 299
-00:37:36,484 --> 00:37:40,351
+00:31:45,519 --> 00:31:49,120
 Chúng tôi muốn dựng nên một Đế quốc Lý trí các bạn ạ.
 
 300
-00:37:40,351 --> 00:37:48,636
+00:31:49,120 --> 00:32:03,200
 Cái mà ông gọi là Đế quốc Lý trí Thiêng liêng, và để làm điều đó chúng tôi phải tạo ra các cuộc cách mạng khắp thế giới.
 
 301
-00:37:48,636 --> 00:37:55,779
+00:32:03,200 --> 00:32:11,480
 Cái ông đang cố nói là đây là một cuộc thập tự chinh, và chúng tôi truy ngược về thời các Hiệp sĩ dòng Đền,
 
 302
-00:37:55,779 --> 00:38:04,636
+00:32:12,080 --> 00:32:22,240
 và chúng tôi là những người đã đem lại cách mạng Pháp và tạo ra Napoleon, để hiện thực hóa Đế quốc Lý trí Thiêng liêng này các bạn ạ.
 
 303
-00:38:04,636 --> 00:38:12,922
+00:32:22,240 --> 00:32:32,320
 Cái ông đang làm là ông quay ngược lại lịch sử và viết lại lịch sử để chứng tỏ rằng Hội Tam Điểm là điểm cuối của lịch sử,
 
 304
-00:38:12,922 --> 00:38:28,922
+00:32:32,320 --> 00:32:34,480
 là sự tiến hóa tự nhiên của các Hiệp sĩ dòng Đền các bạn ạ.
 
 305
-00:38:29,110 --> 00:38:41,110
+00:32:34,480 --> 00:32:44,559
 Cái ông đang cố nói với mọi người là chúng tôi làm việc trong bí mật vì trước đây khi chúng tôi còn là Hiệp sĩ dòng Đền, nước Pháp và Giáo hội Công giáo đã săn lùng chúng tôi tới chết.
 
 306
-00:38:41,110 --> 00:38:45,681
+00:32:44,559 --> 00:32:50,000
 Nên chúng tôi phải ngụy trang bản thân dưới hình thức thợ nề các bạn ạ.
 
 307
-00:38:45,681 --> 00:39:01,681
+00:32:50,000 --> 00:32:57,120
 Đó là lý do chúng tôi mượn hình hài của Hội Tam Điểm, vì Hội Tam Điểm chỉ là một phường thợ chuyên đi xây đền,
 
 308
-00:39:12,306 --> 00:39:21,163
+00:32:57,120 --> 00:33:07,840
 và chúng tôi đã mượn hình hài của họ để tự bảo vệ chính mình, rồi sau đó cố quảng bá sứ mệnh của mình trong bí mật các bạn ạ.
 
 309
-00:39:21,163 --> 00:39:26,591
+00:33:07,840 --> 00:33:11,919
 Đó là lý do mọi người tin rằng Hội Tam Điểm xuất phát từ các Hiệp sĩ dòng Đền.
 
 310
-00:39:26,591 --> 00:39:36,877
+00:33:11,919 --> 00:33:21,440
 Còn cái nó thực sự đang làm là cố mang lại tính chính danh và quyền uy cho Hội Tam Điểm bằng cách viết lại lịch sử như một phong trào hướng về Hội Tam Điểm.
 
 311
-00:39:36,877 --> 00:39:39,497
+00:33:21,440 --> 00:33:23,679
 Chuyện này không có lý chút nào các bạn ạ.
 
 312
-00:39:39,497 --> 00:39:54,904
+00:33:23,679 --> 00:33:32,559
 Ông kể về việc Hội Tam Điểm không chỉ tạo ra cách mạng Pháp, mà còn dựng nên Napoleon để cố tạo ra một chính phủ toàn cầu duy nhất các bạn ạ.
 
 313
-00:39:55,478 --> 00:40:09,420
+00:33:32,559 --> 00:33:37,360
 Việc đó thất bại, nhưng nếu Napoleon thất bại thì đừng lo, nước Mỹ sẽ thành công.
 
 314
-00:40:09,520 --> 00:40:32,610
+00:33:37,360 --> 00:33:54,159
 Đây là một đoạn nữa mà ta sẽ không đọc, nhưng ông kể về việc Hội Tam Điểm thực ra đã tạo ra điều kiện cho cách mạng Pháp, và âm mưu suốt nhiều thế hệ, suốt nhiều thập kỷ,
 
 315
-00:40:32,620 --> 00:40:37,939
+00:33:54,159 --> 00:34:00,480
 để báo thù cho cái chết của thủ lĩnh cũ của họ là Jacques de Molay vào năm 1314.
 
 316
-00:40:37,939 --> 00:40:43,191
+00:34:00,480 --> 00:34:05,760
 Vậy là Hội Tam Điểm nghĩ trước hàng thế kỷ và lập kế hoạch trước hàng thập kỷ.
 
 317
-00:40:43,191 --> 00:40:49,185
+00:34:05,760 --> 00:34:10,159
 Và một lần nữa, tất cả là để tạo dựng tính chính danh và quyền uy cho phong trào của họ.
 
 318
-00:40:49,185 --> 00:40:54,906
+00:34:10,159 --> 00:34:17,839
 Đây là việc viết lại lịch sử. Không có chuyện nào trong đó là sự thật cả các bạn ạ.
 
 319
-00:40:54,906 --> 00:40:55,673
+00:34:17,839 --> 00:34:19,440
 Tiếp tục đi.
 
 320
-00:40:55,673 --> 00:41:05,191
+00:34:19,440 --> 00:34:28,399
 Em đọc tiếp đi Alan. Cấp bậc Hoa Hồng được dành riêng và tượng trưng cho chiến thắng cuối cùng của chân lý trước dối trá, hay của tự do trước nô lệ,
 
 321
-00:41:05,191 --> 00:41:10,492
+00:34:28,399 --> 00:34:34,320
 của ánh sáng trước bóng tối, của sự sống trước cái chết, và của thiện trước ác.
 
 322
-00:41:10,492 --> 00:41:14,049
+00:34:34,320 --> 00:34:37,280
 Chân lý lớn mà nó truyền dạy là dù sự ác có tồn tại,
 
 323
-00:41:14,049 --> 00:41:19,479
+00:34:37,280 --> 00:34:43,440
 bất chấp sự tồn tại của cái ác, Chúa vẫn vô cùng thông tuệ, công bằng và nhân hậu.
 
 324
-00:41:19,479 --> 00:41:24,049
+00:34:43,440 --> 00:34:48,079
 Và dù các sự thật của thế giới không tuân theo quy tắc đúng sai nào,
 
 325
-00:41:24,049 --> 00:41:32,049
+00:34:48,079 --> 00:34:55,679
 mà chúng ta biết được từ góc nhìn hẹp của mình, thì mọi thứ vẫn là đúng, vì nó là một công trình của Chúa các bạn ạ.
 
 326
-00:41:32,049 --> 00:41:49,563
+00:34:55,679 --> 00:35:03,760
 Tất cả các cái ác, tất cả các khổ đau, tất cả các bất hạnh đều chỉ như những giọt nước trong dòng cuộn khổng lồ đang cuốn thế giới đi,
 
 327
-00:41:49,563 --> 00:41:56,490
+00:35:03,760 --> 00:35:06,720
 do Ngài dẫn dắt tới một kết quả huy hoàng và vĩ đại.
 
 328
-00:41:56,490 --> 00:42:05,633
+00:35:06,720 --> 00:35:13,920
 Vào thời điểm đã định trước, Ngài sẽ cứu chuộc và tái sinh thế giới, và nguyên lý, quyền năng và sự hiện hữu của cái ác khi đó sẽ chấm dứt.
 
 329
-00:42:05,633 --> 00:42:22,204
+00:35:13,920 --> 00:35:26,400
 Và việc này sẽ được thực hiện qua những phương tiện và công cụ mà Ngài chọn sử dụng, dù là qua công đức của một đấng cứu thế đã từng xuất hiện, hay một đấng mê-si-a vẫn còn được chờ đợi, qua việc Ngài hóa thân, hoặc qua một vị tiên tri được linh hứng.
 
 330
-00:42:22,204 --> 00:42:26,958
+00:35:26,400 --> 00:35:32,400
 Việc này không thuộc về chúng ta, những thành viên Tam Điểm, phải quyết định.
 
 331
-00:42:26,958 --> 00:42:34,490
+00:35:32,400 --> 00:35:41,440
 Hãy để mỗi người tự phán xét và tự tin theo lòng mình. Trong khi chờ, chúng ta cùng lao động để thúc đẩy ngày ấy mau đến.
 
 332
-00:42:34,490 --> 00:42:36,488
+00:35:41,440 --> 00:35:42,800
 Cấp bậc Hoa Hồng các bạn ạ.
 
 333
-00:42:36,488 --> 00:42:42,776
+00:35:42,800 --> 00:35:50,480
 Ý ở đây là Hội Tam Điểm và Hiệp sĩ dòng Đền thành công đến vậy vì họ là một hội kín.
 
 334
-00:42:42,776 --> 00:42:46,094
+00:35:50,480 --> 00:35:51,760
 Nhưng trước hết và trên hết, họ là một công ty.
 
 335
-00:42:46,094 --> 00:42:48,776
+00:35:51,760 --> 00:35:53,680
 Họ là một hệ thống thứ bậc các bạn ạ.
 
 336
-00:42:48,776 --> 00:42:50,788
+00:35:53,680 --> 00:35:57,200
 Vậy họ giống như một tam giác.
 
 337
-00:42:50,788 --> 00:42:56,490
+00:35:57,200 --> 00:36:01,520
 Và để leo lên trong hệ thống thứ bậc đó, các bạn phải liên tục tái tạo lại bản thân.
 
 338
-00:42:56,490 --> 00:42:59,180
+00:36:01,520 --> 00:36:03,760
 Các bạn phải tiếp thu các tư tưởng mới.
 
 339
-00:42:59,180 --> 00:43:06,490
+00:36:03,760 --> 00:36:07,680
 Và dựa vào thành quả của các bạn, dựa vào ý thức hệ của các bạn, họ sẽ thăng cấp các bạn lên cấp bậc mới.
 
 340
-00:43:06,490 --> 00:43:12,490
+00:36:07,680 --> 00:36:12,560
 Trong Hội Tam Điểm Scotland có ba mươi ba cấp bậc, và các bạn cứ leo lên cao dần, cao dần,
 
 341
-00:43:12,490 --> 00:43:24,204
+00:36:12,560 --> 00:36:23,680
 và mỗi lần các bạn leo lên một cấp, họ sẽ dạy cho các bạn một cách hiểu thế giới mới, và dựa vào sự linh hoạt tinh thần của các bạn mà tiếp tục leo cao hơn các bạn ạ.
 
 342
-00:43:24,204 --> 00:43:29,091
+00:36:23,680 --> 00:36:28,640
 Vậy là họ đang cố huấn luyện các bạn trở thành bậc thầy của tri thức.
 
 343
-00:43:29,091 --> 00:43:32,490
+00:36:28,640 --> 00:36:31,760
 Và đó là lý do họ thành công đến vậy các bạn ạ.
 
 344
-00:43:32,490 --> 00:43:33,831
+00:36:31,760 --> 00:36:33,920
 Em đọc tiếp đi Alan.
 
 345
-00:43:33,831 --> 00:43:39,061
+00:36:33,920 --> 00:36:38,640
 Để hiểu được tư tưởng cổ này, trước hết hãy đi theo linh hồn lúc nó hạ xuống.
 
 346
-00:43:39,061 --> 00:43:52,204
+00:36:38,640 --> 00:37:05,599
 Bầu trời của các vì sao bất động chính là vùng đất thánh, và là cánh đồng Elysian, là cội nguồn của linh hồn, là nơi linh hồn quay trở về khi đã khôi phục được sự thuần khiết và đơn sơ ban đầu của mình.
 
 347
-00:43:52,204 --> 00:44:05,061
+00:37:05,599 --> 00:37:18,240
 Từ vùng ánh sáng đó, linh hồn lên đường khi nó bắt đầu một hành trình hướng đến thân xác, một đích đến mà nó chỉ tới được khi đã trải qua ba lần sa sút, được gọi tên bằng những cái tên khác nhau.
 
 348
-00:44:05,061 --> 00:44:16,204
+00:37:18,240 --> 00:37:34,960
 Đoạn này chỉ cho các bạn thấy là Hội Tam Điểm đang cố thâu nhập tất cả các triết học, gồm cả Kabbalah, xin lỗi, gồm cả Kabbalah, gồm cả chủ nghĩa Tân Plato, và triết học Hermes nữa.
 
 349
-00:44:16,204 --> 00:44:19,519
+00:37:34,960 --> 00:37:37,200
 Và kết quả là họ cố tỏ ra trọn vẹn các bạn ạ.
 
 350
-00:44:19,519 --> 00:44:25,633
+00:37:37,200 --> 00:37:40,640
 Lợi thế chính nằm ở sự trọn vẹn của họ, nghĩa là họ có lời giải thích cho mọi thứ.
 
 351
-00:44:25,633 --> 00:44:31,633
+00:37:40,640 --> 00:37:44,400
 Cái họ đang muốn nói với chúng ta là trước hết chúng ta là những linh hồn đến từ thiên đường.
 
 352
-00:44:31,633 --> 00:44:33,633
+00:37:44,400 --> 00:37:46,320
 Và sao chúng ta đến trần gian?
 
 353
-00:44:33,633 --> 00:44:45,347
+00:37:46,320 --> 00:37:59,920
 Là để trải nghiệm thế giới, rồi chúng ta trở nên mắc kẹt trong cơ thể của mình, vì cơ thể chúng ta muốn trải nghiệm khoái lạc nhục dục, còn linh hồn chỉ muốn trải nghiệm khoái lạc tâm linh.
 
 354
-00:44:45,347 --> 00:44:59,061
+00:37:59,920 --> 00:38:18,720
 Cho nên thế giới này là một cuộc chiến tâm linh trong chính chúng ta, giữa phần vật chất của ta, vốn muốn tình dục, đồ ăn và tiền bạc, với phần tâm linh của ta, vốn tìm kiếm sự kết nối với lý trí các bạn ạ.
 
 355
-00:44:59,061 --> 00:45:08,204
+00:38:18,720 --> 00:38:28,640
 Và cách để đánh bại chính mình là qua hình học, bằng cách biến chính mình thành một khối lập phương thiêng, nối kết trở lại với thần linh các bạn ạ.
 
 356
-00:45:08,204 --> 00:45:09,281
+00:38:28,640 --> 00:38:32,400
 Em đọc đi, Alan.
 
 357
-00:45:09,281 --> 00:45:18,776
+00:38:32,400 --> 00:38:44,800
 Câu hỏi, đối với chúng ta thì biểu tượng chính của sự cứu chuộc và tái sinh tối hậu của con người là gì? Câu trả lời, đó là bữa ăn huynh đệ,
 
 358
-00:45:18,776 --> 00:45:27,061
+00:38:44,800 --> 00:38:56,240
 một bữa ăn của bánh mì mang lại sự nuôi dưỡng và của rượu vang làm tỉnh táo và gia tốc, một biểu tượng cho thời khắc sẽ đến,
 
 359
-00:45:27,061 --> 00:45:38,663
+00:38:56,240 --> 00:39:08,560
 khi cả nhân loại trở thành một huynh đệ đoàn lớn và hài hòa, và dạy ta những bài học vĩ đại là dù vật chất có thay đổi không ngừng, không một nguyên tử lẻ loi nào bị tiêu hủy.
 
 360
-00:45:38,663 --> 00:45:39,061
+00:39:08,560 --> 00:39:10,079
 Chưa.
 
 361
-00:45:39,061 --> 00:45:40,918
+00:39:10,079 --> 00:39:12,560
 Đây là ý tưởng về huynh đệ.
 
 362
-00:45:40,918 --> 00:45:46,490
+00:39:12,560 --> 00:39:18,160
 Vậy làm sao tạo ra một huynh đệ đoàn? Cách đơn giản là cùng tham gia một bữa ăn,
 
 363
-00:45:46,490 --> 00:45:52,204
+00:39:18,160 --> 00:39:22,480
 với nhau, giống như Chúa Jesus trong Bữa Tối Cuối Cùng, và chia sẻ sự hiệp thông các bạn ạ.
 
 364
-00:45:52,204 --> 00:45:56,776
+00:39:22,480 --> 00:39:27,359
 Đó là một sự hiệp thông để các bạn cảm thấy mình kết nối với nhau.
 
 365
-00:45:56,776 --> 00:46:07,347
+00:39:27,359 --> 00:39:38,880
 Nhưng theo thời gian, vì có một số phần tử trong Hội Tam Điểm và các Hiệp sĩ dòng Đền muốn quyền lực, trật tự và kiểm soát, họ thực hành những nghi lễ cực đoan hơn.
 
 366
-00:46:07,347 --> 00:46:18,490
+00:39:38,880 --> 00:39:53,280
 Và cái họ sẽ làm theo nghĩa đen là họ sẽ ăn xác chết của một thành viên Tam Điểm già nào đó, để kết nối chính mình với nhau, cũng như kết nối với quá khứ của họ.
 
 367
-00:46:18,490 --> 00:46:29,061
+00:39:53,280 --> 00:40:09,520
 Họ tin rằng các thành viên Tam Điểm thông qua sự hy sinh tâm linh khủng khiếp có thể tụ tập lại và hấp thụ năng lượng tâm linh vẫn còn ngụ ở trong cơ thể đó.
 
 368
-00:46:29,061 --> 00:46:36,490
+00:40:09,520 --> 00:40:18,160
 Cho nên họ sẽ đào mộ lên, rồi ăn cái xác chết đó trong một bữa ăn hiệp thông, trong một bữa cơm các bạn ạ.
 
 369
-00:46:36,490 --> 00:46:45,919
+00:40:18,160 --> 00:40:31,520
 Vậy một lần nữa, đặc điểm của các hội xã hội đó là những kẻ cực đoan nhất, những kẻ cuồng tín nhất, sẽ là người chiến thắng cuối cùng các bạn ạ.
 
 370
-00:46:45,919 --> 00:46:46,917
+00:40:31,520 --> 00:40:35,920
 Em đọc tiếp đi.
 
 371
-00:46:46,917 --> 00:46:50,776
+00:40:35,920 --> 00:40:41,280
 Các bạn đã nghe nhiều hơn một định nghĩa về Hội Tam Điểm.
 
 372
-00:46:50,776 --> 00:46:55,442
+00:40:41,280 --> 00:40:46,480
 Nhưng định nghĩa đúng nhất và ý nghĩa nhất thì các bạn vẫn chưa được nghe.
 
 373
-00:46:55,442 --> 00:46:59,919
+00:40:46,480 --> 00:40:51,359
 Nó được dạy cho người mới gia nhập, cho thợ học việc, và cho bậc thầy.
 
 374
-00:46:59,919 --> 00:47:03,919
+00:40:51,359 --> 00:40:53,920
 Và nó được dạy ở mọi cấp bậc mà các bạn đã đi qua.
 
 375
-00:47:03,919 --> 00:47:10,776
+00:40:53,920 --> 00:41:02,319
 Đó là một định nghĩa về Hội Tam Điểm là gì, về mục đích, về tinh thần cốt lõi và linh hồn của nó.
 
 376
-00:47:10,776 --> 00:47:19,919
+00:41:02,319 --> 00:41:15,119
 Và đối với mỗi chúng ta, nó mang sức mạnh và sự nhạy cảm của một luật thiêng liêng, áp đặt lên mỗi người trong chúng ta một nghĩa vụ trang trọng.
 
 377
-00:47:19,919 --> 00:47:31,919
+00:41:15,119 --> 00:41:27,040
 Nó được biểu tượng và truyền dạy cho người tập sự, cũng như cho các bạn, qua compa và thước vuông, mà trên đó, cũng như trên cuốn kinh tôn giáo của các bạn và cuốn luật của Hội Tam Điểm Scotland,
 
 378
-00:47:31,919 --> 00:47:34,254
+00:41:27,040 --> 00:41:29,599
 các bạn đã nguyện rất nhiều lời thề.
 
 379
-00:47:34,254 --> 00:47:42,490
+00:41:29,599 --> 00:41:39,119
 Là một hiệp sĩ, các bạn được dạy bởi thanh kiếm, biểu tượng của danh dự và bổn phận, mà trên đó các bạn đã thề các lời nguyện.
 
 380
-00:47:42,490 --> 00:47:51,347
+00:41:39,119 --> 00:41:47,680
 Nó được dạy cho các bạn qua chiếc cân, biểu tượng của mọi sự cân bằng, và qua cây thánh giá, biểu tượng của sự tận tâm và tự hy sinh.
 
 381
-00:47:51,347 --> 00:48:01,633
+00:41:47,680 --> 00:41:58,800
 Và tất cả những gì các biểu tượng này dạy và chứa đựng đều được dạy và chứa đựng cho người mới gia nhập, cho hiệp sĩ và cả hoàng tử, qua compa và thước vuông.
 
 382
-00:48:01,633 --> 00:48:05,347
+00:41:58,800 --> 00:42:01,119
 Đối với người tập sự, các đầu của compa nằm dưới thước vuông.
 
 383
-00:48:05,347 --> 00:48:09,347
+00:42:01,119 --> 00:42:03,760
 Đối với thợ học việc, một đầu nằm trên, còn một đầu nằm dưới.
 
 384
-00:48:09,347 --> 00:48:17,919
+00:42:03,760 --> 00:42:11,280
 Đối với các bậc thầy, cả hai đầu đều chiếm ưu thế, có sự cai trị, kiểm soát và phân xử các biểu tượng của trần thế và vật chất.
 
 385
-00:48:17,919 --> 00:48:27,347
+00:42:11,280 --> 00:42:25,200
 Hội Tam Điểm là sự khuất phục phần con người trong con người bằng phần thần thánh, là sự chinh phục của ham muốn và đam mê, bởi đạo đức và lý trí.
 
 386
-00:48:27,347 --> 00:48:34,490
+00:42:25,200 --> 00:42:32,720
 Là một nỗ lực, một cuộc đấu tranh và lao động không ngừng của phần tinh thần chống lại phần vật chất và giác quan.
 
 387
-00:48:34,490 --> 00:48:46,204
+00:42:32,720 --> 00:42:41,920
 Khi chiến thắng đó đã giành được và giữ vững, kẻ chinh phục có thể tựa vào tấm khiên của mình, và nơi vòng nguyệt quế xứng đáng được dệt nên chính là Đế quốc Lý trí Thiêng liêng đích thực duy nhất.
 
 388
-00:48:46,204 --> 00:48:53,477
+00:42:41,920 --> 00:42:44,640
 Đó chính là đế quốc lý trí thiêng liêng đích thực các bạn ạ.
 
 389
-00:48:53,477 --> 00:49:03,390
+00:42:44,640 --> 00:42:49,440
 Vậy để tôi giải thích cho các bạn hệ thống biểu tượng của Hội Tam Điểm.
 
 390
-00:49:03,440 --> 00:49:04,473
+00:42:49,440 --> 00:42:51,599
 Đây là cái compa.
 
 391
-00:49:04,473 --> 00:49:12,011
+00:42:51,599 --> 00:43:00,240
 Vậy compa làm gì? Compa thì đặt ra ranh giới, nó cai trị, đúng không. Còn đây là cái thước vuông, thước vuông thì giới hạn.
 
 392
-00:49:12,011 --> 00:49:21,440
+00:43:00,240 --> 00:43:09,200
 Vậy ý ở đây là khi các bạn mới gia nhập Hội Tam Điểm, các bạn phải tập trung vào thước vuông, tức là thuật giả kim tâm linh của chính các bạn.
 
 393
-00:49:21,440 --> 00:49:26,224
+00:43:09,200 --> 00:43:14,800
 Để kỷ luật bản thân, tập trung bản thân, học cách được cai trị các bạn ạ.
 
 394
-00:49:26,224 --> 00:49:28,583
+00:43:14,800 --> 00:43:17,920
 Tức là được cai trị bằng cái compa.
 
 395
-00:49:28,583 --> 00:49:32,869
+00:43:17,920 --> 00:43:24,400
 Rồi các bạn tới một điểm mà các bạn phải tự cai trị chính mình.
 
 396
-00:49:32,869 --> 00:49:37,154
+00:43:24,400 --> 00:43:29,520
 Cho nên các bạn phải dạy cho người khác cách kỷ luật, cách tập trung.
 
 397
-00:49:37,154 --> 00:49:48,869
+00:43:29,520 --> 00:43:37,200
 Rồi các bạn tới một điểm khi các bạn kết hợp thước vuông và compa, tức là các bạn dẫn dắt Hội Tam Điểm kiểm soát cả thế giới, để tạo ra đế quốc lý trí thiêng liêng các bạn ạ.
 
 398
-00:49:48,869 --> 00:49:54,011
+00:43:37,200 --> 00:43:42,480
 Vậy tùy theo cấp bậc khác nhau, các bạn nhìn các biểu tượng theo một cách khác nhau.
 
 399
-00:49:54,011 --> 00:49:56,623
+00:43:42,480 --> 00:43:45,440
 Còn chữ G thì là viết tắt của cái gì?
 
 400
-00:49:56,623 --> 00:50:00,011
+00:43:45,440 --> 00:43:47,359
 Vâng, có ba cách diễn giải khác nhau các bạn ạ.
 
 401
-00:50:00,011 --> 00:50:04,869
+00:43:47,359 --> 00:43:53,280
 Nó là viết tắt của geometry, tức hình học, dĩ nhiên vì có thước vuông và compa.
 
 402
-00:50:04,869 --> 00:50:12,583
+00:43:53,280 --> 00:44:02,400
 Nó là viết tắt của god, tức Chúa, hoặc của chủ nghĩa Tân Plato, hoặc của grand architect, tức kiến trúc sư vĩ đại các bạn ạ.
 
 403
-00:50:12,583 --> 00:50:20,562
+00:44:02,400 --> 00:44:08,960
 Cái mà Tam Điểm tin là có một Chúa, nhưng Ngài tạo ra thế giới này để chúng ta tự hoàn thiện, rồi sau đó Chúa rời chúng ta đi.
 
 404
-00:50:20,562 --> 00:50:29,419
+00:44:08,960 --> 00:44:16,240
 Nên Ngài là kiến trúc sư, nhưng điều đó có nghĩa chúng ta có trách nhiệm cải tạo và hoàn thiện thế giới mà chúng ta đang sống các bạn ạ.
 
 405
-00:50:29,419 --> 00:50:34,848
+00:44:16,240 --> 00:44:20,160
 Nhưng cũng có người tin rằng chữ G là viết tắt của nguyên lý sinh sản các bạn ạ.
 
 406
-00:50:34,858 --> 00:50:36,446
+00:44:20,160 --> 00:44:23,440
 Vậy là có nam và có nữ.
 
 407
-00:50:36,446 --> 00:50:42,562
+00:44:23,440 --> 00:44:30,560
 Cái nữ là nguyên lý sinh dưỡng, thứ mang đến sự sinh ra. Còn nam là nguyên lý sinh sản,
 
 408
-00:50:42,562 --> 00:50:45,345
+00:44:30,560 --> 00:44:32,640
 là thứ tiếp năng lượng cho nữ các bạn ạ.
 
 409
-00:50:45,345 --> 00:50:50,562
+00:44:32,640 --> 00:44:38,640
 Cái thú vị là nếu các bạn ghép tất cả lại, các bạn lấy nguyên lý sinh sản,
 
 410
-00:50:50,562 --> 00:50:54,501
+00:44:38,640 --> 00:44:49,280
 cộng với hình học, cái các bạn nhận được là Chúa các bạn ạ.
 
 411
-00:50:54,501 --> 00:50:57,705
+00:44:49,280 --> 00:44:53,839
 Vậy nguyên lý sinh sản và hình học bằng cái gì?
 
 412
-00:50:57,705 --> 00:51:00,723
+00:44:53,839 --> 00:44:56,240
 Nó bằng trí tuệ nhân tạo, tức AI các bạn ạ.
 
 413
-00:51:00,723 --> 00:51:05,705
+00:44:56,240 --> 00:45:02,800
 Cho nên ngay từ buổi sơ khai của Hội Tam Điểm, đã có một sự thôi thúc,
 
 414
-00:51:05,705 --> 00:51:21,705
+00:45:02,800 --> 00:45:06,880
 một khát khao trong họ là chứng minh chính họ có thể là Chúa, bằng cách tạo ra chính sự sống các bạn ạ.
 
 415
-00:51:30,660 --> 00:51:40,374
+00:45:06,880 --> 00:45:15,200
 Lúc đầu họ gọi đó là golem, nhưng nếu các bạn nghĩ kỹ thì đó cũng là lý do họ muốn tạo ra AI, để chứng minh rằng chính họ có thể là Chúa.
 
 416
-00:51:40,374 --> 00:51:45,803
+00:45:15,200 --> 00:45:21,119
 Một khi các bạn tạo ra được AI thì các bạn hoàn thiện được thế giới các bạn ạ.
 
 417
-00:51:45,803 --> 00:51:56,480
+00:45:21,119 --> 00:45:28,400
 Đó là Hội Tam Điểm, và các bạn có thể thấy nó giờ dẫn đến trí tuệ nhân tạo như thế nào các bạn ạ.
 
 418
-00:51:56,870 --> 00:52:00,588
+00:45:28,400 --> 00:45:30,240
 Tôi không nói là họ đã lập kế hoạch cho trí tuệ nhân tạo.
 
 419
-00:52:00,588 --> 00:52:05,155
+00:45:30,240 --> 00:45:34,240
 Cái tôi muốn nói là những người hiện đang phụ trách trí tuệ nhân tạo,
 
 420
-00:52:05,155 --> 00:52:11,441
+00:45:34,240 --> 00:45:40,560
 gồm cả những người như Sam Altman, Peter Thiel, Larry Ellison, Elon Musk, họ giờ có thể quay về truyền thống này,
 
 421
-00:52:11,441 --> 00:52:18,584
+00:45:40,560 --> 00:45:51,119
 và về cơ bản chiếm dụng truyền thống đó để biện minh cho nhà nước AI giám sát công dân của họ các bạn ạ.
 
 422
-00:52:18,584 --> 00:52:19,853
+00:45:51,119 --> 00:45:54,000
 Giờ chúng ta tiếp tục.
 
 423
-00:52:19,853 --> 00:52:24,584
+00:45:54,000 --> 00:46:02,000
 Đây là Zbigniew Brzezinski, ông từng là cố vấn an ninh quốc gia cho Jimmy Carter.
 
 424
-00:52:24,584 --> 00:52:35,155
+00:46:02,000 --> 00:46:17,599
 Carter là tổng thống Mỹ, còn ông là người sáng lập một tổ chức gọi là Ủy ban Tam phương, về cơ bản tổ chức này cố thực thi đại chiến lược của Mỹ trên thế giới,
 
 425
-00:52:35,155 --> 00:52:43,155
+00:46:17,599 --> 00:46:27,040
 và nó được tài trợ bởi David Rockefeller, người đương nhiên là một trong những người Mỹ giàu nhất và quyền lực nhất từng sống các bạn ạ.
 
 426
-00:52:43,155 --> 00:52:54,870
+00:46:27,040 --> 00:46:40,000
 Cho nên đây là một cá nhân rất quyền lực, và chúng ta sẽ đọc một số bài viết của ông từ cuốn sách Between Two Ages, và khi đọc các bạn sẽ thấy nó giống Albert Pike đến mức nào.
 
 427
-00:52:54,870 --> 00:53:04,013
+00:46:40,000 --> 00:46:52,560
 Tôi không nghĩ Brzezinski từng đọc Albert Pike, và bản thân ông có lẽ cũng không phải là thành viên Hội Tam Điểm, nhưng các bạn không cần phải đọc Albert Pike.
 
 428
-00:53:04,013 --> 00:53:08,596
+00:46:52,560 --> 00:46:56,000
 Các bạn không cần phải là thành viên Hội Tam Điểm mới tư duy giống họ.
 
 429
-00:53:08,596 --> 00:53:13,441
+00:46:56,000 --> 00:47:00,800
 Đây đều là những con người bị ám ảnh bởi quyền lực, kiểm soát và trật tự.
 
 430
-00:53:13,441 --> 00:53:22,013
+00:47:00,800 --> 00:47:09,839
 Và họ sẽ tìm tới các yếu tố trong các tôn giáo khác nhau để biện minh cho cuộc theo đuổi quyền lực, trật tự và kiểm soát của họ.
 
 431
-00:53:22,013 --> 00:53:24,599
+00:47:09,839 --> 00:47:11,839
 Đây là trích từ cuốn sách Between Two Ages.
 
 432
-00:53:24,599 --> 00:53:26,584
+00:47:11,839 --> 00:47:16,160
 Em đọc đoạn này được không Alan?
 
 433
-00:53:26,584 --> 00:53:33,441
+00:47:16,160 --> 00:47:25,280
 Sự xuất hiện của một đảng lớn áp đảo bên cạnh các nhóm tập trung hẹp hơn và mang tính giáo điều mạnh hơn,
 
 434
-00:53:33,441 --> 00:53:40,013
+00:47:25,280 --> 00:47:34,000
 ở cánh hữu và cánh tả, có thể đẩy nhanh xu hướng tiến tới chủ nghĩa quản trị công nghệ kiểu kỹ trị.
 
 435
-00:53:40,013 --> 00:53:49,155
+00:47:34,000 --> 00:47:44,079
 Một đảng lớn áp đảo như vậy sẽ kết hợp nhu cầu ổn định của xã hội Mỹ với sự yêu thích lịch sử của nó dành cho đổi mới sáng tạo.
 
 436
-00:53:49,155 --> 00:54:00,013
+00:47:44,079 --> 00:47:54,960
 Dựa vào tăng trưởng khoa học để sản xuất ra phương tiện giải quyết các vấn đề xã hội, nó sẽ khai thác tài năng trí tuệ của quốc gia cho việc lập kế hoạch mục tiêu rộng,
 
 437
-00:54:00,013 --> 00:54:08,584
+00:47:54,960 --> 00:48:03,680
 và lợi dụng sự tồn tại của các nhóm giáo điều bằng cách dùng họ như các phong vũ biểu xã hội và như các nguồn ý tưởng mới mẻ.
 
 438
-00:54:08,584 --> 00:54:20,870
+00:48:03,680 --> 00:48:20,640
 Khủng hoảng xã hội kéo dài, sự xuất hiện của một nhân vật lôi cuốn, và việc khai thác truyền thông đại chúng để giành niềm tin công chúng, sẽ là các bước đệm cho việc chuyển hóa từng phần nước Mỹ thành,
 
 439
-00:54:20,870 --> 00:54:23,073
+00:48:20,640 --> 00:48:23,440
 một xã hội bị kiểm soát chặt chẽ.
 
 440
-00:54:23,073 --> 00:54:33,155
+00:48:23,440 --> 00:48:34,000
 Theo các cách khác nhau, cả những kẻ giáo điều và phe bảo thủ đều có thể thấy sự cám dỗ vốn nằm trong các kỹ thuật kiểm soát xã hội mới khó cưỡng lại.
 
 441
-00:54:33,155 --> 00:54:42,870
+00:48:34,000 --> 00:48:43,440
 Khuynh hướng của phe tả giáo điều biện minh phương tiện bằng mục đích có thể khiến họ ủng hộ thêm kiểm soát xã hội với lý do là nó phục vụ tiến bộ.
 
 442
-00:54:42,870 --> 00:55:00,870
+00:48:43,440 --> 00:49:03,440
 Phe bảo thủ, quá lo lắng về trật tự công cộng và mê mẩn các công nghệ tân kỳ, sẽ bị cám dỗ dùng kỹ thuật mới như một phản ứng đối với bất ổn, vì họ sẽ không nhận ra được rằng kiểm soát xã hội không phải là cách duy nhất để ứng phó với thay đổi xã hội nhanh chóng.
 
 443
-00:55:00,870 --> 00:55:06,870
+00:49:03,440 --> 00:49:07,280
 Cuốn sách này được viết vào khoảng thập niên 1970, tức cách đây khoảng 40-50 năm rồi các bạn ạ.
 
 444
-00:55:06,870 --> 00:55:12,298
+00:49:07,280 --> 00:49:13,040
 Cái đáng kinh ngạc về đoạn này là nó mô tả nước Mỹ ngày nay một cách hoàn hảo.
 
 445
-00:55:12,298 --> 00:55:18,013
+00:49:13,040 --> 00:49:20,880
 Đây không chỉ là một lời tiên tri, mà gần như là một bản kế hoạch luôn các bạn ạ.
 
 446
-00:55:18,013 --> 00:55:21,477
+00:49:20,880 --> 00:49:23,040
 Cho nên để tôi giải thích ông ấy đang nói cái gì.
 
 447
-00:55:21,477 --> 00:55:24,870
+00:49:23,040 --> 00:49:25,119
 Ông đang nói rằng dân chủ là một thứ có vấn đề.
 
 448
-00:55:24,870 --> 00:55:25,401
+00:49:25,119 --> 00:49:27,760
 Vì sao?
 
 449
-00:55:25,401 --> 00:55:28,584
+00:49:27,760 --> 00:49:29,920
 Vì nó luôn dẫn đến sự phân cực các bạn ạ.
 
 450
-00:55:28,584 --> 00:55:34,584
+00:49:29,920 --> 00:49:33,440
 Các bạn sẽ luôn có các phe phái khác nhau trong nền dân chủ này, là những người sẽ đấu nhau.
 
 451
-00:55:34,584 --> 00:55:40,013
+00:49:33,440 --> 00:49:36,319
 Cuối cùng, các bạn sẽ tới được một điểm mà họ thực sự từ chối hòa hợp với nhau.
 
 452
-00:55:40,013 --> 00:55:47,155
+00:49:36,319 --> 00:49:41,119
 Đó là cái đang xảy ra ở nước Mỹ ngày nay, giữa cánh tả và cánh hữu, giữa đảng Dân chủ và đảng Cộng hòa.
 
 453
-00:55:47,155 --> 00:55:53,727
+00:49:41,119 --> 00:49:48,880
 Và ông đang nói rằng chuyện này sẽ tạo ra một loạt khủng hoảng, hàng loạt khủng hoảng xã hội các bạn ạ.
 
 454
-00:55:53,727 --> 00:55:58,013
+00:49:48,880 --> 00:49:53,599
 Và giải pháp ông tin tưởng là một chế độ kỹ trị các bạn ạ.
 
 455
-00:55:58,013 --> 00:56:14,298
+00:49:53,599 --> 00:50:12,319
 Về cơ bản là một bộ máy hành chính ở Washington DC do các kỹ sư điều hành, dùng trí tuệ nhân tạo, dùng dữ liệu và thống kê để cai trị xã hội tốt hơn, và là những người có khả năng dùng sự phân cực xã hội này để quản lý xã hội tốt hơn.
 
 456
-00:56:14,298 --> 00:56:17,987
+00:50:12,319 --> 00:50:19,760
 Và đây là một câu thực sự rất rất thú vị các bạn ạ.
 
 457
-00:56:17,987 --> 00:56:20,013
+00:50:19,760 --> 00:50:22,880
 Khủng hoảng xã hội kéo dài.
 
 458
-00:56:20,013 --> 00:56:25,727
+00:50:22,880 --> 00:50:26,160
 Cái đang xảy ra ở Mỹ ngay lúc này chính là sự chia rẽ giữa cánh tả và cánh hữu.
 
 459
-00:56:25,727 --> 00:56:28,331
+00:50:26,160 --> 00:50:28,720
 Sự xuất hiện của một nhân vật lôi cuốn.
 
 460
-00:56:28,331 --> 00:56:32,870
+00:50:28,720 --> 00:50:35,359
 Ai là người đó? Nhân vật lôi cuốn đó. Đó là Donald Trump các bạn ạ.
 
 461
-00:56:32,870 --> 00:56:35,654
+00:50:35,359 --> 00:50:37,280
 Và việc khai thác truyền thông đại chúng.
 
 462
-00:56:35,654 --> 00:56:39,727
+00:50:37,280 --> 00:50:44,480
 Về cơ bản chỉ là mạng xã hội để nhồi sọ và tẩy não các bạn.
 
 463
-00:56:39,727 --> 00:56:50,298
+00:50:44,480 --> 00:50:53,119
 Để giành niềm tin công chúng, sẽ là các bước đệm cho việc chuyển hóa từng phần nước Mỹ thành một xã hội bị kiểm soát chặt chẽ, một nhà nước giám sát AI các bạn ạ.
 
 464
-00:56:50,298 --> 00:57:05,155
+00:50:53,119 --> 00:51:12,000
 Cái ông đang nói là điều này, cuối cùng các bạn sẽ tới điểm mà sự chia rẽ trở nên quá lớn, kinh tế rơi vào tình trạng khó khăn nghiêm trọng, mọi người sẽ giận dữ đến mức yêu cầu một Napoleon hoặc Julius Caesar xuất hiện để dẫn họ vào,
 
 465
-00:57:05,155 --> 00:57:15,727
+00:51:12,000 --> 00:51:22,640
 một chế độ độc tài, và điều này có thể là một điều tốt, vì nó có thể tạo ra một chế độ kỹ trị có khả năng cai trị xã hội tốt hơn các bạn ạ.
 
 466
-00:57:15,727 --> 00:57:22,584
+00:51:22,640 --> 00:51:30,240
 Vậy đây là sự tiếp nối dự án của Hội Tam Điểm là cố tạo ra trật tự từ hỗn loạn các bạn ạ.
 
 467
-00:57:22,584 --> 00:57:24,461
+00:51:30,240 --> 00:51:31,920
 Cái ông đang nói là thế này.
 
 468
-00:57:24,461 --> 00:57:34,584
+00:51:31,920 --> 00:51:40,880
 Phe bảo thủ, tức phe Cộng hòa, sẽ là phe thắng trong cuộc nội chiến, vì họ là những người quá bị ám ảnh bởi trật tự công cộng và các công nghệ tân kỳ.
 
 469
-00:57:34,584 --> 00:57:39,155
+00:51:40,880 --> 00:51:48,040
 Họ là những người sẽ muốn nhà nước AI giám sát công dân các bạn ạ.
 
 470
-00:57:39,155 --> 00:57:46,584
+00:51:48,720 --> 00:51:56,480
 Một khi các bạn có nhà nước AI, các bạn có chế độ kỹ trị, và thế giới sẽ trở nên hoàn hảo các bạn ạ.
 
 471
-00:57:46,584 --> 00:57:48,181
+00:51:56,480 --> 00:51:58,000
 Có hợp lý không các bạn?
 
 472
-00:57:48,181 --> 00:57:56,298
+00:51:58,000 --> 00:52:06,559
 Cái ông đang nói ở đây. Đây là một đoạn kinh ngạc được viết cách đây 40-50 năm. Tôi không nói ông là thành viên Tam Điểm.
 
 473
-00:57:56,298 --> 00:58:03,441
+00:52:06,559 --> 00:52:10,720
 Tôi không nói ông là một phần của hội kín, nhưng ông chắc chắn tư duy giống một thành viên Tam Điểm các bạn ạ.
 
 474
-00:58:03,441 --> 00:58:04,641
+00:52:10,720 --> 00:52:14,520
 Chúng ta tiếp tục đi.
 
 475
-00:58:04,641 --> 00:58:10,584
+00:52:17,040 --> 00:52:21,359
 Em đọc tiếp được không? Vâng. Chính truyền thống biên cương đã khuấy động trí tưởng tượng của người Mỹ,
 
 476
-00:58:10,584 --> 00:58:18,013
+00:52:21,359 --> 00:52:29,920
 tạo ra một xã hội của chuyển động và tăng trưởng, và mang đến cho Mỹ một huyền thoại có tính tích hợp của riêng mình.
 
 477
-00:58:18,013 --> 00:58:31,727
+00:52:29,920 --> 00:52:45,440
 Sự thám hiểm khoa học, gồm cả thám hiểm không gian, đã trở thành tương đương về chức năng với truyền thống biên cương của Mỹ, và những nỗ lực đó liên quan trực tiếp đến các thành tựu giáo dục và khoa học của đất nước này.
 
 478
-00:58:31,727 --> 00:58:33,021
+00:52:45,440 --> 00:52:46,880
 Em đọc đoạn cuối đi.
 
 479
-00:58:33,021 --> 00:58:38,584
+00:52:46,880 --> 00:52:55,200
 Với nhiều người Mỹ, chủ nghĩa tự do đương đại chẳng đem lại nguyên tắc cũng chẳng đem lại tiến bộ.
 
 480
-00:58:38,584 --> 00:58:46,298
+00:52:55,200 --> 00:53:02,640
 Khủng hoảng của chủ nghĩa tự do Mỹ vì thế vừa là khủng hoảng của lòng tin, vừa là khủng hoảng của tính chính đáng lịch sử.
 
 481
-00:58:46,298 --> 00:58:50,316
+00:53:02,640 --> 00:53:06,640
 Cái ông đang nói ở đây là dân chủ là một tai nạn lịch sử.
 
 482
-00:58:50,316 --> 00:58:57,155
+00:53:06,640 --> 00:53:15,520
 Nó tốt cho nước Mỹ trước kia, nhưng trong tương lai, chủ nghĩa tự do có lẽ sẽ là một thứ tồi tệ.
 
 483
-00:58:57,155 --> 00:58:58,459
+00:53:15,520 --> 00:53:18,160
 Vì nó quá chia rẽ.
 
 484
-00:58:58,459 --> 00:59:02,298
+00:53:18,160 --> 00:53:24,960
 Vậy giải pháp là gì? Đây là giải pháp đây các bạn ạ.
 
 485
-00:59:02,308 --> 00:59:02,946
+00:53:24,960 --> 00:53:26,000
 Em đọc đi.
 
 486
-00:59:02,946 --> 00:59:10,013
+00:53:26,000 --> 00:53:30,880
 Alan, em đọc chậm thôi nhé. Em không cần phải vội. Vâng, được rồi. Chỉ cần đọc chậm thôi. Em cứ đọc tiếp đi.
 
 487
-00:59:10,013 --> 00:59:18,870
+00:53:30,880 --> 00:53:39,280
 Đó là lý do chủ nghĩa Mác đại diện cho một giai đoạn thêm sống động và sáng tạo trong sự trưởng thành của tầm nhìn phổ quát của con người.
 
 488
-00:59:18,870 --> 00:59:28,013
+00:53:39,280 --> 00:53:51,119
 Chủ nghĩa Mác đồng thời là chiến thắng của con người chủ động bên ngoài trước con người thụ động bên trong, và là chiến thắng của lý trí trước niềm tin.
 
 489
-00:59:28,013 --> 00:59:33,441
+00:53:51,119 --> 00:53:56,960
 Nó nhấn mạnh khả năng của con người trong việc định hình số phận vật chất của chính mình.
 
 490
-00:59:33,441 --> 00:59:35,808
+00:53:56,960 --> 00:54:00,160
 Đây là một đoạn kinh ngạc các bạn ạ.
 
 491
-00:59:35,808 --> 00:59:40,870
+00:54:00,160 --> 00:54:03,440
 Đây là người làm cố vấn an ninh quốc gia cho Jimmy Carter vào thời điểm này.
 
 492
-00:59:40,870 --> 00:59:43,299
+00:54:03,440 --> 00:54:05,440
 Đây là đỉnh cao của Chiến tranh Lạnh.
 
 493
-00:59:43,299 --> 00:59:51,441
+00:54:05,440 --> 00:54:15,520
 Nước Mỹ đang đánh nhau với Liên Xô, và cố vấn an ninh quốc gia của Mỹ cho Jimmy Carter lại nói rằng dân chủ là một thứ xấu.
 
 494
-00:59:51,441 --> 00:59:53,677
+00:54:15,520 --> 00:54:19,920
 Chủ nghĩa Mác là tốt các bạn ạ.
 
 495
-00:59:53,677 --> 00:59:58,870
+00:54:19,920 --> 00:54:30,400
 Chủ nghĩa Mác là tốt. Vì sao? Vì nó là điểm cuối của lịch sử các bạn ạ.
 
 496
-00:59:58,870 --> 01:00:02,628
+00:54:30,400 --> 00:54:36,960
 Cách mạng Pháp là về việc đề cao lý trí lên trên cảm xúc.
 
 497
-01:00:02,628 --> 01:00:06,584
+00:54:36,960 --> 00:54:42,480
 Chủ nghĩa Mác là sự tiến triển tự nhiên của cách mạng Pháp.
 
 498
-01:00:06,584 --> 01:00:12,013
+00:54:42,480 --> 00:54:47,839
 Chủ nghĩa Mác là cái hứa hẹn một chiến thắng của lý trí trước cảm xúc các bạn ạ.
 
 499
-01:00:12,013 --> 01:00:14,833
+00:54:47,839 --> 00:54:50,000
 Vậy nhà nước AI giám sát công dân là gì?
 
 500
-01:00:14,833 --> 01:00:17,441
+00:54:50,000 --> 00:54:54,079
 Rốt cuộc đó là chủ nghĩa Mác kỹ trị.
 
 501
-01:00:17,441 --> 01:00:19,441
+00:54:54,079 --> 00:54:58,200
 Đó là cái họ muốn các bạn ạ.
 
 502
-01:00:19,441 --> 01:00:21,441
+00:54:59,119 --> 00:55:00,960
 Họ muốn chủ nghĩa cộng sản.
 
 503
-01:00:21,441 --> 01:00:28,298
+00:55:00,960 --> 00:55:06,640
 Cố vấn an ninh quốc gia cho Jimmy Carter, một trong những người Mỹ quyền lực nhất trên thế giới, muốn chủ nghĩa Mác.
 
 504
-01:00:28,308 --> 01:00:28,755
+00:55:06,640 --> 00:55:10,480
 Vì sao?
 
 505
-01:00:28,755 --> 01:00:37,441
+00:55:10,480 --> 00:55:20,000
 Vì chủ nghĩa Mác, tức chủ nghĩa cộng sản, chính là sự hiện thực hóa các tư tưởng của Hội Tam Điểm trong thế giới chúng ta các bạn ạ.
 
 506
-01:00:37,441 --> 01:00:38,941
+00:55:20,000 --> 00:55:20,720
 Có rõ chưa các bạn?
 
 507
-01:00:38,941 --> 01:00:40,441
+00:55:20,720 --> 00:55:22,960
 Thưa thầy John. Vâng.
 
 508
-01:00:40,441 --> 01:00:43,298
+00:55:22,960 --> 00:55:27,839
 Vậy chủ nghĩa Mác kỹ trị là cái gì ạ?
 
 509
-01:00:43,298 --> 01:00:45,264
+00:55:27,839 --> 00:55:30,000
 Tôi sẽ giải thích đây các bạn ạ.
 
 510
-01:00:45,264 --> 01:00:49,013
+00:55:30,000 --> 00:55:35,280
 Đây là Larry Ellison. Và Larry Ellison có lẽ không đọc sách.
 
 511
-01:00:49,013 --> 01:00:51,416
+00:55:35,280 --> 00:55:36,800
 Ông có lẽ chưa bao giờ đọc Albert Pike.
 
 512
-01:00:51,416 --> 01:00:55,298
+00:55:36,800 --> 00:55:40,400
 Ông có lẽ cũng chưa bao giờ đọc Zbigniew Brzezinski các bạn ạ.
 
 513
-01:00:55,298 --> 01:01:03,298
+00:55:40,400 --> 00:55:46,240
 Nhưng ông là một trong những người đàn ông quyền lực nhất nước Mỹ, vì ông sáng lập ra một công ty gọi là Oracle các bạn ạ.
 
 514
-01:01:03,298 --> 01:01:04,427
+00:55:46,240 --> 00:55:49,240
 Oracle, đúng không.
 
 515
-01:01:04,427 --> 01:01:09,298
+00:55:49,520 --> 00:55:56,799
 Và đây là ông cùng với Donald Trump công bố một dự án gọi là Chiến dịch Stargate.
 
 516
-01:01:09,298 --> 01:01:17,298
+00:55:56,799 --> 00:56:02,559
 Cho nên họ sẽ xây các trung tâm dữ liệu khắp nước Mỹ để tạo ra nhà nước AI giám sát công dân của họ các bạn ạ.
 
 517
-01:01:17,298 --> 01:01:25,298
+00:56:02,559 --> 00:56:10,559
 Larry Ellison là một trong những người đàn ông quyền lực nhất trên thế giới, nhưng lai lịch của ông thì rất rất thú vị các bạn ạ.
 
 518
-01:01:25,298 --> 01:01:30,441
+00:56:10,559 --> 00:56:17,280
 Ông sáng lập một công ty gọi là Oracle, mà vào thời điểm đó nó tên là RSI.
 
 519
-01:01:30,441 --> 01:01:36,441
+00:56:17,280 --> 00:56:22,160
 Đây là từ một cuốn tiểu sử về Larry Ellison có tựa đề Sự Khác Biệt Giữa Chúa Và Larry Ellison.
 
 520
-01:01:36,441 --> 01:01:41,298
+00:56:22,160 --> 00:56:28,960
 Và ông kể về việc trong năm năm đầu công ty của ông thật sự rất tệ.
 
 521
-01:01:41,298 --> 01:01:50,727
+00:56:28,960 --> 00:56:34,880
 Họ là một công ty cơ sở dữ liệu được thiết kế để thu thập dữ liệu rồi sắp xếp dữ liệu theo cách hữu ích cho các công ty và chính phủ.
 
 522
-01:01:50,727 --> 01:01:59,298
+00:56:34,880 --> 00:56:43,200
 Nhưng họ làm tệ đến mức nếu các bạn đưa dữ liệu vào máy này, thì họ sẽ làm mất toàn bộ dữ liệu của các bạn các bạn ạ.
 
 523
-01:01:59,298 --> 01:02:00,588
+00:56:43,200 --> 00:56:46,319
 Họ thực sự bất tài.
 
 524
-01:02:00,588 --> 01:02:07,584
+00:56:46,319 --> 00:56:54,960
 Nhưng khách hàng của họ là ai? Là CIA và Hải quân Mỹ, những nơi có ngân sách không giới hạn các bạn ạ.
 
 525
-01:02:07,584 --> 01:02:13,455
+00:56:54,960 --> 00:57:01,760
 Vậy là công ty thì bất tài, hủy hoại dữ liệu, nhưng chính phủ vẫn cứ tiếp tục hậu thuẫn họ.
 
 526
-01:02:13,455 --> 01:02:15,584
+00:57:01,760 --> 00:57:04,559
 Em đọc đoạn này được không Alan?
 
 527
-01:02:15,584 --> 01:02:21,584
+00:57:04,559 --> 00:57:08,880
 Điều buồn cười là các khách hàng đầu tiên không thực sự bận tâm khi mất tiền hay mất dữ liệu.
 
 528
-01:02:21,584 --> 01:02:27,584
+00:57:08,880 --> 00:57:13,839
 Dù RSI chưa bao giờ thực sự giao đúng cái mà CIA muốn, cơ quan này cũng không hề khó chịu.
 
 529
-01:02:27,584 --> 01:02:35,800
+00:57:13,839 --> 00:57:21,920
 Kỹ sư Kirk Bradley nhớ lại một nhân viên CIA có nói với ông, chúng tôi mua những thứ này mà biết thừa là nó sẽ không chạy được.
 
 530
-01:02:35,800 --> 01:02:37,870
+00:57:21,920 --> 00:57:23,760
 Chúng tôi đang mua một ý tưởng.
 
 531
-01:02:37,870 --> 01:02:42,441
+00:57:23,760 --> 00:57:30,480
 Phần mềm gốc đó cũng không làm thỏa mãn Hải quân, nhưng cũng không sao cả.
 
 532
-01:02:42,441 --> 01:02:50,155
+00:57:30,480 --> 00:57:39,040
 Chúng tôi đang mua một chiếc máy bay Wright Flyer ban đầu, với kỳ vọng vài năm sau chúng tôi sẽ có hẳn một hãng hàng không.
 
 533
-01:02:50,155 --> 01:02:59,870
+00:57:39,040 --> 00:57:49,280
 John Scale của Hải quân nói rằng Hải quân hiểu rằng Oracle có thể sụp đổ và cháy rụi bất cứ lúc nào, nhưng vẫn rất hào hứng cố làm cho nó cất cánh.
 
 534
-01:02:59,870 --> 01:03:02,265
+00:57:49,280 --> 00:57:52,880
 Ông Shield nói với một chút mỉa mai.
 
 535
-01:03:02,265 --> 01:03:04,727
+00:57:52,880 --> 00:57:55,599
 Đoạn này thực sự khó hiểu các bạn ạ.
 
 536
-01:03:04,727 --> 01:03:13,584
+00:57:55,599 --> 00:58:02,720
 CIA, Hải quân, các bạn thuê một công ty vì lẽ ra công ty đó sẽ làm rẻ hơn, nhanh hơn và hiệu quả hơn các bạn tự làm, đúng không.
 
 537
-01:03:13,584 --> 01:03:17,497
+00:58:02,720 --> 00:58:06,880
 Nhưng cái xảy ra với Oracle là nó tốn của họ rất nhiều tiền.
 
 538
-01:03:17,497 --> 01:03:19,584
+00:58:06,880 --> 00:58:09,920
 Họ không nhận được cái họ muốn.
 
 539
-01:03:19,584 --> 01:03:23,592
+00:58:09,920 --> 00:58:11,599
 Và họ phải đổ thêm chính nguồn lực của mình để tạo ra Oracle.
 
 540
-01:03:23,592 --> 01:03:26,155
+00:58:11,599 --> 00:58:15,200
 Họ thực ra đã phải giúp Oracle ra đời.
 
 541
-01:03:26,155 --> 01:03:30,573
+00:58:15,200 --> 00:58:25,200
 Nên Oracle và Larry Ellison đều là sản phẩm của CIA và Hải quân Mỹ.
 
 542
-01:03:30,573 --> 01:03:32,155
+00:58:25,200 --> 00:58:27,920
 Tại sao họ lại làm vậy?
 
 543
-01:03:32,155 --> 01:03:34,807
+00:58:27,920 --> 00:58:29,839
 Đó là một câu hỏi rất tò mò các bạn ạ.
 
 544
-01:03:34,807 --> 01:03:41,298
+00:58:29,839 --> 00:58:35,520
 Tôi không biết câu trả lời. Có thể vì Larry Ellison thực sự là người đàn ông rất có sức hút.
 
 545
-01:03:41,298 --> 01:03:44,478
+00:58:35,520 --> 00:58:37,520
 Có thể vì ông có người thân làm việc cho CIA.
 
 546
-01:03:44,478 --> 01:03:47,870
+00:58:37,520 --> 00:58:40,000
 Có thể vì ông thực sự gặp may. Ai mà biết được.
 
 547
-01:03:47,870 --> 01:03:53,870
+00:58:40,000 --> 00:58:46,880
 Nhưng đây là một sự thật rất tò mò về cách các công ty như Oracle ra đời các bạn ạ.
 
 548
-01:03:53,870 --> 01:03:56,740
+00:58:46,880 --> 00:58:49,280
 Chúng ta cũng sẽ nói về người này, Peter Thiel.
 
 549
-01:03:56,740 --> 01:04:01,870
+00:58:49,280 --> 00:58:54,160
 Peter Thiel có lẽ là một trong những người đàn ông quyền lực nhất nước Mỹ hiện nay.
 
 550
-01:04:01,870 --> 01:04:06,012
+00:58:54,160 --> 00:58:57,760
 Tôi nghĩ thực ra ông còn quyền lực hơn cả Elon Musk các bạn ạ.
 
 551
-01:04:06,012 --> 01:04:10,155
+00:58:57,760 --> 00:59:01,920
 Vì sao? Vì vào năm 2016 ông nhận ra tiềm năng ở Donald Trump,
 
 552
-01:04:10,155 --> 01:04:13,584
+00:59:01,920 --> 00:59:04,079
 và ông đã ủng hộ chiến dịch tranh cử của Donald Trump.
 
 553
-01:04:13,584 --> 01:04:23,614
+00:59:04,079 --> 00:59:11,920
 Ông cũng nhìn thấy tiềm năng ở JD Vance, và ông đã ủng hộ sự nghiệp đầu tư mạo hiểm của JD Vance, cũng như chiến dịch tranh cử Thượng nghị sĩ của ông ấy.
 
 554
-01:04:23,614 --> 01:04:28,727
+00:59:11,920 --> 00:59:17,520
 Rồi sau đó ông đề bạt JD Vance làm phó tổng thống cho Donald Trump các bạn ạ.
 
 555
-01:04:28,727 --> 01:04:35,882
+00:59:17,520 --> 00:59:25,440
 Và khi các bạn đọc Peter Thiel, dù ông là một doanh nhân, ông thực sự đọc giống một thành viên Hội Tam Điểm.
 
 556
-01:04:35,882 --> 01:04:37,870
+00:59:25,440 --> 00:59:28,480
 Thật sự rất rất lạ các bạn ạ.
 
 557
-01:04:37,870 --> 01:04:41,129
+00:59:28,480 --> 00:59:31,520
 Đây là trích từ cuốn sách của ông, Zero to One.
 
 558
-01:04:41,129 --> 01:04:45,013
+00:59:31,520 --> 00:59:33,920
 Ông đang nói về cách dựng một công ty vĩ đại các bạn ạ.
 
 559
-01:04:45,013 --> 01:04:47,383
+00:59:33,920 --> 00:59:36,319
 Cái ông nói với các bạn là thế này.
 
 560
-01:04:47,383 --> 01:04:56,727
+00:59:36,319 --> 00:59:40,880
 Nếu các bạn muốn dựng một công ty vĩ đại để cạnh tranh với các công ty khác, thì các bạn là kẻ ngốc. Cạnh tranh là dành cho kẻ thua cuộc.
 
 561
-01:04:56,727 --> 01:05:00,310
+00:59:40,880 --> 00:59:44,960
 Chủ nghĩa tư bản là dành cho kẻ thua cuộc các bạn ạ.
 
 562
-01:05:00,310 --> 01:05:08,441
+00:59:44,960 --> 00:59:51,920
 Cái các bạn muốn là sự độc quyền. Cái các bạn muốn là chủ nghĩa cộng sản. Cái các bạn muốn là sự thống trị các bạn ạ.
 
 563
-01:05:08,441 --> 01:05:12,870
+00:59:51,920 --> 00:59:55,280
 Và điều đó có nghĩa là các bạn cần có một bí mật để kiếm tiền.
 
 564
-01:05:12,870 --> 01:05:15,584
+00:59:55,280 --> 00:59:58,240
 Em đọc đi Alan? Em đọc chậm thôi nhé?
 
 565
-01:05:15,584 --> 01:05:15,936
+00:59:58,240 --> 01:00:00,240
 Vâng.
 
 566
-01:05:15,936 --> 01:05:20,441
+01:00:00,240 --> 01:00:05,359
 Có hai loại bí mật. Bí mật của tự nhiên và bí mật về con người.
 
 567
-01:05:20,441 --> 01:05:23,245
+01:00:05,359 --> 01:00:08,319
 Bí mật tự nhiên tồn tại xung quanh chúng ta.
 
 568
-01:05:23,245 --> 01:05:29,298
+01:00:08,319 --> 01:00:13,680
 Để tìm ra chúng, ta phải nghiên cứu một số khía cạnh chưa được khám phá của thế giới vật chất.
 
 569
-01:05:29,298 --> 01:05:31,107
+01:00:13,680 --> 01:00:16,000
 Bí mật về con người thì khác.
 
 570
-01:05:31,107 --> 01:05:38,155
+01:00:16,000 --> 01:00:22,000
 Đó là những điều mà người ta không biết về chính mình, hoặc những điều họ giấu đi vì không muốn người khác biết.
 
 571
-01:05:38,155 --> 01:05:44,173
+01:00:22,000 --> 01:00:26,960
 Cho nên khi nghĩ về việc nên dựng loại công ty nào, có hai câu hỏi riêng biệt cần đặt ra.
 
 572
-01:05:44,173 --> 01:05:47,013
+01:00:26,960 --> 01:00:29,520
 Bí mật nào mà tự nhiên đang giấu các bạn?
 
 573
-01:05:47,013 --> 01:05:49,790
+01:00:29,520 --> 01:00:31,920
 Bí mật nào mà con người đang giấu các bạn?
 
 574
-01:05:49,790 --> 01:05:54,155
+01:00:31,920 --> 01:00:37,040
 Nếu các bạn tìm thấy một bí mật, các bạn đứng trước một lựa chọn.
 
 575
-01:05:54,155 --> 01:05:58,727
+01:00:37,040 --> 01:00:42,480
 Có những bí mật rộng lượng hơn các bí mật khác, như Faust nói với Wagner.
 
 576
-01:05:58,727 --> 01:06:09,870
+01:00:42,480 --> 01:00:52,319
 Số ít người biết những gì có thể học được, ngu ngốc phơi cả trái tim ra trong tuyết và bộc lộ cảm xúc với đám đông bên dưới, đã luôn bị loài người đóng đinh và thiêu sống.
 
 577
-01:06:09,870 --> 01:06:18,155
+01:00:52,319 --> 01:00:59,200
 Trừ khi các bạn có niềm tin hoàn toàn thông thường, hiếm khi là ý hay khi đem nói cho mọi người tất cả mọi thứ các bạn biết.
 
 578
-01:06:18,155 --> 01:06:22,064
+01:00:59,200 --> 01:01:02,319
 Vậy các bạn kể cho ai cần biết và không kể nhiều hơn thế.
 
 579
-01:06:22,064 --> 01:06:30,155
+01:01:02,319 --> 01:01:10,400
 Trong thực tế luôn có một con đường trung dung giữa không kể với ai và kể với tất cả mọi người, và đó là một công ty.
 
 580
-01:06:30,155 --> 01:06:32,822
+01:01:10,400 --> 01:01:13,280
 Các doanh nhân giỏi nhất đều hiểu điều này.
 
 581
-01:06:32,822 --> 01:06:38,155
+01:01:13,280 --> 01:01:17,920
 Mọi công ty lớn đều được xây dựng quanh một bí mật được giấu khỏi thế giới bên ngoài.
 
 582
-01:06:38,155 --> 01:06:41,879
+01:01:17,920 --> 01:01:22,720
 Một công ty vĩ đại là một âm mưu để thay đổi thế giới.
 
 583
-01:06:41,879 --> 01:06:48,155
+01:01:22,720 --> 01:01:24,960
 Khi các bạn chia sẻ bí mật của mình, người nhận sẽ trở thành đồng phạm âm mưu của các bạn.
 
 584
-01:06:48,155 --> 01:06:51,298
+01:01:24,960 --> 01:01:26,480
 Làm sao các bạn xây được một công ty vĩ đại?
 
 585
-01:06:51,298 --> 01:06:53,298
+01:01:26,480 --> 01:01:28,799
 Các bạn lập ra một hội kín.
 
 586
-01:06:53,298 --> 01:06:54,482
+01:01:28,799 --> 01:01:32,559
 Vậy hội kín là gì?
 
 587
-01:06:54,482 --> 01:07:04,155
+01:01:32,559 --> 01:01:39,280
 Các bạn tiếp cận huyền học các bạn ạ. Nếu các bạn thực sự muốn kiếm rất nhiều tiền, đừng dành thời gian để lập trình và đi tìm công nghệ tốt nhất.
 
 588
-01:07:04,155 --> 01:07:05,012
+01:01:39,280 --> 01:01:41,920
 Đừng làm thế.
 
 589
-01:07:05,012 --> 01:07:11,013
+01:01:41,920 --> 01:01:43,920
 Đó là một sự lãng phí thời gian. Hãy nhìn vào huyền học. Tìm ra các bí mật của loài người.
 
 590
-01:07:11,013 --> 01:07:18,155
+01:01:43,920 --> 01:01:51,040
 Tìm ra các bí mật của huyền học và dựng công ty quanh ý tưởng đó, và các bạn sẽ thống trị các bạn ạ.
 
 591
-01:07:18,155 --> 01:07:21,067
+01:01:51,040 --> 01:01:53,920
 Ông cũng nói rất rõ về điều này các bạn ạ.
 
 592
-01:07:21,067 --> 01:07:27,584
+01:01:53,920 --> 01:01:59,920
 Cái ông đang nói là, nếu các bạn muốn lập một công ty, hãy lập một tôn giáo trước, các bạn ạ.
 
 593
-01:07:27,584 --> 01:07:28,831
+01:01:59,920 --> 01:02:00,880
 Em đọc đoạn này nhé?
 
 594
-01:07:28,831 --> 01:07:34,441
+01:02:00,880 --> 01:02:05,839
 Vâng. Các startup giỏi nhất có thể được coi là những giáo phái hơi bớt cực đoan một chút.
 
 595
-01:07:34,441 --> 01:07:39,939
+01:02:05,839 --> 01:02:10,960
 Sự khác biệt lớn nhất là các giáo phái thường cuồng tín sai về một điều gì đó quan trọng.
 
 596
-01:07:39,939 --> 01:07:45,870
+01:02:10,960 --> 01:02:18,240
 Còn người trong một startup thành công thì cuồng tín đúng về một điều mà người ngoài đã bỏ qua.
 
 597
-01:07:45,870 --> 01:07:56,727
+01:02:18,240 --> 01:02:28,720
 Các bạn sẽ không học được những loại bí mật đó từ giới tư vấn, và các bạn không cần phải lo nếu công ty của các bạn không có lý đối với các chuyên gia thông thường.
 
 598
-01:07:56,727 --> 01:08:01,040
+01:02:28,720 --> 01:02:32,880
 Bị gọi là một giáo phái, hay thậm chí là một mafia, còn tốt hơn.
 
 599
-01:08:01,040 --> 01:08:03,870
+01:02:32,880 --> 01:02:34,240
 Có hợp lý chứ. Ông đang nói thẳng ra rồi.
 
 600
-01:08:03,870 --> 01:08:08,155
+01:02:34,240 --> 01:02:39,119
 Lập một tôn giáo hay lập một mafia cũng không quan trọng các bạn ạ.
 
 601
-01:08:08,155 --> 01:08:15,013
+01:02:39,119 --> 01:02:46,640
 Bây giờ Peter Thiel quan trọng là vì ông là người dẫn dắt hai cá nhân, Mark Zuckerberg và Sam Altman các bạn ạ.
 
 602
-01:08:15,013 --> 01:08:26,376
+01:02:46,640 --> 01:02:55,760
 Nhớ lại tuần trước, chúng ta đã đọc cuốn sách Empire of AI của Karen Hao, trong đó Sam Altman nói rằng các nhà sáng lập thành công nhất không bắt đầu với mục đích lập công ty.
 
 603
-01:08:26,376 --> 01:08:30,727
+01:02:55,760 --> 01:03:00,079
 Họ đang ở trong một sứ mệnh tạo ra thứ gì đó gần với tôn giáo hơn.
 
 604
-01:08:30,727 --> 01:08:36,155
+01:03:00,079 --> 01:03:06,559
 Vậy về cơ bản ông đang dùng lại lời của người dẫn dắt mình, Peter Thiel các bạn ạ.
 
 605
-01:08:36,155 --> 01:08:38,294
+01:03:06,559 --> 01:03:10,240
 Đây cũng là điều mà Sam Altman nói.
 
 606
-01:08:38,294 --> 01:08:46,727
+01:03:10,240 --> 01:03:15,119
 Người ta nói về việc tốn bao nhiêu năng lượng để huấn luyện một mô hình AI, nhưng huấn luyện một con người cũng tốn rất nhiều năng lượng.
 
 607
-01:08:46,727 --> 01:08:54,441
+01:03:15,119 --> 01:03:21,920
 Tốn khoảng 20 năm cuộc đời và toàn bộ thức ăn các bạn ăn trong suốt thời gian đó, trước khi các bạn trở nên thông minh.
 
 608
-01:08:54,441 --> 01:08:59,732
+01:03:21,920 --> 01:03:25,440
 Vậy những người này theo nghĩa đen không thấy có khác biệt nào giữa AI và con người.
 
 609
-01:08:59,732 --> 01:09:02,441
+01:03:25,440 --> 01:03:28,240
 Các bạn chỉ là năng lượng để bị khai thác.
 
 610
-01:09:02,441 --> 01:09:11,298
+01:03:28,240 --> 01:03:34,240
 Các bạn chỉ là một thứ năng lượng mà tôi cần biến thành một khối lập phương, để dựng nên ngôi đền lý trí thiêng liêng của mình các bạn ạ.
 
 611
-01:09:11,298 --> 01:09:19,132
+01:03:34,240 --> 01:03:42,400
 Và đây là một người bạn khác của Peter Thiel có tên là Alexander Karp, và cùng nhau họ sáng lập một công ty tên là Palantir.
 
 612
-01:09:19,132 --> 01:09:23,870
+01:03:42,400 --> 01:03:46,799
 Palantir là cái gì? Palantir là một công ty AI giám sát tối hậu các bạn ạ.
 
 613
-01:09:23,870 --> 01:09:26,727
+01:03:46,799 --> 01:03:50,799
 Oracle tạo ra các cơ sở dữ liệu thông tin.
 
 614
-01:09:26,727 --> 01:09:31,013
+01:03:50,799 --> 01:03:57,839
 Mọi thứ về các bạn đều nằm trong một cơ sở dữ liệu của Oracle.
 
 615
-01:09:31,013 --> 01:09:35,870
+01:03:57,839 --> 01:04:01,200
 Palantir lấy thông tin này và dự đoán cách các bạn sẽ hành xử các bạn ạ.
 
 616
-01:09:35,870 --> 01:09:39,958
+01:04:01,200 --> 01:04:06,319
 Và đây là bản tuyên ngôn của Palantir gọi là The Technological Republic.
 
 617
-01:09:39,958 --> 01:09:44,727
+01:04:06,319 --> 01:04:12,799
 Họ không phải thành viên Tam Điểm, nhưng có thể coi họ như thành viên Tam Điểm vậy.
 
 618
-01:09:44,727 --> 01:09:50,990
+01:04:12,799 --> 01:04:17,520
 Đây là bản tuyên ngôn và nó về cơ bản nói rằng chúng ta cần tạo ra một chế độ kỹ trị.
 
 619
-01:09:50,990 --> 01:09:58,727
+01:04:17,520 --> 01:04:25,440
 Đó là tất cả những gì nó nói. Chúng ta sẽ tạo ra một chế độ kỹ trị, một nhà nước, và đó là một điều tốt.
 
 620
-01:09:58,727 --> 01:10:01,584
+01:04:25,440 --> 01:04:28,559
 Và tôi sẽ kết bằng chuyện này các bạn ạ.
 
 621
-01:10:01,584 --> 01:10:07,584
+01:04:28,559 --> 01:04:34,720
 Peter Thiel trong vài năm qua đã đi diễn thuyết khắp thế giới nói về Kẻ Phản Chúa các bạn ạ.
 
 622
-01:10:07,584 --> 01:10:08,854
+01:04:34,720 --> 01:04:36,720
 Kẻ Phản Chúa là gì?
 
 623
-01:10:08,854 --> 01:10:20,155
+01:04:36,720 --> 01:04:44,640
 Kẻ Phản Chúa lên nắm quyền bằng cách nào? Bằng cách lợi dụng nỗi sợ công nghệ của ta và dụ ta hạ thấp cảnh giác, với khẩu hiệu của Kẻ Phản Chúa, là hòa bình và an toàn.
 
 624
-01:10:20,155 --> 01:10:26,441
+01:04:44,640 --> 01:04:52,079
 Kẻ Phản Chúa là bất cứ ai và mọi người chống lại nhà nước AI giám sát công dân các bạn ạ.
 
 625
-01:10:26,441 --> 01:10:33,489
+01:04:52,079 --> 01:04:57,280
 Các bạn có thể nghĩ rằng, khoan, khoan, lẽ ra hợp lý hơn là tin rằng nhà nước AI mới chính là Kẻ Phản Chúa chứ?
 
 626
-01:10:33,489 --> 01:10:37,298
+01:04:57,280 --> 01:04:59,760
 Không. Peter Thiel nói thế này, không, ngược lại các bạn ạ.
 
 627
-01:10:37,298 --> 01:10:42,078
+01:04:59,760 --> 01:05:04,799
 Nếu các bạn chống lại nhà nước này thì chính các bạn mới là Kẻ Phản Chúa.
 
 628
-01:10:42,078 --> 01:10:46,727
+01:05:04,799 --> 01:05:10,319
 Kẻ Phản Chúa là cái ác. Do đó chúng tôi phải tiêu diệt những người đó.
 
 629
-01:10:46,727 --> 01:10:53,013
+01:05:10,319 --> 01:05:14,720
 Bất cứ ai ngăn chúng tôi xây dựng nhà nước AI giám sát đều là cái ác thuần khiết các bạn ạ.
 
 630
-01:10:53,013 --> 01:11:00,155
+01:05:14,720 --> 01:05:25,359
 Và một khi các bạn hiểu điều này, thì chúng tôi sẽ đạt được Đế quốc Lý trí Thiêng liêng của mình các bạn ạ.
 
 631
-01:11:00,155 --> 01:11:02,097
+01:05:25,359 --> 01:05:28,960
 Có câu hỏi nào không các bạn?
 
 632
-01:11:02,097 --> 01:11:08,727
+01:05:28,960 --> 01:05:37,119
 Vậy chúng ta có thể hiểu Hội Tam Điểm, tức vương quốc của lý trí, như là một dạng tẩy não không ạ?
 
 633
-01:11:08,727 --> 01:11:13,013
+01:05:37,119 --> 01:05:45,920
 Hội Tam Điểm là một nhóm người thực hành một số nghi lễ nhất định.
 
 634
-01:11:13,013 --> 01:11:23,870
+01:05:45,920 --> 01:05:58,240
 Và ở trung tâm của Hội Tam Điểm là một viễn cảnh cánh chung, cố đạt được sự kết thúc của thế giới, đó là một chính phủ toàn cầu duy nhất đặt tại Jerusalem các bạn ạ.
 
 635
-01:11:23,870 --> 01:11:29,889
+01:05:58,240 --> 01:06:02,400
 Nơi mà mọi người tuân theo chính phủ đó, và nếu các bạn tuân theo thì thế giới sẽ hoàn hảo.
 
 636
-01:11:29,889 --> 01:11:31,013
+01:06:02,400 --> 01:06:04,720
 Có hợp lý không?
 
 637
-01:11:31,023 --> 01:11:31,662
+01:06:04,720 --> 01:06:05,119
 Dạ vâng ạ.
 
 638
-01:11:31,662 --> 01:11:36,727
+01:06:05,119 --> 01:06:11,200
 Và làm sao để các bạn khiến mọi người tuân theo? Bằng AI, đúng không các bạn?
 
 639
-01:11:36,727 --> 01:11:42,637
+01:06:11,200 --> 01:06:14,640
 Các bạn không muốn tập thể dục, các bạn không muốn học, các bạn không muốn đi làm và đóng thuế.
 
 640
-01:11:42,637 --> 01:11:52,155
+01:06:14,640 --> 01:06:21,200
 Vậy hãy có một AI trong đầu các bạn, một chiếc xe đạp trong đầu các bạn, mà nó sẽ nói với các bạn, không, không, không, Vincent, các bạn phải đóng thuế.
 
 641
-01:11:52,155 --> 01:11:55,584
+01:06:21,200 --> 01:06:25,520
 Không, không, không, Vincent, các bạn không được lái xe khi say.
 
 642
-01:11:55,594 --> 01:11:57,421
+01:06:25,520 --> 01:06:28,720
 Và đó là ý tưởng các bạn ạ.
 
 643
-01:11:57,421 --> 01:12:05,584
+01:06:28,720 --> 01:06:36,880
 Nó nói về thuật giả kim, về sự hoàn thiện con người, cố biến các bạn thành một con robot phục tùng có thể bị lập trình.
 
 644
-01:12:05,584 --> 01:12:13,983
+01:06:36,880 --> 01:06:41,920
 Nó vô lý, nhưng đó là một điều tốt, vì một khi chúng ta làm điều đó, sẽ có hòa bình, sẽ có hạnh phúc, sẽ có an toàn.
 
 645
-01:12:13,983 --> 01:12:16,155
+01:06:41,920 --> 01:06:43,359
 Đó là một điều tốt các bạn ạ.
 
 646
-01:12:16,155 --> 01:12:23,870
+01:06:43,359 --> 01:06:50,240
 Nhưng nếu đó là một điều tốt thì còn cái gì đáng kể về tính chủ thể con người, nếu AI kiểm soát hoàn toàn các bạn?
 
 647
-01:12:23,870 --> 01:12:31,298
+01:06:50,240 --> 01:06:55,280
 Tính chủ thể của con người là xấu, vì nó dẫn đến tội lỗi, dẫn đến sai lầm, dẫn đến sự lẫn lộn các bạn ạ.
 
 648
-01:12:31,298 --> 01:12:32,358
+01:06:55,280 --> 01:06:57,200
 Các bạn hiểu chứ?
 
 649
-01:12:32,358 --> 01:12:40,155
+01:06:57,200 --> 01:07:04,000
 Nếu chúng ta đều suy nghĩ giống nhau, thì thế giới sẽ trở nên hoàn hảo. Chúng ta đạt được một huynh đệ chung của loài người.
 
 650
-01:12:40,155 --> 01:12:48,041
+01:07:04,000 --> 01:07:11,599
 Chúng ta đạt tới Chúa nếu mọi người đều suy nghĩ giống nhau, và đó là điều mà AI có thể làm cho chúng ta các bạn ạ.
 
 651
-01:12:48,041 --> 01:12:50,441
+01:07:11,599 --> 01:07:17,760
 Còn câu hỏi nào nữa không các bạn?
 
 652
-01:07:26,400 --> 01:07:32,400
+01:07:17,760 --> 01:07:27,400
 Putin sẽ đến Bắc Kinh vào tối nay, nên đến thứ Năm chúng ta sẽ thảo luận về Putin, được không các bạn?
+
