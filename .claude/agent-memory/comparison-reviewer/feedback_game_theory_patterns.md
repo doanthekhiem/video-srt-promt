@@ -45,4 +45,41 @@ Khi đối chiếu bản dịch SRT thuộc series Game Theory (giảng viên Jo
 - Brzezinski trong Between Two Ages công khai khen chủ nghĩa Mác là "đỉnh cao tiến hóa của lý trí". VN giữ trung tính theo lời nguyên văn, không thêm sắc thái phê phán — đúng rule glossary.
 - **How to apply:** Tiếp tục giữ trung tính khi gặp đoạn trích này; không thêm "(theo Brzezinski)" hay tính từ đánh giá.
 
+**7. ĐẢO NGHĨA "had little of X" — bẫy phổ biến trong Pike**
+- EN Pike: "Carthaginian soldiers... had little of Hannibal's magnimity" = THIẾU/Ít có khí phách Hannibal (so sánh ngược).
+- VN dễ dịch nhầm thành "có một chút khí phách của Hannibal" → đảo ý hoàn toàn.
+- **Why:** "have little of X" trong văn cổ điển = lack X (mang ít/không có X).
+- **How to apply:** Quét tất cả "có chút/một chút" trong block dịch Pike; đối chiếu xem EN có "little of" → phải đổi sang "thiếu/không có".
+
+**8. ĐẢO NGHĨA "I'm not saying he's X" — phủ định mệnh đề phát ngôn**
+- EN: "I'm not saying he's a Freemason" = "Tôi không bảo ông ấy là Tam Điểm" (phủ định ở mệnh đề "tôi nói").
+- VN trong #26 dịch thành "Ông ấy không là Tam Điểm" → phủ định sự kiện luôn (mạnh hơn nhiều).
+- **Why:** Speaker chỉ rào trước, không khẳng định/phủ định sự kiện. VN làm mất nuance.
+- **How to apply:** Với cấu trúc "I'm not saying X" → giữ "Tôi không nói rằng X" / "Tôi không bảo X" / "Không phải ý tôi là X" — đừng cắt thành phủ định sự kiện.
+
+**9. "piecemeal" — speech-to-text thường ra "peacemail"**
+- EN gốc Brzezinski: "piecemeal transformation" = chuyển đổi từng bước/từng phần.
+- Auto-sub: "peacemail" → VN dễ dịch "êm thấm/êm đẹp" → sai nghĩa.
+- **How to apply:** Khi thấy "peacemail" trong auto-sub → dịch là "từng bước" / "từng phần".
+
+**10. "useful idiots" — thuật ngữ chính trị, không nên thô tục hóa**
+- EN: "the secret societies call this are just useful idiots" — thuật ngữ Lenin/chiến tranh lạnh.
+- VN #26 dịch "những thằng ngu hữu dụng" → quá thô; nên "những kẻ ngu hữu dụng" hoặc "con tốt thí có ích".
+- **How to apply:** Giữ thuật ngữ chính trị trung tính, tránh "thằng/đứa".
+
+**11. REGRESSION khi dịch lại — khi sửa pattern cũ, kiểm tra không tạo pattern mới**
+- Thực tế vòng 2 review #26: bản cũ (.bak) dịch ĐÚNG "đức tin nở rộ" (faith in full bloom) và "khuất phục trước sai lầm" (bow to error), nhưng bản dịch lại đã regressed thành "khuôn mặt nở rộ" và "cúi đầu trước mũi tên" (= literal từ auto-sub buggy "faced" và "arrow").
+- **Why:** Khi reviewer/dịch lại tin auto-sub thay vì giữ kết quả bản trước, đảo nghĩa lại xuất hiện.
+- **How to apply:** Khi đối chiếu vòng 2, ALWAYS so sánh 3 chiều EN-VN-VN.bak: nếu bản .bak đúng nhưng bản mới sai, đây là regression — flag ngay với severity Critical.
+
+**12. "holy temple of reason" vs "holy empire of reason" — phân biệt 2 cụm**
+- EN có 2 cụm: "holy **empire** of reason" (khái niệm chính trị toàn cầu) và "holy **temple** of reason" (metaphor về biến con người thành đá xây đền).
+- Glossary chỉ quy định "Đế quốc Lý trí Thiêng liêng" cho cụm thứ nhất. Cụm thứ hai nên viết hoa nhất quán: "Đền Lý trí Thiêng liêng" (hiện tại VN #26 viết thường "ngôi đền lý trí thiêng liêng").
+- **How to apply:** Cả 2 cụm nên viết hoa Lý trí + Thiêng liêng để nhất quán branding khái niệm trung tâm.
+
+**13. Auto-sub "the world is not perfect" — kiểm tra logic ngữ cảnh**
+- EN line 1534-1535: "If we all think alike, the world is not perfect" — auto-sub có thể đã insert "not" sai (vì sau đó nói "We now achieve a common brotherhood... achieve God if everyone thinks alike" → rõ ràng phải là perfect).
+- VN #26 dịch literal "thế giới không hoàn hảo" → đảo nghĩa.
+- **How to apply:** Khi câu EN mâu thuẫn với câu liền sau, KHÔNG dịch literal — kiểm tra context để quyết đúng/sai.
+
 Related: [[secret-history-patterns]], [[glossary-authority]]

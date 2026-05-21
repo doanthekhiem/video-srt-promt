@@ -33,7 +33,11 @@
       "Bash(time python3 validate.py './srt/game-theory/[English] Game Theory #13  Epstein'\\\\''s World.srt' './srt/game-theory/[English] Game Theory #13  Epstein'\\\\''s World.srt' --max-issues 0)",
       "Bash(echo \"exit=$?\")",
       "Bash(sort -k5 -n)",
-      "Bash(echo \"---EXIT: $?\")"
+      "Bash(echo \"---EXIT: $?\")",
+      "Bash(ffmpeg -version)",
+      "Bash(command -v ffmpeg)",
+      "Bash(command -v ffprobe)",
+      "Bash(apt list *)"
     ]
   }
 }
