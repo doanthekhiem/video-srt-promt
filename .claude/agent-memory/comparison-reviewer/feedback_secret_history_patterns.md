@@ -56,3 +56,47 @@ Khi đối chiếu các bản dịch SRT thuộc series Secret History (giảng 
 - Genesis 6:2-4 phân biệt: (a) "sons of God" = thiên thần / các thần cũ (Zeus, Ares, Apollo theo cách giảng của thầy), (b) "Nephilim" = con của (a) với phụ nữ phàm trần = các anh hùng cổ đại (Hercules, Achilles, Theseus).
 - VN trong file #5 đã gom 2 nhóm này thành một câu mơ hồ "Họ là anh hùng nổi tiếng trong nhiều thần thoại. Họ là kết quả giao phối giữa thiên thần và con người." — mất sự phân biệt.
 - **How to apply:** Khi đối chiếu các đoạn về Nephilim, kiểm tra xem VN có duy trì được sự phân biệt "thiên thần/sons of God" ≠ "Nephilim/con cháu" hay không.
+
+**11. "Disclaimer" và "personal thing" dịch chữ trong file #6**
+- "Disclaimer" (block 403, EN block 1101) → VN dịch "lời tuyên bố loại trừ" — quá kỹ thuật. Chuẩn: "lời miễn trừ trách nhiệm" hoặc "lời cảnh báo trước".
+- "a personal thing owned by Elon Musk" (block 391, EN block 1066) → VN dịch "một thứ riêng tư do Elon Musk sở hữu" — sai nghĩa (personal/private property ≠ privacy). Chuẩn: "tài sản cá nhân" hoặc "tài sản tư nhân".
+- **Why:** Auto-pipeline dịch chữ idiom EN không qua bộ lọc tự nhiên.
+- **How to apply:** Grep nhanh "riêng tư", "tuyên bố loại trừ" sau khi dịch.
+
+**12. "Egyptian prisons" trong context chiến tranh Iraq/Guantanamo (file #6)**
+- Speaker EN gốc nói "Egyptian prisons / Egyptian authorities" khi đang nói về nhà tù Mỹ ở Trung Đông (Abu Ghraib, Guantanamo). Có thể là lỗi đọc của speaker hoặc trích dẫn từ báo cáo Human Rights First về Ai Cập.
+- VN bám sát EN — không phải lỗi dịch nhưng cần flag biên tập vì khán giả VN có thể bối rối.
+- **How to apply:** Khi gặp tên quốc gia/địa danh đột ngột không khớp context xung quanh — flag Moderate kèm note "có thể là lỗi speaker EN gốc".
+
+**13. "Chúa" vs "thần" trong context đa thần giáo Ai Cập (file #6)**
+- VN dịch "God" → "Chúa" trong context Pharaoh-Ai Cập (block 244 "feel as though they're truly God").
+- "Chúa" có sắc thái Christian-độc thần; nên dùng "thần" để khớp ngữ cảnh đa thần Ai Cập.
+- Tuy nhiên với NDE chung (block 239-241) "they all went to meet God" — "Chúa" có thể chấp nhận vì context phổ quát.
+- **How to apply:** Phân biệt theo context — Pharaoh/Ai Cập = "thần"; NDE phổ quát = "Chúa" hoặc "Đấng Tối Cao".
+
+**14. Đảo nghĩa logic ở câu hỏi mâu thuẫn của học sinh (file #6, block 252-254)**
+- EN: học sinh đặt câu hỏi có hai vế mâu thuẫn cần giảng viên giải đáp ("nếu làm xấu không lên thiên đường, nhưng NDE cho thấy không có khác biệt — vậy là sao?").
+- VN trình bày như tuyên bố thay vì câu hỏi mâu thuẫn → người đọc không hiểu giảng viên đang trả lời gì.
+- **How to apply:** Với câu hỏi học sinh có cấu trúc "if A but if B then C", VN phải giữ kết cấu giả thiết-mâu thuẫn rõ ràng, không biến thành chuỗi câu khẳng định rời rạc.
+
+**15. Thêm tính từ không có vào tên hội kín / câu lạc bộ / tên trường (file #7)**
+- Pattern: VN thêm "nổi tiếng" sau tên câu lạc bộ mà EN không có "famous".
+- VD file #7 block 486: "Porcelain Club nổi tiếng" trong khi EN chỉ "Porcelain Club".
+- **Why:** Có thể do dịch giả muốn cho người Việt biết đây là CLB quan trọng. Nhưng vi phạm criterion "không thêm tính từ không có trong EN cho tên trường, hội kín".
+- **How to apply:** Grep nhanh "nổi tiếng", "lừng danh", "danh giá" sau tên Porcelain/Ivy/Skull and Bones/Harvard/Yale; nếu EN không có "famous/well-known/prestigious" — xóa.
+
+**16. "Took risks" dịch quá mạnh thành "phá luật" (file #7)**
+- Block 53 EN: "They played football. They took risks." VN: "rồi chơi bóng bầu dục, họ liều lĩnh phá luật."
+- **Why:** "Took risks" = chấp nhận rủi ro/liều lĩnh; thêm "phá luật" là vượt nghĩa.
+- **How to apply:** "Take risks" → "chấp nhận rủi ro", "liều lĩnh"; KHÔNG thêm "phá luật/luật lệ" trừ khi EN dùng "break the rules", "transgressive".
+
+**17. Filler "now/okay" cuối câu được dịch thành "giờ đây/bây giờ" gây nghĩa lệch (file #7)**
+- Block 363 EN: "...he never went to college." VN: "...chưa bao giờ học đại học giờ đây."
+- "giờ đây" thừa, có thể đã merge filler "Now,/Okay," của block sau.
+- **How to apply:** Khi VN có "giờ đây/bây giờ" ở cuối câu khẳng định về sự kiện quá khứ (George Washington, Lincoln...), kiểm tra xem có phải merge nhầm filler không.
+
+**18. Bỏ tính từ phân biệt định chế quan trọng (file #7)**
+- Block 113: EN "institutional reasons" → VN "lý do riêng" (bỏ "institutional").
+- Block 510: EN "political career" → VN "sự nghiệp" (bỏ "political").
+- **Why:** Trong bài giảng phân tích quyền lực Harvard/Obama, các tính từ "institutional", "political" mang ý nghĩa luận điểm. Bỏ làm yếu lập luận.
+- **How to apply:** Khi đối chiếu các đoạn lý thuyết về định chế/chính trị, kiểm tra các tính từ "institutional/political/structural/systemic" có được giữ trong VN không.
