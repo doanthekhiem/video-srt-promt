@@ -1,0 +1,5504 @@
+1
+00:00:00,962 --> 00:00:04,878
+Vâng, chào mừng các bạn đến với buổi thi cuối kỳ.
+
+2
+00:00:04,882 --> 00:00:08,398
+Trước khi bắt đầu, thầy muốn cảm ơn mọi người.
+
+3
+00:00:08,402 --> 00:00:16,498
+Đầu tiên, thầy muốn cảm ơn Alan và Vincent vì đã ở trong lớp này suốt cả năm qua.
+
+4
+00:00:16,502 --> 00:00:21,798
+Các em đã thật sự kiên trì và chăm chỉ trong suốt cả năm học vừa rồi.
+
+5
+00:00:21,802 --> 00:00:24,718
+Cảm ơn các em rất nhiều vì sự đồng hành đó.
+
+6
+00:00:24,722 --> 00:00:27,498
+Xin lỗi nếu đôi lúc thầy nổi nóng với các em.
+
+7
+00:00:27,502 --> 00:00:32,398
+Thầy thật sự trân trọng sự tận tâm của các em.
+
+8
+00:00:32,402 --> 00:00:35,598
+Thầy cũng trân trọng những câu hỏi các em đặt ra trong lớp.
+
+9
+00:00:35,602 --> 00:00:43,798
+Thầy muốn cảm ơn nhà trường vì đã cho thầy diễn đàn, lớp học, và bảng tương tác trong suốt bốn năm qua.
+
+10
+00:00:43,802 --> 00:00:47,998
+Thầy đã ở trong lớp học này suốt bốn năm trời rồi đấy.
+
+11
+00:00:48,002 --> 00:01:00,798
+Nhà trường rất hào phóng với thầy, cho thầy dạy bất cứ điều gì thầy muốn, bao gồm cả sách kinh điển, địa chiến lược, Game Theory, và cả Secret History nữa.
+
+12
+00:01:00,802 --> 00:01:04,078
+Thầy sẽ rời trường cuối tuần này, sau Secret History.
+
+13
+00:01:04,082 --> 00:01:06,998
+Đây là buổi áp chót, mai là buổi cuối của thầy.
+
+14
+00:01:07,002 --> 00:01:10,238
+Lý do thầy đi là vì thầy có khán giả toàn cầu.
+
+15
+00:01:10,242 --> 00:01:24,498
+Thầy muốn phát triển khán giả toàn cầu này bằng cách bước ra thế giới, đi ra ngoài kia và tiếp xúc trực tiếp với những con người ở bên ngoài đó.
+
+16
+00:01:24,502 --> 00:01:28,638
+Thầy muốn tập trung nhiều hơn vào khán giả toàn cầu của mình.
+
+17
+00:01:28,642 --> 00:01:32,498
+Thầy thực sự biết ơn nhà trường vì tất cả những gì đã có.
+
+18
+00:01:32,502 --> 00:01:37,998
+Thứ ba và cuối cùng, thầy muốn cảm ơn cộng đồng Substack của mình.
+
+19
+00:01:38,002 --> 00:01:43,678
+Hầu hết thu nhập của thầy trong năm vừa rồi đều đến từ Substack.
+
+20
+00:01:43,682 --> 00:01:47,498
+Những người đăng ký đã rất hào phóng với thầy, và nhờ sự hào phóng đó.
+
+21
+00:01:47,502 --> 00:01:51,498
+Thầy đã có thể giữ kênh YouTube của mình không có kiếm tiền quảng cáo.
+
+22
+00:01:51,502 --> 00:01:53,998
+Thầy đã có thể tránh được các nhà tài trợ.
+
+23
+00:01:54,002 --> 00:02:00,798
+Thầy chỉ có thể tập trung hoàn toàn vào việc giảng dạy, đúng cái nghề giảng dạy của mình.
+
+24
+00:02:00,802 --> 00:02:12,498
+Hôm nay thầy muốn cảm ơn các thành viên sáng lập bằng cách trước hết chỉ ra sự hào phóng của họ, và sau đó là đọc lên những câu hỏi của họ.
+
+25
+00:02:12,502 --> 00:02:21,498
+Bắt đầu từ tuần sau, thầy sẽ tổ chức một buổi livestream Substack hàng tháng, cho cả thành viên sáng lập lẫn người đăng ký trả phí.
+
+26
+00:02:21,502 --> 00:02:27,998
+Vậy nên mỗi tháng một lần sẽ là cho thành viên sáng lập, và mỗi tháng một lần nữa sẽ là cho người đăng ký trả phí.
+
+27
+00:02:28,002 --> 00:02:32,078
+Thầy sẽ nói thêm về chuyện đó sau, sau khi mọi thứ được sắp xếp xong.
+
+28
+00:02:32,082 --> 00:02:41,998
+Đây là kết thúc của một hành trình nhưng là khởi đầu của một hành trình khác, và đừng lo, thầy sẽ tiếp tục làm những gì mình vẫn làm, vì thầy yêu việc giảng dạy.
+
+29
+00:02:42,002 --> 00:02:46,558
+Thầy yêu việc chia sẻ ý tưởng của mình với thế giới, thầy yêu việc học hỏi.
+
+30
+00:02:46,562 --> 00:02:48,957
+Thầy muốn làm điều này năm mươi năm tới.
+
+31
+00:02:48,961 --> 00:02:53,498
+Tham vọng của thầy là sắp xếp để tiếp tục ảnh hưởng đến mọi người năm mươi năm nữa.
+
+32
+00:02:53,502 --> 00:02:57,498
+Vậy chúng ta bắt đầu kỳ thi vui này thôi, từng bước một.
+
+33
+00:02:57,502 --> 00:03:05,278
+Trước hết điều thầy sẽ làm là đọc tất cả các câu hỏi từ các thành viên sáng lập trên Substack.
+
+34
+00:03:05,282 --> 00:03:14,498
+Có rất nhiều câu hỏi, và sau đó chúng ta sẽ xem một số câu hỏi từ YouTube mà vợ thầy, người hôm nay có mặt ở đây để quay phim.
+
+35
+00:03:14,502 --> 00:03:21,998
+Thầy cũng cần cảm ơn vợ thầy vì đã quay phim và biên tập lớp học này.
+
+36
+00:03:22,002 --> 00:03:29,498
+Cô ấy đang ở đây và đã giúp thầy chọn ra một số câu hỏi, và việc chọn cũng khá ngẫu nhiên.
+
+37
+00:03:29,502 --> 00:03:42,398
+Thầy xin lỗi nếu câu hỏi của bạn không được chọn, nhưng có quá nhiều câu hỏi, và vì lý do thời gian chúng ta chỉ chọn một vài, nhưng hôm nay có lẽ sẽ kéo dài quá giờ.
+
+38
+00:03:42,402 --> 00:03:44,157
+Được rồi, từng câu một thôi.
+
+39
+00:03:44,161 --> 00:03:45,998
+Vậy chúng ta bắt đầu nào.
+
+40
+00:03:46,002 --> 00:03:48,558
+Câu này là từ "know me".
+
+41
+00:03:48,562 --> 00:03:56,558
+Bạn ấy nói rằng tôi không có câu hỏi mà chỉ muốn cảm ơn, và đây là tên của trung tâm hồi sinh oban.
+
+42
+00:03:56,562 --> 00:04:09,498
+Tên trung tâm là nomina chấm life, và người này cũng đang nỗ lực nâng cao nhận thức cho mọi người.
+
+43
+00:04:09,502 --> 00:04:12,998
+Vậy nên cảm ơn bạn rất nhiều vì sự hào phóng đó.
+
+44
+00:04:13,002 --> 00:04:19,498
+Tiếp theo chúng ta chuyển sang Karina, và Karina nói rằng dựa trên các bài giảng của thầy thì có vẻ Mỹ đang khá tiêu rồi.
+
+45
+00:04:19,502 --> 00:04:24,498
+Đúng vậy, họ cần các nước khác mua trái phiếu kho bạc Mỹ.
+
+46
+00:04:24,502 --> 00:04:26,958
+Đúng, Israel cũng không trung thành với Mỹ đâu.
+
+47
+00:04:26,962 --> 00:04:29,278
+Israel muốn hợp tác lập hậu thuẫn riêng.
+
+48
+00:04:29,282 --> 00:04:32,078
+Đúng vậy, các bạn cứ ghi nhớ điều đó.
+
+49
+00:04:32,082 --> 00:04:39,118
+Nga đang cố làm cho đồng đô la sụp đổ và cố khẳng định vị thế thống trị của mình, cũng như vì lợi ích người dân của họ.
+
+50
+00:04:39,122 --> 00:04:41,998
+Đúng vậy, đó là chiến lược của Nga.
+
+51
+00:04:42,002 --> 00:04:45,118
+Trung Quốc chỉ cố tìm cái có lợi nhất cho mình thôi.
+
+52
+00:04:45,122 --> 00:04:46,498
+Đó là địa chính trị.
+
+53
+00:04:46,502 --> 00:04:47,698
+Đó là một trò chơi.
+
+54
+00:04:47,702 --> 00:04:50,477
+Mọi người chỉ tìm chiến lược tối ưu cho mình thôi.
+
+55
+00:04:50,481 --> 00:04:52,477
+Không có trung thành, không có bạn bè.
+
+56
+00:04:52,481 --> 00:04:54,878
+Chỉ là trò chơi, ai cũng chơi vậy.
+
+57
+00:04:54,882 --> 00:05:01,998
+Vậy nên Mỹ hiện đang trong một cuộc đua để xây dựng các trung tâm dữ liệu A I này.
+
+58
+00:05:02,002 --> 00:05:03,998
+Họ cũng cần kiểm soát dân số nữa.
+
+59
+00:05:04,002 --> 00:05:05,998
+Có ba câu hỏi đặt ra ở đây.
+
+60
+00:05:06,002 --> 00:05:08,718
+Câu thứ nhất, chúng ta phải làm gì bây giờ?
+
+61
+00:05:08,722 --> 00:05:10,998
+Xây cộng đồng, nhưng cụ thể là sao?
+
+62
+00:05:11,002 --> 00:05:14,498
+Ai nắm giữ đô la Mỹ đều sẽ rơi vào cảnh khốn đốn.
+
+63
+00:05:14,502 --> 00:05:16,498
+Làm sao chúng ta mua thức ăn?
+
+64
+00:05:16,502 --> 00:05:18,998
+Thầy nghĩ thế giới chúng ta sẽ ra sao?
+
+65
+00:05:19,002 --> 00:05:25,917
+Được rồi, khó cho bạn dự đoán thế giới sẽ trông như thế nào, vì nó vẫn chưa xảy ra mà.
+
+66
+00:05:25,921 --> 00:05:31,278
+Quan trọng là phải có lý thuyết trò chơi trong đầu, vì nó cho bạn cấu trúc bao quát của thế giới.
+
+67
+00:05:31,282 --> 00:05:35,498
+Nhưng cũng quan trọng phải nhớ chúng ta tạo ra thế giới mình muốn.
+
+68
+00:05:35,502 --> 00:05:41,518
+Được rồi, cứ giả sử ngày mai không còn điện nữa.
+
+69
+00:05:41,522 --> 00:05:45,498
+Không có nghĩa là chúng ta sẽ cầm dao đi giết hại lẫn nhau.
+
+70
+00:05:45,502 --> 00:05:51,498
+Nó có nghĩa là chúng ta thay đổi tâm thức, bởi vì hoàn cảnh sống của chúng ta đã thay đổi.
+
+71
+00:05:51,502 --> 00:05:53,998
+Chúng ta bắt đầu quan tâm đến nhau nhiều hơn.
+
+72
+00:05:54,002 --> 00:05:58,498
+Có lẽ trước đây trong khu chung cư, bạn còn không biết hàng xóm là ai.
+
+73
+00:05:58,502 --> 00:06:00,998
+Đèn vụt tắt hết, mất điện toàn bộ luôn.
+
+74
+00:06:01,002 --> 00:06:05,037
+Bạn mở cửa đi gặp hàng xóm và nói, mình cùng tìm cách giải quyết.
+
+75
+00:06:05,041 --> 00:06:11,998
+Điều cần ghi nhớ là về bản chất con người chúng ta cực kỳ sáng tạo và cực kỳ kiên cường.
+
+76
+00:06:12,002 --> 00:06:14,878
+Tia lửa bên trong chúng ta vẫn chưa được kích hoạt.
+
+77
+00:06:14,882 --> 00:06:18,998
+Nhưng trong những hoàn cảnh đòi hỏi chúng ta, chúng ta sẽ trở nên sáng tạo.
+
+78
+00:06:19,002 --> 00:06:23,498
+Và điều này đã đúng một cách nhất quán xuyên suốt lịch sử nhân loại.
+
+79
+00:06:23,502 --> 00:06:33,998
+Vậy điều chúng ta cần làm là nhận ra rằng cái làm nên con người chúng ta chính là sự sáng tạo, sự kiên cường, sự đồng cảm, và trí tưởng tượng của chúng ta.
+
+80
+00:06:34,002 --> 00:06:37,438
+Đây mới thực sự là con người chúng ta, ai cũng vậy.
+
+81
+00:06:37,442 --> 00:06:40,158
+Ý ta là cỗ máy kinh tế.
+
+82
+00:06:40,162 --> 00:06:43,998
+Rằng tất cả điều chúng ta quan tâm chỉ là mua đồ và kiếm tiền.
+
+83
+00:06:44,002 --> 00:06:48,878
+Đó chỉ là một sự nhồi sọ mà chúng ta phải hứng chịu trong lịch sử gần đây thôi.
+
+84
+00:06:48,882 --> 00:06:56,498
+Vậy nên điều thực sự quan trọng cần ghi nhớ là sức mạnh lớn nhất của chúng ta chính là trí tưởng tượng.
+
+85
+00:06:56,502 --> 00:07:02,498
+Điều chúng ta nên làm là nỗ lực hết sức để xây dựng trí tưởng tượng của mình.
+
+86
+00:07:02,502 --> 00:07:06,317
+Điều đó chỉ có nghĩa là học hỏi mà thôi.
+
+87
+00:07:06,321 --> 00:07:14,498
+Học qua sách vở, nhưng cũng học bằng cách lắng nghe người khác, trải nghiệm những quan điểm khác bạn, và bằng cách trải nghiệm những thứ trong thế giới.
+
+88
+00:07:14,502 --> 00:07:21,498
+Ví dụ, đi du lịch nhiều hơn, hoặc làm những việc nằm ngoài vùng an toàn của bạn.
+
+89
+00:07:21,502 --> 00:07:24,558
+Đúng không, đó là cách mở rộng tầm nhìn.
+
+90
+00:07:24,562 --> 00:07:31,498
+Thầy tin ai sẽ thành cường quốc kế tiếp, và họ giành niềm tin thế giới ra sao sau cú sụp đổ của đô la Mỹ?
+
+91
+00:07:31,502 --> 00:07:35,498
+Liệu có lại là tiền được bảo chứng bằng vàng và các nguồn tài nguyên khác không?
+
+92
+00:07:35,502 --> 00:07:42,477
+Thầy đã nói trước đây, nhưng đô la Mỹ với tư cách đồng tiền dự trữ toàn cầu là một tai nạn lịch sử.
+
+93
+00:07:42,481 --> 00:07:46,998
+Chưa từng xảy ra trong lịch sử nhân loại, và thật lòng, cũng sẽ không xảy ra lần nữa.
+
+94
+00:07:47,002 --> 00:07:53,998
+Vậy nên khi đồng đô la Mỹ sụp đổ, điều đó không có nghĩa là nền kinh tế toàn cầu cũng sụp đổ theo.
+
+95
+00:07:54,002 --> 00:08:02,877
+Nó chỉ có nghĩa là đồng tiền dự trữ toàn cầu có lẽ sẽ chuyển hóa thành một rổ tiền tệ, trong đó có đô la Mỹ, có cả vàng.
+
+96
+00:08:02,881 --> 00:08:09,498
+Có lẽ có cả bảng Anh, franc Thụy Sĩ, một rổ tiền tệ tổng hợp như vậy, đúng không?
+
+97
+00:08:09,502 --> 00:08:16,637
+Người ta vẫn sẽ tiếp tục giao thương, nhưng nó sẽ không thuận tiện như trước nữa.
+
+98
+00:08:16,641 --> 00:08:20,498
+Và đây là một tiến trình không xảy ra ngay bây giờ hay ngày mai đâu.
+
+99
+00:08:20,502 --> 00:08:25,498
+Sẽ mất nhiều năm, nhiều thập kỷ để tiến trình này diễn ra trọn vẹn.
+
+100
+00:08:25,502 --> 00:08:31,998
+Tiếp đến, có cách nào thoát khỏi mô hình Ponzi một khi đã ở trong nó không?
+
+101
+00:08:32,002 --> 00:08:35,277
+Đây là một câu hỏi thực sự rất hay, để thầy trả lời.
+
+102
+00:08:35,281 --> 00:08:39,498
+Câu trả lời là mô hình Ponzi phải sụp đổ thì bạn mới có thể thoát ra được.
+
+103
+00:08:39,502 --> 00:08:45,998
+Và về cơ bản, mô hình Ponzi sụp đổ khi đồng đô la Mỹ, xin lỗi, khi chính phủ Mỹ vỡ nợ.
+
+104
+00:08:46,002 --> 00:08:49,498
+Đó là hình hài của một cú sụp đổ mô hình Ponzi.
+
+105
+00:08:49,502 --> 00:08:54,318
+Và đến lúc đó, đồng đô la Mỹ về cơ bản gần như không còn giá trị gì nữa.
+
+106
+00:08:54,322 --> 00:08:56,078
+Ngày nào đó sẽ xảy ra thôi.
+
+107
+00:08:56,082 --> 00:08:59,118
+Vấn đề chỉ là khi nào nó sẽ xảy ra mà thôi.
+
+108
+00:08:59,122 --> 00:09:02,998
+Nghe đau đớn, nhưng một lần nữa, con người ta thực ra rất kiên cường.
+
+109
+00:09:03,002 --> 00:09:11,498
+Chỉ vì không còn điện, chỉ vì không thể lái xe, chỉ vì không thể mua được gì, không có nghĩa là chúng ta sẽ chết đói.
+
+110
+00:09:11,502 --> 00:09:13,498
+Ta sẽ tìm cách để sống sót thôi.
+
+111
+00:09:13,502 --> 00:09:18,158
+Để thầy cho ví dụ, thầy lấy một trăm người từ các quốc gia khác nhau.
+
+112
+00:09:18,162 --> 00:09:24,498
+Vì lý do gì đó, thầy chuyển tất cả các bạn đến một hòn đảo hoang vắng nào đó.
+
+113
+00:09:24,502 --> 00:09:28,998
+Không có nghĩa là các bạn chỉ đánh nhau vì đến từ những nền văn hóa khác nhau.
+
+114
+00:09:29,002 --> 00:09:33,998
+Nó cũng không có nghĩa là các bạn sẽ chết đói vì không nói cùng ngôn ngữ.
+
+115
+00:09:34,002 --> 00:09:44,998
+Nó có nghĩa là bằng cách nào đó, một trăm người các bạn sẽ tạo ra một ngôn ngữ mới, và một cách bản năng, trực giác hiểu được cách làm việc cùng nhau.
+
+116
+00:09:45,002 --> 00:09:49,498
+Các bạn sẽ nhận ra, ồ, tôi là một thợ mộc giỏi, vậy tôi sẽ đi chế biến gỗ.
+
+117
+00:09:49,502 --> 00:09:55,498
+Và một người khác thì, à, tôi giỏi hát, vậy tôi sẽ sáng tác bài hát để giải trí cho mọi người vào buổi tối.
+
+118
+00:09:55,502 --> 00:09:57,998
+Được rồi, điều đó sẽ xảy ra rất hữu cơ.
+
+119
+00:09:58,002 --> 00:10:00,498
+Nó sẽ xảy ra rất trôi chảy, rất linh hoạt.
+
+120
+00:10:00,502 --> 00:10:04,638
+Và đó là điều khiến chúng ta, loài người, sáng tạo đến vậy.
+
+121
+00:10:04,642 --> 00:10:06,718
+Hay sự đồng cảm dành cho nhau.
+
+122
+00:10:06,722 --> 00:10:08,478
+Không cần nói cùng ngôn ngữ.
+
+123
+00:10:08,482 --> 00:10:10,478
+Ta vẫn làm việc được với nhau.
+
+124
+00:10:10,482 --> 00:10:13,498
+Vậy nên đừng lo về ngày tận thế làm gì cho mệt.
+
+125
+00:10:13,502 --> 00:10:16,998
+Chỉ có nghĩa một thế giới mới sẽ hình thành thôi.
+
+126
+00:10:17,002 --> 00:10:20,498
+Câu tiếp theo này là từ "his hidden history society".
+
+127
+00:10:20,502 --> 00:10:24,558
+Tóm lại là Hội Tam Điểm then chốt trong việc lập nước Mỹ.
+
+128
+00:10:24,562 --> 00:10:36,498
+Benjamin Franklin là một thành viên Hội Tam Điểm, và Alexander Hamilton có mẹ là người Do Thái.
+
+129
+00:10:36,502 --> 00:10:39,498
+Mẹ của Alexander Hamilton là người Do Thái.
+
+130
+00:10:39,502 --> 00:10:42,957
+Ông ấy mang một nửa dòng máu Do Thái, một nửa Scotland.
+
+131
+00:10:42,961 --> 00:10:46,318
+Ông ấy là người Scotland và cũng là Do Thái.
+
+132
+00:10:46,322 --> 00:10:54,498
+Và vì vậy có rất nhiều mối liên kết giữa Hội Tam Điểm, giữa đức tin Do Thái, và những vị cha lập quốc này.
+
+133
+00:10:54,502 --> 00:10:58,957
+Thầy sẽ nói rằng đừng đặt quá nhiều trọng tâm vào chuyện này, được không.
+
+134
+00:10:58,961 --> 00:11:03,038
+Sẽ luôn có những sự trùng lặp, những sự hội tụ ở khắp mọi nơi.
+
+135
+00:11:03,042 --> 00:11:06,318
+Điều đó không có nghĩa là chúng quan trọng đến thế đâu.
+
+136
+00:11:06,322 --> 00:11:13,358
+Và rồi anh ấy nói tiếp, có những góc nhìn vào tháng Ba chúc mừng Lincoln về việc tái đắc cử.
+
+137
+00:11:13,362 --> 00:11:21,498
+Và Lincoln cũng là một người hâm mộ lớn của các ấn phẩm của họ, vậy điều đó có nghĩa là gì.
+
+138
+00:11:21,502 --> 00:11:25,837
+Nó có nghĩa là những người có tài năng, những người có ý tưởng tôn trọng lẫn nhau.
+
+139
+00:11:25,841 --> 00:11:31,998
+Nó chỉ có nghĩa là, các bạn biết đấy, thầy là một người tò mò.
+
+140
+00:11:32,002 --> 00:11:36,238
+Thầy quan tâm đến ai đề xuất ý tưởng mới, làm điều tuyệt vời, và thú vị.
+
+141
+00:11:36,242 --> 00:11:43,517
+Nó không có nghĩa là tất cả chúng ta đang âm mưu cùng nhau đâu.
+
+142
+00:11:43,521 --> 00:11:46,397
+Chỉ có nghĩa ai cũng đang tìm ý tưởng mới.
+
+143
+00:11:46,401 --> 00:11:54,598
+Tất cả chúng ta đều tôn trọng những người có tài năng, đúng không.
+
+144
+00:11:54,602 --> 00:12:00,798
+Về cơ bản, thầy có nghĩ những nhà lãnh đạo Mỹ này là tài sản của người Anh không?
+
+145
+00:12:00,802 --> 00:12:06,998
+Thầy giải thích vốn Anh chuyển vào Mỹ từ 1888, thời kỳ xuyên Đại Tây Dương, đỉnh điểm Bretton Woods,
+
+146
+00:12:07,002 --> 00:12:13,998
+và Mỹ tiếp quản đế chế sau Thế chiến thứ Hai ra sao?
+
+147
+00:12:14,002 --> 00:12:17,277
+Đây là một câu hỏi rất hay, để thầy trả lời từ đầu.
+
+148
+00:12:17,281 --> 00:12:21,498
+Trước hết, Lincoln, Franklin và Hamilton không phải là tài sản của người Anh.
+
+149
+00:12:21,502 --> 00:12:29,998
+Họ không phải điệp viên của Anh, nhưng tất nhiên họ có những mối liên hệ ở Đế quốc Anh, vì Anh khi đó là quốc gia hùng mạnh nhất.
+
+150
+00:12:30,002 --> 00:12:33,198
+Vậy nên chắc chắn sẽ có rất nhiều sự chồng chéo ở đây.
+
+151
+00:12:33,202 --> 00:12:37,118
+Sẽ có rất nhiều sự đồng điệu chia sẻ, rất nhiều lợi ích chia sẻ.
+
+152
+00:12:37,122 --> 00:12:39,198
+Họ có liên hệ với người Pháp không.
+
+153
+00:12:39,202 --> 00:12:41,498
+Có chứ, tất nhiên là có.
+
+154
+00:12:41,502 --> 00:12:44,498
+Họ có bạn bè người Canada không, có chứ.
+
+155
+00:12:44,502 --> 00:12:49,998
+Thế giới của giới tinh hoa rất nhỏ, và họ luôn luôn liên hệ với nhau.
+
+156
+00:12:50,002 --> 00:13:03,498
+Đúng là vốn của người Anh đã dịch chuyển sang Mỹ sau cuộc nội chiến, đúng không, và điều này dẫn đến việc thành lập Cục Dự trữ Liên bang, rồi dẫn đến Bretton Woods.
+
+157
+00:13:03,502 --> 00:13:09,498
+Vậy chuyện xảy ra là người Anh đang trở nên giàu sụ nhờ Ấn Độ và Trung Quốc, đúng không.
+
+158
+00:13:09,502 --> 00:13:17,498
+Họ đã về cơ bản nô dịch hóa Ấn Độ, phi công nghiệp hóa Ấn Độ, và ăn cắp hàng nghìn tỉ đô la từ Ấn Độ.
+
+159
+00:13:17,502 --> 00:13:19,998
+Họ nô dịch hóa Trung Quốc bằng thuốc phiện.
+
+160
+00:13:20,002 --> 00:13:22,998
+Họ ăn cắp hàng nghìn tỉ đô la từ Trung Quốc.
+
+161
+00:13:23,002 --> 00:13:25,998
+Giờ họ phải đầu tư số tiền đó vào đâu đó.
+
+162
+00:13:26,002 --> 00:13:30,498
+Nơi tốt nhất thế giới để đầu tư số tiền vào thời điểm đó chính là nước Mỹ.
+
+163
+00:13:30,502 --> 00:13:34,998
+Bạn cũng có thể đầu tư vào Nam Mỹ, nhưng người Mỹ chăm chỉ hơn nhiều.
+
+164
+00:13:35,002 --> 00:13:37,918
+Người Mỹ cũng tham vọng hơn nhiều so với người Nam Mỹ.
+
+165
+00:13:37,922 --> 00:13:40,498
+Nên nhiều tiền đã chảy vào Mỹ.
+
+166
+00:13:40,502 --> 00:13:44,498
+Lúc đó người Mỹ không ưa người Anh, vì đã chiến đấu để thoát khỏi họ.
+
+167
+00:13:44,502 --> 00:13:52,498
+Vậy nên cái ý tưởng rằng có hàng nghìn tỉ đô la đổ vào Mỹ để mua đứt nước Mỹ, người Mỹ chắc chắn sẽ không chịu chấp nhận.
+
+168
+00:13:52,502 --> 00:14:06,238
+Vậy nên giải pháp là phải có những người đại diện, những người như Rockefeller, Carnegie, Vanderbilt, được ngụy trang thành các doanh nhân.
+
+169
+00:14:06,242 --> 00:14:15,498
+Họ vốn nghèo, và nhờ làm việc chăm chỉ, nhờ thực lực, họ trở thành tỉ phú, và đó là sản phẩm sáng tạo của Thành phố London.
+
+170
+00:14:15,502 --> 00:14:28,998
+Họ là sản phẩm của vốn người Anh nhằm thâu tóm Mỹ, và mạnh đến mức tác động được vào chính trị Mỹ rồi tạo ra Cục Dự trữ Liên bang, mà sau Thế chiến thứ Hai dẫn đến hệ thống Bretton Woods.
+
+171
+00:14:29,002 --> 00:14:32,318
+Được rồi, đó là những gì đã xảy ra trong lịch sử.
+
+172
+00:14:32,322 --> 00:14:36,998
+Và đây là điều vẫn đang tác động đến nước Mỹ ngày hôm nay.
+
+173
+00:14:37,002 --> 00:14:50,998
+Nhiều người ủng hộ Trump tin rằng Trump là một nhân vật cứu thế đã đến để giúp nước Mỹ tự giải thoát khỏi căn bệnh tư bản xuyên quốc gia, để tống khứ người Anh.
+
+174
+00:14:51,002 --> 00:14:53,758
+Để chiến đấu một cuộc 1776 mới như thời lập quốc.
+
+175
+00:14:53,762 --> 00:14:56,998
+Có hàng triệu người Mỹ tin vào điều này, được không.
+
+176
+00:14:57,002 --> 00:14:59,918
+Họ có lý, có lý do để tin như vậy.
+
+177
+00:14:59,922 --> 00:15:03,998
+Câu tiếp theo là từ Zoran, để thầy đọc tiếp.
+
+178
+00:15:04,002 --> 00:15:11,498
+Anh ấy hỏi, có vẻ thế giới đang sụp đổ, có cách nào thoát khỏi cú sụp đổ này không?
+
+179
+00:15:11,502 --> 00:15:17,038
+Anh ấy ví thế giới giống như một người béo phì.
+
+180
+00:15:17,042 --> 00:15:29,998
+Liệu có thể nào người béo đó cố gắng tập luyện, giảm cân, và trở nên khỏe mạnh hơn không?
+
+181
+00:15:30,002 --> 00:15:32,998
+Liệu chúng ta có thực hiện được bước đó không?
+
+182
+00:15:33,002 --> 00:15:40,998
+Nếu chúng ta có thể tưởng tượng, nếu chúng ta dùng trí tưởng tượng, liệu chúng ta có thể tự cứu mình trước khi tự hủy diệt mình không?
+
+183
+00:15:41,002 --> 00:15:43,498
+Và đây là một câu hỏi rất hay.
+
+184
+00:15:43,502 --> 00:15:48,077
+Và trước hết thầy sẽ nói rằng điều đó khó xảy ra.
+
+185
+00:15:48,081 --> 00:15:51,438
+Vì thực tế là đúng, về lý thuyết chúng ta có thể thay đổi.
+
+186
+00:15:51,442 --> 00:15:58,498
+Nhưng trong thực tế, cứ nhìn xung quanh những người quanh bạn xem, hầu hết mọi người không thay đổi.
+
+187
+00:15:58,502 --> 00:16:08,498
+Thầy sẽ nói rằng trong tất cả các quốc gia trên thế giới, quốc gia kiên cường nhất, sáng tạo nhất, có thể thay đổi được, có lẽ là Mỹ.
+
+188
+00:16:08,502 --> 00:16:10,998
+Vậy nước Mỹ có thể thay đổi không?
+
+189
+00:16:11,002 --> 00:16:13,918
+Có thể chứ, hoàn toàn có khả năng đó.
+
+190
+00:16:13,922 --> 00:16:25,998
+Nhưng cần phải có một sự lãnh đạo phi thường, một nhân vật phải vươn lên để tập hợp người Mỹ lại nhằm thay đổi, và thầy không nghĩ điều đó dễ xảy ra.
+
+191
+00:16:26,002 --> 00:16:28,998
+Nó có thể xảy ra, nhưng khả năng rất thấp.
+
+192
+00:16:29,002 --> 00:16:32,798
+Thầy mong nó xảy ra, nhưng thầy nghĩ nó rất khó xảy ra.
+
+193
+00:16:32,802 --> 00:16:46,878
+Ý thầy là vấn đề với phép ẩn dụ về một cá nhân nghĩ mình béo và muốn thay đổi, là bạn cần nhận ra rằng một quốc gia là một tập hợp của những nhóm lợi ích đã ăn sâu.
+
+194
+00:16:46,882 --> 00:16:51,118
+Xung đột giữa các nhóm lợi ích này là sự sản xuất dư thừa tinh hoa.
+
+195
+00:16:51,122 --> 00:16:53,438
+Đó là điều dẫn đến suy tàn quốc gia.
+
+196
+00:16:53,442 --> 00:16:58,998
+Và lý do nó dẫn đến suy tàn là họ quá tập trung vào xung đột nội bộ của mình.
+
+197
+00:16:59,002 --> 00:17:03,998
+Họ phớt lờ bức tranh lớn hơn, và họ chỉ thắng nếu họ tập trung vào việc chiến thắng.
+
+198
+00:17:04,002 --> 00:17:10,238
+Họ sẵn sàng làm mọi điều để thắng, dù phải phá hủy chính nền văn minh của họ.
+
+199
+00:17:10,242 --> 00:17:15,197
+Họ sẵn sàng hy sinh tất cả, bất cứ thứ gì, để chiến thắng.
+
+200
+00:17:15,201 --> 00:17:17,598
+Tỉ phú là gì, các bạn có biết không?
+
+201
+00:17:17,602 --> 00:17:21,498
+Tỉ phú là một người sẵn sàng giết chính bà mình vì tiền.
+
+202
+00:17:21,502 --> 00:17:26,437
+Được rồi, đó chính là một tỉ phú trong nghĩa thực sự.
+
+203
+00:17:26,441 --> 00:17:33,998
+Câu tiếp theo, ờ, thầy xin lỗi, thầy không phát âm được tên người này.
+
+204
+00:17:34,002 --> 00:17:40,398
+Tại sao thầy chưa bao giờ nhắc đến chung mạt luận Vệ Đà?
+
+205
+00:17:40,402 --> 00:17:43,998
+Nó rất rất quan trọng.
+
+206
+00:17:44,002 --> 00:17:46,498
+Đúng vậy, đó là một chủ đề lớn.
+
+207
+00:17:46,502 --> 00:17:51,998
+Và tư tưởng Vệ Đà đã lan ra khắp châu Âu và Mỹ thông qua các cộng đồng và phong trào New Age.
+
+208
+00:17:52,002 --> 00:17:56,638
+Thầy có nghĩ những thứ này sẽ định hình thế giới trong những thập kỷ tới không?
+
+209
+00:17:56,642 --> 00:18:04,638
+Hay là thầy bỏ qua chúng vì chúng có vẻ không đủ quyết liệt để dịch chuyển lịch sử?
+
+210
+00:18:04,642 --> 00:18:12,498
+Một điều thầy muốn làm rõ là cách thầy dạy, thầy xem việc học là một hành trình khám phá.
+
+211
+00:18:12,502 --> 00:18:20,498
+Khi thầy dạy, thầy đang đặt câu hỏi và đang cố tự mình tìm ra câu trả lời.
+
+212
+00:18:20,502 --> 00:18:27,758
+Không phải là thầy biết hết tất cả câu trả lời rồi cho các bạn một cái nhìn thoáng vào tâm trí thầy.
+
+213
+00:18:27,762 --> 00:18:30,718
+Đó là cách nó vận hành, các bạn cần hiểu điều đó.
+
+214
+00:18:30,722 --> 00:18:33,498
+Thầy đang làm việc với những giả định nhất định.
+
+215
+00:18:33,502 --> 00:18:37,438
+Thầy mở rộng ra để hình thành hiểu biết tổng quát hơn về thế giới.
+
+216
+00:18:37,442 --> 00:18:40,498
+Đó là một cách giải thích rất đơn giản.
+
+217
+00:18:40,502 --> 00:18:44,498
+Cách khác là thầy không biết đủ về Vệ Đà để bình luận.
+
+218
+00:18:44,502 --> 00:18:47,518
+Thầy muốn biết thêm về nó nhiều hơn nữa.
+
+219
+00:18:47,522 --> 00:18:49,118
+Cuối cùng thầy sẽ học thêm.
+
+220
+00:18:49,122 --> 00:18:56,498
+Thầy muốn thực hiện một chuyến đi đến Ấn Độ và tìm hiểu về chung mạt luận Vệ Đà, nhưng ngay bây giờ thầy chưa biết đủ về nó.
+
+221
+00:18:56,502 --> 00:18:58,998
+Đó là điểm thứ nhất cần làm rõ.
+
+222
+00:18:59,002 --> 00:19:04,498
+Điểm thứ hai là có lẽ trong tương lai Ấn Độ sẽ đóng vai trò rất quan trọng trong địa chính trị.
+
+223
+00:19:04,502 --> 00:19:08,958
+Thầy hy vọng vậy, nhưng ngay lúc này thì chưa quan trọng đến mức đó.
+
+224
+00:19:08,962 --> 00:19:13,998
+Israel, Mỹ, Nga, Iran là bốn quốc gia chính mà thầy đang nghiên cứu ngay bây giờ.
+
+225
+00:19:14,002 --> 00:19:18,498
+Và vì vậy thầy muốn mở rộng ra ngoài bốn nước này.
+
+226
+00:19:18,502 --> 00:19:29,498
+Trước tiên thầy muốn hiểu bốn quốc gia này, rồi sau đó thầy sẽ mở rộng ra để bao gồm cả Ấn Độ nữa.
+
+227
+00:19:29,502 --> 00:19:37,998
+Vậy không phải là thầy không đánh giá cao chung mạt luận Vệ Đà.
+
+228
+00:19:38,002 --> 00:19:40,238
+Thầy không biết đủ để bình luận.
+
+229
+00:19:40,242 --> 00:19:45,718
+Câu này là từ Christie, để thầy đọc lên.
+
+230
+00:19:45,722 --> 00:20:00,498
+Thầy và gia đình đang làm gì để chuẩn bị cho những gì sắp đến, khi thế giới có vẻ như đang vỡ vụn, khi có giá năng lượng, thiếu hụt thực phẩm, nhà nước giám sát bằng A I?
+
+231
+00:20:00,502 --> 00:20:01,498
+Thầy có gia đình.
+
+232
+00:20:01,502 --> 00:20:02,557
+Vợ thầy ở đây.
+
+233
+00:20:02,561 --> 00:20:05,677
+Chúng tôi có ba đứa con đang tuổi lớn.
+
+234
+00:20:05,681 --> 00:20:09,498
+Câu trả lời là chúng tôi tập trung vào việc yêu thương nhau nhiều nhất.
+
+235
+00:20:09,502 --> 00:20:20,498
+Vợ chồng thầy dành phần lớn thời gian nói về các con và nghĩ cách làm cho chúng hạnh phúc, vì chúng tôi tin các con có thể kiên cường, có thể giàu trí tưởng tượng.
+
+236
+00:20:20,502 --> 00:20:32,557
+Nhưng trách nhiệm của chúng tôi với tư cách cha mẹ là đảm bảo các con được yêu thương đủ trong nhà, trong khoảng thời gian chúng còn ở với chúng tôi, để có sức mạnh vượt qua mọi khó khăn.
+
+237
+00:20:32,561 --> 00:20:43,998
+Vậy nên chiến lược của chúng tôi không phải là kiếm cả tỉ đô la rồi xây hầm trú ẩn và hy vọng được an toàn trong cái hầm đó, cách đó chẳng đưa bạn đến đâu cả.
+
+238
+00:20:44,002 --> 00:20:47,118
+Chiến lược của chúng tôi là đặt niềm tin vào các con.
+
+239
+00:20:47,122 --> 00:20:53,498
+Hiểu rằng một khi các con lớn lên, hoàn toàn là lựa chọn của chúng về cách sống cuộc đời mình.
+
+240
+00:20:53,502 --> 00:20:56,557
+Vợ chồng thầy sẽ không can thiệp vào điều đó.
+
+241
+00:20:56,561 --> 00:20:59,917
+Chúng tôi sẽ không can thiệp vào con đường riêng của chúng.
+
+242
+00:20:59,921 --> 00:21:04,078
+Khi các con ở với ta, trách nhiệm là đảm bảo chúng được yêu thương nhất.
+
+243
+00:21:04,082 --> 00:21:09,498
+Đó là nơi đặt ưu tiên của vợ chồng thầy.
+
+244
+00:21:09,502 --> 00:21:16,238
+Câu hai, thầy nhắc Mỹ sẽ giới thiệu stablecoin vào Trung Quốc và Mỹ làm mọi thứ để giữ USD có giá trị.
+
+245
+00:21:16,242 --> 00:21:23,498
+Điều đó có nghĩa là vàng không còn là nơi trú ẩn an toàn hay nơi lưu trữ giá trị nữa, như nó đã từng suốt hàng trăm năm qua không?
+
+246
+00:21:23,502 --> 00:21:24,878
+Vàng à, nói thẳng nhé.
+
+247
+00:21:24,882 --> 00:21:27,438
+Thầy không mua vàng, thậm chí không muốn mua vàng.
+
+248
+00:21:27,442 --> 00:21:30,797
+Lý do là bạn dùng tiền để giải quyết vấn đề thực tế.
+
+249
+00:21:30,801 --> 00:21:38,998
+Bạn dùng tiền để mua những thứ giải quyết các vấn đề hàng ngày trong cuộc sống.
+
+250
+00:21:39,002 --> 00:21:48,998
+Vàng là một nơi lưu trữ giá trị, vì rõ ràng bạn không thể dùng vàng đi đến cửa hàng tiện lợi và mua một chai nước được.
+
+251
+00:21:49,002 --> 00:21:51,198
+Đó là cốt lõi của vàng.
+
+252
+00:21:51,202 --> 00:21:56,878
+Nếu có nhiều tiền và không có chỗ bỏ, hãy bỏ vào vàng hoặc bất động sản.
+
+253
+00:21:56,882 --> 00:22:05,998
+Vấn đề là hãy tưởng tượng một thế giới có rất nhiều bất ổn, khi có rất nhiều hỗn loạn, khi dân số đang suy giảm.
+
+254
+00:22:06,002 --> 00:22:17,498
+Trong kịch bản đó, vấn đề của bạn không phải là bạn có bao nhiêu tiền, vì giá trị vàng sẽ đi xuống do nhu cầu ít hơn, người ít hơn.
+
+255
+00:22:17,502 --> 00:22:20,998
+Vấn đề là làm sao duy trì niềm tin vào chính mình.
+
+256
+00:22:21,002 --> 00:22:28,998
+Làm sao tôi có được sức mạnh để vượt qua sự náo loạn tâm lý của hỗn loạn.
+
+257
+00:22:29,002 --> 00:22:35,118
+Làm sao tôi tìm được lòng can đảm để đi làm việc với những người khác nhằm xây dựng lại một thế giới mới?
+
+258
+00:22:35,122 --> 00:22:40,878
+Vậy nên nó thực sự là về năng lượng tinh thần, chứ không phải về của cải vật chất.
+
+259
+00:22:40,882 --> 00:22:53,998
+Câu ba, thầy có nhắc sẽ có một cuộc đại suy thoái sau khi đồng petrodollar sụp đổ, nhưng rồi thầy lại nói Mỹ sẽ buộc Trung Quốc và các nước khác mua khí đốt của Mỹ để mọi người tiếp tục mua nợ Mỹ và lệ thuộc vào đồng đô la Mỹ.
+
+260
+00:22:54,002 --> 00:23:03,998
+Thầy thấy đại suy thoái kinh tế toàn cầu xảy ra do đồng đô la Mỹ sụp đổ không, hay khủng hoảng sẽ được ngăn chặn nhờ Mỹ ép các nước khác mua khí đốt của mình?
+
+261
+00:23:04,002 --> 00:23:10,998
+Đúng, thầy có nhắc rằng Mỹ có chiến lược ép cả thế giới phải mua khí đốt và dầu của mình.
+
+262
+00:23:11,002 --> 00:23:13,677
+Thầy không nói chiến lược đó sẽ thành công đâu.
+
+263
+00:23:13,681 --> 00:23:18,998
+Thật ra thầy chắc đã nói nó sẽ thành công.
+
+264
+00:23:19,002 --> 00:23:29,498
+Ồ, nó sẽ không thành công, vì khi bạn làm chuyện như vậy, khi bạn cố kiểm soát cả thế giới và ép thế giới làm theo ý mình, nó về cơ bản sẽ nổ tung ngay trên mặt bạn.
+
+265
+00:23:29,502 --> 00:23:38,797
+Vậy nên đúng, về mặt lý thuyết, nếu Mỹ ép cả thế giới mua dầu của mình, thì Mỹ có thể duy trì được đồng petrodollar.
+
+266
+00:23:38,801 --> 00:23:46,498
+Vấn đề là Mỹ làm chuyện này không phải vì lợi ích quốc gia chung.
+
+267
+00:23:46,502 --> 00:23:56,498
+Mỹ làm chuyện này để thúc đẩy lợi ích của một số phe phái và nhóm lợi ích nhất định trong giới tinh hoa Mỹ.
+
+268
+00:23:56,502 --> 00:23:59,758
+Được rồi, đây là một sự phân biệt rất quan trọng cần nhớ.
+
+269
+00:23:59,762 --> 00:24:05,358
+Những người nắm quyền không quan tâm liệu có suy thoái hay không.
+
+270
+00:24:05,362 --> 00:24:09,118
+Suy thoái kinh tế chỉ có nghĩa là bạn mua đồ với giá rất rẻ.
+
+271
+00:24:09,122 --> 00:24:17,998
+Nó cũng có nghĩa là bạn có thể áp đặt một nhà nước độc tài lên quốc gia này, vì người dân sẽ tuyệt vọng.
+
+272
+00:24:18,002 --> 00:24:25,498
+Vậy nên những gì họ đang làm là để thu thêm của cải và tiền bạc cho chính họ.
+
+273
+00:24:25,502 --> 00:24:34,398
+Trump đang làm những gì Trump làm không phải để cứu nước Mỹ, mà để giúp bạn bè của mình.
+
+274
+00:24:34,402 --> 00:24:42,498
+Và một khi bạn hiểu điều đó, thì bạn hiểu rằng việc họ sẽ làm chuyện này không có nghĩa là nước Mỹ sẽ không sụp đổ về kinh tế.
+
+275
+00:24:42,502 --> 00:24:45,838
+Họ không quan tâm nếu nước Mỹ sụp đổ về kinh tế.
+
+276
+00:24:45,842 --> 00:24:55,498
+Câu bốn, tôi đến từ New Zealand, quốc gia chưa được nhắc trong các bài giảng, dù mọi biểu đồ của thầy đều cho thấy New Zealand sẽ bị ảnh hưởng khá nặng bởi chiến tranh với Iran.
+
+277
+00:24:55,502 --> 00:24:59,598
+Thầy thấy New Zealand gia nhập NATO trong cuộc chiến chống Ukraine không?
+
+278
+00:24:59,602 --> 00:25:02,797
+Tôi đọc tin tỉ phú đang xây hầm trú ẩn ở New Zealand.
+
+279
+00:25:02,801 --> 00:25:03,998
+Vậy có an toàn không?
+
+280
+00:25:04,002 --> 00:25:05,758
+New Zealand sẽ làm gì?
+
+281
+00:25:05,762 --> 00:25:10,958
+Tôi chỉ là một công dân bình thường muốn làm điều tốt nhất cho các con tôi ở đây.
+
+282
+00:25:10,962 --> 00:25:16,478
+New Zealand là một trường hợp thú vị, vì New Zealand rất giống với Canada và Úc.
+
+283
+00:25:16,482 --> 00:25:23,277
+Được rồi, ba nơi này, New Zealand, Úc, Canada, chúng không phải là các quốc gia dân tộc.
+
+284
+00:25:23,281 --> 00:25:26,238
+Chúng vốn là thuộc địa tài nguyên của Đế quốc Anh.
+
+285
+00:25:26,242 --> 00:25:30,638
+Nghĩa là chúng thuộc sở hữu, theo nghĩa đen là bị sở hữu bởi người Anh.
+
+286
+00:25:30,642 --> 00:25:35,498
+Vậy nên tài nguyên của chúng, của cải của chúng đều thuộc về người Anh.
+
+287
+00:25:35,502 --> 00:25:42,958
+Và điều đang xảy ra ở những nước này hiện nay là một cuộc tái cấu trúc doanh nghiệp, nơi dân số đang bị thay thế.
+
+288
+00:25:42,962 --> 00:25:54,398
+Dân cư ở đó đã trở nên lười nhác, tự mãn, nên họ đang nhập khẩu hàng triệu người nhập cư mới, chủ yếu là người Ấn Độ.
+
+289
+00:25:54,402 --> 00:26:04,998
+Nhưng cũng nhiều người Trung Quốc, nhiều người Philippines để thay thế dân số, vì trong một đợt suy thoái kinh tế, bạn cần các thuộc địa của mình hoạt động tốt hơn.
+
+290
+00:26:05,002 --> 00:26:14,498
+Vậy nên thầy không thấy New Zealand tham gia vào bất kỳ cuộc chiến nào, nhưng thầy thấy dân số New Zealand đang bị thay thế bởi người nhập cư.
+
+291
+00:26:14,502 --> 00:26:20,878
+Và điều này có lẽ sẽ dẫn đến rất nhiều xung đột dân sự ở những nơi này.
+
+292
+00:26:20,882 --> 00:26:25,838
+Câu tiếp theo này là từ Demi, để thầy đọc lên.
+
+293
+00:26:25,842 --> 00:26:32,998
+Thầy có nhắc trước đây thầy từng sống với cha mẹ, chơi điện tử và cảm thấy mất kết nối với thế giới.
+
+294
+00:26:33,002 --> 00:26:37,998
+Cuốn sách, triết lý, hay tác phẩm nào truyền cảm hứng cho thầy theo con đường này?
+
+295
+00:26:38,002 --> 00:26:46,498
+Thầy có lời khuyên cụ thể nào cho một người đàn ông trẻ cảm thấy vô định và muốn quay lại con đường có ý nghĩa tinh thần không?
+
+296
+00:26:46,502 --> 00:26:51,518
+Đây là một câu hỏi rất khó cho thầy trả lời.
+
+297
+00:26:51,522 --> 00:27:06,078
+Đúng là vào cuối tuổi hai mươi của thầy, thầy đã rất trầm cảm và cảm thấy cuộc sống thật vô vọng, và thầy cảm thấy như bạn phải đi qua những giai đoạn như thế này trong đời mình.
+
+298
+00:27:06,082 --> 00:27:07,518
+Không phải điều cần né tránh.
+
+299
+00:27:07,522 --> 00:27:10,398
+Đó là điều bạn sẽ phải chịu đựng để vượt qua nó.
+
+300
+00:27:10,402 --> 00:27:18,498
+Và khi bạn chạm đáy, bạn theo bản năng hay theo trực giác hiểu rằng tôi cần phải bước tiếp trong cuộc đời mình.
+
+301
+00:27:18,502 --> 00:27:27,498
+Vậy trong thời gian đó, điều thầy làm là tham gia vào một giai đoạn tự suy ngẫm, trong đó thầy chất vấn lại những giả định của mình về thế giới.
+
+302
+00:27:27,502 --> 00:27:34,998
+Thầy đã học Đại học Yale, và sau khi học đại học, thầy nghĩ thế giới này dựa trên năng lực thực sự.
+
+303
+00:27:35,002 --> 00:27:38,998
+Rất hợp lý rằng nếu bạn chăm chỉ, có tài năng, thì bạn sẽ thành công.
+
+304
+00:27:39,002 --> 00:27:53,677
+Rồi sau khi trôi nổi qua cuộc đời ở tuổi hai mươi, thầy đã có nhiều năm trở nên rất trầm cảm và thầy chỉ nghĩ và nghĩ về chính cuộc đời mình.
+
+305
+00:27:53,681 --> 00:28:02,498
+Thầy nhận ra cần một sự hiểu biết tốt hơn, tinh tế hơn về cách thế giới vận hành, và điều đó đã dẫn thầy đến hành trình hôm nay.
+
+306
+00:28:02,502 --> 00:28:07,498
+Vậy nên thất bại không phải là điều cần phớt lờ, né tránh, hay sợ hãi.
+
+307
+00:28:07,502 --> 00:28:08,998
+Đó là điều cần ôm lấy.
+
+308
+00:28:09,002 --> 00:28:11,358
+Đừng sợ thất bại, hãy đón nhận nó.
+
+309
+00:28:11,362 --> 00:28:21,498
+Nếu có một tác phẩm có ảnh hưởng nhiều nhất lên thầy trong mười, hai mươi năm qua, thì đó là Thần Khúc của Dante.
+
+310
+00:28:21,502 --> 00:28:23,998
+Nhưng cuốn này rất khó đọc với người mới.
+
+311
+00:28:24,002 --> 00:28:31,498
+Vậy nên giữa tháng Sáu thầy sẽ dạy một khóa hội thảo hai tuần, đọc kỹ từng dòng.
+
+312
+00:28:31,502 --> 00:28:45,498
+Đọc kỹ Thần Khúc của Dante, và điều thầy hy vọng làm được là truyền cảm hứng để mọi người tham gia vào việc tự suy ngẫm của riêng họ, và suy nghĩ sâu sắc hơn nhiều về mục đích của chính họ trong thế giới này.
+
+313
+00:28:45,502 --> 00:28:49,998
+Và hy vọng điều này sẽ giúp được mọi người trong tương lai sắp tới.
+
+314
+00:28:50,002 --> 00:28:52,498
+Chào, câu tiếp theo từ Alex.
+
+315
+00:28:52,502 --> 00:28:59,498
+Tôi không phản đối quan niệm A I là dự án bí truyền, nhưng có sự tương đồng giữa cái thầy gọi là huyền học,
+
+316
+00:28:59,502 --> 00:29:07,998
+và tinh thần can đảm mà nhà khoa học hay nhà phát minh phải có khi theo đuổi công nghệ cách mạng họ tin là có lợi cho nhân loại.
+
+317
+00:29:08,002 --> 00:29:10,318
+Thầy không phản đối, thấy có lý.
+
+318
+00:29:10,322 --> 00:29:15,498
+Thầy nghĩ nếu bạn muốn là nhà khoa học thực thụ, thì trí tưởng tượng phải bao hàm huyền học.
+
+319
+00:29:15,502 --> 00:29:23,498
+Nếu bạn là nhà khoa học vĩ đại như Isaac Newton, bạn không quan tâm tạo ra bằng sáng chế hay phát minh để tích lũy tri thức.
+
+320
+00:29:23,502 --> 00:29:25,998
+Bạn thực sự không quan tâm chuyện đó đâu.
+
+321
+00:29:26,002 --> 00:29:28,498
+Bạn muốn biết được tâm trí của Chúa.
+
+322
+00:29:28,502 --> 00:29:30,157
+Muốn thay đổi thế giới mãi mãi.
+
+323
+00:29:30,161 --> 00:29:33,438
+Đó là điều dẫn đến nguồn cảm hứng và trí tưởng tượng phi thường.
+
+324
+00:29:33,442 --> 00:29:42,998
+Bài giảng về thánh đế quốc A I, thầy diễn giải cốt lõi từ cuốn Zero to One của Peter Thiel như lời mời lập một hội kín để tiếp cận mã nguồn thống trị thế giới.
+
+325
+00:29:43,002 --> 00:29:45,498
+Tôi không hẳn phản đối cách diễn giải đó.
+
+326
+00:29:45,502 --> 00:29:52,498
+Tuy nhiên, tôi thấy có sự tương đồng giữa đoạn văn thầy trích từ Thiel và cuốn Người Hùng Nghìn Mặt của Joseph Campbell.
+
+327
+00:29:52,502 --> 00:29:53,838
+Chính xác, đúng vậy.
+
+328
+00:29:53,842 --> 00:29:57,998
+Vậy tất cả nhân vật anh hùng trong lịch sử, đều có đặc điểm tương tự.
+
+329
+00:29:58,002 --> 00:30:00,078
+Họ đều tin mình có một sứ mệnh.
+
+330
+00:30:00,082 --> 00:30:09,277
+sứ mệnh bí mật từ Chúa và họ phải tạo ra một phong trào xung quanh mình để thúc đẩy nhân loại tiến lên.
+
+331
+00:30:09,281 --> 00:30:20,478
+Vâng, được rồi các em ạ.
+
+332
+00:30:20,482 --> 00:30:22,408
+Thầy không phản đối trực giác của em,
+
+333
+00:30:22,412 --> 00:30:25,998
+gộp giáo phái, thống trị thế giới, tôn giáo và A I vào một rổ.
+
+334
+00:30:26,002 --> 00:30:29,198
+Thầy chỉ ra mọi đổi mới đều mang tính giáo phái.
+
+335
+00:30:29,202 --> 00:30:30,498
+Thầy đồng ý hoàn toàn.
+
+336
+00:30:30,502 --> 00:30:32,798
+Em phải hiểu giáo phái nếu muốn sáng tạo.
+
+337
+00:30:32,802 --> 00:30:34,798
+Đó là lý do thầy dạy môn này.
+
+338
+00:30:34,802 --> 00:30:41,838
+Giáo phái mang tính linh hồn, dù ý định của em là tiếp cận nó vì nhân loại, để gây chú ý, hay để thống trị thế giới.
+
+339
+00:30:41,842 --> 00:30:44,157
+Chính xác như vậy đấy.
+
+340
+00:30:44,161 --> 00:30:48,238
+Khi bắt đầu dạy, thầy nói Chúa đã ban cho ta ý chí tự do.
+
+341
+00:30:48,242 --> 00:30:51,198
+Ý chí tự do là làm thiện hoặc làm ác.
+
+342
+00:30:51,202 --> 00:30:53,838
+Ngài không quan tâm, được chứ?
+
+343
+00:30:53,842 --> 00:30:56,557
+Chẳng hề gì với bất kỳ ai cả.
+
+344
+00:30:56,561 --> 00:30:59,917
+Tiếng nói công nghệ nổi bật đều dùng công nghệ thống trị thế giới.
+
+345
+00:30:59,921 --> 00:31:03,358
+Điều này hoàn toàn chính xác.
+
+346
+00:31:03,362 --> 00:31:14,157
+Những người sáng tạo thực sự có sự đa dạng, nhưng người sẽ thành công là những kẻ gắn kết nhất với quyền lực và sự kiểm soát.
+
+347
+00:31:14,161 --> 00:31:16,878
+Nếu em yêu kiếm tiền, đoán xem chuyện gì xảy ra?
+
+348
+00:31:16,882 --> 00:31:18,718
+Em sẽ thành công lớn.
+
+349
+00:31:18,722 --> 00:31:21,118
+Muốn giúp nhân loại, đoán xem chuyện gì xảy ra?
+
+350
+00:31:21,122 --> 00:31:23,917
+Em sẽ không thành công.
+
+351
+00:31:23,921 --> 00:31:28,958
+Vậy nên gần như có một chiều hướng cho lịch sử.
+
+352
+00:31:28,962 --> 00:31:32,198
+Đi theo chiều đó, em có đường tắt đến quyền lực.
+
+353
+00:31:32,202 --> 00:31:41,917
+Những kẻ tham lam như Mark Zuckerberg, Steve Jobs, Larry Ellison, sẽ thành công hơn nhiều so với người như thầy, người quan tâm đến giáo dục.
+
+354
+00:31:41,921 --> 00:31:43,838
+Đó là thực tế chúng ta đang sống.
+
+355
+00:31:43,842 --> 00:31:52,958
+Điều cần nhớ là Chúa muốn vậy, vì chỉ khi ban cho ta ý chí tự do hoàn toàn thì ta mới thật sự giàu trí tưởng tượng.
+
+356
+00:31:52,962 --> 00:32:02,397
+Thầy không thể làm điều thầy đang làm trừ khi có những kẻ ác như Mark Zuckerberg làm điều hắn đang làm.
+
+357
+00:32:02,401 --> 00:32:08,878
+Được rồi, vậy điều quan trọng chính là ý chí tự do.
+
+358
+00:32:08,882 --> 00:32:16,677
+Được rồi, Alan, em giúp thầy đọc cái này được không?
+
+359
+00:32:16,681 --> 00:32:24,397
+Vâng, đây là một câu hỏi từ một nam thanh niên Mỹ 21 tuổi.
+
+360
+00:32:24,401 --> 00:32:27,037
+Lệnh tổng động viên Mỹ vẫn đến không, thầy Jung?
+
+361
+00:32:27,041 --> 00:32:34,718
+Nhiều thanh niên Mỹ theo dõi thầy, và những người sẵn sàng hành động quyết liệt đang băn khoăn không biết nên đi theo hướng nào.
+
+362
+00:32:34,722 --> 00:32:39,517
+Nếu lệnh tổng động viên vẫn đến, thì có đáng để rời nước Mỹ vào mùa hè này không?
+
+363
+00:32:39,521 --> 00:32:42,498
+Thầy có lời khuyên chung nào cho những người trẻ không?
+
+364
+00:32:42,502 --> 00:32:43,498
+Cảm ơn thầy.
+
+365
+00:32:43,502 --> 00:32:45,838
+Thầy tin lệnh tổng động viên đang đến.
+
+366
+00:32:45,842 --> 00:32:54,638
+Nhưng không chỉ vậy, thầy tin lệnh tổng động viên đang đến với nhiều nước, gồm cả Canada, Australia, châu Âu.
+
+367
+00:32:54,642 --> 00:33:06,958
+Em nghĩ mục đích của lệnh tổng động viên là để đánh trận, nhưng nếu nghĩ sâu hơn, mục đích của nó là tái tổ chức xã hội theo một cách nhất định.
+
+368
+00:33:06,962 --> 00:33:11,118
+Vậy ở Mỹ ngày nay, thanh niên làm gì?
+
+369
+00:33:11,122 --> 00:33:19,118
+Họ mua Bitcoin, đánh bạc trực tuyến, lên Only Fans, không muốn đi làm vì lương quá thấp.
+
+370
+00:33:19,122 --> 00:33:24,397
+Và đây là một thảm họa cho đất nước.
+
+371
+00:33:24,401 --> 00:33:34,498
+Thanh niên vào đại học, suốt bốn năm trời họ chỉ uống bia, xem bóng bầu dục, và chẳng học được gì cả, đúng không?
+
+372
+00:33:34,502 --> 00:33:44,397
+Vậy các em có một vấn đề xã hội khổng lồ, đó là thanh niên không đóng góp hiệu quả cho nền kinh tế.
+
+373
+00:33:44,401 --> 00:33:49,698
+Người ta sẽ tạo khủng hoảng tài chính kiểu Đại Suy Thoái để buộc em đi làm vì cha mẹ hết tiền,
+
+374
+00:33:49,702 --> 00:33:58,478
+rồi sau đó có một lệnh tổng động viên thật sự để dạy em những kỹ năng cần thiết để đóng góp hiệu quả hơn cho nền kinh tế.
+
+375
+00:33:58,482 --> 00:34:00,878
+Tổng động viên không nhất thiết là ra trận đâu.
+
+376
+00:34:00,882 --> 00:34:04,478
+Nó chỉ nghĩa là em làm việc cho chính phủ khoảng 5 đến 10 năm.
+
+377
+00:34:04,482 --> 00:34:10,637
+Và có khả năng họ huấn luyện em thành kỹ sư trong hải quân, tin hay không tùy em.
+
+378
+00:34:10,641 --> 00:34:20,478
+Nhưng nền giáo dục tốt nhất em nhận được thường từ quân đội, vì khác với trường học, họ có động lực thực sự để dạy em điều hữu ích.
+
+379
+00:34:20,482 --> 00:34:22,198
+Thường thì còn miễn phí nữa.
+
+380
+00:34:22,202 --> 00:34:23,998
+Còn là thứ chính phủ cần đó.
+
+381
+00:34:24,002 --> 00:34:34,798
+Lệnh tổng động viên là thứ họ cần để huấn luyện thanh niên trở thành những người đóng góp hiệu quả cho nền kinh tế.
+
+382
+00:34:34,802 --> 00:34:38,877
+Và đây là thứ mà nhiều nước khác cũng sẽ áp dụng theo.
+
+383
+00:34:38,881 --> 00:34:46,798
+Cứ để thanh niên muốn làm gì thì làm, họ sẽ chỉ chơi game, tiêu hết tiền vào Only Fans, và đánh bạc tất cả vào Bitcoin.
+
+384
+00:34:46,802 --> 00:34:49,278
+Họ chẳng thực sự biết điều gì hữu ích cả.
+
+385
+00:34:49,282 --> 00:34:51,038
+Đây là một vấn đề khổng lồ.
+
+386
+00:34:51,042 --> 00:34:56,478
+Và đó là lý do họ cần một lệnh tổng động viên cấp quốc gia để giải quyết vấn đề này.
+
+387
+00:34:56,482 --> 00:34:58,718
+Em có nên chạy nếu có động viên không?
+
+388
+00:34:58,722 --> 00:35:01,198
+Thầy nói rồi, không có nơi nào để chạy.
+
+389
+00:35:01,202 --> 00:35:04,498
+Hoặc em đến nước có lệnh tổng động viên, không có chỗ chạy đâu,
+
+390
+00:35:04,502 --> 00:35:07,798
+hoặc đến nước có vấn đề tệ hơn như nạn đói.
+
+391
+00:35:07,802 --> 00:35:13,598
+Vậy điều quan trọng là phải nhận ra rằng thế giới đang thay đổi.
+
+392
+00:35:13,602 --> 00:35:17,498
+Ta không quay lại thế giới cũ được nữa đâu các em.
+
+393
+00:35:17,502 --> 00:35:19,398
+Mọi thứ không giữ nguyên đâu.
+
+394
+00:35:19,402 --> 00:35:21,438
+Em phải đón nhận thay đổi.
+
+395
+00:35:21,442 --> 00:35:28,318
+Một lệnh tổng động viên tự nhiên có nghĩa là nếu em hữu ích, họ sẽ giữ em sống.
+
+396
+00:35:28,322 --> 00:35:31,098
+Không hữu ích, họ đưa em đến Iraq để chết.
+
+397
+00:35:31,102 --> 00:35:33,648
+Được chứ, đó là ý nghĩa của nó đó.
+
+398
+00:35:33,652 --> 00:35:35,518
+Vậy hãy làm mình hữu ích.
+
+399
+00:35:35,522 --> 00:35:39,718
+Đọc sách, học kỹ năng, làm việc chăm chỉ.
+
+400
+00:35:39,722 --> 00:35:41,798
+Đó là lời khuyên của thầy đó.
+
+401
+00:35:41,802 --> 00:35:43,597
+Thầy xin lỗi vì nói thẳng quá,
+
+402
+00:35:43,601 --> 00:35:46,638
+nhưng đó là thế giới ta đang sống các em ạ.
+
+403
+00:35:46,642 --> 00:35:48,958
+Vâng, được rồi nhé các em.
+
+404
+00:35:48,962 --> 00:35:50,198
+John Zach cảm ơn.
+
+405
+00:35:50,202 --> 00:35:51,398
+Cảm ơn anh, John.
+
+406
+00:35:51,402 --> 00:35:53,838
+Được rồi, Alan, đọc câu hỏi McQue?
+
+407
+00:35:53,842 --> 00:36:04,678
+Thưa thầy, quan điểm của thầy thế nào về một A I được thiết kế để vượt qua điểm tối ưu sai lầm là sự tuyệt chủng của loài người?
+
+408
+00:36:04,682 --> 00:36:11,778
+Thay vì cưỡng ép một sự đồng nhất, nó sẽ tối ưu hóa năng lượng xung đột tối thiểu và tối đa hóa sự sáng tạo,
+
+409
+00:36:11,782 --> 00:36:19,518
+sự hợp tác sáng tạo bằng cách hạn chế về mặt cấu trúc khả năng gây hại của những kẻ thiếu sự đồng cảm.
+
+410
+00:36:19,522 --> 00:36:30,158
+Liệu một khung như vậy có thể dẫn dắt thành công quỹ đạo lịch sử của nhân loại hướng tới sự cạnh tranh lành mạnh và xây dựng mà không vi phạm quyền tự chủ của chúng ta không?
+
+411
+00:36:30,162 --> 00:36:32,398
+Ý này hay đó em.
+
+412
+00:36:32,402 --> 00:36:34,198
+A I hoàn toàn có thể làm.
+
+413
+00:36:34,202 --> 00:36:37,278
+Câu hỏi là ai sẽ trả tiền cho việc này, đúng không?
+
+414
+00:36:37,282 --> 00:36:49,568
+Nếu em là tỷ phú, lý do em đầu tư vào A I là để có nhiều tiền hơn nhằm mở rộng quyền lực và sự giàu có của em, và điều đó nghĩa là kiểm soát con người tốt hơn, đúng không?
+
+415
+00:36:49,572 --> 00:36:52,148
+Họ sẽ không tạo ra hệ thống A I như vậy.
+
+416
+00:36:52,152 --> 00:36:54,358
+Nghĩa là em không cần chính phủ nữa.
+
+417
+00:36:54,362 --> 00:36:58,028
+Chính phủ đầu tư vào nó để kiểm soát con người nhiều hơn.
+
+418
+00:36:58,032 --> 00:37:00,798
+Đó là vấn đề ta đang gặp phải đó em.
+
+419
+00:37:00,802 --> 00:37:03,498
+Thực tế là A I rất tốn kém các em ạ.
+
+420
+00:37:03,502 --> 00:37:06,998
+Cần trung tâm dữ liệu nghìn tỷ đô để vận hành A I.
+
+421
+00:37:07,002 --> 00:37:10,798
+Được rồi, Alan, em đọc tiếp được không?
+
+422
+00:37:10,802 --> 00:37:12,288
+Cảm ơn công việc của thầy.
+
+423
+00:37:12,292 --> 00:37:20,528
+Thưa thầy, về trật tự thế giới đa cực sắp tới, thầy có nghĩ là dân chúng nói chung, đặc biệt là người Mỹ,
+
+424
+00:37:20,532 --> 00:37:30,318
+có sẵn sàng hoặc thậm chí có khả năng thực hiện chuyển dịch tâm thức và hiểu được thế giới đang thay đổi đến mức nào, hay đây là điều mà chỉ thế hệ tiếp theo mới hiểu?
+
+425
+00:37:30,322 --> 00:37:40,398
+Vâng, đây là một câu hỏi hay, và đáng tiếc là thực tế hầu hết mọi người sẽ không thể thực hiện chuyển dịch tâm thức này, đặc biệt là người lớn tuổi.
+
+426
+00:37:40,402 --> 00:37:42,398
+Đó là lý do hầu hết sẽ chết.
+
+427
+00:37:42,402 --> 00:37:45,358
+Nếu em không chuyển dịch được, em sẽ chết.
+
+428
+00:37:45,362 --> 00:37:50,558
+Bởi vì em thà chết còn hơn chấp nhận thực tế mới.
+
+429
+00:37:50,562 --> 00:37:56,318
+Và thật đáng tiếc, nhưng nhiều vấn đề sẽ đến từ thực tế rằng thế giới đang thay đổi.
+
+430
+00:37:56,322 --> 00:38:00,088
+Người dân cần thay đổi để thích nghi với thế giới mới này.
+
+431
+00:38:00,092 --> 00:38:04,948
+Ví dụ, nếu có thiếu năng lượng, nghĩa là ta phải chia sẻ nhiều hơn.
+
+432
+00:38:04,952 --> 00:38:08,968
+Đủ năng lượng cho mọi người các em ạ, nhưng em phải chia sẻ nhiều hơn.
+
+433
+00:38:08,972 --> 00:38:15,038
+Nghĩa là em phải hy sinh cá nhân để hàng xóm có đủ cái ăn các em ạ.
+
+434
+00:38:15,042 --> 00:38:19,357
+Đáng tiếc là sẽ có nhiều người, đặc biệt là baby boomer triệu phú.
+
+435
+00:38:19,361 --> 00:38:21,838
+Thầy không nói toàn bộ baby boomer triệu phú.
+
+436
+00:38:21,842 --> 00:38:26,158
+Thầy đang nói rằng những baby boomer là triệu phú, họ cực kỳ ích kỷ.
+
+437
+00:38:26,162 --> 00:38:28,798
+Họ sẽ không muốn làm những thay đổi này đâu em.
+
+438
+00:38:28,802 --> 00:38:35,198
+Họ không muốn đóng thêm thuế hay bỏ biệt thự triệu đô để thế giới tốt hơn.
+
+439
+00:38:35,202 --> 00:38:40,778
+Ta biết vậy vì nếu họ sẵn lòng làm, ta đã không rơi vào mớ hỗn loạn này ngay từ đầu.
+
+440
+00:38:40,782 --> 00:38:53,918
+Vậy nên rất nhiều xung đột sẽ đến từ thực tế rằng em có những người nắm quyền sẽ rất cố chấp, những kẻ quá già để thay đổi, và những kẻ sẽ dùng bạo lực để chống lại sự thay đổi.
+
+441
+00:38:53,922 --> 00:38:56,238
+Được rồi, tiếp tục nhé em.
+
+442
+00:38:56,242 --> 00:39:00,638
+Chào thầy ạ, thầy kể câu chuyện một lần thầy thực sự kết nối với Monad,
+
+443
+00:39:00,642 --> 00:39:04,778
+và sự thấu hiểu nó đem lại cho thầy là gì không thầy?
+
+444
+00:39:04,782 --> 00:39:07,498
+Em yêu bài giảng các em ạ.
+
+445
+00:39:07,502 --> 00:39:09,498
+Ôm lớn đến thầy và gia đình ạ.
+
+446
+00:39:09,502 --> 00:39:11,498
+Bảo trọng nhé thầy.
+
+447
+00:39:11,502 --> 00:39:11,998
+Tuyệt vời.
+
+448
+00:39:12,002 --> 00:39:15,968
+Có nhiều lần thầy thấy kết nối với Monad, nhưng khi dạy thì rõ nhất.
+
+449
+00:39:15,972 --> 00:39:22,128
+Đó là trải nghiệm rất kỳ lạ, nhưng các em biết đấy, lần đầu thầy dạy là khi thầy khoảng 20 tuổi, ở Trung Quốc.
+
+450
+00:39:22,132 --> 00:39:32,938
+Thầy không phải là giáo viên giỏi, nhưng khi thầy dạy và học sinh đang học, thầy có thể cảm nhận các em đang học, thầy cảm thấy như chúng ta kết nối lại với Monad.
+
+451
+00:39:32,942 --> 00:39:46,028
+Vậy nên trải nghiệm thỏa nguyện nhất thầy có là khi thầy dạy và thấy học sinh được khai sáng bởi bài giảng, khi thầy thấy học sinh đang học hỏi.
+
+452
+00:39:46,032 --> 00:39:49,168
+Được rồi, đó là sự kết nối trực tiếp với Monad.
+
+453
+00:39:49,172 --> 00:39:53,568
+Khi em yêu ai đó, như thầy yêu vợ thầy, thầy cảm thấy được kết nối với Monad.
+
+454
+00:39:53,572 --> 00:39:57,198
+Khi thầy ôm đứa con sơ sinh của mình lần đầu tiên.
+
+455
+00:39:57,202 --> 00:39:59,718
+Đó là sự kết nối với Monad các em.
+
+456
+00:39:59,722 --> 00:40:02,268
+Monad luôn ở bên ta mọi lúc.
+
+457
+00:40:02,272 --> 00:40:05,998
+Chỉ là ta có chọn kết nối với nó hay không thôi.
+
+458
+00:40:06,002 --> 00:40:14,958
+Nếu em chỉ cần lắng nghe trái tim mình, thì em có thể dễ dàng kết nối với Monad.
+
+459
+00:40:14,962 --> 00:40:18,288
+Kết nối với Monad là hạnh phúc lớn nhất trên thế giới.
+
+460
+00:40:18,292 --> 00:40:23,598
+Khoảnh khắc hạnh phúc nhất trong thế giới của ta là khi ta ôm người mình yêu thương.
+
+461
+00:40:23,602 --> 00:40:33,738
+Khi em chăm sóc một người bạn, bạn em bị bệnh và nằm trong bệnh viện, nhưng em dành ra hai tuần chỉ để ở bên giường bệnh của bạn mình.
+
+462
+00:40:33,742 --> 00:40:36,268
+Đó là cảm giác đau hay vui sướng?
+
+463
+00:40:36,272 --> 00:40:40,558
+Với hầu hết, đó là cảm giác vui sướng khi em giúp một người,
+
+464
+00:40:40,562 --> 00:40:43,798
+khi em đóng góp tích cực cho thế giới.
+
+465
+00:40:43,802 --> 00:40:47,028
+Được rồi, tiếp tục đi em.
+
+466
+00:40:47,032 --> 00:40:55,438
+Thưa thầy John, nhiều thảo luận về A I tập trung vào giám sát, kiểm soát của chính phủ, kiểm duyệt và thao túng.
+
+467
+00:40:55,442 --> 00:40:59,118
+Nhưng nếu đó chỉ là lớp bề mặt thôi thì sao?
+
+468
+00:40:59,122 --> 00:41:10,158
+Khi A I, mạng xã hội, các thuật toán, các chính phủ, cảm xúc tập thể, và ý thức con người bắt đầu tương tác qua lại với nhau một cách đệ quy.
+
+469
+00:41:10,162 --> 00:41:14,208
+Ta bước vào kỷ nguyên thực tại vừa phân mảnh vừa khuếch đại cùng lúc.
+
+470
+00:41:14,212 --> 00:41:23,838
+Không chỉ là tin giả, mà còn là toàn bộ hệ sinh thái cảm xúc và tâm lý lay chuyển cách các nhóm khác nhau nhận thức về sự thật, danh tính, ký ức và ý nghĩa.
+
+471
+00:41:23,842 --> 00:41:30,438
+Trong tương lai, thầy có nghĩ là nhân loại có nguy cơ mất đi hoàn toàn một thực tại đồng thuận chung không?
+
+472
+00:41:30,442 --> 00:41:42,708
+Và nếu vậy, thì những chiếc neo nào sẽ giữ cho ý thức con người khi hàng tỷ người mỗi người đang tương tác với những tấm gương A I khác nhau, được huấn luyện trên các giá trị, các tự sự, và các vòng phản hồi cảm xúc khác nhau.
+
+473
+00:41:42,712 --> 00:41:51,117
+Ở thời điểm đó, A I chỉ đơn thuần là một công cụ của nền văn minh, hay nó trở thành một phần của ý thức đang tiến hóa của các nền văn minh?
+
+474
+00:41:51,121 --> 00:41:53,438
+Được rồi, có một người Canada nổi tiếng.
+
+475
+00:41:53,442 --> 00:42:01,018
+Có một nhà lý thuyết truyền thông người Canada rất nổi tiếng tên là Marshall, câu nói nổi tiếng của ông là phương tiện chính là thông điệp,
+
+476
+00:42:01,022 --> 00:42:09,678
+và ý tưởng ở đây là bản thân phương tiện, dù là radio, truyền hình hay internet, nó định hình cách em nhận thức về bản thân và thế giới.
+
+477
+00:42:09,682 --> 00:42:20,498
+Em nhìn vào chat G P T, về lý thuyết chat G P T được cho là sẽ tăng cường trí tưởng tượng của em, vì chat G P T có thể giảm bớt công việc nặng nhọc, đúng không?
+
+478
+00:42:20,502 --> 00:42:25,998
+Nó giảm việc nặng nhọc, cho em nhiều thông tin để em xây dựng trên đó.
+
+479
+00:42:26,002 --> 00:42:31,758
+Nhưng thực tế điều xảy ra là người ta phụ thuộc vào chat G P T và đánh mất trí tưởng tượng.
+
+480
+00:42:31,762 --> 00:42:35,538
+Chat G P T sẽ không làm em thông minh hơn, nó làm em ngu hơn.
+
+481
+00:42:35,542 --> 00:42:38,198
+Vậy tại sao lại như thế, câu trả lời là Monad.
+
+482
+00:42:38,202 --> 00:42:42,928
+Cái làm em thông minh, cho em sáng tạo, là kết nối liên tục với Monad đó em.
+
+483
+00:42:42,932 --> 00:42:52,878
+Vậy nên nếu em chuyển trọng tâm từ công nghệ sang và rời xa trực giác mình, em sẽ thua cuộc.
+
+484
+00:42:52,882 --> 00:43:05,608
+Nhưng vì sao chúng ta có chat G P T, vì sao chúng ta có A I, là vì nó là cách để cấu trúc tư duy của em theo cách cho phép giới quyền lực kiểm soát em tốt hơn.
+
+485
+00:43:05,612 --> 00:43:16,958
+Vậy hãy nhớ ý tưởng này rằng mọi công nghệ theo cách nào đó đều làm giảm sự kết nối với Monad, do đó mọi công nghệ ở khía cạnh nhất định đều xấu,
+
+486
+00:43:16,962 --> 00:43:22,108
+không có nghĩa là nó vô dụng, nhưng nó sẽ làm suy giảm sự kết nối của em với Monad.
+
+487
+00:43:22,112 --> 00:43:27,498
+Cái củng cố sự kết nối với Monad chính là những người khác.
+
+488
+00:43:27,502 --> 00:43:28,798
+Bản thân em nữa.
+
+489
+00:43:28,802 --> 00:43:36,598
+Vậy nếu em thực sự muốn sáng tạo, em thực sự muốn khám phá và hiểu về nhân loại, hãy đi dạo thật lâu trong công viên.
+
+490
+00:43:36,602 --> 00:43:38,498
+Hãy nói chuyện với người lạ.
+
+491
+00:43:38,502 --> 00:43:40,558
+Hãy đọc thật nhiều sách hay em nhé.
+
+492
+00:43:40,562 --> 00:43:45,798
+Được rồi, tiếp tục đi em.
+
+493
+00:43:45,802 --> 00:43:47,498
+Câu hỏi gì em ạ?
+
+494
+00:43:47,502 --> 00:43:53,988
+Thầy định nghĩa cái đẹp ra sao, và công chúng nên theo đuổi cái đẹp trong thế giới hiện tại thế nào?
+
+495
+00:43:53,992 --> 00:43:57,357
+Cái đẹp chính là sự thần thánh em ạ.
+
+496
+00:43:57,361 --> 00:44:00,798
+Cái đẹp là sự kết nối với thần thánh.
+
+497
+00:44:00,802 --> 00:44:05,358
+Cái đẹp là một cái nhìn thoáng qua vào thần thánh.
+
+498
+00:44:05,362 --> 00:44:12,478
+Cái đẹp là những tia lửa thường tồn xuyên suốt khắp thế giới.
+
+499
+00:44:12,482 --> 00:44:22,128
+Vậy nên cái đẹp là những trải nghiệm thay đổi em theo hướng tốt hơn vì chúng làm em chấn động bước vào một thực tại mới.
+
+500
+00:44:22,132 --> 00:44:26,818
+Và như vậy cái đẹp sẽ bao gồm những cuốn sách vĩ đại như Homer, Dante.
+
+501
+00:44:26,822 --> 00:44:32,638
+Nó có thể bao gồm một trải nghiệm em có và nó thay đổi em mãi mãi.
+
+502
+00:44:32,642 --> 00:44:37,357
+Được rồi, đó là cách thầy định nghĩa cái đẹp.
+
+503
+00:44:37,361 --> 00:44:41,148
+Thật tuyệt khi được tham gia vào việc này.
+
+504
+00:44:41,152 --> 00:44:43,498
+Em có vài câu hỏi cho thầy ạ.
+
+505
+00:44:43,502 --> 00:44:45,498
+Thầy chọn câu nào tùy ý.
+
+506
+00:44:45,502 --> 00:44:48,098
+Được rồi, để thầy chọn ngẫu nhiên một câu.
+
+507
+00:44:48,102 --> 00:44:53,868
+Vậy chuyện gì xảy ra nếu Saudi Arabia cứ tiếp tục xây dựng đường ống mới của họ?
+
+508
+00:44:53,872 --> 00:44:57,117
+À, em biết đấy, thì thầy sẽ chỉ cho nổ tung nó thôi.
+
+509
+00:44:57,121 --> 00:44:59,837
+Được rồi các bạn, đây là sa mạc.
+
+510
+00:44:59,841 --> 00:45:02,498
+Em phải xây mọi thứ ở sa mạc các em ạ.
+
+511
+00:45:02,502 --> 00:45:04,998
+Cho nổ trên sa mạc dễ lắm.
+
+512
+00:45:05,002 --> 00:45:07,498
+Không có chỗ nào ẩn nấp.
+
+513
+00:45:07,502 --> 00:45:11,298
+Đường ống rất dễ nổ tung vì có toàn năng lượng bên trong, đúng không?
+
+514
+00:45:11,302 --> 00:45:12,248
+Tên lửa đạn đạo.
+
+515
+00:45:12,252 --> 00:45:15,298
+Một quả bùm, nó nổ tung.
+
+516
+00:45:15,302 --> 00:45:16,998
+Mọi thứ nổ tung hết.
+
+517
+00:45:17,002 --> 00:45:19,498
+Tới câu hỏi của Shelley.
+
+518
+00:45:19,502 --> 00:45:22,498
+Thầy đã thảo luận về Pax Judaica nhiều lần.
+
+519
+00:45:22,502 --> 00:45:25,997
+Israel như trung tâm của trật tự khu vực mới.
+
+520
+00:45:26,001 --> 00:45:35,938
+Nhưng Pax Silica định khung lại Israel chỉ như một nút trong các kiến trúc công nghệ và chuỗi cung ứng rộng hơn do Mỹ dẫn dắt, chứ không phải là cường quốc thống trị.
+
+521
+00:45:35,942 --> 00:45:38,317
+Quan điểm của thầy về Pax Silica là gì?
+
+522
+00:45:38,321 --> 00:45:45,067
+Được rồi, vậy Pax Judaica đứng ở trung tâm của Trung Đông.
+
+523
+00:45:45,071 --> 00:45:54,037
+Pax Silica, ý tưởng là trí tuệ nhân tạo được hậu thuẫn bởi silicon là cường quốc thế giới mới.
+
+524
+00:45:54,041 --> 00:45:58,168
+Vấn đề với Pax Silica là nó thực ra là một mạng lưới thương mại.
+
+525
+00:45:58,172 --> 00:46:01,678
+Mà các mạng lưới thương mại thường rất rất là mong manh.
+
+526
+00:46:01,682 --> 00:46:08,398
+Mạng lưới thương mại đòi hỏi sự hợp tác giữa các quốc gia khác nhau để duy trì sự gắn kết của nó.
+
+527
+00:46:08,402 --> 00:46:14,038
+Và điều chúng ta biết từ lịch sử là quyền lực đến từ quốc gia dân tộc.
+
+528
+00:46:14,042 --> 00:46:17,868
+Phải có quốc gia dân tộc hậu thuẫn Pax Silica thì nó mới hoạt động được.
+
+529
+00:46:17,872 --> 00:46:21,598
+Vậy em có thể nói rằng đứng đằng sau Pax Silica sẽ là Pax Judaica.
+
+530
+00:46:21,602 --> 00:46:24,498
+Đó là một khả năng có thật.
+
+531
+00:46:24,502 --> 00:46:27,498
+Khi đó Pax Judaica mới là người nắm quyền.
+
+532
+00:46:27,502 --> 00:46:29,498
+Không phải Pax Silica thống trị.
+
+533
+00:46:29,502 --> 00:46:37,158
+Vậy nên ý tưởng rằng em có thể có một hệ thống thương mại độc lập tự chủ để sản xuất A I, nó không thể hoạt động được.
+
+534
+00:46:37,162 --> 00:46:43,347
+Cuối cùng, em cần một quốc gia dân tộc hậu thuẫn nó bằng sức mạnh quân sự, bằng nguồn lực, bằng con người.
+
+535
+00:46:43,351 --> 00:46:48,077
+Vâng được rồi, tiếp tục với câu hỏi của Isaiah nhé các em.
+
+536
+00:46:48,081 --> 00:46:49,998
+Ngày tuyệt vời, John và vợ ơi.
+
+537
+00:46:50,002 --> 00:46:54,238
+Cảm ơn tình yêu hai bạn chia sẻ tạo ra nội dung và gia đình quý báu.
+
+538
+00:46:54,242 --> 00:47:04,428
+Tôi sẽ liệt kê một số chủ đề và câu hỏi, và tôi muốn biết những điều quan trọng nhất mà thầy muốn chia sẻ về mỗi chủ đề thầy chọn.
+
+539
+00:47:04,432 --> 00:47:17,758
+Một, tình yêu vô điều kiện; hai, mặt tốt của Cabala; ba, nhận thức bất nhị; bốn, sự thụ tinh...
+
+540
+00:47:17,762 --> 00:47:19,498
+Xin lỗi, cái này dài quá.
+
+541
+00:47:19,502 --> 00:47:21,998
+Thầy trân trọng, nhưng mất thời gian quá.
+
+542
+00:47:22,002 --> 00:47:23,738
+Thầy chỉ xem hai câu đầu thôi.
+
+543
+00:47:23,742 --> 00:47:25,998
+Tình yêu vô điều kiện.
+
+544
+00:47:26,002 --> 00:47:32,498
+Tình yêu vô điều kiện một khi em đạt được, sẽ thay đổi em mãi mãi.
+
+545
+00:47:32,502 --> 00:47:35,798
+Em đạt tình yêu vô điều kiện khi có đứa con đầu lòng,
+
+546
+00:47:35,802 --> 00:47:39,788
+vì phải yêu con vô điều kiện, đứa trẻ chưa có trải nghiệm.
+
+547
+00:47:39,792 --> 00:47:44,818
+Về Cabala thì nó có rất nhiều mặt tốt đẹp các em ạ.
+
+548
+00:47:44,822 --> 00:47:50,465
+Thầy không hiểu vì sao Cabala bị đặt trong góc nhìn tiêu cực như vậy,
+
+549
+00:47:50,469 --> 00:48:00,218
+nhưng Cabala thực sự là một cách rất mạnh mẽ để hiểu thế giới và buộc em phải suy nghĩ rất sâu sắc về vị trí của em trong thế giới.
+
+550
+00:48:00,222 --> 00:48:12,468
+Thực tế là nếu em đi đến trường đại học Mỹ, em sẽ thấy có hai nhóm sắc tộc khá thống trị trong giới học thuật ở Mỹ ngày nay.
+
+551
+00:48:12,472 --> 00:48:16,028
+Đó là người Ấn Độ và người Do Thái, các em ạ.
+
+552
+00:48:16,032 --> 00:48:18,998
+Người Ấn Độ có truyền thống Vệ Đà.
+
+553
+00:48:19,002 --> 00:48:21,998
+Người Do Thái có truyền thống Cabala.
+
+554
+00:48:22,002 --> 00:48:23,498
+Đây không phải sự ngẫu nhiên.
+
+555
+00:48:23,502 --> 00:48:30,607
+Được rồi, nếu em thực sự muốn sáng tạo, và thầy đã nói điều này trong quá khứ, em cần phải hiểu huyền học.
+
+556
+00:48:30,611 --> 00:48:43,198
+Cabala buộc em phải vật lộn với huyền học và nhận ra rằng vượt ra ngoài thế giới vật chất, có những câu hỏi huyền bí sâu sắc có thể dẫn dắt cuộc đời em.
+
+557
+00:48:43,202 --> 00:48:50,398
+Bằng cách đối mặt với những câu hỏi này, không chỉ giúp em hiểu vị trí của em trong thế giới, mà còn thúc đẩy cuộc tìm tòi khoa học.
+
+558
+00:48:50,402 --> 00:48:52,958
+Vâng.
+
+559
+00:48:52,962 --> 00:48:57,438
+Được rồi, em theo kịp được không?
+
+560
+00:48:57,442 --> 00:48:58,597
+Đọc cái này.
+
+561
+00:48:58,601 --> 00:49:00,498
+Câu hỏi em là, thầy nghĩ sao?
+
+562
+00:49:00,502 --> 00:49:03,397
+Vâng, câu hỏi em là, thầy nghĩ sao về chu kỳ Yuga?
+
+563
+00:49:03,401 --> 00:49:09,558
+Và theo các quy luật vũ trụ, vì sao các thiết chế như Đế chế La Mã lại tồn tại?
+
+564
+00:49:09,562 --> 00:49:19,278
+Cabala nói về việc trái đất là một hình thái trung tâm, về cơ bản trái đất là chu kỳ chồng chu kỳ chồng chu kỳ.
+
+565
+00:49:19,282 --> 00:49:23,117
+Dãy Fibonacci, samsara, vân vân là vậy đó.
+
+566
+00:49:23,121 --> 00:49:32,618
+Được rồi, đây là một ý tưởng thực sự quan trọng, suốt hàng nghìn năm con người đã đi đến hiểu biết là thế giới vận hành theo chu kỳ.
+
+567
+00:49:32,622 --> 00:49:34,998
+Thế giới chu kỳ, em vươn lên rồi sụp đổ.
+
+568
+00:49:35,002 --> 00:49:36,557
+Em sống rồi em chết đi.
+
+569
+00:49:36,561 --> 00:49:37,987
+Có mùa hè, có mùa đông.
+
+570
+00:49:37,991 --> 00:49:40,297
+Em không thể làm gì về việc này cả.
+
+571
+00:49:40,301 --> 00:49:46,798
+Cái ngạo mạn, cái ngu ngốc, cái kiêu căng chính là tin rằng em có thể chặn đứng lịch sử.
+
+572
+00:49:46,802 --> 00:49:50,267
+Em có thể kết thúc lịch sử, điều đó chỉ dẫn đến hủy diệt.
+
+573
+00:49:50,271 --> 00:49:58,478
+Vậy đó là thế giới chúng ta đang sống hôm nay, nơi mà việc đế chế Mỹ suy tàn và biến mất là điều tự nhiên.
+
+574
+00:49:58,482 --> 00:50:00,528
+Đó là lịch sử nhân loại.
+
+575
+00:50:00,532 --> 00:50:03,498
+Đó chỉ là một chu kỳ thôi các em ạ.
+
+576
+00:50:03,502 --> 00:50:07,108
+Nhưng họ đang chịu đau khổ vì Đế chế Mỹ từ chối biến mất.
+
+577
+00:50:07,112 --> 00:50:10,967
+Nó từ chối chết đi, và do đó chúng ta phải chịu đau khổ.
+
+578
+00:50:10,971 --> 00:50:14,108
+Nhưng không có gì em có thể làm về việc này cả.
+
+579
+00:50:14,112 --> 00:50:18,308
+Và em càng kháng cự, thì cơn đau càng lớn, sự sụp đổ càng nhanh.
+
+580
+00:50:18,312 --> 00:50:21,678
+Và đây là điều mà mọi dân tộc đều dạy chúng ta.
+
+581
+00:50:21,682 --> 00:50:24,328
+Hãy chấp nhận chu kỳ sống.
+
+582
+00:50:24,332 --> 00:50:31,038
+Nói rằng các đế chế suy tàn cũng giống như nói rằng một cơn động đất đang đến.
+
+583
+00:50:31,042 --> 00:50:32,958
+Em ngăn được cơn động đất đến không?
+
+584
+00:50:32,962 --> 00:50:34,198
+Không, chỉ chuẩn bị thôi.
+
+585
+00:50:34,202 --> 00:50:35,798
+Em chỉ phải chuẩn bị thôi.
+
+586
+00:50:35,802 --> 00:50:36,798
+Đế chế suy tàn.
+
+587
+00:50:36,802 --> 00:50:37,798
+Y hệt vậy đó.
+
+588
+00:50:37,802 --> 00:50:39,198
+Là chu kỳ tự nhiên.
+
+589
+00:50:39,202 --> 00:50:42,158
+Đây là câu hỏi từ Sarah nhé.
+
+590
+00:50:42,162 --> 00:50:43,678
+Vâng, em đã ghi nhận ngày.
+
+591
+00:50:43,682 --> 00:50:46,228
+Em rất quan tâm đến các buổi phát trực tiếp.
+
+592
+00:50:46,232 --> 00:50:50,267
+Em hy vọng nó là nền tảng cho ngôi trường mà thầy muốn xây dựng.
+
+593
+00:50:50,271 --> 00:50:53,868
+Em sẽ có mặt và đang nghĩ ra câu hỏi hay cho buổi học cuối.
+
+594
+00:50:53,872 --> 00:50:54,898
+Cảm ơn thầy.
+
+595
+00:50:54,902 --> 00:50:55,798
+Tuyệt vời.
+
+596
+00:50:55,802 --> 00:50:56,798
+Vâng, đúng rồi.
+
+597
+00:50:56,802 --> 00:51:03,357
+Thầy rất hào hứng về buổi phát trực tiếp đầu tiên của chúng ta, được lên lịch vào Chủ Nhật tới lúc 9 giờ sáng giờ Bắc Kinh.
+
+598
+00:51:03,361 --> 00:51:08,368
+Tức là khoảng 9 giờ tối ở New York theo giờ Bờ Đông của nước Mỹ các em ạ.
+
+599
+00:51:08,372 --> 00:51:16,088
+Thầy hiểu là sẽ có nhiều người trên khắp thế giới không thể tham gia buổi phát trực tiếp, đặc biệt là người châu Âu.
+
+600
+00:51:16,092 --> 00:51:22,858
+Nhưng ý tưởng là chúng ta sẽ thay đổi thời gian phát trực tiếp theo thời gian trôi qua.
+
+601
+00:51:22,862 --> 00:51:25,517
+Để có thể phục vụ được nhiều người hơn.
+
+602
+00:51:25,521 --> 00:51:27,308
+Sarah hoàn toàn đúng đó em.
+
+603
+00:51:27,312 --> 00:51:39,278
+Thầy đang làm việc này để hình thành nền tảng của một cộng đồng trường học, và đây là tất cả một thử nghiệm, nhưng chúng ta sẽ thử buổi phát trực tiếp đầu tiên vào Chủ Nhật tới, ngày 7 tháng 6.
+
+604
+00:51:39,282 --> 00:51:45,597
+Được rồi, vậy thầy sẽ gửi thông báo đến thành viên sáng lập rằng ta thực hiện buổi phát trực tiếp này như thử nghiệm.
+
+605
+00:51:45,601 --> 00:51:53,837
+Và sau ngày 7 tháng 6, một tuần sau đó, thầy sẽ làm một buổi phát trực tiếp cho tất cả người đăng ký trả phí trên Substack.
+
+606
+00:51:53,841 --> 00:51:57,688
+Mọi buổi phát trực tiếp cuối cùng sẽ tải lên kênh YouTube thầy.
+
+607
+00:51:57,692 --> 00:52:00,798
+Như vậy không ai bỏ lỡ nội dung.
+
+608
+00:52:00,802 --> 00:52:05,577
+Buổi phát trực tiếp chỉ thành viên sáng lập hoặc người trả phí tham gia.
+
+609
+00:52:05,581 --> 00:52:08,508
+Được rồi, tiếp tục đi nào các em.
+
+610
+00:52:08,512 --> 00:52:13,758
+Xin chào thầy, em muốn nói các bài giảng của thầy đã cho em một sự hiểu biết...
+
+611
+00:52:13,762 --> 00:52:16,158
+Xin lỗi, em đọc thẳng câu hỏi được không?
+
+612
+00:52:16,162 --> 00:52:23,998
+Vâng, câu hỏi của em tập trung vào điểm rút ra từ Thần khúc của Dante và những cuốn sách vĩ đại,
+
+613
+00:52:24,002 --> 00:52:35,238
+cụ thể là luận điểm rằng ta chỉ có thể tiến gần hơn đến thần thánh, mở khóa trí tưởng tượng và tìm thấy động lực để đạt tới sự vĩ đại bằng cách hướng tình yêu của ta về phía một linh hồn người khác.
+
+614
+00:52:35,242 --> 00:52:45,057
+Khung này lý giải thế nào về những cá nhân tìm thấy chính sự thức tỉnh tinh thần và sáng tạo đó thông qua những đối tượng không phải con người?
+
+615
+00:52:45,061 --> 00:52:54,008
+Ví dụ, hãy xét một người lớn lên trong cô độc, không có cha mẹ hỗ trợ hay không quan tâm đến tình cảm lứa đôi,
+
+616
+00:52:54,012 --> 00:53:01,467
+mà hình thành sự gắn bó sâu sắc với màu sắc, âm thanh hay những khái niệm nào đó trong đầu.
+
+617
+00:53:01,471 --> 00:53:14,858
+Nếu tình yêu mãnh liệt của họ dành cho hội họa, âm nhạc, thể thao hay công nghệ mang lại chính xác cùng một động lực và trí tưởng tượng đẹp đẽ ấy, liệu sự tận tâm trừu tượng đó có thể là một con đường tương đương dẫn đến cội nguồn không?
+
+618
+00:53:14,862 --> 00:53:20,098
+Họ chẳng phải cũng đang đóng góp vào trí tưởng tượng của vũ trụ và mở rộng nó hay sao?
+
+619
+00:53:20,102 --> 00:53:22,668
+Được rồi, đây là một ý rất hay đó em.
+
+620
+00:53:22,672 --> 00:53:28,498
+Vâng, đúng là trong Thần khúc thầy có nói rằng cách kích hoạt tình yêu của ta, sự kết nối với Monad của ta,
+
+621
+00:53:28,502 --> 00:53:39,548
+là bằng cách kết nối với một người khác, bằng cách yêu người đó vô điều kiện như một đứa con, một người mẹ, hay một người bạn đời.
+
+622
+00:53:39,552 --> 00:53:49,538
+Nhưng nếu vì lý do nào đó em ở một mình trong thế giới, và em không nói được lời nào.
+
+623
+00:53:49,542 --> 00:53:53,597
+Em thể hiện bản thân qua màu sắc và, em vẫn có thể kết nối với Monad.
+
+624
+00:53:53,601 --> 00:53:55,837
+Monad vẫn ở trong em đó.
+
+625
+00:53:55,841 --> 00:53:58,498
+Em nói đúng, có nhiều người như thế.
+
+626
+00:53:58,502 --> 00:54:03,198
+Có nhiều người như vậy, như Vincent Van Gogh, sáng tạo ra nghệ thuật phi thường.
+
+627
+00:54:03,202 --> 00:54:12,198
+Vậy nên ý là bất cứ ai và mọi người đều có thể tạo ra cái đẹp lớn lao trong thế giới nhờ sự kết nối của chúng ta với Monad.
+
+628
+00:54:12,202 --> 00:54:19,068
+Câu hỏi là, là một xã hội, ta khoan dung đến đâu, rộng lượng đến đâu, yêu thương đến đâu?
+
+629
+00:54:19,072 --> 00:54:25,457
+Càng rộng lượng, càng khoan dung, càng yêu thương như một xã hội, thì sự sáng tạo của chúng ta càng lớn.
+
+630
+00:54:25,461 --> 00:54:31,357
+Và ví dụ thầy dùng sẽ là những đứa trẻ tự kỷ trong trường học.
+
+631
+00:54:31,361 --> 00:54:33,678
+Thầy đã nghiên cứu trẻ tự kỷ.
+
+632
+00:54:33,682 --> 00:54:36,528
+Chúng không khác em và thầy nhiều đến vậy đâu.
+
+633
+00:54:36,532 --> 00:54:42,957
+Chúng chỉ có khả năng điều tiết cảm xúc hạn chế, nghĩa là chúng tạo ra tiếng ồn trong lớp.
+
+634
+00:54:42,961 --> 00:54:44,897
+Giáo viên không chấp nhận đâu.
+
+635
+00:54:44,901 --> 00:54:49,128
+Họ kiểu, không được, nếu em tạo ra tiếng ồn trong lớp thì em là một vấn đề.
+
+636
+00:54:49,132 --> 00:54:51,178
+Do đó, em phải dùng thuốc.
+
+637
+00:54:51,182 --> 00:55:01,357
+Vậy đó là xã hội mà chúng ta đang sống hôm nay, một xã hội cực kỳ thiếu khoan dung, cực kỳ ích kỷ, rất cá nhân chủ nghĩa,
+
+638
+00:55:01,361 --> 00:55:10,227
+và do đó nếu ta thực sự muốn yêu thương mọi đứa trẻ, thì ta cần thay đổi, biến đổi xã hội thành nơi yêu thương và rộng lượng hơn.
+
+639
+00:55:10,231 --> 00:55:14,878
+Được rồi, tiếp tục đi em.
+
+640
+00:55:14,882 --> 00:55:19,518
+Phần nào ạ?
+
+641
+00:55:19,522 --> 00:55:23,728
+Thưa thầy, cảm ơn về mọi điều thầy đã làm và đang tiếp tục làm.
+
+642
+00:55:23,732 --> 00:55:30,158
+Trong bài giảng Trật tự Thế giới Trump của thầy, thầy có nói đến một kế hoạch lớn tiềm năng đang được Trump thực hiện.
+
+643
+00:55:30,162 --> 00:55:41,118
+Theo em hiểu, thầy tin rằng những thất bại của Mỹ ở Trung Đông cuối cùng có thể dẫn đến sự suy tàn của đế chế Mỹ trên toàn cầu.
+
+644
+00:55:41,122 --> 00:55:51,718
+Trong kịch bản này, cùng với sự trỗi dậy của quốc gia Mỹ, Mỹ sẽ buộc phải rút lui và trở lại tập trung vào châu Mỹ, nơi có nguồn tài nguyên thiên nhiên dồi dào.
+
+645
+00:55:51,722 --> 00:56:00,947
+Bị buộc phải rút lui, đế chế toàn cầu của Mỹ bị tổn thương đáng kể, nhưng điều đó có thể tốt hơn cho chính những công dân Mỹ.
+
+646
+00:56:00,951 --> 00:56:04,558
+Tập trung nội bộ, Mỹ ngừng mở rộng ra nước ngoài, giúp ích đất nước.
+
+647
+00:56:04,562 --> 00:56:13,668
+Thầy có thực sự tin rằng đây là Trump đang chơi cờ 4 chiều, hay đây chỉ là một kết quả may mắn mà Mỹ về cơ bản đã vấp ngã thành công ở châu Mỹ?
+
+648
+00:56:13,672 --> 00:56:18,478
+Có bên không rõ nào đứng sau Trump thúc đẩy ông đưa ra các quyết định này không?
+
+649
+00:56:18,482 --> 00:56:20,478
+Trump không chơi cờ 4 chiều đâu em.
+
+650
+00:56:20,482 --> 00:56:21,838
+Trump ngốc thôi em ạ.
+
+651
+00:56:21,842 --> 00:56:26,547
+Ông đang chơi cờ 4 chiều trong chính trị Mỹ, nơi ông đang cố có nhiệm kỳ thứ ba.
+
+652
+00:56:26,551 --> 00:56:30,498
+Đó là điều mà ông ta thực sự muốn đó các em ạ.
+
+653
+00:56:30,502 --> 00:56:34,777
+Ý tưởng Trump có tầm nhìn làm Mỹ vĩ đại trở lại không thực tế đâu.
+
+654
+00:56:34,781 --> 00:56:39,877
+Được rồi, cái Mỹ đang làm là cách một đế chế hành xử khi suy tàn.
+
+655
+00:56:39,881 --> 00:56:45,048
+Một đế chế sẽ thích kiểm soát thế giới qua quyền lực mềm hơn.
+
+656
+00:56:45,052 --> 00:56:59,048
+Và điều này đã đúng vài thập kỷ qua khi Mỹ có thể kiểm soát thế giới qua Hollywood, qua các tờ báo như New York Times, qua hình ảnh Mỹ là một thế lực nhân từ.
+
+657
+00:56:59,052 --> 00:57:02,998
+Suốt một thời gian rất dài thì điều đó đã đúng đó các em ạ.
+
+658
+00:57:03,002 --> 00:57:09,758
+Nhưng giờ thế giới quay lưng, Mỹ buộc phải dùng vũ lực ép người ta tuân theo ý chí của mình.
+
+659
+00:57:09,762 --> 00:57:14,158
+Khi em làm thế, cuối cùng thế giới sẽ đoàn kết chống lại em.
+
+660
+00:57:14,162 --> 00:57:16,778
+Đây không phải Mỹ đổi chiến lược MAGA đâu.
+
+661
+00:57:16,782 --> 00:57:27,678
+Đây là chuyện một đế chế đang suy tàn sẽ luôn dùng vũ lực để duy trì lợi thế của nó so với thế giới.
+
+662
+00:57:27,682 --> 00:57:36,666
+Vấn đề là một khi anh rời khỏi thế giới, một khi anh rút lui về lãnh thổ của chính mình,
+
+663
+00:57:36,670 --> 00:57:42,058
+thì những xung đột giữa giới tinh hoa sẽ bị nội bộ hóa.
+
+664
+00:57:42,062 --> 00:57:50,457
+Trước đó những xung đột có thể được xuất khẩu, phóng chiếu ra nước ngoài, để giảm xung đột trong nội bộ.
+
+665
+00:57:50,461 --> 00:57:54,008
+Một khi họ rút về thì họ buộc phải đánh lẫn nhau các em ạ.
+
+666
+00:57:54,012 --> 00:57:56,637
+Những người thực sự đứng sau Trump là ai vậy?
+
+667
+00:57:56,641 --> 00:58:02,018
+Là những người muốn dùng quyền lực Mỹ để thúc đẩy lợi ích của chính họ.
+
+668
+00:58:02,022 --> 00:58:09,408
+Và điều này bao gồm các công ty dầu khí như Exxon, gồm Silicon Valley muốn tạo ra một nhà nước A I dân sự.
+
+669
+00:58:09,412 --> 00:58:16,338
+Cái này cũng bao gồm tổ hợp công nghiệp quân sự muốn tự mở rộng.
+
+670
+00:58:16,342 --> 00:58:21,678
+Câu này là từ Carlos đó.
+
+671
+00:58:21,682 --> 00:58:30,328
+Nhiều quan niệm em nghe được trong các lớp của thầy về kinh tế xã hội và chủ nghĩa duy vật làm em nhớ đến tư tưởng của Karl Polanyi.
+
+672
+00:58:30,332 --> 00:58:32,498
+Thầy biết tác phẩm ông ấy không?
+
+673
+00:58:32,502 --> 00:58:34,558
+Có lấy cảm hứng từ ông ấy không?
+
+674
+00:58:34,562 --> 00:58:43,318
+Thầy có nghĩ Trung Quốc đã vượt qua các tập đoàn tinh hoa phương Tây và đạt phân phối tài sản công bằng, chuyển dịch năng lượng không?
+
+675
+00:58:43,322 --> 00:58:48,317
+Giới tinh hoa Trung Quốc cũng bị các hội kín cai trị không?
+
+676
+00:58:48,321 --> 00:58:50,998
+Tinh hoa Trung Quốc không bị hội kín cai trị.
+
+677
+00:58:51,002 --> 00:58:52,998
+Nó bị một số gia tộc cai trị.
+
+678
+00:58:53,002 --> 00:58:55,227
+Khác vì gia tộc không có hệ cánh chung.
+
+679
+00:58:55,231 --> 00:58:56,507
+Họ có huyết thống thôi.
+
+680
+00:58:56,511 --> 00:59:01,758
+Các hội kín thì có hệ cánh chung luận, nghĩa là có ít năng lượng hơn ở Trung Quốc.
+
+681
+00:59:01,762 --> 00:59:06,297
+Trung Quốc chỉ duy trì hiện trạng, hội kín thì muốn đạt hệ cánh chung nhất định.
+
+682
+00:59:06,301 --> 00:59:08,798
+Vâng, được rồi nhé các em ạ.
+
+683
+00:59:08,802 --> 00:59:19,037
+Liệu Trung Quốc có thể vượt qua sự hợp tác theo mô hình phương Tây và đạt được phân phối tài sản công bằng, chuyển dịch năng lượng không?
+
+684
+00:59:19,041 --> 00:59:20,298
+Không thể đâu.
+
+685
+00:59:20,302 --> 00:59:21,498
+Được rồi nhé.
+
+686
+00:59:21,502 --> 00:59:22,638
+Không có khả năng.
+
+687
+00:59:22,642 --> 00:59:28,158
+Trung Quốc đang suy tàn, và đây là điều không thể tránh khỏi.
+
+688
+00:59:28,162 --> 00:59:31,237
+Cá nhân thầy nghĩ Trung Quốc là một ngẫu nhiên lịch sử.
+
+689
+00:59:31,241 --> 00:59:32,798
+Được rồi các em ạ.
+
+690
+00:59:32,802 --> 00:59:36,518
+Nhiều thứ về Trung Quốc đáng lẽ đã bị tiêu diệt từ rất lâu rồi.
+
+691
+00:59:36,522 --> 00:59:45,638
+Nhưng vì Trung Quốc trong lịch sử đã bị cô lập khỏi phần còn lại của thế giới, Trung Quốc nằm ở Đông Á được bảo vệ bởi biển, núi non, vạn lý trường thành.
+
+692
+00:59:45,642 --> 00:59:50,557
+Nó thực sự đã không nằm trong cuộc cạnh tranh với phần còn lại của thế giới.
+
+693
+00:59:50,561 --> 00:59:55,678
+Vậy thầy không thực sự lạc quan lắm về Trung Quốc.
+
+694
+00:59:55,682 --> 00:59:56,428
+Được rồi, Mark.
+
+695
+00:59:56,432 --> 00:59:58,998
+Vâng các em ơi tiếp tục nhé.
+
+696
+00:59:59,002 --> 01:00:00,998
+Thưa thầy kính mến, em cảm ơn.
+
+697
+01:00:01,002 --> 01:00:03,798
+Đã định hình cách em nghĩ và làm.
+
+698
+01:00:03,802 --> 01:00:08,498
+cách em tư duy và tiếp cận điều mới mà em học.
+
+699
+01:00:08,502 --> 01:00:13,278
+Em viết bài luận về Serbia, phát triển mô hình đồng điệu với chủ đề thầy giảng.
+
+700
+01:00:13,282 --> 01:00:21,117
+Nếu thầy có thời gian đọc nó, em rất vinh dự được nghe nhận xét, đặc biệt là khung lập luận có mạch lạc và hữu ích không.
+
+701
+01:00:21,121 --> 01:00:23,278
+Câu này của Mark, thầy đã đọc rồi.
+
+702
+01:00:23,282 --> 01:00:33,998
+Bài luận nói về cách Serbia có thể cố gắng điều hướng, đàm phán và cân bằng giữa các thế lực bao quanh nó, bao gồm Nga, bao gồm cả châu Âu.
+
+703
+01:00:34,002 --> 01:00:37,117
+Và đó là một luận điểm rất thú vị.
+
+704
+01:00:37,121 --> 01:00:47,678
+Điều thầy muốn nói là nếu các em thực sự muốn biết một xã hội kiên cường ra sao, đừng lo nó điều hướng ngoại giao khéo léo thế nào.
+
+705
+01:00:47,682 --> 01:00:51,117
+Hãy tự đặt cho mình ba câu hỏi.
+
+706
+01:00:51,121 --> 01:00:53,357
+Xã hội này có tràn đầy năng lượng không?
+
+707
+01:00:53,361 --> 01:00:55,598
+Có làm việc chăm chỉ không?
+
+708
+01:00:55,602 --> 01:00:58,498
+Họ có rất nghiêm túc với công việc không?
+
+709
+01:00:58,502 --> 01:01:01,357
+Hai là, xã hội này có cởi mở tư duy không?
+
+710
+01:01:01,361 --> 01:01:03,398
+Sẵn sàng học từ sai lầm không?
+
+711
+01:01:03,402 --> 01:01:05,798
+Họ có khiêm tốn và biết đổi mới không?
+
+712
+01:01:05,802 --> 01:01:07,998
+Thứ ba, xã hội này có cố kết không?
+
+713
+01:01:08,002 --> 01:01:15,678
+Nghĩa là có một bản sắc sắc tộc mạch lạc gắn kết mọi người với nhau và khiến họ sẵn sàng hy sinh cho nhau.
+
+714
+01:01:15,682 --> 01:01:20,718
+Nếu Serbia trả lời ba câu này, dù làm gì cũng có tương lai tốt.
+
+715
+01:01:20,722 --> 01:01:24,158
+Thầy không biết đủ về Serbia để bình luận sâu hơn.
+
+716
+01:01:24,162 --> 01:01:30,317
+Nhưng đó là ba câu hỏi các em cần đặt ra, còn mọi thứ khác thực sự không quan trọng đến vậy.
+
+717
+01:01:30,321 --> 01:01:32,797
+Được rồi, câu này là của Wild Ankadoo.
+
+718
+01:01:32,801 --> 01:01:34,498
+Sao con người ám ảnh trò chơi?
+
+719
+01:01:34,502 --> 01:01:37,117
+Vì sao là khung hữu ích để hiểu thế giới?
+
+720
+01:01:37,121 --> 01:01:46,238
+Một trò chơi còn được xem là trò chơi không nếu nó không có giới hạn, chỉ có người chơi và các phần thưởng khuyến khích?
+
+721
+01:01:46,242 --> 01:01:52,158
+Đây là một câu hỏi thực sự thú vị.
+
+722
+01:01:52,162 --> 01:01:57,117
+Thầy dùng lý thuyết trò chơi như một cách để đóng khung hành vi con người.
+
+723
+01:01:57,121 --> 01:02:04,077
+Nhưng điều đó không nhất thiết có nghĩa là chính mọi người đang sử dụng lý thuyết trò chơi.
+
+724
+01:02:04,081 --> 01:02:08,238
+Lý thuyết trò chơi chỉ giúp thầy đưa ra một số dự đoán về thế giới.
+
+725
+01:02:08,242 --> 01:02:11,498
+Đó là luận điểm đầu tiên của thầy.
+
+726
+01:02:11,502 --> 01:02:18,077
+Luận điểm thứ hai là trò chơi là một cách để chúng ta giao tiếp xã hội với nhau.
+
+727
+01:02:18,081 --> 01:02:29,357
+Và thầy không biết chính xác lý do là gì, nhưng chúng ta đang sống trong một thế giới mà địa vị thực sự quan trọng.
+
+728
+01:02:29,361 --> 01:02:31,198
+Không phải lúc nào cũng vậy.
+
+729
+01:02:31,202 --> 01:02:37,837
+Hãy quay lại vài nghìn năm trước, khi phần lớn các xã hội thực ra là mẫu hệ.
+
+730
+01:02:37,841 --> 01:02:41,198
+Được rồi, đó không phải là một xã hội dựa trên trò chơi.
+
+731
+01:02:41,202 --> 01:02:49,597
+Các xã hội mẫu hệ có xu hướng rất hợp tác, và thực sự nó hướng tới cân bằng hài hòa, đảm bảo mọi người sống hòa thuận với nhau.
+
+732
+01:02:49,601 --> 01:02:57,837
+Giờ khi chúng ta chuyển sang phụ hệ, nơi địa vị là một trò chơi có tổng bằng không, thì các em buộc phải chơi trò chơi để giành được địa vị.
+
+733
+01:02:57,841 --> 01:03:02,638
+Vậy nên trò chơi không phải là trạng thái tự nhiên của loài người.
+
+734
+01:03:02,642 --> 01:03:07,678
+Chúng là trạng thái tự nhiên hiện tại, nhưng không phải quá khứ, có thể cũng không phải tương lai.
+
+735
+01:03:07,682 --> 01:03:10,317
+Được rồi, câu này là của Adilo.
+
+736
+01:03:10,321 --> 01:03:18,077
+Giáo sư John, một lần nữa cảm ơn thầy về bài giảng Terasra và công trình rộng hơn về chiến lược nền văn minh.
+
+737
+01:03:18,081 --> 01:03:26,718
+Một điều em trân trọng ở các phân tích của thầy là thầy coi trọng các câu chuyện tâm lý và lịch sử mà các xã hội tự kể về chính mình.
+
+738
+01:03:26,722 --> 01:03:29,357
+Chứ không chỉ là kinh tế hay năng lực quân sự.
+
+739
+01:03:29,361 --> 01:03:39,117
+Gần đây em tự hỏi liệu rất nhiều địa chính trị hiện đại có phải thực ra là chuyện bảo tồn ý nghĩa và tính chính danh của nền văn minh hay không.
+
+740
+01:03:39,121 --> 01:03:44,797
+Người Mỹ vẫn dựa vào câu chuyện về chủ nghĩa tự do, về tự do và tiến bộ lịch sử.
+
+741
+01:03:44,801 --> 01:03:52,638
+Trung Quốc dựa vào ý tưởng phục hưng dân tộc sau sự sỉ nhục.
+
+742
+01:03:52,642 --> 01:03:59,758
+Nga tự coi mình là một nền văn minh với sứ mệnh tinh thần và lịch sử khác biệt với phương Tây.
+
+743
+01:03:59,762 --> 01:04:09,398
+Iran rút từ Cabala, từ tử vì đạo Shia và từ ký ức trật tự Ba Tư xuyên suốt Umma.
+
+744
+01:04:09,402 --> 01:04:14,638
+Được rồi, hãy bỏ qua và nhảy đến luận điểm cuối cùng.
+
+745
+01:04:14,642 --> 01:04:32,317
+Câu hỏi của em là làm sao các nền văn minh có thể nhận biết khi nào các tự sự nền tảng vẫn đang giúp họ giữ mạch lạc và hướng về thực tại, so với khi nào chính các tự sự đó bắt đầu cách ly họ khỏi thực tại và đẩy họ vào tự lừa dối.
+
+746
+01:04:32,321 --> 01:04:46,158
+Được rồi, thầy nghĩ rằng những nền văn minh tốt nhất, mạnh nhất, là những nền có các câu chuyện mang tính phổ quát, có thể kết nối với các nền văn hóa khác, có thể vượt qua thời gian và không gian.
+
+747
+01:04:46,162 --> 01:04:58,478
+Và đó là lý do bốn nền văn minh cụ thể này, gồm Mỹ, Nga, Iran và Israel, mạnh đến vậy, vì các câu chuyện của họ vọng âm qua thời gian và không gian.
+
+748
+01:04:58,482 --> 01:05:00,638
+Nước Mỹ về cơ bản dựa trên cá nhân,
+
+749
+01:05:00,642 --> 01:05:06,878
+quyền tự do của cá nhân theo đuổi tham vọng riêng của mình, đúng không?
+
+750
+01:05:06,882 --> 01:05:12,398
+Nước Nga thì hướng về cộng đồng, truyền thống, chính thống giáo.
+
+751
+01:05:12,402 --> 01:05:15,438
+Iran nói về sự hy sinh, về thuyết cánh chung.
+
+752
+01:05:15,442 --> 01:05:19,438
+Israel nói về giao ước, về lịch sử.
+
+753
+01:05:19,442 --> 01:05:24,718
+Và những chủ đề này vọng âm xuyên suốt thời gian và không gian.
+
+754
+01:05:24,722 --> 01:05:31,758
+Và đó là lý do ngay lúc này chúng ta đang chứng kiến một cuộc xung đột giữa bốn truyền thống khác nhau này để xem ai sẽ chiến thắng.
+
+755
+01:05:31,762 --> 01:05:38,758
+Thực sự thầy chưa rõ câu chuyện nào sẽ cuối cùng thắng thế.
+
+756
+01:05:38,762 --> 01:05:42,478
+Được rồi.
+
+757
+01:05:42,482 --> 01:05:43,678
+Francisco.
+
+758
+01:05:43,682 --> 01:05:45,918
+Vâng, xin chào giáo sư.
+
+759
+01:05:45,922 --> 01:05:47,357
+Xin lỗi, xin lỗi, xin lỗi.
+
+760
+01:05:47,361 --> 01:05:57,307
+Câu hỏi là, có một ranh giới mong manh nào giữa các câu chuyện đoàn kết con người,
+
+761
+01:05:57,311 --> 01:06:07,837
+và các câu chuyện có lẽ làm chúng ta mù trước thực tại lớn hơn không?
+
+762
+01:06:07,841 --> 01:06:12,958
+Và em biết điều này sẽ nghe lạ tai, được chứ?
+
+763
+01:06:12,962 --> 01:06:20,317
+Nhưng trực giác mách bảo em rằng câu chuyện càng cố kết, nó càng có khả năng vượt qua thời gian và không gian.
+
+764
+01:06:20,321 --> 01:06:28,718
+Và đó là lý do, và điều này thực sự thú vị, cứ giả sử toàn bộ thế giới bị huỷ diệt vào ngày mai.
+
+765
+01:06:28,722 --> 01:06:33,918
+Mười nghìn năm sau, nhân loại tự xây dựng lại chính mình.
+
+766
+01:06:33,922 --> 01:06:35,498
+Các em đoán xem sao?
+
+767
+01:06:35,502 --> 01:06:46,317
+Các em sẽ có những tự sự y hệt, những câu chuyện y hệt, những xung đột y hệt giữa tự do và truyền thống, giữa lịch sử và tương lai.
+
+768
+01:06:46,321 --> 01:06:47,678
+Bản chất loài người.
+
+769
+01:06:47,682 --> 01:06:53,037
+Chúng ta đang cố gắng tìm ra những câu chuyện mà chúng ta tự kể cho chính mình.
+
+770
+01:06:53,041 --> 01:06:56,758
+Được rồi, câu này là của Francisco.
+
+771
+01:06:56,762 --> 01:07:02,118
+Một câu hỏi nền tảng về một quy luật trên góc nhìn toàn cầu,
+
+772
+01:07:02,122 --> 01:07:13,848
+và một câu hỏi làm em tò mò liên quan đến vấn đề nền văn minh, từ các video trước về lịch sử, từ tiến hoá của loài người và bi kịch của chữ viết,
+
+773
+01:07:13,852 --> 01:07:22,557
+đến bước chuyển sang phụ hệ, cùng những gợi ý mà chiến thắng của người Ấn-Âu mang lại, và sự mở rộng đó.
+
+774
+01:07:22,561 --> 01:07:24,557
+Khoan, đọc thẳng câu hỏi đi?
+
+775
+01:07:24,561 --> 01:07:33,837
+Vâng, vậy theo thầy, lợi ích của nền văn minh và đế quốc là gì, hay chúng vốn dĩ là xấu xa và phản con người?
+
+776
+01:07:33,841 --> 01:07:42,158
+Một vấn đề lớn trong cách lịch sử được giảng dạy, cách chúng ta nghĩ về thế giới, là chúng ta dán nhãn cho mọi thứ.
+
+777
+01:07:42,162 --> 01:07:48,238
+Kiểu như tốt, xấu, có lợi, không có lợi.
+
+778
+01:07:48,242 --> 01:07:51,837
+Lịch sử không vận hành như vậy.
+
+779
+01:07:51,841 --> 01:07:55,438
+Lịch sử vận hành theo các chu kỳ.
+
+780
+01:07:55,442 --> 01:08:01,198
+Trỗi dậy, sụp đổ, đi lên, đi xuống, văn minh, rồi man rợ.
+
+781
+01:08:01,202 --> 01:08:03,198
+Không có gì tốt xấu cả.
+
+782
+01:08:03,202 --> 01:08:09,837
+Nếu có một trận động đất, chúng ta đâu có nói nó tốt hay xấu, nếu có một cơn bão, nó tốt hay xấu.
+
+783
+01:08:09,841 --> 01:08:12,398
+Nó là một phần của thế giới.
+
+784
+01:08:12,402 --> 01:08:14,557
+Ngừng gán nhãn cho chúng.
+
+785
+01:08:14,561 --> 01:08:17,438
+Chấp nhận có quy luật đằng sau chúng.
+
+786
+01:08:17,442 --> 01:08:28,878
+Và vai trò, mục đích của chúng ta trong thế giới này là điều hướng những quy luật ấy để tìm kiếm ý nghĩa cá nhân riêng của mình trong thế giới này.
+
+787
+01:08:28,882 --> 01:08:37,598
+Thế giới có thể sụp đổ vào ngày mai, nhưng điều đó không miễn trừ trách nhiệm của các em phải là một người thầy tốt, một người cha mẹ tốt, một người hàng xóm tốt.
+
+788
+01:08:37,602 --> 01:08:43,677
+Hãy tập trung vào những gì các em có thể làm với tư cách cá nhân và đừng dán nhãn cho những thứ này.
+
+789
+01:08:43,681 --> 01:08:44,998
+Nước Mỹ tốt hay xấu?
+
+790
+01:08:45,002 --> 01:08:46,798
+Mỹ chỉ là Mỹ thôi.
+
+791
+01:08:46,802 --> 01:08:47,998
+Nga tốt hay xấu?
+
+792
+01:08:48,002 --> 01:08:48,958
+Cũng chỉ là Nga.
+
+793
+01:08:48,962 --> 01:08:51,998
+Hãy ghi nhớ điều đó.
+
+794
+01:08:52,002 --> 01:08:54,797
+Được rồi, câu này là của một bạn.
+
+795
+01:08:54,801 --> 01:09:07,438
+Liệu có khả năng tồn tại nhiều quốc gia dân tộc với văn hoá và sự cố kết của dân chúng đủ sức chống lại giới tinh hoa tư bản quốc tế nhiều hơn chúng ta hình dung không?
+
+796
+01:09:07,442 --> 01:09:10,157
+Ví dụ Iran là trường hợp cực đoan về kiên cường.
+
+797
+01:09:10,161 --> 01:09:20,157
+Nhưng gần đây, thủ tướng Tây Ban Nha và tổng thống Hàn Quốc đã lên tiếng mạnh mẽ chỉ trích các hành động phản nhân đạo của Israel.
+
+798
+01:09:20,161 --> 01:09:29,038
+Giả định điều này là đúng, thầy có thấy các dự đoán của thầy về cơ bản không đổi, hay thầy nghĩ chúng cần được điều chỉnh cho bớt cực đoan?
+
+799
+01:09:29,042 --> 01:09:30,198
+Luận điểm rất hay.
+
+800
+01:09:30,202 --> 01:09:35,277
+Đúng, thầy có đơn giản hoá quá mức cách phân tích của mình.
+
+801
+01:09:35,281 --> 01:09:36,638
+Thế giới rất phức tạp.
+
+802
+01:09:36,642 --> 01:09:38,157
+Triệu dữ liệu để chọn.
+
+803
+01:09:38,161 --> 01:09:41,118
+Thầy chỉ chọn từ một vài cái thôi.
+
+804
+01:09:41,122 --> 01:09:48,878
+Và em hoàn toàn đúng khi nói rằng thầy cần cân nhắc nhiều yếu tố hơn, nhiều khả năng hơn và nhiều dữ liệu hơn.
+
+805
+01:09:48,882 --> 01:09:51,757
+Và thầy sẽ làm điều đó trong tương lai.
+
+806
+01:09:51,761 --> 01:09:57,998
+Điều thực sự quan trọng với thầy là trước hết phải xây dựng một khung, một bộ khung xương, rồi mới làm việc từ đó.
+
+807
+01:09:58,002 --> 01:10:00,157
+Đó là lý do thầy làm, vì các em
+
+808
+01:10:00,161 --> 01:10:05,677
+luôn muốn bắt đầu với một khung, bởi vì khung cho phép các em quan sát tốt hơn.
+
+809
+01:10:05,681 --> 01:10:09,518
+Đừng quá lo lắng về việc phải bám sát từng dữ kiện.
+
+810
+01:10:09,522 --> 01:10:17,758
+Và đây là một cuộc tranh luận thầy sẽ phải có với nhiều người, kiểu, thầy bị ám ảnh với việc đưa ra dự đoán đến mức không bám sát dữ kiện cụ thể.
+
+811
+01:10:17,762 --> 01:10:26,318
+Điều quan trọng là trước hết phải xây dựng khung, bộ khung xương, rồi mới xây tiếp từ đó.
+
+812
+01:10:26,322 --> 01:10:31,438
+Còn nếu các em chỉ tập trung vào dữ kiện, nó thực sự chẳng đưa các em đi đến đâu nhiều.
+
+813
+01:10:31,442 --> 01:10:39,918
+Vậy nên các em hãy viết rằng thầy cần cân nhắc nhiều dữ liệu hơn và cần làm cho lập luận của thầy tinh tế và tinh vi hơn, và thầy sẽ làm trong tương lai.
+
+814
+01:10:39,922 --> 01:10:42,498
+Được rồi, câu này là của TXC.
+
+815
+01:10:42,502 --> 01:10:53,918
+Giáo sư John, cách tiếp cận lý thuyết trò chơi của thầy luôn nhất quán dẫn đến một kết luận mạch lạc về sự suy tàn của Mỹ, sự minh oan của Trung Quốc và sự kiên cường của Iran.
+
+816
+01:10:53,922 --> 01:11:05,197
+Trong tinh thần hoài nghi tàn nhẫn mà thầy yêu cầu, kết quả cụ thể nào trong vòng 12 tháng, cụ thể và có thể bác bỏ được, sẽ chứng minh luận đề vĩ mô của thầy về suy tàn cơ cấu của Mỹ là sai?
+
+817
+01:11:05,201 --> 01:11:06,398
+Câu hỏi này rất hay.
+
+818
+01:11:06,402 --> 01:11:07,598
+Cảm ơn em nhé.
+
+819
+01:11:07,602 --> 01:11:08,878
+Đúng loại câu thầy tìm.
+
+820
+01:11:08,882 --> 01:11:13,598
+Vâng, bởi vì thầy luôn tìm cách phản chứng lý thuyết của chính mình.
+
+821
+01:11:13,602 --> 01:11:23,118
+Vậy điều gì có thể xảy ra trong 12 tháng tới mà sẽ phá huỷ các dự đoán của thầy?
+
+822
+01:11:23,122 --> 01:11:31,438
+Cuộc bầu cử giữa kỳ của Mỹ là điều mà thầy thực sự không thể dự đoán chắc sẽ xảy ra thế nào.
+
+823
+01:11:31,442 --> 01:11:40,237
+Hoàn toàn có khả năng cuộc bầu cử giữa kỳ Mỹ sẽ làm thầy bất ngờ theo cách buộc phải thay đổi dự đoán.
+
+824
+01:11:40,241 --> 01:11:43,838
+Thầy không biết bất ngờ ra sao, nhưng có thể.
+
+825
+01:11:43,842 --> 01:11:49,197
+Nếu Trump qua đời vào ngày mai, điều đó sẽ thay đổi rất nhiều dự đoán của thầy.
+
+826
+01:11:49,201 --> 01:11:53,518
+Bởi vì thầy dự đoán Trump sẽ giành được nhiệm kỳ thứ ba.
+
+827
+01:11:53,522 --> 01:12:00,478
+Nếu Trump qua đời ngày mai, điều đó sẽ thay đổi toàn bộ thế giới.
+
+828
+01:12:00,482 --> 01:12:07,808
+Nếu Đảng Dân chủ Mỹ chọn ra một lãnh đạo có sức hút như Trump, mang tính cách mạng như Trump,
+
+829
+01:12:07,812 --> 01:12:12,808
+thì thầy sẽ nghĩ toàn bộ thế giới quan của mình là sai,
+
+830
+01:12:12,812 --> 01:12:18,798
+rằng ta có thể tránh sụp đổ lịch sử, rằng nước Mỹ có thể tự tái sinh.
+
+831
+01:12:18,802 --> 01:12:22,237
+Đáng tiếc, Đảng Dân chủ là phần vô vọng nhất của Mỹ.
+
+832
+01:12:22,241 --> 01:12:27,118
+Nhưng nếu Đảng Dân chủ nói rằng, dẹp cái chính trị tinh hoa này đi.
+
+833
+01:12:27,122 --> 01:12:29,498
+Bỏ Obama đi, bỏ Clinton đi.
+
+834
+01:12:29,502 --> 01:12:35,598
+Hãy có nền dân chủ thật sự, chọn lãnh đạo từ cơ sở có thể dẫn ta tiến về phía trước.
+
+835
+01:12:35,602 --> 01:12:37,498
+Đó sẽ là điều vĩ đại nhất.
+
+836
+01:12:37,502 --> 01:12:39,118
+Có xảy ra không, chắc không.
+
+837
+01:12:39,122 --> 01:12:41,197
+Được rồi, đọc tiếp đi.
+
+838
+01:12:41,201 --> 01:12:49,118
+Có dự đoán nào thầy đưa ra trong 18 tháng qua mà gần đây mâu thuẫn với luận đề định hướng của thầy không?
+
+839
+01:12:49,122 --> 01:13:06,318
+Các mô hình lịch sử chu kỳ kiểu Athens, Rome có xu hướng phóng chiếu hiện tại lên quá khứ để khớp khuôn mẫu, vậy làm thế nào thầy tính đến các yếu tố đầu vào hoàn toàn khác biệt hôm nay như A I, sự thay thế lao động, biến đổi khí hậu, cuộc đua không gian, vân vân, trong mô hình của thầy?
+
+840
+01:13:06,322 --> 01:13:15,197
+Điều gì khiến thầy tự tin rằng chuyển dịch hiện nay của chúng ta có tiền lệ lịch sử, chứ không phải là một địa hạt hoàn toàn chưa được khai phá, cảm ơn thầy?
+
+841
+01:13:15,201 --> 01:13:23,118
+Vâng, với thầy câu hỏi là ta có tin mình thực sự đang ở kỷ nguyên mới của loài người,
+
+842
+01:13:23,122 --> 01:13:26,888
+nơi A I có thể dẫn ta đến tương lai mới,
+
+843
+01:13:26,892 --> 01:13:35,197
+hay có thể ta đang xem nhẹ sự phức tạp của các nền văn minh cổ như Athens và La Mã?
+
+844
+01:13:35,201 --> 01:13:43,998
+Có thể nào họ cũng từng có công nghệ mà họ nghĩ có thể biến đổi cuộc sống và cho phép họ vượt thoát khỏi lịch sử?
+
+845
+01:13:44,002 --> 01:13:55,598
+Thầy nghĩ khả năng cao hơn nhiều là chúng ta đang phớt lờ sự tinh vi của quá khứ và phóng đại sự tinh vi của chính mình.
+
+846
+01:13:55,602 --> 01:14:00,878
+Không có gì về A I khiến thầy thấy rằng chúng ta đang tiến về một tương lai mới.
+
+847
+01:14:00,882 --> 01:14:08,798
+Thầy nghĩ A I chỉ là một trò ảo thuật mê hoặc khác, một ảo giác nhằm lừa chúng ta vào sự phục tùng.
+
+848
+01:14:08,802 --> 01:14:11,118
+Cũng có thể có xâm lăng ngoài hành tinh.
+
+849
+01:14:11,122 --> 01:14:17,918
+Thực sự không có gì về thế giới chúng ta đang sống khiến thầy nghĩ rằng chúng ta khác biệt so với quá khứ.
+
+850
+01:14:17,922 --> 01:14:21,118
+Được rồi, đọc tiếp đi.
+
+851
+01:14:21,122 --> 01:14:23,197
+Em xem mọi video thầy năm qua.
+
+852
+01:14:23,201 --> 01:14:25,197
+Một số em đã xem hai ba lần.
+
+853
+01:14:25,201 --> 01:14:40,398
+Em tò mò vì sao gần như không có đề cập nào đến chủ nghĩa thượng đẳng da trắng và phân biệt chủng tộc cơ cấu được lồng vào các phân tích lịch sử và đương đại của thầy.
+
+854
+01:14:40,402 --> 01:14:45,838
+Theo nghĩa đen, em không nghĩ cụm từ chủ nghĩa thượng đẳng da trắng đã được nói lấy một lần.
+
+855
+01:14:45,842 --> 01:14:52,237
+Liệu lý thuyết trò chơi địa chính trị có thay thế cho chủ nghĩa thượng đẳng da trắng và phân biệt chủng tộc cơ cấu không?
+
+856
+01:14:52,241 --> 01:14:59,838
+Hay những thứ kia chỉ vận hành như một công cụ quản lý nội bộ quốc gia hơn là một mạch kết dính xuyên suốt thế giới?
+
+857
+01:14:59,842 --> 01:15:02,558
+Thầy có xem chúng như chính trị bản dạng,
+
+858
+01:15:02,562 --> 01:15:06,638
+hơn là vấn đề trọng yếu của thời đại chúng ta?
+
+859
+01:15:06,642 --> 01:15:10,998
+Vâng, chủ nghĩa thượng đẳng da trắng có tồn tại.
+
+860
+01:15:11,002 --> 01:15:12,958
+Phân biệt chủng tộc xã hội có.
+
+861
+01:15:12,962 --> 01:15:16,078
+Thầy biết điều này vì thầy lớn lên ở Canada.
+
+862
+01:15:16,082 --> 01:15:19,118
+Ở Canada nhập cư, có nhiều thượng đẳng da trắng.
+
+863
+01:15:19,122 --> 01:15:22,078
+Nhiều phân biệt chủng tộc ở Canada, họ không thừa nhận.
+
+864
+01:15:22,082 --> 01:15:28,638
+Lý do những thứ này tồn tại là vì chúng là sản phẩm phát sinh của đế quốc.
+
+865
+01:15:28,642 --> 01:15:34,878
+Đây là sản phẩm phát sinh của các câu chuyện, các tự sự gắn kết một quốc gia lại với nhau.
+
+866
+01:15:34,882 --> 01:15:42,318
+Vậy nên rất nhiều điều đang xảy ra trong thế giới hôm nay là vì trong suốt một thời gian dài, người da trắng nắm quyền.
+
+867
+01:15:42,322 --> 01:15:50,157
+Ai cũng muốn được làm người da trắng, và rồi các em thấy Trung Quốc trỗi dậy, các em thấy một thế giới đa cực hình thành.
+
+868
+01:15:50,161 --> 01:16:00,638
+Và rồi các quốc gia này, Mỹ, Canada, châu Âu, trở nên suy đồi hơn rất nhiều, tham nhũng hơn rất nhiều.
+
+869
+01:16:00,642 --> 01:16:10,558
+Và rồi họ bắt đầu thấy vị thế thượng đẳng da trắng của mình suy giảm so với các nền văn hoá khác, và họ không thích điều đó.
+
+870
+01:16:10,562 --> 01:16:16,237
+Nhưng thầy không thích đóng khung nó như chủ nghĩa thượng đẳng da trắng, bởi đó không phải gốc rễ của vấn đề.
+
+871
+01:16:16,241 --> 01:16:20,398
+Gốc rễ là đế quốc, sự ngạo mạn đế quốc, kiêu mạn, nền văn minh.
+
+872
+01:16:20,402 --> 01:16:25,838
+Ý thầy là, chủ nghĩa thượng đẳng Trung Quốc liệu có tốt hơn chủ nghĩa thượng đẳng da trắng không?
+
+873
+01:16:25,842 --> 01:16:30,498
+Chủ nghĩa thượng đẳng Nhật Bản liệu có tốt hơn chủ nghĩa thượng đẳng da trắng không?
+
+874
+01:16:30,502 --> 01:16:32,318
+Thầy không nhất thiết nghĩ vậy.
+
+875
+01:16:32,322 --> 01:16:34,958
+Ta là một phần của nền văn hoá.
+
+876
+01:16:34,962 --> 01:16:43,838
+Việc chúng ta tự hào về văn hoá của mình và nghĩ rằng mình vượt trội hơn về nhiều mặt là điều đúng đắn và tốt đẹp.
+
+877
+01:16:43,842 --> 01:16:46,078
+Đó là điều dẫn văn hoá đến vĩ đại.
+
+878
+01:16:46,082 --> 01:16:52,478
+Vậy nên sẽ luôn có một cuộc đấu tranh giành vị thế thượng đẳng, và đây là điều dẫn tới xung đột.
+
+879
+01:16:52,482 --> 01:16:55,918
+Đúng, thượng đẳng da trắng có, nhưng đó không phải gốc rễ.
+
+880
+01:16:55,922 --> 01:17:08,318
+Gốc rễ của vấn đề là con người muốn thuộc về một cộng đồng, và họ muốn tin rằng các câu chuyện trong cộng đồng của họ chính danh hơn các câu chuyện khác.
+
+881
+01:17:08,322 --> 01:17:17,518
+Và việc bảo người ta phải hoàn toàn cởi mở và không phân biệt chủng tộc, thầy nghĩ là đi ngược lại bản tính con người.
+
+882
+01:17:17,522 --> 01:17:21,118
+Được rồi, câu này là của Sean.
+
+883
+01:17:21,122 --> 01:17:22,958
+Chào giáo sư John, cảm ơn thầy.
+
+884
+01:17:22,962 --> 01:17:25,838
+Em có một câu hỏi nhiều tầng lớp.
+
+885
+01:17:25,842 --> 01:17:33,918
+Thầy nói về hang động của Plato rất nhiều và phần lớn em hiểu được, nhưng em hơi lẫn lộn ở phần ảo tưởng.
+
+886
+01:17:33,922 --> 01:17:43,998
+Thế giới vật chất tự thân nó có phải là ảo tưởng không, như chính bàn tay của em, thiết bị em đang dùng để viết, toà nhà, vân vân?
+
+887
+01:17:44,002 --> 01:17:46,398
+Hay quy tắc xã hội mới là ảo tưởng?
+
+888
+01:17:46,402 --> 01:17:52,558
+Nếu những thứ này không có thật, tại sao chúng lại tác động và ảnh hưởng đến chúng ta sâu sắc đến vậy?
+
+889
+01:17:52,562 --> 01:17:54,398
+Một lần nữa cảm ơn thầy.
+
+890
+01:17:54,402 --> 01:18:01,197
+Em không nghĩ mình lại thực sự quan tâm đến lịch sử hay suy luận địa chính trị cho đến khi xem các khoá học của thầy.
+
+891
+01:18:01,201 --> 01:18:06,638
+Em biết ơn thầy đã sống đúng chân lý, biết ơn gia đình thầy truyền cảm hứng.
+
+892
+01:18:06,642 --> 01:18:11,038
+Vâng, được rồi, trước hết, xã hội là ảo tưởng hoàn toàn.
+
+893
+01:18:11,042 --> 01:18:13,918
+Đến trường, các em chỉ được dạy toàn vớ vẩn.
+
+894
+01:18:13,922 --> 01:18:16,638
+Các em bị dạy đủ thứ ảo tưởng.
+
+895
+01:18:16,642 --> 01:18:24,478
+Cái cho phép xã hội vận hành chính là việc các em tuân theo các quy tắc, mà các quy tắc đó là ảo tưởng.
+
+896
+01:18:24,482 --> 01:18:39,278
+Vậy nên mục đích của trường học, của truyền thông, của văn hoá là làm các em tin rằng những ảo tưởng này là thật, và các em muốn chúng là thật, vì nếu chúng không thật, các em không thể thực sự vận hành trong xã hội.
+
+897
+01:18:39,282 --> 01:18:40,958
+Khá rõ với mọi người.
+
+898
+01:18:40,962 --> 01:18:46,157
+Các quy tắc xã hội chỉ là ảo tưởng.
+
+899
+01:18:46,161 --> 01:18:55,838
+Và chúng ta biết chúng là ảo tưởng, bởi vì một khi các em nhận ra rằng những ảo tưởng này là ảo tưởng, những điều cấm kỵ này chỉ là ảo tưởng.
+
+900
+01:18:55,842 --> 01:18:57,598
+Giúp điều hướng tốt hơn.
+
+901
+01:18:57,602 --> 01:18:59,677
+Học kỳ trước có Frankism, Jacob Frank.
+
+902
+01:18:59,681 --> 01:19:01,518
+Đó là điều ông dạy môn đồ.
+
+903
+01:19:01,522 --> 01:19:06,638
+Nhìn xem, mọi thứ xung quanh các em chỉ là ảo tưởng.
+
+904
+01:19:06,642 --> 01:19:15,838
+Hãy làm bất cứ điều gì em muốn, và một khi áp đặt được ý chí lên người khác, em sẽ đạt được điều mình muốn, vì mọi người chỉ bị bao quanh bởi ảo tưởng.
+
+905
+01:19:15,842 --> 01:19:17,838
+Có sự yếu ớt trong điều họ tin.
+
+906
+01:19:17,842 --> 01:19:22,398
+Vì thế rất dễ để các em áp đặt ảo tưởng của chính mình lên người khác.
+
+907
+01:19:22,402 --> 01:19:29,197
+Nhưng câu hỏi sâu hơn là, thế giới vật chất này có phải là một ảo tưởng không?
+
+908
+01:19:29,201 --> 01:19:32,558
+Và nó đúng là một ảo tưởng.
+
+909
+01:19:32,562 --> 01:19:41,038
+Điều có thật, và thầy cứ liên tục nhấn mạnh trong lớp này, là chính ý thức mới là cái thật.
+
+910
+01:19:41,042 --> 01:19:43,918
+Tay ta, mắt ta, đó là ảo tưởng.
+
+911
+01:19:43,922 --> 01:19:47,438
+Nhưng đó là một điều rất khó để cảm nhận được.
+
+912
+01:19:47,442 --> 01:19:59,038
+Đó là lý do chúng ta thấy có những trường phái bí truyền ở Hy Lạp cổ đại, vì việc thuyết phục ai đó rằng tâm trí của các em thật hơn cái đầu của các em, người ta sẽ nghĩ các em điên.
+
+913
+01:19:59,042 --> 01:20:03,358
+Nhưng một khi các em có thể thực hiện cú nhảy này,
+
+914
+01:20:03,362 --> 01:20:06,878
+cú nhảy thần thánh này, toàn bộ thế giới em sẽ thay đổi.
+
+915
+01:20:06,882 --> 01:20:12,878
+Giờ các em có khả năng tiếp cận chân lý thực sự.
+
+916
+01:20:12,882 --> 01:20:25,998
+Nhưng thực tế là 99 phần trăm chúng ta sẽ không thể đạt tới sự nhận thức này, đó là tự mình khám phá rằng ôi trời, chính ý thức của mình mới là cái thật.
+
+917
+01:20:26,002 --> 01:20:35,598
+Còn tất cả những gì tôi thấy quanh mình, thế giới vật chất này, các toà nhà này, tiền này, của cải này, đều chỉ là giả.
+
+918
+01:20:35,602 --> 01:20:41,358
+Được rồi, thầy đã có thể làm được điều đó, nhưng nó khó lắm.
+
+919
+01:20:41,362 --> 01:20:42,717
+Câu này là của Lazar.
+
+920
+01:20:42,721 --> 01:20:44,717
+Vâng, xin chào giáo sư John.
+
+921
+01:20:44,721 --> 01:20:46,398
+Một người đăng ký mới ở đây.
+
+922
+01:20:46,402 --> 01:20:51,118
+Em rất mong được đọc thêm các phân tích địa chính trị của thầy.
+
+923
+01:20:51,122 --> 01:20:58,398
+Em muốn hỏi liệu thầy có dự định bàn về tương lai của châu Âu và vùng Balkan trong một bài phân tích nào đó không?
+
+924
+01:20:58,402 --> 01:21:03,677
+Đó là một khu vực bất ổn nhất ở châu Âu, ít nhất là trong lịch sử gần đây.
+
+925
+01:21:03,681 --> 01:21:16,078
+Khi nói về các tay chơi lớn, thầy cũng đề cập đến cách các khu vực và tiểu khu vực nhỏ hơn liên hệ với Nga, Trung Quốc, Mỹ, kiểu như Nam Mỹ, các phần của châu Phi, các nước châu Á nhỏ hơn, vân vân.
+
+926
+01:21:16,082 --> 01:21:23,838
+Gần đây, Trung Quốc đang dùng vùng Balkan như một điểm vào châu Âu thông qua các khoản đầu tư cơ sở hạ tầng của họ.
+
+927
+01:21:23,842 --> 01:21:34,558
+Ngay sau chuyến thăm của Trump và Putin tới Trung Quốc, Tổng thống Serbia cũng đã thăm Trung Quốc và nhận huân chương từ Tập, mà chỉ 12 nhà lãnh đạo khác được nhận.
+
+928
+01:21:34,562 --> 01:21:39,038
+Chuyến thăm cũng nằm trên trang nhất truyền thông Trung Quốc.
+
+929
+01:21:39,042 --> 01:21:41,498
+Đúng vậy, vùng Balkan trong lịch sử,
+
+930
+01:21:41,502 --> 01:21:47,438
+là một trong những khu vực quan trọng nhất và bất ổn nhất thế giới.
+
+931
+01:21:47,442 --> 01:21:49,438
+Trung Đông có lẽ bất ổn nhất.
+
+932
+01:21:49,442 --> 01:21:54,398
+Nhưng vùng Balkan cũng rất bất ổn vì những lý do rất tương tự.
+
+933
+01:21:54,402 --> 01:21:58,398
+Một lý do chỉ đơn giản là tính tất yếu địa lý của vùng Balkan.
+
+934
+01:21:58,402 --> 01:22:05,118
+Nó là một điểm tiếp cận tới nhiều châu lục.
+
+935
+01:22:05,122 --> 01:22:07,838
+Lý do hai là xung đột tôn giáo.
+
+936
+01:22:07,842 --> 01:22:12,398
+Các em có nhiều nhóm tôn giáo khác nhau đấu tranh giành quyền kiểm soát khu vực đó.
+
+937
+01:22:12,402 --> 01:22:17,758
+Và lý do thứ ba là sự thù hận lịch sử được tích tụ qua nhiều thế kỷ xung đột.
+
+938
+01:22:17,762 --> 01:22:28,798
+Vậy chúng ta có thể dự đoán xung đột giữa Nga và châu Âu sẽ lại hội tụ ở vùng Balkan, nhưng thầy không biết đủ về khu vực này để bình luận cụ thể.
+
+939
+01:22:28,802 --> 01:22:40,878
+Thầy đã từng dự đoán sẽ có xung đột lớn nổi lên ở khu vực đó, như một cuộc chiến ủy nhiệm giữa Nga và châu Âu, nhưng các chi tiết cụ thể thầy thực sự không muốn bàn.
+
+940
+01:22:40,882 --> 01:22:51,518
+Trong tương lai, điều thầy muốn làm là khám phá nhiều hơn về thế giới và thực sự cố gắng hiểu các cộng đồng khác nhau trên thế giới này.
+
+941
+01:22:51,522 --> 01:22:53,197
+Được rồi.
+
+942
+01:22:53,201 --> 01:22:55,358
+Đọc tiếp đi.
+
+943
+01:22:55,362 --> 01:23:13,278
+Nếu Tucker Carlson rời Fox vì vụ kiện Dominion phỉ báng bầu cử năm 2020, và thầy nói Maria Bartiromo bị bắt để làm chứng rằng họ đã giúp gây ra cuộc bầu cử 2020.
+
+944
+01:23:13,282 --> 01:23:15,998
+Thầy và Tucker bàn gì khi anh xúc động?
+
+945
+01:23:16,002 --> 01:23:23,998
+Suy nghĩ của thầy về Larry Johnson cùng các điệp viên và nhà phân tích thế hệ boomer khác đang chỉ trích chính thầy?
+
+946
+01:23:24,002 --> 01:23:40,958
+Và em đồng ý danh sách sách hay của thầy là rất tuyệt, nhưng nếu có thêm nguồn và các kênh thầy giới thiệu thì sẽ rất hay, vì thầy đang chạm vào một mạch tương tự như Simulated Leavan về mối liên hệ giữa Cabala, Hollywood và A I.
+
+947
+01:23:40,962 --> 01:23:43,118
+Một lần nữa cảm ơn giáo sư.
+
+948
+01:23:43,122 --> 01:23:45,358
+Mong được thấy chương tiếp theo của thầy.
+
+949
+01:23:45,362 --> 01:23:46,558
+Chúc thầy nhiều may mắn.
+
+950
+01:23:46,562 --> 01:23:57,598
+Vâng, thầy đã lên chương trình của Tucker cách đây vài tháng và anh ấy đã rất xúc động, vì thầy nghĩ anh ấy là một người Mỹ yêu nước.
+
+951
+01:23:57,602 --> 01:24:03,598
+Thầy luôn ngưỡng mộ và tôn trọng Tucker Carlson, mặc dù về mặt chính trị chúng tôi không cùng quan điểm.
+
+952
+01:24:03,602 --> 01:24:18,798
+Anh ấy và thầy sẽ bất đồng nhiều về chính trị, nhưng thầy ngưỡng mộ và tôn trọng việc anh ấy yêu nước Mỹ và đã chiến đấu rất quyết liệt để bảo vệ những gì tốt đẹp nhất của nước Mỹ, đặc biệt là nền văn minh, đặc biệt là văn hoá của nó.
+
+953
+01:24:18,802 --> 01:24:22,717
+Và anh ấy đã rất nhất quán về điều này.
+
+954
+01:24:22,721 --> 01:24:31,758
+Trong vài phút sau khi chương trình kết thúc, chúng tôi đã thảo luận về việc văn hoá Mỹ đang bị xoá bỏ.
+
+955
+01:24:31,762 --> 01:24:41,898
+Cốt lõi rất bản chất của nền văn minh Mỹ, điều đã làm nên sự vĩ đại của nước Mỹ, thực ra là Cơ Đốc giáo và nền văn minh châu Âu,
+
+956
+01:24:41,902 --> 01:24:47,458
+và do D E I, do nhập cư, rất nhiều thứ đó đang bị bào mòn,
+
+957
+01:24:47,462 --> 01:24:53,038
+và đó là một điều rất xấu cho nước Mỹ, và thầy đồng ý.
+
+958
+01:24:53,042 --> 01:25:01,998
+Điều thầy ngưỡng mộ ở Tucker Carlson là anh ấy rất có nguyên tắc trong quan điểm của mình, và anh ấy đã không sợ hãi và can đảm trong việc
+
+959
+01:25:02,002 --> 01:25:11,677
+chiến đấu cho những gì anh ấy tin tưởng, bao gồm việc duy trì nền văn minh Mỹ, vốn là Cơ Đốc, da trắng và châu Âu.
+
+960
+01:25:11,681 --> 01:25:16,478
+Anh cũng nhất quán phản đối chiến tranh, và phải trả giá rất nhiều.
+
+961
+01:25:16,482 --> 01:25:25,758
+Thực tế là có tin đồn rằng vì lập trường phản chiến của anh ấy, vì anh ấy không tin nước Mỹ nên đánh cuộc chiến này với Iran, có tin đồn anh ấy sẽ bị bắt.
+
+962
+01:25:25,762 --> 01:25:27,118
+Thầy ngưỡng mộ Tucker.
+
+963
+01:25:27,122 --> 01:25:30,318
+Anh là người can đảm, dù không cùng quan điểm.
+
+964
+01:25:30,322 --> 01:25:32,798
+Larry Johnson, một người thầy cũng tôn trọng.
+
+965
+01:25:32,802 --> 01:25:36,558
+Anh ấy đã chỉ trích thầy, và nhiều người khác cũng vậy.
+
+966
+01:25:36,562 --> 01:25:47,998
+Nhiều người đã có lời chỉ trích thầy, và thật lòng mà nói thầy không để ý đến những lời chỉ trích đó, bởi thầy không muốn trở thành một ngôi sao YouTube.
+
+967
+01:25:48,002 --> 01:25:54,318
+Thầy không muốn thành người ảnh hưởng mạng xã hội suốt ngày tranh cãi với người ảnh hưởng khác.
+
+968
+01:25:54,322 --> 01:25:56,498
+Thầy muốn trở thành một nhà giáo dục.
+
+969
+01:25:56,502 --> 01:25:59,038
+Thầy muốn dạy mọi người cách tự tư duy.
+
+970
+01:25:59,042 --> 01:26:04,237
+Và đó là lý do thầy không dính vào các cuộc tranh cãi từ những người khác.
+
+971
+01:26:04,241 --> 01:26:06,078
+Larry Johnson, thầy ngưỡng mộ.
+
+972
+01:26:06,082 --> 01:26:08,398
+Thầy xem nhiều phỏng vấn của anh.
+
+973
+01:26:08,402 --> 01:26:09,838
+Thầy đồng tình với anh.
+
+974
+01:26:09,842 --> 01:26:12,237
+Thầy không biết anh ấy đã nói gì về thầy.
+
+975
+01:26:12,241 --> 01:26:13,918
+Thật lòng, thầy không quan tâm.
+
+976
+01:26:13,922 --> 01:26:23,118
+Việc anh ấy không thích thầy, việc anh ấy chỉ trích thầy thực sự không ảnh hưởng đến cách thầy nhìn nhận anh ấy, bởi điều thầy quan tâm là các quan điểm.
+
+977
+01:26:23,122 --> 01:26:31,838
+Điều thầy quan tâm là phân tích, và thầy có xu hướng bỏ qua các nhân vật đứng đằng sau những thứ đó.
+
+978
+01:26:31,842 --> 01:26:34,237
+Được rồi, Julian.
+
+979
+01:26:34,241 --> 01:26:40,878
+Cảm ơn giáo sư rất nhiều về các bài giảng và về việc giúp chúng em hiểu thế giới và vũ trụ của mình tốt hơn.
+
+980
+01:26:40,882 --> 01:26:50,558
+Câu hỏi của em là về các lý thuyết của thầy rằng các hội kín không hiểu rằng chính họ tạo ra các thuyết âm mưu, trong Game Theory 26.
+
+981
+01:26:50,562 --> 01:26:52,798
+Khái niệm bài giảng đó rất thú vị.
+
+982
+01:26:52,802 --> 01:27:10,717
+Nhưng sẽ còn thú vị hơn nếu thầy thêm vào khái niệm này những thiên thần sa ngã, bò sát, bọn khổng lồ, rồng, các nền văn minh châu Á thất truyền, Tartaria, Hyperborea, tất cả các thuyết âm mưu này cùng nhau để dự đoán vũ trụ của chúng ta.
+
+983
+01:27:10,721 --> 01:27:13,677
+Nghe này, có rất nhiều thứ thầy không biết.
+
+984
+01:27:13,681 --> 01:27:18,157
+Thầy quan tâm các nền văn minh cổ thất truyền, chúng phải từng tồn tại.
+
+985
+01:27:18,161 --> 01:27:28,318
+Thật vô lý với thầy khi chúng ta chỉ có khoảng mười nghìn năm lịch sử loài người được ghi lại, nhưng chúng ta đã tồn tại 200 nghìn năm trong trạng thái hiện tại.
+
+986
+01:27:28,322 --> 01:27:34,398
+Tâm trí, phát triển tinh thần hiện tại, ta đã là con người hiện đại 200 nghìn năm.
+
+987
+01:27:34,402 --> 01:27:38,318
+Vậy nên chắc chắn phải từng có những nền văn minh khác ở đó.
+
+988
+01:27:38,322 --> 01:27:49,358
+Nếu các em nhìn vào vùng Amazon, nếu các em nhìn vào Grand Canyon ở Mỹ, nếu các em nhìn vào Nam Cực, thì có lý do để tin rằng đã có những nền văn minh khác trước chúng ta.
+
+989
+01:27:49,362 --> 01:27:50,878
+Thầy quan tâm điều đó.
+
+990
+01:27:50,882 --> 01:27:53,998
+Thầy quan tâm khái niệm thiên thần sa ngã.
+
+991
+01:27:54,002 --> 01:27:56,958
+Các Nephilim đó.
+
+992
+01:27:56,962 --> 01:28:01,358
+Có thể có một số bò sát liên chiều rằng cai trị chúng ta.
+
+993
+01:28:01,362 --> 01:28:06,717
+Thầy cởi mở với các khả năng này, nhưng hiện tại thầy chưa tìm được đủ bằng chứng để bàn về chúng.
+
+994
+01:28:06,721 --> 01:28:13,838
+Thầy rất đang trên hành trình của riêng mình để khám phá chân lý, và thầy cởi mở về những điều này.
+
+995
+01:28:13,842 --> 01:28:15,438
+Em đọc tiếp đi Alex.
+
+996
+01:28:15,442 --> 01:28:18,078
+Vâng, chào thầy John, em có câu hỏi.
+
+997
+01:28:18,082 --> 01:28:22,637
+Thầy đã nói nhiều lần rằng Israel và Nhật Bản sẽ thống trị khu vực của họ.
+
+998
+01:28:22,641 --> 01:28:28,237
+Israel sẽ đạt được dự án Đại Israel, và Nhật Bản sẽ tái sinh từ tro tàn.
+
+999
+01:28:28,241 --> 01:28:30,717
+Về dự án Đại Israel này.
+
+1000
+01:28:30,721 --> 01:28:34,717
+Nếu em hiểu đúng những gì thầy nói, em chưa xem lại bài giảng.
+
+1001
+01:28:34,721 --> 01:28:36,717
+Đây là dựa trên ký ức của em.
+
+1002
+01:28:36,721 --> 01:28:39,438
+Mỹ sẽ xâm lược trên bộ vào Iran.
+
+1003
+01:28:39,442 --> 01:28:41,518
+Họ sẽ thất bại trong quá trình đó.
+
+1004
+01:28:41,522 --> 01:28:43,198
+Mỹ và Iran đều bị huỷ diệt.
+
+1005
+01:28:43,202 --> 01:28:45,498
+GCC cũng sẽ bị huỷ diệt theo.
+
+1006
+01:28:45,502 --> 01:28:52,798
+Và hai là, vì nó chỉ là sản phẩm của đế quốc và không bền vững, Bộ Tư lệnh Trung tâm sẽ được chuyển giao cho Israel.
+
+1007
+01:28:52,802 --> 01:28:55,438
+Vậy nên tay chơi cuối cùng còn lại là Israel.
+
+1008
+01:28:55,442 --> 01:29:11,518
+Nhưng làm sao Israel có thể đạt được dự án của mình nếu Iran tiêu diệt Israel, chẳng hạn bằng cách phá huỷ các nhà máy khử mặn hay cơ sở hạ tầng năng lượng của họ, vân vân.
+
+1009
+01:29:11,522 --> 01:29:27,438
+Israel có vũ khí hạt nhân nên có thể dùng, nhưng Iran có thể chế tạo 10 đến 20 quả trong vòng vài tuần, và chúng ta chưa biết hết năng lực của Iran, trong khi chúng ta đã thấy Mỹ và Israel có thể làm được gì.
+
+1010
+01:29:27,442 --> 01:29:31,998
+Cũng có thể nói thêm Israel có sức bật, tỷ suất sinh cao, vân vân.
+
+1011
+01:29:32,002 --> 01:29:34,398
+Nhưng chẳng nghĩa gì nếu đất nước bị tàn phá.
+
+1012
+01:29:34,402 --> 01:29:37,677
+Vì vậy em rất bối rối về quan điểm của thầy.
+
+1013
+01:29:37,681 --> 01:29:42,717
+Được rồi, thầy không hiểu vì sao Iran lại muốn tiêu diệt Israel.
+
+1014
+01:29:42,721 --> 01:29:45,038
+Iran muốn sống sót và tồn tại.
+
+1015
+01:29:45,042 --> 01:29:47,358
+Iran muốn loại bỏ Mỹ ra khỏi Trung Đông.
+
+1016
+01:29:47,362 --> 01:29:49,838
+Iran muốn thống nhất thế giới Hồi giáo.
+
+1017
+01:29:49,842 --> 01:29:52,558
+Những điều đó là hợp lý.
+
+1018
+01:29:52,562 --> 01:29:54,438
+Sao Iran muốn tiêu diệt Israel?
+
+1019
+01:29:54,442 --> 01:29:56,498
+Tiêu diệt Israel để làm gì?
+
+1020
+01:29:56,502 --> 01:29:58,298
+Thầy chẳng hiểu.
+
+1021
+01:29:58,302 --> 01:29:59,298
+Vì thù hằn?
+
+1022
+01:29:59,302 --> 01:30:00,998
+Địa chính trị không vậy.
+
+1023
+01:30:01,002 --> 01:30:02,558
+Phải có lý do cụ thể,
+
+1024
+01:30:02,562 --> 01:30:03,998
+để muốn tiêu diệt Israel.
+
+1025
+01:30:04,002 --> 01:30:06,237
+Hãy nhìn xem điều gì đang xảy ra.
+
+1026
+01:30:06,241 --> 01:30:08,198
+Iran đang dồn chú ý vào UAE.
+
+1027
+01:30:08,202 --> 01:30:11,998
+Tại sao Iran lại dồn sự chú ý vào UAE như vậy?
+
+1028
+01:30:12,002 --> 01:30:15,998
+Bởi vì UAE, dưới góc nhìn của người Iran, là một thứ ghê tởm.
+
+1029
+01:30:16,002 --> 01:30:18,478
+Nó là sự báng bổ thần thánh.
+
+1030
+01:30:18,482 --> 01:30:21,598
+Cái mà UAE đang là, nó là điều của quỷ.
+
+1031
+01:30:21,602 --> 01:30:28,498
+Người Iran ghét người dân UAE hơn rất nhiều so với ghét người dân Israel.
+
+1032
+01:30:28,502 --> 01:30:31,197
+Và người Mỹ nữa.
+
+1033
+01:30:31,201 --> 01:30:36,237
+Cho nên thầy không hiểu tại sao Iran lại muốn tiêu diệt Israel.
+
+1034
+01:30:36,241 --> 01:30:41,918
+Và tại sao Israel lại muốn dùng vũ khí hạt nhân chống Iran, với mục đích gì?
+
+1035
+01:30:41,922 --> 01:30:49,838
+Vâng, thầy hiểu nếu Israel ném bom hạt nhân Iran, thì Iran cũng có thể chế tạo vũ khí hạt nhân rồi đánh trả.
+
+1036
+01:30:49,842 --> 01:30:54,478
+Nhưng tại sao Israel lại muốn ném bom hạt nhân vào Iran?
+
+1037
+01:30:54,482 --> 01:30:57,038
+Israel muốn làm Iran suy yếu.
+
+1038
+01:30:57,042 --> 01:31:02,958
+Nhưng tại sao họ cần dùng vũ khí hạt nhân để làm Iran suy yếu?
+
+1039
+01:31:02,962 --> 01:31:08,637
+Chẳng phải sẽ tốt hơn nếu phá các hồ chứa nước, đường sắt, hạ tầng năng lượng hay sao?
+
+1040
+01:31:08,641 --> 01:31:14,237
+Thầy không hiểu mục đích của việc dùng vũ khí hạt nhân chiến thuật là gì.
+
+1041
+01:31:14,241 --> 01:31:22,237
+Người ta bàn đến khả năng dùng vũ khí hạt nhân chiến thuật để phá các căn cứ tên lửa ngầm dưới đất.
+
+1042
+01:31:22,241 --> 01:31:24,998
+Đúng, có nhiều căn cứ tên lửa ngầm khắp Iran,
+
+1043
+01:31:25,002 --> 01:31:27,838
+các bạn không có đủ vũ khí hạt nhân để phá.
+
+1044
+01:31:27,842 --> 01:31:34,717
+Cho nên thầy không hiểu logic của chuyện này.
+
+1045
+01:31:34,721 --> 01:31:40,157
+Thầy không tin Iran quan tâm đến Israel đủ nhiều để chấp nhận tự sát.
+
+1046
+01:31:40,161 --> 01:31:45,118
+Các bạn đánh Israel, Israel sẽ dùng vũ khí hạt nhân đánh trả các bạn.
+
+1047
+01:31:45,122 --> 01:31:49,278
+Vì sao Iran muốn vượt lằn ranh đó nếu dân thường bị xóa sổ?
+
+1048
+01:31:49,282 --> 01:31:56,958
+Và Israel thật ra không cần tiêu diệt Iran, Israel cần loại nước Mỹ ra khỏi phương trình trước.
+
+1049
+01:31:56,962 --> 01:32:00,318
+Rồi mới xử lý Iran ở một giai đoạn sau.
+
+1050
+01:32:00,322 --> 01:32:05,838
+Israel muốn làm Iran suy yếu đến mức Iran phải mất rất nhiều thời gian tự xây dựng lại.
+
+1051
+01:32:05,842 --> 01:32:21,118
+Cho nên lập luận của thầy là, nếu chiến tranh giữa Iran và Mỹ đi đến mức Mỹ buộc phải đưa hàng triệu quân bộ binh vào Iran, thì nó sẽ phá hủy cả hai nơi, cả nước Mỹ lẫn Iran, và người duy nhất còn đứng vững cuối cùng sẽ là Israel.
+
+1052
+01:32:21,122 --> 01:32:26,478
+Đó là lập luận của thầy, và thầy vẫn giữ niềm tin này.
+
+1053
+01:32:26,482 --> 01:32:27,518
+Tiếp tục đi.
+
+1054
+01:32:27,522 --> 01:32:28,398
+Vâng.
+
+1055
+01:32:28,402 --> 01:32:33,598
+Câu hai, về Nhật Bản như một lực lượng thống trị sai lầm ở châu Á.
+
+1056
+01:32:33,602 --> 01:32:39,918
+Trong một bài giảng về Hàn Quốc, thầy nói rằng nước đó sẽ sụp đổ vì tỷ lệ sinh thấp, nhưng Nhật Bản cũng vậy mà.
+
+1057
+01:32:39,922 --> 01:32:44,717
+Dân số già và người trẻ không muốn sinh con.
+
+1058
+01:32:44,721 --> 01:32:52,078
+Cường quốc công nghiệp thống trị nhất trong khu vực là Trung Quốc, Trung Quốc là một ảo giác trong ảo giác.
+
+1059
+01:32:52,082 --> 01:32:58,197
+Tỷ lệ sinh thấp, ám ảnh tiền bạc, không có gì cả.
+
+1060
+01:32:58,201 --> 01:33:00,637
+Được rồi, thầy hiểu rồi.
+
+1061
+01:33:00,641 --> 01:33:02,637
+Được rồi, được rồi.
+
+1062
+01:33:02,641 --> 01:33:10,798
+Vậy, khi thầy đưa ra dự đoán, thầy nhìn vào nhiều yếu tố, một yếu tố thầy soi rất kỹ là sức chịu đựng.
+
+1063
+01:33:10,802 --> 01:33:18,958
+Cho nên nếu mọi thứ giữ nguyên, đúng, thầy hiểu Trung Quốc sẽ thống trị, Nhật Bản sẽ suy tàn.
+
+1064
+01:33:18,962 --> 01:33:24,078
+Nhưng điều thú vị về lịch sử là luôn có thay đổi, luôn có chu kỳ.
+
+1065
+01:33:24,082 --> 01:33:40,558
+Và nếu thế giới đang đi tới thảm họa, mà thầy nghĩ nó đang đi tới thảm họa, thì thầy tự hỏi quốc gia nào sẽ kiên cường, nghĩa là người dân của họ nhiều khả năng sẽ đoàn kết và thực hiện những thay đổi cần thiết để vượt qua nghịch cảnh này.
+
+1066
+01:33:40,562 --> 01:33:43,677
+Và trong lịch sử, đó luôn là Nhật Bản.
+
+1067
+01:33:43,681 --> 01:33:48,558
+Nhật Bản hồi thế kỷ mười hai mười ba đã sống sót qua hai cuộc xâm lược của Mông Cổ.
+
+1068
+01:33:48,562 --> 01:33:54,237
+Thế kỷ mười chín khi bị các cường quốc phương Tây xâm lược, họ đã trải qua cuộc cải cách Minh Trị.
+
+1069
+01:33:54,241 --> 01:33:59,598
+Và trở thành một cường quốc công nghiệp trong khoảng hai mươi ba mươi năm.
+
+1070
+01:33:59,602 --> 01:34:04,398
+Sau Thế chiến thứ Hai, khi bị người Mỹ phá hủy hoàn toàn, họ đã đoàn kết lại với nhau.
+
+1071
+01:34:04,402 --> 01:34:14,157
+Họ thay đổi hệ thống chính trị và công nghiệp, trước đó họ có cái gọi là hệ thống Zaibatsu, về cơ bản là các tập đoàn độc quyền, các tập đoàn công nghiệp độc quyền.
+
+1072
+01:34:14,161 --> 01:34:25,758
+Sau Thế chiến thứ Hai, họ đã xóa bỏ những thứ đó, ăn thịt nhà giàu rồi tái công nghiệp hóa, và trong khoảng hai mươi ba mươi năm họ trở thành nền kinh tế công nghiệp tiên tiến nhất thế giới.
+
+1073
+01:34:25,762 --> 01:34:33,758
+Cho nên người Nhật có một lịch sử kiên cường, biết tạo ra thay đổi khi sự sinh tồn của họ bị đe dọa.
+
+1074
+01:34:33,762 --> 01:34:39,038
+Đó là lý do thầy nghĩ Nhật Bản có lẽ sẽ làm được điều đó một lần nữa.
+
+1075
+01:34:39,042 --> 01:34:42,398
+Còn Trung Quốc, thầy chưa thấy ví dụ nào kiên cường cả.
+
+1076
+01:34:42,402 --> 01:34:44,798
+Thầy chưa từng thấy.
+
+1077
+01:34:44,802 --> 01:34:47,998
+Được rồi, tiếp tục đi.
+
+1078
+01:34:48,002 --> 01:34:48,878
+Câu hỏi cuối.
+
+1079
+01:34:48,882 --> 01:34:53,278
+Cảm ơn thầy về tất cả các bài giảng thầy đã đăng.
+
+1080
+01:34:53,282 --> 01:35:01,758
+Cũng phải nhắc tới thuật toán YouTube đã kéo được nhiều người trong chúng em vào ngay từ đầu, tạo ra một khối lượng người xem tới hạn để khởi động hiệu ứng lan tỏa.
+
+1081
+01:35:01,762 --> 01:35:09,758
+Một câu hỏi: nếu thầy phải chuyển vĩnh viễn sang một nước khác trong sáu tháng tới, thì top mười nước thầy chọn là gì và tại sao?
+
+1082
+01:35:09,762 --> 01:35:11,998
+Được rồi.
+
+1083
+01:35:12,002 --> 01:35:17,118
+Trước hết, thầy có gia đình, có ba con, thầy không thay đổi điều gì nhẹ dạ.
+
+1084
+01:35:17,122 --> 01:35:23,918
+Thầy sẽ không muốn chuyển trừ khi hoàn toàn chắc chắn rằng có một lựa chọn tốt hơn cho mình.
+
+1085
+01:35:23,922 --> 01:35:30,398
+Nhưng cứ giả sử vì lý do nào đó mà ngày mai thầy phải chuyển, thì thầy sẽ đi đâu?
+
+1086
+01:35:30,402 --> 01:35:40,717
+Một số nước thầy nghĩ đến gồm Botswana ở châu Phi, vì nó đủ xa mọi nơi, là một xã hội khá ổn định.
+
+1087
+01:35:40,721 --> 01:35:42,398
+Botswana đáng để cân nhắc.
+
+1088
+01:35:42,402 --> 01:35:47,197
+Rồi có Chile và Nam Mỹ.
+
+1089
+01:35:47,201 --> 01:35:51,758
+Thầy cũng sẽ cân nhắc New Zealand.
+
+1090
+01:35:51,762 --> 01:35:54,318
+Có lẽ cả Malaysia nữa.
+
+1091
+01:35:54,322 --> 01:36:05,178
+Được rồi, đó là bốn nơi thầy sẽ cân nhắc nếu vì lý do nào đó ngày mai Thế chiến nổ ra và châu Âu chìm trong khói lửa,
+
+1092
+01:36:05,182 --> 01:36:09,528
+nước Mỹ đang tấn công mọi người, nước Mỹ đang nội chiến,
+
+1093
+01:36:09,532 --> 01:36:15,677
+có quá nhiều xung đột ở Đông Á giữa Nhật Bản và Trung Quốc, ai mà biết được.
+
+1094
+01:36:15,681 --> 01:36:23,358
+Được rồi, vậy đó là phần cho các thành viên sáng lập.
+
+1095
+01:36:23,362 --> 01:36:27,278
+Và phần đó đã ngốn của chúng ta rất nhiều thời gian rồi.
+
+1096
+01:36:27,282 --> 01:36:31,758
+Thầy sẽ thử trả lời một số câu hỏi từ YouTube trong khoảng mười phút nữa.
+
+1097
+01:36:31,762 --> 01:36:38,478
+Rồi chúng ta sẽ kết thúc, vì không thể nào trả lời hết tất cả các câu hỏi YouTube được.
+
+1098
+01:36:38,482 --> 01:36:41,677
+Được rồi, câu này là từ Joyce Lie.
+
+1099
+01:36:41,681 --> 01:36:46,318
+Câu hỏi về không gian vũ trụ, lý thuyết của thầy về không gian là gì?
+
+1100
+01:36:46,322 --> 01:36:48,478
+Thầy không nghĩ vũ trụ quan trọng.
+
+1101
+01:36:48,482 --> 01:36:52,798
+Cá nhân thầy không nghĩ chúng ta sẽ có ngày đặt chân lên Mặt Trăng.
+
+1102
+01:36:52,802 --> 01:36:55,518
+Cũng không khai thác được tiểu hành tinh.
+
+1103
+01:36:55,522 --> 01:37:01,518
+Thầy nghĩ xã hội sẽ sụp đổ nhanh hơn nhiều so với những gì chúng ta giả định.
+
+1104
+01:37:01,522 --> 01:37:07,998
+Chúng ta đơn giản là sẽ không có thời gian, năng lượng, tài nguyên để đi chinh phục Mặt Trăng.
+
+1105
+01:37:08,002 --> 01:37:12,717
+Thầy nghĩ cuộc đua không gian chỉ toàn là ảo ảnh.
+
+1106
+01:37:12,721 --> 01:37:16,878
+Đua không gian, A I, xâm lăng ngoài hành tinh, là dối trá tinh hoa duy trì.
+
+1107
+01:37:16,882 --> 01:37:19,998
+Thầy không hề chú ý đến cuộc đua không gian.
+
+1108
+01:37:20,002 --> 01:37:23,438
+Lạ vì thầy lớn lên xem nhiều phim khoa học viễn tưởng.
+
+1109
+01:37:23,442 --> 01:37:28,398
+Thầy đã đọc rất nhiều Isaac Asimov và Ray Bradbury.
+
+1110
+01:37:28,402 --> 01:37:32,637
+Thầy xem nhiều phim khoa học viễn tưởng như Star Trek, thầy mê thể loại đó.
+
+1111
+01:37:32,641 --> 01:37:35,498
+Thầy rất mong ta đến được Sao Hỏa.
+
+1112
+01:37:35,502 --> 01:37:37,998
+Nhưng ta sẽ không đến Sao Hỏa được đâu.
+
+1113
+01:37:38,002 --> 01:37:39,998
+Chuyện đó sẽ không xảy ra.
+
+1114
+01:37:40,002 --> 01:37:42,498
+Elon Musk có nói gì cũng vô ích thôi.
+
+1115
+01:37:42,502 --> 01:37:44,498
+Hãy lên Mặt Trăng trước đã.
+
+1116
+01:37:44,502 --> 01:37:48,717
+Hãy đưa người lên Mặt Trăng trước.
+
+1117
+01:37:48,721 --> 01:37:54,478
+Thầy giải thích thế nào về vị trí của Ấn Độ trên bàn cờ này, xét về sự hội tụ địa chính trị?
+
+1118
+01:37:54,482 --> 01:37:58,237
+Về Ấn Độ, thầy không biết đủ để đưa ra dự đoán.
+
+1119
+01:37:58,241 --> 01:38:11,677
+Nhưng thầy sẽ nói rằng về mặt địa chính trị, Ấn Độ đang ở vị trí rất xấu, vì có dân số đông, hệ thống chính trị rất hỗn loạn và bị ràng buộc tài nguyên nghiêm trọng.
+
+1120
+01:38:11,681 --> 01:38:20,398
+Nó không có nhiều tài nguyên, cho nên dự đoán của thầy cho Ấn Độ sẽ không lạc quan lắm.
+
+1121
+01:38:20,402 --> 01:38:27,278
+Nhưng cuối cùng thầy cũng muốn sang thăm Ấn Độ để tự mình khám phá những thế mạnh của Ấn Độ.
+
+1122
+01:38:27,282 --> 01:38:32,518
+Được rồi.
+
+1123
+01:38:32,522 --> 01:38:40,558
+Tại sao thầy nghĩ người Do Thái đã liên tục bị trục xuất khỏi một trăm lẻ chín nước trong suốt chiều dài lịch sử?
+
+1124
+01:38:40,562 --> 01:38:44,398
+Người Israel nói vì ai cũng ghen tị, nhưng có đúng không?
+
+1125
+01:38:44,402 --> 01:38:49,038
+Nếu đứa trẻ bị đuổi khỏi một trăm lẻ chín trường, lỗi ở trường hay ở đứa trẻ?
+
+1126
+01:38:49,042 --> 01:38:53,918
+Được rồi, đây thực ra là một câu hỏi mà thầy nghĩ rất nhiều người quan tâm.
+
+1127
+01:38:53,922 --> 01:39:00,398
+Thầy sẽ dành chút thời gian để giải thích chuyện gì đang diễn ra.
+
+1128
+01:39:00,402 --> 01:39:07,918
+Cho nên người Do Thái có Kinh Thánh, và Kinh Thánh ra lệnh cho họ phải mãi mãi trung thành với Chúa.
+
+1129
+01:39:07,922 --> 01:39:18,558
+Và trong suốt chiều dài lịch sử, hầu hết người Do Thái đã bị hấp thụ vào các cộng đồng khác nhau như cộng đồng Cơ Đốc giáo và Hồi giáo.
+
+1130
+01:39:18,562 --> 01:39:28,478
+Và rất nhiều người đã cải sang Hy Lạp hóa, hoặc từ bỏ Do Thái giáo.
+
+1131
+01:39:28,482 --> 01:39:31,838
+Vì họ muốn gia nhập tầng lớp tinh hoa.
+
+1132
+01:39:31,842 --> 01:39:41,998
+Cho nên chỉ có một thiểu số, một thiểu số rất nhỏ, là giữ được đức tin Do Thái sống qua nhiều thế kỷ.
+
+1133
+01:39:42,002 --> 01:39:45,117
+Như các bạn có thể hình dung, những người này rất cuồng tín.
+
+1134
+01:39:45,121 --> 01:39:49,117
+Cho nên hãy hình dung chỉ là một cộng đồng nhỏ.
+
+1135
+01:39:49,121 --> 01:39:52,598
+Một cộng đồng nhỏ thôi.
+
+1136
+01:39:52,602 --> 01:39:58,157
+Và vấn đề chính của họ là, làm sao tồn tại được?
+
+1137
+01:39:58,161 --> 01:40:04,078
+Bởi vì đức tin của họ dạy rằng điều quan trọng là niềm tin của họ vào Chúa.
+
+1138
+01:40:04,082 --> 01:40:07,598
+Họ là dân được chọn.
+
+1139
+01:40:07,602 --> 01:40:11,358
+Vậy làm sao họ có thể tồn tại như một dân tộc?
+
+1140
+01:40:11,362 --> 01:40:17,438
+Và điều đã xảy ra trong lịch sử là họ về cơ bản đã ký một thỏa thuận với quỷ.
+
+1141
+01:40:17,442 --> 01:40:30,078
+Ý của thầy là họ đã thỏa thuận với giới quý tộc địa phương để phục vụ giới quý tộc, đổi lại được phép thực hành đức tin của mình.
+
+1142
+01:40:30,082 --> 01:40:33,998
+Được rồi, thỏa thuận thường diễn ra như thế này.
+
+1143
+01:40:34,002 --> 01:40:37,438
+Giới quý tộc thuê họ làm thầu phụ để quản lý tài sản.
+
+1144
+01:40:37,442 --> 01:40:45,637
+Người Do Thái là một dân tộc lưu vong, cho nên cái họ thực sự giỏi là thương mại và tài chính.
+
+1145
+01:40:45,641 --> 01:40:53,918
+Cũng vậy, trong phần lớn lịch sử loài người, giới quý tộc không được phép tham gia vào cho vay nặng lãi.
+
+1146
+01:40:53,922 --> 01:40:58,318
+Tại sao lại không được vậy?
+
+1147
+01:40:58,322 --> 01:41:00,558
+Nó thường dẫn đến sụp đổ xã hội.
+
+1148
+01:41:00,562 --> 01:41:09,438
+Khi các bạn thu lãi trên nợ, khoản nợ thường nhân lên đến mức không ai trả nổi, và điều đó thường dẫn tới cách mạng.
+
+1149
+01:41:09,442 --> 01:41:17,358
+Nhưng vấn đề là cho vay nặng lãi lại là hoạt động kinh doanh sinh lời nhất mà các bạn có thể tham gia.
+
+1150
+01:41:17,362 --> 01:41:21,278
+Cho nên rất khôn ngoan, họ nói: để người Do Thái làm việc đó.
+
+1151
+01:41:21,282 --> 01:41:32,157
+Cho nên người Do Thái không được phép sở hữu bất động sản, không được đến trường, nhưng họ được phép tham gia vào cho vay nặng lãi, về cơ bản là tài chính.
+
+1152
+01:41:32,161 --> 01:41:39,838
+Cho nên đây là thỏa thuận mà rất nhiều cộng đồng Do Thái đã ký với giới quý tộc châu Âu.
+
+1153
+01:41:39,842 --> 01:41:46,398
+Như các bạn có thể hình dung, đây sẽ là vấn đề vì khi thời thế tốt thì không sao, nhưng khi thời thế xấu thì sao.
+
+1154
+01:41:46,402 --> 01:41:48,637
+Người ta chắc chắn sẽ tức giận.
+
+1155
+01:41:48,641 --> 01:41:49,798
+Họ trách ai?
+
+1156
+01:41:49,802 --> 01:41:53,498
+Họ đổ lỗi cho người Do Thái, đúng không?
+
+1157
+01:41:53,502 --> 01:41:59,838
+Vì không phải giới quý tộc đang đến thu nợ của các bạn, mà là người Do Thái đang đến thu nợ của các bạn.
+
+1158
+01:41:59,842 --> 01:42:08,558
+Người Do Thái nghĩ họ là dân được chọn, cho nên họ tách biệt mình khỏi các bạn, sống trong cộng đồng riêng, thực hành tôn giáo riêng.
+
+1159
+01:42:08,562 --> 01:42:10,078
+Họ tự cho mình tốt hơn.
+
+1160
+01:42:10,082 --> 01:42:14,958
+Và điều này sẽ dẫn đến rất nhiều xung đột.
+
+1161
+01:42:14,962 --> 01:42:19,758
+Khi thời thế tốt thì ổn, nhưng thời xấu, người Do Thái luôn bị đổ lỗi.
+
+1162
+01:42:19,762 --> 01:42:23,438
+Và lịch sử thì đi theo chu kỳ.
+
+1163
+01:42:23,442 --> 01:42:31,197
+Cho nên mỗi khi đến giai đoạn xấu, người Do Thái bị trục xuất khỏi một địa điểm nào đó và họ chuyển đi nơi khác, nơi họ lại bắt đầu lại.
+
+1164
+01:42:31,201 --> 01:42:38,637
+Nhưng họ không quan tâm, vì với họ, sứ mệnh là tồn tại, là giữ vững đức tin.
+
+1165
+01:42:38,641 --> 01:42:45,358
+Và qua nhiều thế kỷ, họ đã học được những chiến lược nhất định để tồn tại.
+
+1166
+01:42:45,362 --> 01:42:52,237
+Và phần lớn trong số đó về cơ bản là sự tách biệt.
+
+1167
+01:42:52,241 --> 01:43:03,197
+Tức là họ giữ mình tách biệt với các dân tộc khác, và họ về cơ bản nghĩ rằng các dân tộc khác là bẩn thỉu hay đại loại như vậy.
+
+1168
+01:43:03,201 --> 01:43:09,197
+Thầy không nói tất cả người Do Thái, nhưng họ duy trì những truyền thống đó để tồn tại.
+
+1169
+01:43:09,201 --> 01:43:11,438
+Nhiều chiến lược trong đó rất cực đoan.
+
+1170
+01:43:11,442 --> 01:43:21,598
+Và đáng tiếc, chúng ta đang chứng kiến cùng một khuôn mẫu lại nổi lên trong thế giới hôm nay, khi chủ nghĩa bài Do Thái giờ là chuyện rất phổ biến khắp thế giới phương Tây.
+
+1171
+01:43:21,602 --> 01:43:33,998
+Không chỉ vì những gì Israel đang làm, mà còn vì một số tập tục văn hóa của người Do Thái.
+
+1172
+01:43:34,002 --> 01:43:50,078
+Tuy nhiên, thầy có lòng tôn trọng và ngưỡng mộ to lớn với người Do Thái, bởi vì trước hết và trên hết, họ là một dân tộc trí thức, một dân tộc của Kinh Sách, đã đóng góp nhiều ý tưởng vĩ đại cho lịch sử nhân loại.
+
+1173
+01:43:50,082 --> 01:43:52,878
+Được rồi.
+
+1174
+01:43:52,882 --> 01:43:57,438
+Ngành học nào có tương lai trong thế giới hiện đại của chúng ta?
+
+1175
+01:43:57,442 --> 01:44:00,157
+Thầy sẽ học gì ở ngã ba cuộc đời?
+
+1176
+01:44:00,161 --> 01:44:06,078
+Được rồi, một lời khuyên thầy đưa ra cho mọi người là, hãy bỏ qua A I.
+
+1177
+01:44:06,082 --> 01:44:09,498
+Nếu các em muốn thành lập trình viên máy tính,
+
+1178
+01:44:09,502 --> 01:44:13,498
+muốn làm chủ A I thành tỷ phú, các bạn sẽ thất vọng.
+
+1179
+01:44:13,502 --> 01:44:19,838
+Nếu các bạn thực sự muốn chuẩn bị cho tương lai, hãy đọc sách.
+
+1180
+01:44:19,842 --> 01:44:22,198
+Hãy đọc những sách kinh điển.
+
+1181
+01:44:22,202 --> 01:44:24,498
+Cũng không nhất thiết sách lớn.
+
+1182
+01:44:24,502 --> 01:44:26,998
+Cứ đọc sách là được rồi.
+
+1183
+01:44:27,002 --> 01:44:33,758
+Vì kỹ năng các bạn sẽ cần trong tương lai là khả năng tư duy phản biện, tư duy độc lập, và tư duy sâu về thế giới.
+
+1184
+01:44:33,762 --> 01:44:41,038
+Và bằng cách đọc sách, các bạn có thể bắt đầu tham gia vào độc thoại nội tâm, xin lỗi, đối thoại nội tâm với chính mình.
+
+1185
+01:44:41,042 --> 01:44:44,157
+Điều đó giúp các bạn giàu tưởng tượng và kiên cường hơn.
+
+1186
+01:44:44,161 --> 01:44:51,598
+Cho nên lời khuyên tốt nhất của thầy là, không quan trọng các bạn học gì, mà điều quan trọng là phải đọc sách.
+
+1187
+01:44:51,602 --> 01:44:53,518
+Được rồi.
+
+1188
+01:44:53,522 --> 01:44:57,677
+Bạn có thể giúp Marina không?
+
+1189
+01:44:57,681 --> 01:45:00,798
+Tôi muốn giáo sư nói về những lời khuyên gì.
+
+1190
+01:45:00,802 --> 01:45:06,478
+Mà thầy sẽ đưa cho con của mình trong tình huống này: chúng ta sắp sụp đổ và cả hệ thống sẽ thay đổi.
+
+1191
+01:45:06,482 --> 01:45:15,998
+Thầy sẽ đưa lời khuyên gì cho con mình về cách chuẩn bị bản thân cho những tình huống sắp tới, và cho thấy thầy đã chuẩn bị con cái mình kỹ thế nào cho thế giới chiến tranh mới.
+
+1192
+01:45:16,002 --> 01:45:23,358
+Tôi rất muốn nghe câu trả lời của giáo sư cho câu hỏi này.
+
+1193
+01:45:23,362 --> 01:45:25,998
+Được rồi, mỗi ngày thầy nói với các con ba điều.
+
+1194
+01:45:26,002 --> 01:45:28,157
+Mỗi ngày chỉ ba điều thôi.
+
+1195
+01:45:28,161 --> 01:45:29,918
+Đó là tất cả thầy cần làm.
+
+1196
+01:45:29,922 --> 01:45:34,358
+Điều đầu tiên thầy sẽ nói là, bố sẽ luôn yêu con.
+
+1197
+01:45:34,362 --> 01:45:36,318
+Có chuyện gì, bố vẫn luôn yêu con.
+
+1198
+01:45:36,322 --> 01:45:37,998
+Con làm gì, bố vẫn yêu con.
+
+1199
+01:45:38,002 --> 01:45:40,078
+Nếu bố chết, bố vẫn sẽ yêu con.
+
+1200
+01:45:40,082 --> 01:45:43,438
+Hãy nhớ điều đó.
+
+1201
+01:45:43,442 --> 01:45:48,717
+Dù con đi đâu, dù con làm gì, bố sẽ luôn yêu con và bố sẽ luôn ở bên con.
+
+1202
+01:45:48,721 --> 01:45:50,637
+Đó là điều đầu tiên thầy nói.
+
+1203
+01:45:50,641 --> 01:45:57,598
+Điều thứ hai thầy sẽ nói là, bố tin vào con.
+
+1204
+01:45:57,602 --> 01:46:02,078
+Tức là dù con làm gì, nó sẽ là điều tốt.
+
+1205
+01:46:02,082 --> 01:46:04,878
+Cứ tin vào chính mình.
+
+1206
+01:46:04,882 --> 01:46:07,838
+Được rồi.
+
+1207
+01:46:07,842 --> 01:46:09,838
+Và điều thứ ba thầy sẽ nói là.
+
+1208
+01:46:09,842 --> 01:46:15,878
+Hãy tin vào chính mình.
+
+1209
+01:46:15,882 --> 01:46:21,197
+Nếu các con thầy hiểu được ba điều này, là cha mẹ luôn yêu chúng dù chúng làm gì.
+
+1210
+01:46:21,201 --> 01:46:29,677
+Là cha mẹ tin vào chúng, và sứ mệnh cao nhất trong đời chúng là tin vào chính mình, thì chúng sẽ ổn dù chuyện gì xảy ra.
+
+1211
+01:46:29,681 --> 01:46:36,237
+Cho nên không thực sự quan trọng là các con nên vào đại học nào.
+
+1212
+01:46:36,241 --> 01:46:39,498
+Không phải chuyện các em có bao nhiêu tiền.
+
+1213
+01:46:39,502 --> 01:46:43,677
+Quan trọng là cách các con nhìn nhận mình trên thế giới.
+
+1214
+01:46:43,681 --> 01:46:51,518
+Và thầy muốn các con luôn tin rằng dù chúng làm gì, dù chúng đi đâu, cha mẹ cũng sẽ luôn yêu chúng.
+
+1215
+01:46:51,522 --> 01:46:53,758
+Được rồi, em đọc giùm thầy nhé.
+
+1216
+01:46:53,762 --> 01:46:55,788
+Câu hỏi cho bài thi cuối kỳ là,
+
+1217
+01:46:55,792 --> 01:47:00,498
+nếu nhà nước A I dân sự là mục tiêu cuối,
+
+1218
+01:47:00,502 --> 01:47:03,498
+tại sao dân chúng tiêu cực với A I?
+
+1219
+01:47:03,502 --> 01:47:13,438
+Những yếu tố xã hội, chính trị, hay lý thuyết trò chơi chủ yếu nào đang thúc đẩy sự kháng cự công khai này?
+
+1220
+01:47:13,442 --> 01:47:16,157
+Nó tác động thế nào tới triển khai A I?
+
+1221
+01:47:16,161 --> 01:47:22,558
+Có sự tiêu cực như vậy với A I là vì ai cũng biết mục đích của A I là gì.
+
+1222
+01:47:22,562 --> 01:47:24,958
+A I biến con người thành vô giá trị.
+
+1223
+01:47:24,962 --> 01:47:29,518
+Dư thừa, không cần các bạn nữa vì đã có robot, đã có A I.
+
+1224
+01:47:29,522 --> 01:47:34,237
+Và con người muốn cảm thấy mình là một phần của điều gì đó.
+
+1225
+01:47:34,241 --> 01:47:38,078
+Con người muốn cảm thấy có giá trị.
+
+1226
+01:47:38,082 --> 01:47:41,677
+Con người muốn đóng góp cho lợi ích chung của tất cả.
+
+1227
+01:47:41,681 --> 01:47:46,157
+Còn A I là một hệ thống được thiết kế để khiến các bạn trở nên dư thừa.
+
+1228
+01:47:46,161 --> 01:47:54,558
+Thầy đã dự đoán một thỏa thuận lớn giữa Mỹ và Trung Quốc, trong đó Trung Quốc hấp thụ ba mươi chín nghìn tỷ đô nợ của Mỹ qua các stablecoin.
+
+1229
+01:47:54,562 --> 01:48:01,518
+Đạo luật Genius để duy trì ảo giác đô la toàn cầu.
+
+1230
+01:48:01,522 --> 01:48:11,117
+Tuy nhiên, thầy cũng đã dạy chúng tôi rằng đại chiến lược của Mỹ là phong tỏa eo Malacca và dùng chiến tranh thế kỷ hai mươi mốt, bóp nghẹt kinh tế, để buộc Bắc Kinh quy phục.
+
+1231
+01:48:11,121 --> 01:48:18,237
+Nếu Trung Quốc đã là một ảo giác mong manh của một ảo giác, với niềm tin tiêu dùng đang sụp đổ.
+
+1232
+01:48:18,241 --> 01:48:26,318
+Thì các quy định của Mỹ liệu có vô tình kích hoạt một sự sụp đổ toàn diện của Đảng Cộng sản Trung Quốc không?
+
+1233
+01:48:26,322 --> 01:48:29,428
+Mỹ làm sao khai thác khách hàng lớn ở Trung Quốc,
+
+1234
+01:48:29,432 --> 01:48:32,798
+nếu chính chiến lược bóp yết hầu phá Trung Quốc từ bên trong?
+
+1235
+01:48:32,802 --> 01:48:36,398
+Được rồi, đây là một câu hỏi thực sự thú vị.
+
+1236
+01:48:36,402 --> 01:48:38,898
+Thầy sẽ đưa ra vài nhận xét.
+
+1237
+01:48:38,902 --> 01:48:44,998
+Đầu tiên, nếu các bạn là ảo giác, các bạn không biết mình là ảo giác.
+
+1238
+01:48:45,002 --> 01:48:52,637
+Về mặt khách quan điều này có thể đúng, nhưng người chơi không biết là nó đúng.
+
+1239
+01:48:52,641 --> 01:48:54,078
+Đó là điểm đầu tiên.
+
+1240
+01:48:54,082 --> 01:48:59,918
+Điểm thứ hai là, trong một trò chơi, mục tiêu của bạn là thắng trò chơi.
+
+1241
+01:48:59,922 --> 01:49:03,998
+Mà thắng trò chơi có thể khiến trò chơi sụp đổ, nhưng các bạn không quan tâm.
+
+1242
+01:49:04,002 --> 01:49:09,038
+Vấn đề là thắng trò chơi, và các bạn sẽ dùng bất cứ công cụ nào mình có để thắng.
+
+1243
+01:49:09,042 --> 01:49:16,157
+Cho nên có khả năng cuộc chiến thương mại Mỹ Trung này sẽ khiến cả hai quốc gia sụp đổ, nhưng đó không phải là vấn đề.
+
+1244
+01:49:16,161 --> 01:49:18,558
+Vấn đề là thắng trò chơi.
+
+1245
+01:49:18,562 --> 01:49:20,398
+Không phải để sống sót.
+
+1246
+01:49:20,402 --> 01:49:22,498
+Vấn đề là phải thắng trò chơi đó.
+
+1247
+01:49:22,502 --> 01:49:26,637
+Đôi khi thắng trò chơi nghĩa là tự hủy mình, về cơ bản là tự sát.
+
+1248
+01:49:26,641 --> 01:49:30,318
+Đó là điểm thứ hai của thầy.
+
+1249
+01:49:30,322 --> 01:49:41,438
+Điểm thứ ba thầy muốn nói là, Trung Quốc và Mỹ.
+
+1250
+01:49:41,442 --> 01:49:51,358
+Họ cần dấn vào kiểu đấu tranh này để đi đến một thỏa thuận.
+
+1251
+01:49:51,362 --> 01:49:58,078
+Lý do là có rất nhiều lợi ích trong nước mà họ phải xử lý, ví dụ.
+
+1252
+01:49:58,082 --> 01:50:03,998
+Nếu các bạn là Donald Trump và muốn một thỏa thuận lớn với Trung Quốc, đã có.
+
+1253
+01:50:04,002 --> 01:50:12,637
+Rất nhiều người phản đối điều này, vì họ nghĩ Trung Quốc là mối đe dọa lớn, và bất kỳ thỏa hiệp nào với Trung Quốc đều là bán đứng dân tộc Mỹ.
+
+1254
+01:50:12,641 --> 01:50:24,637
+Cho nên các bạn cần dấn vào một số xung đột và chiến tranh nhất định, để xua tan hoặc làm giảm căng thẳng nội bộ, để thúc đẩy một thỏa thuận.
+
+1255
+01:50:24,641 --> 01:50:27,278
+Có hợp lý không?
+
+1256
+01:50:27,282 --> 01:50:32,958
+Thầy hiểu đây là một trò chơi thực sự nguy hiểm họ đang chơi, nhưng chào mừng các bạn đến với địa chính trị.
+
+1257
+01:50:32,962 --> 01:50:34,478
+Thế giới vận hành như thế.
+
+1258
+01:50:34,482 --> 01:50:40,078
+Những người nắm quyền là kẻ thái nhân cách, vì để thắng trò chơi, các bạn phải là kẻ thái nhân cách.
+
+1259
+01:50:40,082 --> 01:50:41,918
+Được rồi.
+
+1260
+01:50:41,922 --> 01:50:48,558
+Hãy nghĩ xem ai trên thế giới này được tôn trọng: Israel được tôn trọng.
+
+1261
+01:50:48,562 --> 01:50:49,798
+Putin cũng được tôn trọng.
+
+1262
+01:50:49,802 --> 01:50:52,198
+Bắc Triều Tiên cũng vậy.
+
+1263
+01:50:52,202 --> 01:50:53,198
+Donald Trump cũng vậy.
+
+1264
+01:50:53,202 --> 01:50:54,398
+Tại sao họ được vậy?
+
+1265
+01:50:54,402 --> 01:50:56,498
+Vì các bạn đều điên.
+
+1266
+01:50:56,502 --> 01:51:02,878
+Điều mọi người đồng ý về những người này là, nếu bị đe dọa đủ, họ sẽ bấm nút và cho nổ tung thế giới.
+
+1267
+01:51:02,882 --> 01:51:05,677
+Đó là điều khiến các bạn được tôn trọng.
+
+1268
+01:51:05,681 --> 01:51:10,958
+Các bạn càng điên, các bạn càng có chính danh.
+
+1269
+01:51:10,962 --> 01:51:13,438
+Đó là lý do mọi trò chơi đều điên rồ.
+
+1270
+01:51:13,442 --> 01:51:14,998
+Có dẫn đến tận thế không?
+
+1271
+01:51:15,002 --> 01:51:17,498
+Có lẽ là sẽ như vậy.
+
+1272
+01:51:17,502 --> 01:51:19,498
+Thầy đã dạy điều này từ lâu.
+
+1273
+01:51:19,502 --> 01:51:21,298
+Người nắm quyền là kẻ điên.
+
+1274
+01:51:21,302 --> 01:51:23,498
+Trò chơi họ chơi cũng điên.
+
+1275
+01:51:23,502 --> 01:51:25,438
+Nó sẽ dẫn đến tận thế.
+
+1276
+01:51:25,442 --> 01:51:28,558
+Được rồi, thêm ba câu nữa, vì ngồi đây mãi cũng được.
+
+1277
+01:51:28,562 --> 01:51:33,758
+Thôi, thầy sẽ làm thêm hai câu nữa rồi kết thúc kỳ thi này.
+
+1278
+01:51:33,762 --> 01:51:34,878
+Em đọc giúp thầy.
+
+1279
+01:51:34,882 --> 01:51:43,278
+Vâng, hãy giải thích rằng nước Mỹ cần một chiến dịch nhà nước dân sự A I, Stargate, để xử lý các cuộc nổi dậy trong nước chống lại lệnh tổng động viên sắp tới.
+
+1280
+01:51:43,282 --> 01:51:53,758
+Thầy cũng đã nói rằng cuộc nội chiến toàn cầu hiện tại đang đối đầu giữa tư bản giao dịch và liên minh của những người dân tộc chủ nghĩa, giáo hội, và giới tinh hoa công nghệ.
+
+1281
+01:51:53,762 --> 01:51:57,197
+Như Trump, Thiel, Musk vậy.
+
+1282
+01:51:57,201 --> 01:52:07,758
+Nhưng nếu giới tinh hoa công nghệ đang dùng triết lý mã hóa kiểu Hội Tam Điểm để xây một kỹ trị phản Chúa, lột bỏ ý chí tự do của con người.
+
+1283
+01:52:07,762 --> 01:52:18,157
+Thì nhóm dân tộc chủ nghĩa Cơ Đốc được vũ trang khốc liệt của Trump liệu có cuối cùng nhận ra rằng họ đang bị nô lệ hóa bởi chính cái hệ thống mà họ đang chiến đấu vì nó.
+
+1284
+01:52:18,161 --> 01:52:24,318
+Khi kỹ trị đó kích hoạt một cuộc nội chiến Mỹ thứ hai thay vì ngăn nó?
+
+1285
+01:52:24,322 --> 01:52:27,438
+Vâng, điều này chính xác.
+
+1286
+01:52:27,442 --> 01:52:30,717
+Cho nên nội chiến sẽ xảy ra, có nhiều phe phái trong đó.
+
+1287
+01:52:30,721 --> 01:52:34,637
+Có nhiều lý do khác nhau khiến nội chiến nổ ra, nhưng một lý do là.
+
+1288
+01:52:34,641 --> 01:52:37,918
+Sẽ có nhiều kháng cự chống nhà nước dân sự A I.
+
+1289
+01:52:37,922 --> 01:52:41,518
+Điều này chính xác.
+
+1290
+01:52:41,522 --> 01:52:50,398
+Và giờ thật sự không ai có thể làm gì để ngăn nội chiến xảy ra, được rồi, tiếp tục đi.
+
+1291
+01:52:50,402 --> 01:53:00,478
+Trong bài giảng gần đây về Putin và Bắc Kinh, thầy đã nói Vladimir Putin muốn Nga dẫn dắt thế giới đa cực, kể cả nếu điều đó có nghĩa là đóng vai đối tác cấp dưới của Trung Quốc.
+
+1292
+01:53:00,482 --> 01:53:11,597
+Tuy nhiên, xét đến lịch sử nhấn mạnh khốc liệt của Nga về chủ quyền tuyệt đối, và việc Nga tự coi mình là La Mã thứ ba.
+
+1293
+01:53:11,601 --> 01:53:24,717
+Liệu chiến lược của Putin có thực sự sống được trong một tương lai dài hạn, nơi Nga bị phụ thuộc kinh tế vào tầng lớp tinh hoa Trung Quốc, vốn về cơ bản thích Mỹ làm cảnh sát thế giới hơn?
+
+1294
+01:53:24,721 --> 01:53:28,078
+Trò chơi sinh tồn của Nga là gì nếu Trung Quốc chọn ly hôn?
+
+1295
+01:53:28,082 --> 01:53:30,478
+Điều này hoàn toàn chính xác.
+
+1296
+01:53:30,482 --> 01:53:34,717
+Người Trung Quốc không tin người Nga, vì người Nga cực kỳ.
+
+1297
+01:53:34,721 --> 01:53:39,197
+Mang tinh thần dân tộc cực đoan, ý thầy là có chủ nghĩa thượng đẳng Nga.
+
+1298
+01:53:39,201 --> 01:53:43,597
+Dù Nga sẽ giả vờ là đối tác cấp dưới của Trung Quốc.
+
+1299
+01:53:43,601 --> 01:53:46,237
+Người Nga tin rằng họ vượt trội hơn Trung Quốc.
+
+1300
+01:53:46,241 --> 01:53:53,998
+Và phần lớn liên quan đến hệ tư tưởng La Mã thứ ba mà họ có.
+
+1301
+01:53:54,002 --> 01:53:55,838
+Nga sống nổi nếu ly hôn?
+
+1302
+01:53:55,842 --> 01:53:57,758
+Và câu trả lời là có.
+
+1303
+01:53:57,762 --> 01:53:59,438
+Nga không cần Trung Quốc.
+
+1304
+01:53:59,442 --> 01:54:08,878
+Nga chỉ cần đánh nhau, vì nếu các bạn nghĩ về mặt lịch sử thì cách một quốc gia phát triển sự giàu có là bằng cách chinh phục các quốc gia khác.
+
+1305
+01:54:08,882 --> 01:54:21,918
+Cho nên cái Nga sắp làm là chuyển sang nền kinh tế chiến tranh tổng lực, và hoàn toàn tập trung vào việc chinh phục các nước láng giềng, đặc biệt là Ukraine, nhưng cũng cả các nước Baltic, và rồi đến Trung Á.
+
+1306
+01:54:21,922 --> 01:54:29,558
+Cho nên miễn là Nga có thể duy trì sự gắn kết nội bộ và dấn vào tổng chiến tranh, thì Nga sẽ ổn.
+
+1307
+01:54:29,562 --> 01:54:30,998
+Em đọc giúp thầy đi nào.
+
+1308
+01:54:31,002 --> 01:54:32,498
+Vâng được ạ thưa thầy.
+
+1309
+01:54:32,502 --> 01:54:33,498
+Em chào cô Jing.
+
+1310
+01:54:33,502 --> 01:54:36,498
+Câu hỏi cuối kỳ của em rất đơn giản.
+
+1311
+01:54:36,502 --> 01:54:41,597
+Theo tài liệu bài giảng, em có xu hướng tin rằng Putin có một kế hoạch lớn đã vạch sẵn.
+
+1312
+01:54:41,601 --> 01:54:46,878
+Điều gì sẽ xảy ra nếu Putin ngừng làm lãnh đạo Nga vì lý do nằm ngoài tầm kiểm soát của ông?
+
+1313
+01:54:46,882 --> 01:54:52,798
+Liệu có nỗ lực cá nhân hay tập thể nào theo cùng hệ tư tưởng và tiếp tục kế hoạch không?
+
+1314
+01:54:52,802 --> 01:54:55,518
+Đây là một câu hỏi rất hay.
+
+1315
+01:54:55,522 --> 01:54:59,117
+Trước hết, thầy nghĩ Putin sẽ sống lâu hơn nhiều so với người ta tin.
+
+1316
+01:54:59,121 --> 01:55:01,758
+Thầy nghĩ ông sẽ ở đó thêm hai mươi năm.
+
+1317
+01:55:01,762 --> 01:55:03,758
+Đó là điều bản năng mách thầy.
+
+1318
+01:55:03,762 --> 01:55:05,358
+Ông sống thêm hai mươi năm.
+
+1319
+01:55:05,362 --> 01:55:11,918
+Chúng ta cũng biết điều gì xảy ra khi một lãnh tụ vĩ đại qua đời, và những gì xảy ra rất thú vị.
+
+1320
+01:55:11,922 --> 01:55:16,398
+Cho nên các bạn nhìn vào Thành Cát Tư Hãn.
+
+1321
+01:55:16,402 --> 01:55:18,478
+Và Muhammad.
+
+1322
+01:55:18,482 --> 01:55:22,878
+Khi họ chết, một khuôn mẫu xuất hiện.
+
+1323
+01:55:22,882 --> 01:55:27,918
+Đó là ban đầu có ma sát nội bộ.
+
+1324
+01:55:27,922 --> 01:55:31,518
+Các nhóm lợi ích ở Nga họp lại, tranh giành về chuyện kế vị.
+
+1325
+01:55:31,522 --> 01:55:35,438
+Ai sẽ là người kế nhiệm tiếp theo?
+
+1326
+01:55:35,442 --> 01:55:38,878
+Rồi họ quyết định, không thể đồng thuận chuyện kế vị.
+
+1327
+01:55:38,882 --> 01:55:46,398
+Cho nên cái chúng ta sẽ làm là gây chiến với mọi người, để mở rộng ra bên ngoài.
+
+1328
+01:55:46,402 --> 01:55:50,078
+Được rồi, Nga sẽ chỉ mở rộng ra bên ngoài.
+
+1329
+01:55:50,082 --> 01:55:59,677
+Cho nên các bạn có sự bành trướng khổng lồ này, có thể kéo dài mười hai mươi năm, khi Nga về cơ bản chinh phục mọi người xung quanh, vì không ai quân phiệt như họ.
+
+1330
+01:55:59,681 --> 01:56:03,278
+Nhưng rồi điều xảy ra, và điều này rất thú vị, là sự kiệt sức.
+
+1331
+01:56:03,282 --> 01:56:12,398
+Nơi họ hoặc thua, hoặc thắng, nhưng tất cả đều kiệt sức, và rồi họ chỉ đơn giản là tan rã về mặt đế chế.
+
+1332
+01:56:12,402 --> 01:56:14,157
+Nga không có tương lai lớn.
+
+1333
+01:56:14,161 --> 01:56:26,398
+Nhưng đây là một khuôn mẫu nổi lên nếu các bạn nhìn vào lịch sử: khi một lãnh tụ vĩ đại qua đời, sẽ có ma sát nội bộ, hỗn loạn nội bộ, dẫn đến sự bành trướng quân sự ra nước ngoài.
+
+1334
+01:56:26,402 --> 01:56:30,958
+Để giảm bớt ma sát nội bộ này, và rồi cuối cùng.
+
+1335
+01:56:30,962 --> 01:56:35,278
+Đế chế tự kiệt sức vì nó đánh quá nhiều cuộc chiến cùng một lúc.
+
+1336
+01:56:35,282 --> 01:56:37,677
+Và đó là số phận thầy nhìn thấy cho Nga.
+
+1337
+01:56:37,681 --> 01:56:41,758
+Các bạn, ta đã ở đây gần hai tiếng, có thể tiếp tục thêm hai tiếng nữa.
+
+1338
+01:56:41,762 --> 01:56:46,798
+Nhưng thầy không muốn vì thầy kiệt sức rồi, vâng, Vincent.
+
+1339
+01:56:46,802 --> 01:56:53,597
+Em nghĩ em có một câu hỏi cuối cùng, em cũng tự hỏi tại sao chúng ta được sinh ra là chính mình?
+
+1340
+01:56:53,601 --> 01:56:57,278
+Như tại sao em lại là người châu Á?
+
+1341
+01:56:57,282 --> 01:57:00,138
+Vì sao em là người Trung Quốc, không phải da trắng,
+
+1342
+01:57:00,142 --> 01:57:03,518
+hay tại sao em không phải ở nơi khác trên thế giới?
+
+1343
+01:57:03,522 --> 01:57:07,998
+Vì sao chúng ta lại chính là chúng ta như vậy?
+
+1344
+01:57:08,002 --> 01:57:09,518
+Liên quan đến Monad không?
+
+1345
+01:57:09,522 --> 01:57:10,498
+Có chứ em.
+
+1346
+01:57:10,502 --> 01:57:12,798
+Em ở đây vì sao?
+
+1347
+01:57:12,802 --> 01:57:16,558
+Được rồi, lý thuyết là như thế này.
+
+1348
+01:57:16,562 --> 01:57:19,918
+Có nhiều lý do nhưng để thầy đưa ra một lý thuyết cơ bản.
+
+1349
+01:57:19,922 --> 01:57:26,398
+Được rồi, lý thuyết là các em đến với trái đất với tư cách là một linh hồn.
+
+1350
+01:57:26,402 --> 01:57:29,117
+Và linh hồn của các em có một mục đích.
+
+1351
+01:57:29,121 --> 01:57:36,318
+Và mục đích đó luôn là tự khai sáng bản thân.
+
+1352
+01:57:36,322 --> 01:57:39,518
+Về cơ bản là sự khai sáng.
+
+1353
+01:57:39,522 --> 01:57:46,717
+Được rồi, vậy các em ở trên đó về cơ bản đã chọn một mục đích.
+
+1354
+01:57:46,721 --> 01:57:52,398
+Mục đích có thể là tôi muốn trải nghiệm cảm giác giàu, hoặc cảm giác được yêu.
+
+1355
+01:57:52,402 --> 01:58:00,078
+Các em luôn có một mục đích cốt lõi, nó trở thành phần lõi của con người các em.
+
+1356
+01:58:00,082 --> 01:58:10,078
+Và rồi một khi đã có mục đích này, các em được phân vào một nơi trên thế giới này cho phép các em hoàn thành mục đích đó.
+
+1357
+01:58:10,082 --> 01:58:16,558
+Cho nên các em là chính các em vì một mục đích, và mục đích này là tốt.
+
+1358
+01:58:16,562 --> 01:58:21,278
+Điều tốt là các em cố gắng để hoàn thành mục đích của mình.
+
+1359
+01:58:21,282 --> 01:58:29,278
+Không may điều xảy ra trong thế giới của chúng ta là vì trường học, vì cha mẹ, vì xã hội, các em bị chặn không cho biết mục đích của mình là gì.
+
+1360
+01:58:29,282 --> 01:58:31,918
+Bị chặn không cho thực sự theo đuổi mục đích.
+
+1361
+01:58:31,922 --> 01:58:39,998
+Đó cũng là một phần của mục đích, vì để các em thực sự hoàn thành mục đích, các em cần phải vượt qua rất nhiều thử thách và chướng ngại.
+
+1362
+01:58:40,002 --> 01:58:45,677
+Và một khi các em hoàn thành mục đích, các em sẽ hiểu.
+
+1363
+01:58:45,681 --> 01:58:47,998
+Chính mình rõ hơn rất nhiều.
+
+1364
+01:58:48,002 --> 01:58:51,438
+Rồi các em quay lại nói, giờ tôi muốn mục đích mới.
+
+1365
+01:58:51,442 --> 01:58:54,078
+Có thể các em không hoàn thành mục đích này.
+
+1366
+01:58:54,082 --> 01:58:56,798
+Trong trường hợp đó, thì các em làm lại.
+
+1367
+01:58:56,802 --> 01:59:00,597
+Được rồi, và đây là ý tưởng samsara.
+
+1368
+01:59:00,601 --> 01:59:08,958
+Trong hệ tư tưởng Vệ Đà, được rồi, đó là một cách giải thích, có những cách giải thích khác.
+
+1369
+01:59:08,962 --> 01:59:13,758
+Nhưng điều cần nhớ là các em đến đây vì một mục đích.
+
+1370
+01:59:13,762 --> 01:59:17,117
+Có thể không nhớ mục đích đó, nhưng các em cảm nhận được.
+
+1371
+01:59:17,121 --> 01:59:22,958
+Cho nên điều các em luôn nên làm là tin vào trực giác, vì nó dẫn các em đến mục đích.
+
+1372
+01:59:22,962 --> 01:59:26,798
+Các em ở đây trong lớp này là một phần mục đích của các em.
+
+1373
+01:59:26,802 --> 01:59:30,157
+Thầy đang ở đây dạy các em như một phần của mục đích thầy.
+
+1374
+01:59:30,161 --> 01:59:33,438
+Và đó là cấu trúc của vũ trụ, có hợp lý không?
+
+1375
+01:59:33,442 --> 01:59:35,758
+Được rồi các bạn, được rồi vậy, cảm ơn.
+
+1376
+01:59:35,762 --> 01:59:39,758
+Hãy tận hưởng phần còn lại của cuộc đời.
+

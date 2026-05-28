@@ -90,4 +90,50 @@ Khi đối chiếu bản dịch SRT thuộc series Game Theory (giảng viên Jo
 - "accelerationism" → "chủ nghĩa gia tốc"; "back propagation" → "lan truyền ngược"; "Federal Reserve" → "Cục Dự trữ Liên bang"; "transnational capital" → "tư bản xuyên quốc gia"; "techno-Marxism" → "chủ nghĩa Marx công nghệ"; "Plato's cave" → "hang động Plato". Tất cả ĐÚNG glossary.
 - "demons summoned... Jesus resurrecting through AI" → "con quỷ được triệu hồi... Chúa Jesus đang tự hồi sinh thông qua AI" — bám sát, trung tính. ĐÚNG.
 
+**15. #29 ĐẢO NGHĨA "fatality rate" — auto-sub bug từ "fertility rate"**
+- EN block 2108 (Final Examination): "Israel is energetic as has high fatality rate" — speaker đang liệt kê ĐIỂM MẠNH Israel. Israel nổi tiếng tỷ suất sinh cao trong các nước phát triển (high fertility). Auto-sub méo fertility → fatality.
+- VN #29 block 1010 dịch LITERAL "Israel có sức bật, tỷ lệ tử vong cao" → đảo nghĩa Critical (tỷ lệ tử vong cao là điểm YẾU, ngược với dụng ý speaker).
+- **How to apply:** Khi auto-sub có "fatality rate" trong context dân số/sức mạnh quốc gia — kiểm tra context, gần như chắc chắn là "fertility rate" (tỷ suất sinh). Đảo nghĩa từ "tử vong" → "sinh".
+
+**16. #29 "extract whales" idiom — không dịch literal "vắt cá voi"**
+- EN block 1233: "How can American extract whales from the Chinese consumer" — "whales" trong context tài chính/marketing/gambling = khách hàng VIP, người tiêu dùng cao cấp/giàu nhất.
+- VN dịch LITERAL "vắt cá voi từ người tiêu dùng Trung Quốc" → người Việt không hiểu. Đáng lẽ "vắt khách hàng lớn" / "khai thác con cá lớn" / "khai thác tầng lớp tiêu dùng cao cấp".
+- **How to apply:** "whales" trong context kinh tế/marketing/gambling → "khách hàng VIP" / "con cá lớn" / "khách sộp", KHÔNG dịch chữ "cá voi".
+
+**17. #29 "Adam Mus" / "Theo" / "Mariel Maro" — KHÔNG sửa auto-sub tên người**
+- VN #29 giữ nguyên auto-sub bug nhiều tên: "Adam Musk" (đúng = Elon Musk), "Trump, Theo, Musk" (đúng = Trump, Thiel, Musk), "Maria Maro" (đúng = Maria Bartiromo).
+- Đây là regression so với #28 đã sửa hết tên auto-sub (xem pattern #5).
+- **How to apply:** Trước khi xuất file VN, GREP các tên ngoại quốc nghi vấn ("Adam Mus", "Theo" độc lập, "Maro", "Carson" thay vì Carlson, "Ghan", etc.) và đối chiếu với glossary file. Đặc biệt chú ý các tên có trong glossary nhưng auto-sub méo.
+
+**18. #29 "domination trial" / "defamation" — bug pháp lý**
+- EN block 1953: "2020 election domination trial" → đây là auto-sub bug từ "defamation/Dominion trial" (vụ kiện Dominion Voting Systems vs Fox News năm 2023, dẫn đến Tucker Carlson rời Fox).
+- VN dịch "vụ kiện thao túng bầu cử" → sai nghĩa (manipulation ≠ defamation). Đáng lẽ "vụ kiện Dominion" hoặc "vụ kiện phỉ báng bầu cử 2020".
+- **How to apply:** Khi auto-sub có "domination" trong context legal/court → kiểm tra xem có phải "defamation" (phỉ báng) hay "Dominion" (tên công ty máy bầu cử). Cả 2 đều dẫn về vụ Fox-Dominion 2023.
+
+**19. #29 "Israel(ite)" vs "Jews" — phân biệt rõ trong context lịch sử**
+- EN dùng lẫn "Israelite" (dân Israel cổ trong Kinh Thánh / dân Do Thái) và "Jews" (người Do Thái) trong cùng đoạn nói về 109 nước trục xuất.
+- VN #29 dịch hết thành "người Israel" → người Việt sẽ hiểu nhầm là "Israeli" (công dân Israel hiện đại). Trong cùng đoạn, lúc thì "người Israel" lúc thì "người Do Thái" gây bất nhất nghiêm trọng.
+- **How to apply:** Trong context lịch sử cổ/Kinh Thánh/trục xuất xuyên thế kỷ → DÙNG "người Do Thái" cho cả "Israelites" lẫn "Jews". Chỉ dùng "người Israel" khi nói về công dân Israel hiện đại (state of Israel post-1948).
+
+**20. #29 "border work" auto-sub bug từ "broader work"**
+- EN block 1494: "Terasra letter lecture and your border work on civilizational strategy" → "border" auto-sub bug, đáng lẽ "broader" (= rộng hơn/lớn hơn).
+- VN dịch "công trình mở đường" → sai nghĩa (pioneer work ≠ broader work). Đáng lẽ "công trình rộng hơn về chiến lược nền văn minh".
+- **How to apply:** "border work" trong context khen ngợi tác giả/công trình → gần như chắc chắn là "broader work".
+
+**21. #29 "if Israel were to nuke Iran" → dịch động từ**
+- EN "nuke Iran" = ném bom hạt nhân/tấn công hạt nhân Iran.
+- VN #29 dịch "nếu Israel hạt nhân hóa Iran" → "hạt nhân hóa" trong tiếng Việt thường = nuclearize (trang bị vũ khí hạt nhân cho ai đó), KHÁC nghĩa "nuke" (tấn công bằng vũ khí hạt nhân).
+- **How to apply:** "nuke X" → "ném bom hạt nhân X" / "tấn công X bằng vũ khí hạt nhân", KHÔNG dùng "hạt nhân hóa".
+
+**22. #29 "sacage" auto-sub bug từ "sacrilege"**
+- EN block 2128: "It is sacage" trong context UAE bị Iran ghê tởm — đúng = "sacrilege" (báng bổ thiêng liêng, phạm thượng).
+- VN dịch "sự ô uế thiêng liêng" → không chuẩn (ô uế = pollution/defilement; sacrilege = báng bổ). Đáng lẽ "báng bổ thần thánh" hoặc "phạm thượng".
+
+**23. #29 inconsistent capitalization "monad" vs "Monad"**
+- VN #29: 16 lần "monad" thường, 3 lần "Monad" hoa. Cần thống nhất 1 cách viết xuyên file.
+
+**24. #29 eschatology dịch không nhất quán**
+- VN #29 dùng cả: "chung mạt luận" (block 204, 220), "hệ cánh chung" (block 678), "thuyết cánh chung" (block 751).
+- Glossary nên chốt 1 cách dịch. Khuyến nghị "thuyết cánh chung" (phổ biến nhất trong văn bản tôn giáo VN).
+
 Related: [[secret-history-patterns]], [[glossary-authority]]
