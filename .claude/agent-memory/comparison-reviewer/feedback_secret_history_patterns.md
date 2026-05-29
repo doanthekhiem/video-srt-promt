@@ -95,6 +95,16 @@ Khi đối chiếu các bản dịch SRT thuộc series Secret History (giảng 
 - "giờ đây" thừa, có thể đã merge filler "Now,/Okay," của block sau.
 - **How to apply:** Khi VN có "giờ đây/bây giờ" ở cuối câu khẳng định về sự kiện quá khứ (George Washington, Lincoln...), kiểm tra xem có phải merge nhầm filler không.
 
+**19. Speaker tự sửa lỗi nói nhịu — VN xử lý đúng là BỎ phần nhịu (file #9, xác nhận tốt)**
+- EN block 1216-1219 (#9): speaker nói "God will never forgive you. Oh, sorry. God will never forget you." → tự sửa forgive→forget. VN bỏ phần "Oh sorry" và chỉ giữ "không bao giờ quên" + "luôn tha thứ". Đây là cách xử lý ĐÚNG, không flag.
+- **How to apply:** Khi EN có "Oh sorry / I mean / let me rephrase" + câu sửa lại — VN nên dịch theo phiên bản đã sửa, bỏ phần nhịu. Đừng flag là missing content.
+
+**20. File #9 "The Theory of Everything" — chất lượng cao, không lỗi Critical (mốc so sánh)**
+- Toàn bộ thuật ngữ triết/lượng tử (noumenon=vật tự thân, phenomena=hiện tượng, Geist, wave function collapse=sụp đổ hàm sóng, quantum fields=trường lượng tử, monad/dyad, transhumanism=siêu nhân loại, eschatology=thuyết mạt thế, transgression=phạm giới, inversion=đảo ngược, "as above so below"=trên sao dưới vậy) đều đúng.
+- Negation flip trọng điểm: Wigner "it does not collapse" → "không hề sụp đổ" — KHÔNG đảo nghĩa. Số liệu (80/90%, 99.9% DNA, 200k/50k năm, 987+25=20) khớp hết. Đoạn God-sex (block 677) dịch sát "ăn nằm với mẹ ta", không thêm sắc thái.
+- sun/son ([[sun-son-nous]]) KHÔNG xuất hiện vấn đề ở tập này (monad mô tả "vibrates/emanates/breathes" → VN "phát tỏa, suy nghĩ, hít thở" đúng).
+- Lỗi duy nhất đáng sửa: block 558 thừa "như vậy" (lỗi nối block kiểu pattern #1).
+
 **18. Bỏ tính từ phân biệt định chế quan trọng (file #7)**
 - Block 113: EN "institutional reasons" → VN "lý do riêng" (bỏ "institutional").
 - Block 510: EN "political career" → VN "sự nghiệp" (bỏ "political").
