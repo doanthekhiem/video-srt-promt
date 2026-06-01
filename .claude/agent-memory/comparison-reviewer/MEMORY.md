@@ -2,3 +2,4 @@
 - [Lỗi pattern Game Theory series](feedback_game_theory_patterns.md) — Speech-to-text bug ở văn bản trích dẫn (Pike, Brzezinski, Thiel), nhất quán "Đế quốc Lý trí Thiêng liêng"
 - [Auto-sub sun/son confusion](project_sun_son_nous.md) — Nous/Monad = "spiritual SUN" không phải "son", auto-sub thường nhầm (Secret History)
 - [Sources of truth cho tên riêng](reference_glossary_authority.md) — File .glossary-*.md là nguồn chuẩn cho tên riêng/thuật ngữ trong series này
+- ["God" theo ngữ cảnh đa thần](feedback_god_polytheist_context.md) — "God" trong SH dịch theo ngữ cảnh: đa thần/vật linh dùng "thần", chỉ độc thần mới "Chúa"
