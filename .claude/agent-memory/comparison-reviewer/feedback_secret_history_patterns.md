@@ -105,6 +105,14 @@ Khi đối chiếu các bản dịch SRT thuộc series Secret History (giảng 
 - sun/son ([[sun-son-nous]]) KHÔNG xuất hiện vấn đề ở tập này (monad mô tả "vibrates/emanates/breathes" → VN "phát tỏa, suy nghĩ, hít thở" đúng).
 - Lỗi duy nhất đáng sửa: block 558 thừa "như vậy" (lỗi nối block kiểu pattern #1).
 
+**21. File #11 "Dawn of the Human Imagination" — chất lượng cao, không lỗi Critical (mốc so sánh)**
+- Thuật ngữ nhất quán tốt: divine/the vine→"cõi thần thánh", red ochre→"thổ hoàng đỏ", shaman→"pháp sư", preiterate→"tiền chữ viết", survival of the fittest→"kẻ thích nghi nhất sống sót".
+- Hai lần "20 years" trong EN auto-sub phân biệt đúng: (a) "most influential thinker of past 20 years" về Darwin 1859 → dịch "hai thế kỷ" (HỢP LÝ vì vô lý); (b) "only in 20 years theory came to dominate" → "hai mươi năm" (đúng nghĩa); (c) "explosion these past 20 years" social media → "hai mươi năm qua" (đúng nghĩa). Đừng flag (b)(c) là sai khi đã sửa (a).
+- "eight years old" (Alzheimer patient chưa từng vẽ) → "ngoài tám mươi tuổi" — HỢP LÝ, eight→eighty là diễn giải duy nhất nhất quán với context bệnh tuổi già.
+- Đoạn nhạy cảm race/eugenics và giới tính (phụ nữ ngủ nhiều đàn ông = chiến lược) dịch trung thành, không kiểm duyệt cũng không tô đậm. ĐẠT.
+- Lỗi đáng sửa duy nhất (Moderate): "we don't want them" (xã hội không cần đến những người này nên bỏ mặc → họ quay về cõi thần thánh) bị dịch "vì ta không muốn họ" — tối nghĩa, làm mờ logic. Pattern: EN "we don't want them" trong context xã hội/guồng máy = "không cần dùng đến", KHÔNG phải ghét bỏ.
+- Minor: "film this process"→"quay lại" (nên "ghi hình", tránh nghĩa re-do); bỏ sót sắc thái "chose to sleep with everyone".
+
 **18. Bỏ tính từ phân biệt định chế quan trọng (file #7)**
 - Block 113: EN "institutional reasons" → VN "lý do riêng" (bỏ "institutional").
 - Block 510: EN "political career" → VN "sự nghiệp" (bỏ "political").
