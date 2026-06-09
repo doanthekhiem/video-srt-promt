@@ -113,6 +113,17 @@ Khi đối chiếu các bản dịch SRT thuộc series Secret History (giảng 
 - Lỗi đáng sửa duy nhất (Moderate): "we don't want them" (xã hội không cần đến những người này nên bỏ mặc → họ quay về cõi thần thánh) bị dịch "vì ta không muốn họ" — tối nghĩa, làm mờ logic. Pattern: EN "we don't want them" trong context xã hội/guồng máy = "không cần dùng đến", KHÔNG phải ghét bỏ.
 - Minor: "film this process"→"quay lại" (nên "ghi hình", tránh nghĩa re-do); bỏ sót sắc thái "chose to sleep with everyone".
 
+**22. File #18 "Thus Spoke Zarathustra" — chất lượng cao, glossary tốt; lỗi cần nhớ**
+- Glossary tuân thủ tốt: auto-sub méo "Aurora/haram/horiz Master"→Ahura Mazda, "douch/Drew"→Druj, "Roomie"→Rumi, "agathas"→Gathas, "does spoke Zorah"→Thus Spoke Zarathustra đều sửa đúng.
+- sun/son đảo CHIỀU: EN auto-sub viết "a son that can brighten the world" (block 922) nhưng VN dịch ĐÚNG "một mặt trời" (khớp "star/brighten"). Xem [[sun-son-nous]] — lần này không cần sửa.
+- **Lỗi Critical cần nhớ:**
+  - (a) Sai mốc niên đại do diễn giải: EN "2000 BCE to about a thousand BC" → VN bịa "1500 TCN" rồi block sau lại nối "1000 TCN" → mâu thuẫn nội bộ. **How to apply:** khi EN có khoảng "X to a thousand/hundred", đối chiếu cả hai mốc, đừng tự chèn mốc giữa.
+  - (b) Bịa nội dung thay luận điểm: EN "that's a very simplistic understanding of the system" → VN dịch "nhưng đó là cá nhân họ, không phải tổ chức nhà nước/thể chế" (sai hoàn toàn). **How to apply:** câu chuyển mạch "but that's a simplistic understanding..." phải dịch sát, không bịa đối lập cá nhân/thể chế.
+- **Lỗi tên trong đoạn giảng viên TỰ ĐÍNH CHÍNH (Rachel/Leah, Sáng thế 29):** EN auto-sub đọc nhầm "Laban gave Rachel right away" nhưng logic đính chính ("after marriage to Leah", "pay off debt") đòi phải là Leah được trao trước, Jacob làm 7 năm cho Rachel. VN giữ nguyên "Rachel" → sai nội dung. **How to apply:** trong đoạn speaker sửa lỗi bài trước, kiểm tra tên riêng theo nguồn kinh điển thật, đừng tin auto-sub.
+- "subscriber" (người theo dõi YouTube) nên dịch nhất quán; file #18 lúc "học viên" lúc "người đăng ký" cho cùng một người (Cole).
+- Thêm sắc thái tái diễn: chèn tính từ "tử tế/dịu dàng/yêu thương" (block 76), "bất công tràn lan" (b139), "mất địa vị" (b154) — đều không có trong EN. Grep các đoạn diễn giải triết học.
+- "massy heavens as a garment" (bầu trời mênh mông) bị dịch "mặt trời" (b162) — heavens ≠ sun, lỗi khác với sun/son.
+
 **18. Bỏ tính từ phân biệt định chế quan trọng (file #7)**
 - Block 113: EN "institutional reasons" → VN "lý do riêng" (bỏ "institutional").
 - Block 510: EN "political career" → VN "sự nghiệp" (bỏ "political").

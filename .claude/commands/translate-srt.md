@@ -93,7 +93,7 @@ Gọi agent `comparison-reviewer` qua tool `Agent`:
 - **description:** `Đối chiếu ngữ nghĩa VN ↔ EN`
 - **prompt:** Cung cấp đầy đủ:
   - Đường dẫn EN gốc và VN output.
-  - Yêu cầu kiểm tra: (a) đảo nghĩa / nhầm phủ định; (b) sai chủ thể, sai số liệu, sai năm, sai tên riêng; (c) idiom dịch chữ thay vì dịch nghĩa; (d) tên chiến dịch / chỉ số bị văn vẻ hóa; (e) đoạn nhạy cảm chính trị/tôn giáo có thêm sắc thái không có trong EN; (f) tính nhất quán glossary.
+  - Yêu cầu kiểm tra: (a) đảo nghĩa / nhầm phủ định; (b) sai chủ thể, sai số liệu, sai năm, sai tên riêng; (c) idiom dịch chữ thay vì dịch nghĩa; (d) tên chiến dịch / chỉ số bị văn vẻ hóa; (e) đoạn nhạy cảm chính trị/tôn giáo có thêm sắc thái không có trong EN; (f) tính nhất quán glossary — bao gồm cả tên khái niệm/sự vật, không chỉ tên người/địa danh; (g) liên từ logic sai: "nhưng/tuy nhiên" khi hai mệnh đề không thực sự tương phản (bổ sung/hệ quả nên dùng "và/cũng"); (h) động từ causative sai chủ thể: "X draws our attention to Y" bị dịch thành "X chú ý đến Y" thay vì "X hướng sự chú ý của chúng ta vào Y".
   - Format trả về: bảng `block_number | EN_excerpt | VN_excerpt | severity (Critical/Moderate/Minor) | issue | recommended_fix`.
   - Yêu cầu chỉ liệt kê block có vấn đề thật, không liệt kê block đạt.
 

@@ -386,11 +386,13 @@ Mục tiêu: gap < 1 giây ở mọi vị trí trừ chuyển cảnh / im lặng
 
 Trước khi xuất file, soát thủ công các điểm sau:
 
-- [ ] **Glossary thuật ngữ nhất quán:** chức danh, tên riêng xuất hiện ≥ 3 lần đều dùng **một** cách dịch duy nhất xuyên file (không có "Bộ trưởng Quốc phòng" lẫn "Bộ trưởng Chiến tranh" cho cùng một người).
+- [ ] **Glossary thuật ngữ nhất quán:** **mọi term trong glossary** (tên người, địa danh, khái niệm, tên sự vật, giáo lý) đều dùng **một** cách dịch duy nhất xuyên file — không dùng paraphrase thay thế (ví dụ: "Cây học hỏi" thay cho "Cây tri thức thiện ác" là sai). Soát bằng cách tìm kiếm từng term VN chuẩn trong file để phát hiện biến thể không nhất quán.
 - [ ] **Không dịch nghĩa đen idiom / index:** "house of cards" không thành "ngôi nhà giấy", "Pizza Index" không thành "pizza hòa bình", "kick the can" không thành "đá lon".
 - [ ] **Tên chiến dịch quân sự** bám sát bản gốc, không thêm tính từ văn vẻ ("Vĩ Đại", "Hùng Mạnh", "Khủng Khiếp" không có trong EN).
 - [ ] **Tần suất filler:** không có 3 block liên tiếp nào cùng kết bằng "các bạn ạ" / "nhé" / "đấy". Bỏ bớt nếu vi phạm.
 - [ ] **Đoạn nhạy cảm:** mọi câu nói về chủng tộc, tôn giáo, ý thức hệ, phát ngôn của nguyên thủ đã được đối chiếu với EN gốc, không thêm sắc thái.
+- [ ] **Liên từ logic:** "nhưng / tuy nhiên / song" chỉ dùng khi hai mệnh đề thực sự tương phản. Nếu mệnh đề sau là bổ sung hoặc hệ quả tự nhiên, dùng "và / cũng / ngoài ra". Ví dụ sai: "ngờ nghệch **nhưng** không hoàn hảo" (hai thuộc tính không đối lập nhau) → phải là "ngờ nghệch **và cũng** không hoàn hảo".
+- [ ] **Động từ causative/chuyển tiếp:** câu EN dạng "X draws/directs our attention to Y" phải dịch là "[X] hướng sự chú ý của chúng ta vào Y", không phải "[X] chú ý đến Y". Luôn xác định ai thực hiện hành động và ai là đối tượng bị ảnh hưởng.
 - [ ] **Đoạn vụng / dịch máy:** đọc thành tiếng từng block; nếu nghe không tự nhiên hoặc lặp chủ ngữ thừa, viết lại.
 
 ### Quy trình tự kiểm
