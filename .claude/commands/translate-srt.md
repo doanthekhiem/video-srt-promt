@@ -22,7 +22,6 @@ Trước khi bắt đầu, đọc **đầy đủ** các file sau (đây là sour
 
 1. `rule.md` — quy tắc dịch, các Cổng 1–9, công thức `tts_ratio` / `content_ratio`.
 2. `speaker-profile.md` — baseline tốc độ speaker, ngưỡng đã hiệu chỉnh.
-3. `validate.py` (header + hàm `main`) — biết exit code và format báo cáo.
 
 Nếu bất kỳ file nào thiếu, dừng và báo người dùng.
 
@@ -76,12 +75,13 @@ Sau khi tất cả batch xong, đánh lại số thứ tự block từ 1 liên t
 ### Bước 6 — Chạy validate.py
 
 ```bash
-python3 validate.py "<output-path>" "<input-path>"
+python3 validate.py "<output-path>" "<input-path>" --max-issues 15
 ```
 
 - Nếu exit code = 0 và không có HARD ở Cổng 3, 8, 9: chuyển sang Bước 7.
-- Nếu có lỗi HARD: đọc kỹ từng dòng báo cáo, fix theo hướng dẫn ở `rule.md` Mục 3.5. **Không** ghi đè giá trị thresholds trong validate.py để "qua test" — đó là cấm tuyệt đối.
-- Fix xong chạy lại. Lặp tối đa 5 lần. Nếu sau 5 lần vẫn fail, dừng và báo người dùng kèm tóm tắt lỗi còn lại.
+- Nếu có lỗi HARD: đọc **toàn bộ danh sách lỗi một lần**, lên kế hoạch fix tất cả HARD issues trong **một lượt duy nhất** theo hướng dẫn ở `rule.md` Mục 3.5, rồi chạy lại validate. **Không** fix từng lỗi rồi validate ngay — gộp hết rồi mới validate.
+- Lặp tối đa **3 lần**. Nếu sau 3 lần vẫn fail, dừng và báo người dùng kèm tóm tắt lỗi còn lại.
+- **Không** ghi đè giá trị thresholds trong validate.py để "qua test" — đó là cấm tuyệt đối.
 
 ### Bước 7 — Đối chiếu ngữ nghĩa bằng comparison-reviewer
 
@@ -99,7 +99,7 @@ Gọi agent `comparison-reviewer` qua tool `Agent`:
 
 Nhận báo cáo từ agent. Áp dụng các fix **Critical** ngay (sửa file VN). Với **Moderate**: sửa nếu chắc chắn cải thiện, bỏ qua nếu đó là lựa chọn dịch hợp lý khác. Với **Minor**: ghi nhận, không sửa hàng loạt.
 
-Sau khi sửa: chạy lại `validate.py` lần nữa để chắc các sửa đổi không phá tỷ lệ.
+Sau khi sửa: chạy lại `python3 validate.py "<output-path>" "<input-path>" --max-issues 15` để chắc các sửa đổi không phá tỷ lệ.
 
 ### Bước 8 — Soát Cổng 7 (chất lượng dịch)
 
@@ -116,7 +116,9 @@ Fix tại chỗ nếu phát hiện.
 
 ### Bước 9 — Validate lần cuối
 
-Chạy `python3 validate.py "<output-path>" "<input-path>"` lần cuối. **Chỉ chấp nhận file khi exit code = 0** và không còn HARD ở Cổng 3, 8, 9.
+Bỏ qua bước này nếu **không** truyền `--skip-review` (Bước 7 đã chạy lại validate sau khi sửa).
+
+Nếu đã `--skip-review`: chạy `python3 validate.py "<output-path>" "<input-path>" --max-issues 15` lần cuối. **Chỉ chấp nhận file khi exit code = 0** và không còn HARD ở Cổng 3, 8, 9.
 
 ### Bước 10 — Báo cáo cho người dùng
 
