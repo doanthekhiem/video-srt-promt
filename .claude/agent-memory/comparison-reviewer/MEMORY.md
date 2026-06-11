@@ -3,3 +3,6 @@
 - [Auto-sub sun/son confusion](project_sun_son_nous.md) — Nous/Monad = "spiritual SUN" không phải "son", auto-sub thường nhầm (Secret History)
 - [Sources of truth cho tên riêng](reference_glossary_authority.md) — File .glossary-*.md là nguồn chuẩn cho tên riêng/thuật ngữ trong series này
 - ["God" theo ngữ cảnh đa thần](feedback_god_polytheist_context.md) — "God" trong SH dịch theo ngữ cảnh: đa thần/vật linh dùng "thần", chỉ độc thần mới "Chúa"
+- [Monad mistranslation](feedback_monad_mistranslation.md) — "Monad" bị dịch sai thành "Đấng Tối Cao"; phải giữ "Monad" hoặc "Nhất Thể"
+- [Padding sắc thái sùng đạo](feedback_padding_religious_tone.md) — Bịa tính từ phán xét/sùng đạo khi content_ratio > 1.30; CAVEAT: không cắt blanket khi EN có really/very
+- [Bịa xưng hô VN](feedback_pronoun_fabrication.md) — VN tự thêm em/anh/con khi EN dùng imperative; dùng "hãy/xin" thay thế

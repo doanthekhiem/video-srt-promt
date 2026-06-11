@@ -129,3 +129,41 @@ Khi đối chiếu các bản dịch SRT thuộc series Secret History (giảng 
 - Block 510: EN "political career" → VN "sự nghiệp" (bỏ "political").
 - **Why:** Trong bài giảng phân tích quyền lực Harvard/Obama, các tính từ "institutional", "political" mang ý nghĩa luận điểm. Bỏ làm yếu lập luận.
 - **How to apply:** Khi đối chiếu các đoạn lý thuyết về định chế/chính trị, kiểm tra các tính từ "institutional/political/structural/systemic" có được giữ trong VN không.
+
+**23. File #24 "Empire of Church" — lỗi tên sáng lập dòng tu (Francis of Assisi vs Dominicans)**
+- EN gốc auto-sub (block 1766-1767): "Francis of Aisi" sáng lập "the Dominicans". VN block 531 sao y "Francis xứ Assisi dẫn đầu gọi là dòng Đa Minh".
+- **Why:** Lịch sử thực tế: Francis of Assisi sáng lập **Franciscans** (dòng Phanxicô); Saint Dominic mới sáng lập **Dominicans** (dòng Đa Minh). Đây có thể là lỗi nói nhầm của speaker EN hoặc lỗi auto-sub. Bản dịch VN bám sát EN nhưng truyền bá sai sự thật lịch sử.
+- **How to apply:** Khi thấy speaker EN ghép tên sáng lập với dòng tu — đối chiếu với kiến thức lịch sử: Francis ↔ Franciscans (Phanxicô); Dominic ↔ Dominicans (Đa Minh); Ignatius ↔ Jesuits (Tên Dòng/Dòng Tên); Benedict ↔ Benedictines (Biển Đức). Flag Critical, đề xuất chú thích trong glossary.
+
+**24. File #24 — bỏ thuật ngữ princeps "first among equals" (Augustus)**
+- EN block 61-63: "August of Caesar became the first among equals but he still failed to set up the bureaucracy" → VN block 20-21: "Augustus Caesar lên ngôi nhưng vẫn thất bại, trở thành người đứng đầu".
+- **Why:** "First among equals" (princeps) là thuật ngữ chính trị La Mã cốt lõi — Augustus cố tình KHÔNG dùng tước hiệu vua/hoàng đế mà tự xưng princeps để giữ ảo tưởng cộng hòa. Lược thành "lên ngôi" làm mất ý này.
+- **How to apply:** Giữ nguyên "người đứng đầu trong số những người ngang hàng" hoặc bổ sung chú thích "(princeps)" cho lần đầu xuất hiện. Tương tự với các thuật ngữ chính trị La Mã khác: dictator perpetuus, imperator, augustus (tước hiệu).
+
+**25. File #27 "Empire of Evil" — CỔNG 1 ĐẠT 100%, kỹ thuật dùng phẩy thay chấm**
+- Đối chiếu 65 block dài >16s: 0/65 vi phạm Cổng 1 ("1 block = 1 câu"). Dịch giả/pipeline đã chủ ý dùng dấu PHẨY nối các mệnh đề thay vì dấu chấm để gom 2-3 câu EN ngắn vào 1 block VN dài (16-18s).
+- **How to apply:** Khi validate.py báo nhiều block dài nhưng Cổng 1 đạt — kiểm tra dấu chấm câu; nếu thay bằng phẩy thì vẫn HỢP LỆ. Tradeoff: câu VN dài có thể khó đọc khi TTS.
+
+**26. File #27 — TRUNCATION nghiêm trọng ở cuối block dài (Critical, pattern lặp lại nhiều lần)**
+- Pattern: nhiều block VN bị cắt giữa câu khi merge — câu/cụm cuối EN bị bỏ trọn.
+- VD Block 10: EN "...lingua franca of the world **and has colonies throughout the world as well**" → VN dừng ở "ngôn ngữ chung của thế giới," (mất "có thuộc địa khắp thế giới").
+- Block 19: EN "...unify the Asian continent. **They also face the Ottomans and they also face the Germans**" → VN cắt sau "thống nhất lục địa châu Á." (mất Ottoman + Đức).
+- Block 175: EN "But what he's really saying is like, listen, **we Jews, we want to be...**" → VN cắt giữa "điều ông ấy thực sự đang nói là" (mất nội dung Disraeli — có thể chuyển sang block kế).
+- Block 215: EN "...he is **extremely focused. He's fanatical**. And this is Leon Trotsky" → VN gom được nhưng có thể mất "extremely focused" thành chỉ "cực kỳ tập trung".
+- **Why:** Khi gom 2-3 EN block vào 1 VN block dài (~17s), câu/cụm cuối thường bị mất do hết thời lượng. Đặc biệt gặp khi câu kết thúc bằng dấu phẩy treo "là," "và," "nhưng,".
+- **How to apply:** Đối chiếu CUỐI mỗi block VN dài — nếu kết thúc bằng dấu phẩy treo "là," "và," "nhưng..." → khả năng cao bị truncate. Verify content chuyển tiếp ở block kế tiếp; nếu thực sự thiếu → Critical.
+
+**27. File #27 — Sự thực lịch sử sai do speaker EN nói nhầm**
+- Block 273: EN "Leoni was killed along with **all his children**" → VN "Trotsky bị giết cùng với **tất cả con cái của ông**".
+- **Lỗi sự thực lịch sử:** Trotsky bị ám sát 1940 ở Mexico; KHÔNG bị Stalin giết "cùng tất cả con cái" như câu này gợi ý (con trai Sergei bị xử bắn 1937, con trai Lev chết 1938 nghi ngộ độc, con gái Zinaida tự tử 1933 — không phải đồng loạt). Speaker EN nói gọn/sai.
+- VN dịch trung thành theo EN → không phải lỗi dịch, nhưng truyền bá sai sự thật. Flag biên tập.
+- **How to apply:** Khi gặp tuyên bố lịch sử có thể sai trong bài giảng — flag Moderate kèm note "speaker EN có thể sai", không sửa nghĩa.
+
+**28. File #27 — Block 220 mapping EN méo: "dimensions" = Mensheviks, "Kosaks" = Cossacks**
+- EN auto-sub: "dimensions, um the Kosaks" → VN dịch ĐÚNG "phe Menshevik, phe Cossack" theo glossary.
+- ĐẠT chuẩn — đây là ví dụ tốt cho việc dịch theo glossary mapping cho từ auto-sub méo.
+
+**29. File #27 — Số liệu "37%" và sắc tộc Liên Xô được giữ chính xác**
+- Block 220: "37%" giữ nguyên (đoạn về phe Cách mạng Xã hội); danh sách "Ukrainians, cadets, Mensheviks, Cossacks" đầy đủ.
+- Block 221: "ethnicities, political programs, orientations" → "sắc tộc, chương trình chính trị, định hướng" đầy đủ.
+- Đoạn nhạy cảm về Bolshevik (block 209-260) dịch sát EN, không thêm sắc thái phán xét. ĐẠT.
