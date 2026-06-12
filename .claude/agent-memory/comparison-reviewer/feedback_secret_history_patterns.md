@@ -163,6 +163,13 @@ Khi đối chiếu các bản dịch SRT thuộc series Secret History (giảng 
 - EN auto-sub: "dimensions, um the Kosaks" → VN dịch ĐÚNG "phe Menshevik, phe Cossack" theo glossary.
 - ĐẠT chuẩn — đây là ví dụ tốt cho việc dịch theo glossary mapping cho từ auto-sub méo.
 
+**30. File #27 — Auto-sub bug "Asian" thực ra là "ancient" (trích Disraeli)**
+- Block 115 EN auto-sub: "from a **very Asian** and noble family of arrogant" — nguyên gốc Disraeli's *Coningsby* (1844): "from a very **ancient** and noble family of **Aragon**".
+- VN dịch "hậu duệ của một gia tộc **Á cổ** và quý tộc của Aragon" → sai nghĩa (Á cổ ≠ ancient).
+- **Why:** Speech-to-text nhầm "ancient" thành "Asian" do tốc độ đọc + accent. Speaker đang trích Disraeli's *Coningsby* mô tả Sidonia (nhân vật Do Thái-Tây Ban Nha).
+- **How to apply:** Khi gặp "very Asian and noble" trong context Disraeli/Sidonia/Sephardic Jews → đổi sang "**rất cổ kính**" / "**rất lâu đời**". Family location là "Aragon" (vùng Tây Ban Nha), KHÔNG phải Á châu.
+- Xem [[reference_glossary_authority]].
+
 **29. File #27 — Số liệu "37%" và sắc tộc Liên Xô được giữ chính xác**
 - Block 220: "37%" giữ nguyên (đoạn về phe Cách mạng Xã hội); danh sách "Ukrainians, cadets, Mensheviks, Cossacks" đầy đủ.
 - Block 221: "ethnicities, political programs, orientations" → "sắc tộc, chương trình chính trị, định hướng" đầy đủ.

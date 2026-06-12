@@ -35,6 +35,18 @@ VN bịa xưng hô vai vế (em/anh/chị/con/ông/bà/ngươi) khi EN dùng imp
 - "You" generic → "bạn/ta" hoặc passive
 - Chỉ dùng "em/anh/con" khi EN có vocative rõ hoặc context đối thoại trực tiếp với người ngang vai
 
+## ⚠️ EXCEPTION: "anh / anh chị" cho generic "you" — Secret History series
+
+**ALLOWED (không flag):** Trong series Secret History, lecturer dùng "you" generic → VN dịch thành "**anh / anh chị**" được CHẤP NHẬN như **voice nhất quán toàn series** cho TTS.
+
+**Why:** User chốt 2026-06-11 sau review file #20 "Hellenistic World" — dịch giả/pipeline cố ý dùng "anh/anh chị" để tạo register lecturer thân thiện-trang trọng cho TTS Vietnamese. Đây là dịch tự do có chủ ý, không phải bịa.
+
+**How to apply:**
+- KHÔNG flag VN "anh/anh chị X" khi EN có "you X" generic, dù EN không có vocative.
+- Vẫn flag "**em/con/cháu**" — đây là vai vế hạ thấp, KHÔNG được dùng cho "you" generic.
+- Vẫn flag "anh/anh chị" nếu xuất hiện trong **imperative không chủ ngữ** ("anh đọc tiếp" cho EN "continue reading") — vì imperative không có "you" subject.
+- File #20 review 2026-06: 6+ instance "anh/anh chị" cho "you generic" → confirmed OK, không cần fix.
+
 **Bài học từ regression file #22 block 232 (review 2026-06):**
 - EN "continue reading, please" → VN "**em** đọc tiếp phần này" — bịa "em" vì pipeline tự thêm xưng hô cho TTS.
 - Đây là **blind spot** của agent — memory trước không có rule này nên không flag.
